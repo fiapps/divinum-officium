@@ -1,6 +1,5 @@
 #!/usr/bin/perl
 use utf8;
-# vim: set encoding=utf-8 :
 
 # Name : Laszlo Kiss
 # Date : 01-20-08
@@ -83,6 +82,8 @@ if (!$setupsave && !getcookies('horasp', 'parameters')) {setcookies('horasp', 'p
 $ckname = ($officium =~ /officium/) ? 'horasgo' : ($Ck) ? 'horasgc' : 'horasg';
 $csname = ($Ck) ? 'generalc' : 'general';
 if (!$setupsave && !getcookies($ckname, $csname)) {setcookies($ckname, $csname);}
+
+$setup{'parameters'} = clean_setupsave($setup{'parameters'});
 
 eval($setup{'parameters'});
 eval($setup{"$csname"});        

@@ -1,6 +1,5 @@
 #!/usr/bin/perl
 use utf8;
-# vim: set encoding=utf-8 :
 
 # Name : Laszlo Kiss
 # Date : 01-11-04
@@ -312,6 +311,17 @@ sub strictparam
     $v = '' unless defined $v;
 
     return $v;
+}
+
+#*** clean_setupsave($setupsave)
+# Takes a settings string in the format stored in the cookies, and returns a
+# cleaned version.
+sub clean_setupsave
+{
+  my $setupsave = shift;
+  $setupsave =~ s/[‘’]|\x{e2}\x{80}(\x{98}|\x{99})/'/g;
+
+  return $setupsave;
 }
 
 #*** setfont($font, $text)
