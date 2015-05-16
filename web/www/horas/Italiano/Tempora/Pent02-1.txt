@@ -11,32 +11,31 @@ Doxology=Corp
 
 [Lectio1]
 Dal primo libro dei Re
-!1 Sam 5:1-5
-1 I Filistei dunque presero l'arca di Dio e dalla Pietra del soccorso la trasportarono in Azoto. 
-2 Così i Filistei presa l'arca di Dio la introdussero nel tempio di Dagon, e la collocarono accanto a Dagon. 
-3 Ma il dì seguente alzatisi presto quelli di Azoto, ecco che Dagon giaceva boccone per terra dinanzi all'arca del Signore; allora presero Dagon e lo rimisero al suo posto. 
-4 Ma di nuovo alzatisi, la mattina seguente, trovarono Dagon che giaceva boccone per terra davanti all'arca del Signore; e la testa di Dagon e ambedue le palme delle sue mani giacevano troncate sulla soglia (del tempio): 
-5 e solo il torso di Dagon era rimasto al suo posto.
+!1Sam 5,1-5
+1 I Filistei, dunque, presero l’arca di Dio e dalla Pie­tra del soccorso la trasportarono in Azoto.
+2 Così i Filistei, presa l’arca di Dio, la introdussero nel tempio di Dagon, e la collocarono accanto a Dagon.
+3 Ma il dì seguente si alzarono presto quelli di Azoto, ed ecco Dagon giaceva prostrato per terra dinanzi all’arca del Signore.
+4 Allora presero Dagon e lo rimisero al suo posto. Ma di nuovo la mattina seguente lo trovarono che giaceva a terra davanti all’arca del Signore. La sua testa e ambedue le palme delle mani giacevano troncate sulla soglia
+5 e solo il torso era rimasto intatto.
 
 [Responsory1 1960]
 @Tempora/Pent03-1Feria:Responsory1
 
 [Lectio2]
-!1 Sam 5:6-8
-6 Quindi la mano del Signore si fece sentire fieramente su quelli di Azoto, e li desolò. E i villaggi e i campi di quella regione ribollirono, e nacquero dei topi, e la città fu tutta sossopra per la grande mortalità. 
-7 Ora quelli di Azoto vedendo questo flagello, dissero: Non resti più presso di noi l'arca del Dio d'Israele, perché pesante è la sua mano su di noi e sul nostro dio Dagon. 
-8 Onde fecero radunare presso di loro tutti i satrapi dei Filistei e dissero: Che faremo dell'arca del Dio d'Israele? E quei di Get risposero: Si porti attorno l'arca del Dio di Israele.
+!1Sam 5,6-8
+6 Quindi la mano del Signore si fece sentire fieramente su quelli di Azoto e li colpì. I villaggi e i campi furono devastati e invasi dai topi e la città fu tutta sossopra per la grande mortalità.
+7 Ora quelli di Azoto, vedendo questo flagello, dissero: «Non resti più presso di noi l’arca del Dio di Israele, perché pesante è la sua mano su di noi e sul nostro dio Dagon».
+8 Fecero dunque radunare presso di loro tutti i principi dei Filistei e dissero: «Che dobbiamo fare dell’arca del Dio di Israele?». Fu risposto: «L’arca del Dio di Israele sia portata a Get».
 
 [Responsory2 1960]
 @Tempora/Pent03-1Feria:Responsory2
 
 [Lectio3]
-!1 Sam 5:8-12
-8 E portarono attorno l'arca del Dio d'Israele. 
-9 Ma mentre la menavano attorno, la mano del Signore faceva in ciascuna città grandissima strage; e percuoteva dal piccolo al grande gli uomini di ciascuna città. 
-10 Perciò mandarono l'arca di Dio in Accaron. E l'arca di Dio arrivata in Accaron, gli Accaroniti cominciarono a gridare dicendo: Ci hanno condotta l'arca del Dio d'Israele, per far morire noi e il nostro popolo. 
-11 Quindi fecero radunare tutti i satrapi dei Filistei, i quali dissero: Rimandate l'arca del Dio di Israele, ritorni essa al suo posto e non distrugga noi e il nostro popolo. 
-12 Poiché in ogni città si diffondeva un terrore di morte, e la mano di Dio si faceva estremamente pesante.
+!1Sam 5,9-12
+9 Portarono l’arca del Dio di Israele a Get. Ma mentre la portavano, la mano del Signore fu sulla città, incutendo grandissimo terrore, poiché colpì i suoi abitanti, piccoli e grandi.
+10 Allora spedirono l’arca di Dio a Accaron. Ed ecco, quando l’arca di Dio giunse a Accaron gli abitanti mandarono grida di protesta; «Hanno portato l’arca del Dio di Israele per far morire noi e il nostro popolo».
+11 Fecero perciò radunare tutti i principi dei Filistei e dissero: «Mandate via l’arca del Dio di Israele, ritorni al suo posto. Non faccia morire noi e il nostro popolo».
+12 Si era infatti prodotto un terrore mortale in tutta la città. La mano di Dio aveva gravato molto.
  
 [Responsory3 1960]
 @Tempora/Pent03-1Feria:Responsory3

@@ -11,31 +11,31 @@ Doxology=Corp
 
 [Lectio1]
 Dal primo libro dei Re
-!1 Sam 6:1-3
-1 Così l'arca del Signore rimase nel paese de' Filistei sette mesi, 
-2 ed i Filistei convocarono i sacerdoti e gl'indovini, e dissero: Che facciamo dell'arca del Signore? Indicateci il modo di rimandarla al suo luogo. E quelli risposero: 
-3 Se voi rimandate l'arca del Dio d' Israele, non rimandatela senza nulla, ma rendete quel che gli dovete per il peccato: e allora sarete guariti, e conoscerete perché la sua mano non si ritiri da voi.
+!1Sam 6,1-3
+1 Così l’arca del Signore rimase nel paese dei Filistei sette mesi,
+2 e i Filistei convocarono i sacerdoti e gli indovini e dissero: «Che facciamo dell’arca del Signore? Indicateci il modo di rimandarla al suo luogo». E quelli risposero:
+3 «Se rimandate l’arca del Dio di I­s­raele, non mandatela senza nulla, ma rendete quel che dovete per il peccato, e allora sarete guariti e conoscerete perché la sua mano non si ritira da voi».
 
 [Responsory1 1960]
 @Tempora/Pent03-2Feria:Responsory1
 
 [Lectio2]
-!1 Sam 6:6-10
-6 Perché indurate i vostri cuori, come l'Egitto e faraone indurirono il cuor loro? Non è forse vero che, dopo che l'ebbe flagellato, allora li lasciò partire ed essi se n'andarono? 
-7 Adesso pertanto, mettetevi a fare un carro nuovo, attaccate al carro due vacche che allattino e non abbiano mai tirato giogo, e chiudete nella stalla i loro vitellini. 
-8 Prenderete quindi l'arca del Signore, e la collocherete sul carro, e vi metterete accanto, in un confino, gli oggetti d'oro che gli avete offerti per il peccato, e poi lasciatela andare. 
-9 E starete a osservare: se salirà per la via dei suoi confini, verso Betsames, è lui che ci ha fatto male sì grande; se no, sapremo che non ci ha percossi la sua mano, ma è stato un caso. 
+!1Sam 6,6-10
+6 «Perché indurire i vostri cuori, come l’Egitto e Faraone indurirono il cuore loro? Non è forse vero che, quando subirono danno, allora li lasciarono partire ed essi se ne andarono?
+7 Adesso dunque fate un carro nuovo, attaccate due vacche da latte, su cui non sia stato mai posto giogo e chiudete nella stalla i loro vitellini.
+8 Prendete quindi l’arca del Signore e collocatela sul carro: mettete in una cesta, al fianco di essa, gli oggetti d’oro che le offrirete come tributo di riparazione. Poi lasciatela andare.
+9 Vedrete allora: se salirà per la via dei suoi confini verso Betsames, essa ci ha prodotto questo grosso malanno; se invece no, sapremo che non ci ha percossi la sua mano, ma è stato un puro caso».
 10 Quelli dunque fecero così.
 
 [Responsory2 1960]
 @Tempora/Pent03-2Feria:Responsory2
 
 [Lectio3]
-!1 Sam 6:12-15
-12 Le vacche dunque si avviarono dritte per la strada che conduce a Betsames, e seguivano la stessa strada, mugghiando, mentre andavano, e non piegavano né a destra né a sinistra; e i satrapi dei Filistei andarono loro dietro sino ai confini di Betsames. 
-13 Or i Betsamiti, che mietevano il grano nella valle, alzati gli occhi, videro l'arca e gioirono nel vederla. 
-14 E il carro giunto nel campo di Giosuè Betsamita, vi si fermò. Or c'era là una gran pietra, e quelli fecero a pezzi il carro, e sui suoi rottami offrirono le vacche in olocausto al Signore. 
-15 I leviti poi deposero l'arca di Dio.
+!1Sam 6,12-15
+12 Le vacche dunque si avviarono sicure per la strada che conduce a Betsames, e seguivano la strada mugghiando, mentre andavano, e non piegavano né a destra né a sinistra. E i principi dei Filistei andarono loro dietro fino ai confini di Betsames.
+13 Ora i Betsamiti, che stavano mietendo il grano nella valle, alzati gli occhi, videro l’arca e gioirono nel vederla.
+14 E il carro, giunto nel campo di Giosuè Betsamita, si fermò. C’era là una gran pietra e quelli, fatto a pezzi il legno del carro, offrirono le vacche in olocausto al Signore.
+15 I leviti poi deposero l’arca di Dio.
 
 [Responsory3 1960]
 @Tempora/Pent03-2Feria:Responsory3

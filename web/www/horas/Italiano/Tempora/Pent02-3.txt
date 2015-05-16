@@ -11,30 +11,30 @@ Doxology=Corp
 
 [Lectio1]
 Dal primo libro dei Re
-!1 Sam 6:19-21; 7:1
-19 Il Signore poi percosse gli uomini di Betsames, perché avevano guardato l'arca del Signore; e fece morire settanta uomini del popolo e cinquantamila della plebe. E il popolo pianse perché il Signore aveva percossa la plebe con sì gran flagello. 
-20 Pertanto gli uomini di Betsames dissero: Chi potrà stare al cospetto del Signore, di questo Dio santo? e verso chi salirà egli (partendo) da noi? 
-21 Allora spedirono dei messi agli abitanti di Cariatiarim perché dicessero: I Filistei han ricondotta l'arca del Signore: scendete, e riportatela tra voi. 
-1 Andaron dunque gli uomini di Cariatiarim, e ricondussero l'arca del Signore, e la portaron nella casa di Abinadab in Gabaa; e consacrarono Eleazaro, suo figlio, perché custodisse l'arca del Signore.
+!1Sam 6,19-21; 7,1
+19 Il Signore poi percosse gli uomini di Betsames, perché avevano guardato l’arca del Signore e fece morire settanta uomini del popolo e cinquantamila della plebe. E il popolo pianse perché il Signore aveva percossa la plebe con così grande flagello.
+20 Pertanto gli uomini di Betsames dissero: «Chi potrà stare al cospetto del Signore, di questo Dio santo? E verso essa chi andrà, partendo da noi?».
+21 E mandarono dei messi agli abitanti di Cariatiarim perché dicessero: «I Filistei hanno ricondotta l’arca del Signore. Scendete e riportatela tra voi».
+1 Andarono dunque gli uomini di Cariatiarim e ricondussero l’arca del Signore e la portarono nella casa di Abinadab in Gabaa. E consacrarono Eleazaro, suo figlio, perché custodisse l’arca del Signore.
 
 [Responsory1 1960]
 @Tempora/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Sam 7:2-4
-2 E dal dì in cui l'arca del Signore fu posta in Cariatiarim era passato molto tempo (cioè venti anni), e tutta la casa d'Israele ebbe pace, seguendo il Signore. 
-3 Allora Samuele disse a tutta la casa d'Israele: Se con tutto il vostro cuore vi convertite al Signore, togliete di mezzo a voi gli dèi stranieri, Baalim e Astarot, e preparate i vostri cuori al Signore e servite a lui solo, egli vi libererà dalle mani dei Filistei. 
-4 Allora i figli d'Israele tolsero via Baalim e Astarot, e servirono soltanto al Signore.
+!1Sam 7,2-4
+2 Dal giorno in cui l’arca del Signore fu posta in Cariatiarim era passato molto tempo, una ventina di anni, e tutta la nazione di Israele ebbe pace, seguendo il Signore.
+3 Allora Samuele disse a tutta la casa di Israele: «Se con tutto il vostro cuore ritornate al Signore, allontanate da voi gli dèi stranieri e indirizzate al Signore il cuore, servendo a lui solo, egli vi libererà dalle mani dei Filistei».
+4 Allora i figli di Israele allontanarono i Baal e le Astarti e servirono soltanto al Signore.
 
 [Responsory2 1960]
 @Tempora/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Sam 7:5-8
-5 Quindi Samuele disse: Radunate tutto Israele in Masfat perché io preghi il Signore per voi. 
-6 E convennero in Masfat, e, attinta dell'acqua, la sparsero dinanzi al Signore, e digiunarono quel giorno, dicendo: Abbiamo peccato contro il Signore. Samuele dunque giudicò Israele in Masfat. 
-7 Ora i Filistei come seppero che i figli d'Israele s'erano radunati a Masfat, i satrapi dei Filistei si mossero contro Israele. A questa notizia i figli d'Israele ebbero paura dei Filistei, 
-8 e dissero a Samuele: Non cessar d'innalzare la tua voce al Signore Dio nostro per noi, affinché ci salvi dalle mani dei Filistei.
+!1Sam 7,5-8
+5 Quindi Samuele disse: «Radunate tutto Israele a Masfat perché io preghi il Signore per voi».
+6 E si radunarono a Masfat. Dopo aver attinta dell’acqua, la versarono al cospetto del Signore e digiunarono quel giorno dicendo: «Abbiamo peccato contro il Signore». Samuele dunque giudicò Israele a Masfat.
+7 Ma i Filistei vennero a sapere che i figli di Israele si erano radunati a Masfat; allora i principi dei Filistei mossero contro Israele. Udito ciò, i figli di Israele ebbero paura dei Filistei
+8 e dissero a Samuele: «Non cessare di supplicare il Signore nostro Dio per noi, perché ci salvi dalle mani dei Filistei».
 
 [Responsory3 1960]
 @Tempora/Pent01-3:Responsory3

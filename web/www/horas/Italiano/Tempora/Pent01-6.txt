@@ -8,40 +8,40 @@ Sabbato infra Hebdomadam I post Octavam Pentecostes;;Feria;;1
 ex Tempora/Pent01-4;
 9 lectiones
 Doxology=Corp
-					
+
 [Lectio1]
 Dal primo libro dei Re
-!1 Sam 3:1-7
-1 Intanto il giovinetto Samuele serviva il Signore sotto gli occhi di Eli, e raro era in quei giorni che parlasse il Signore: non era comune la profezia. 
-2 Or avvenne che un certo giorno Eli se ne stava coricato al suo solito posto, e i suoi occhi erano ottenebrati e non poteva vedere. 
-3 Prima che la lampada di Dio fosse spenta, Samuele dormiva nel tempio del Signore, dov'era l'arca di Dio. 
-4 Allora il Signore chiamò Samuele, che rispose: Eccomi. 
-5 E corse da Eli, dicendo: Eccomi, perché mi hai chiamato. Ma quegli rispose: Non t'ho chiamato: vattene e torna a dormire. Ed egli se ne tornò a dormire. 
-6 E il Signore tornò di nuovo a chiamare Samuele. E Samuele alzatosi, andò da Eli, dicendo: Eccomi, perché m'hai chiamato. E quegli rispose: Figlio mio, io non t'ho chiamato: vattene e torna a dormire. 
-7 Or Samuele non conosceva ancora il Signore, non essendogli stata ancora manifestata la parola del Signore.
+!1Sam 3,1-7
+1 Il fanciullo Samuele serviva il Signore sotto la direzione di Eli. In quei giorni la parola del Signore era rara, né vi erano delle visioni manifeste.
+2 Avvenne che un giorno Eli se ne stava coricato al suo solito posto, e i suoi occhi gli si erano ottenebrati in modo che non riusciva più a vedere.
+3 La lampada di Dio non si era ancora spenta e Samuele dormiva nel tempio del Signore dov’era conservata l’arca di Dio.
+4 E il Signore chiamò Samuele che gli rispose: «Eccomi»
+5 e corse da Eli e gli disse: «Eccomi, poiché mi hai chiamato». Eli gli rispose: «Non ti ho chiamato; torna a dormire».
+6 Samuele se ne andò e ricominciò a dormire. Di nuovo il Signore chiamò Samuele il quale, alzatosi, si ripresentò da Eli e disse: «Eccomi, poiché mi hai chiamato».
+7 Ed Eli rispose: «Non ti ho chiamato, figlio mio; ritorna a dormire». Samuele non aveva ancora intuito il Signore e la parola di Dio non ali era ancora stata rivelata.
 
 [Responsory1 1960]
 @Tempora/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Sam 3:8-12
-8 E il Signore tornò di nuovo per la terza volta a chiamare Samuele che, alzatosi, andò da Eli 
-9 e gli disse: Eccomi, perché m'hai chiamato. Comprese allora Eli che il Signore aveva chiamato il giovinetto e disse a Samuele: Va a dormire, e se ti chiamerà ancora, dirai: Parla, o Signore, ché il tuo servo t'ascolta. Tornò dunque Samuele al suo posto e si addormentò. 
-10 E il Signore venne, e si fermò, e lo chiamò, come avea fatto prima, per due volte: Samuele, Samuele. E Samuele rispose: Parla, o Signore, che il tuo servo t'ascolta. 
-11 E il Signore disse a Samuele: Ecco che io sto per fare tale cosa in Israele che chiunque l'udirà, n'avrà rintronate ambedue le orecchie. 
-12 In quel giorno manderò ad effetto contro Eli tutto quello che ho annunziato riguardo alla sua casa: io comincerò e. finirò.
+!1Sam 3,8-12
+8 Per la terza volta il Signore chiamò Samuele il quale, alzandosi, si ripresentò ad Eli
+9 dicendogli: «Eccomi, poiché mi hai chiamato». Comprese allora Eli che il Signore aveva chiamato il fanciullo e disse a Samuele: «Va’ e torna a dormire e, se ti chiameranno di nuovo, risponderai: Parla, Signore, che il tuo servo ti ascolta». Samuele ritornò al suo posto e si riaddormentò.
+10 Il Signore venne, si fermò e chiamò come prima, per due volte: «Samuele, Samuele». E gli rispose Samuele: «Parla, o Signore, poiché il tuo servo ti ascolta».
+11 E disse il Signore a Samuele: «Ecco che io sto per manifestare la mia parola ad Israele, e chiunque l’udrà si sentirà rintronare le sue orecchie.
+12 In quel giorno susciterò contro Eli quanto ho manifestato circa la sua casa: comincerò e finirò».
 
 [Responsory2 1960]
 @Tempora/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Sam 3:15-20
-15 E Samuele dormì sino alla mattina e aprì le porte della casa del Signore. Or Samuele temeva di riferire ad Eli la visione. 
-16 Ma Eli chiamò Samuele e gli disse: Samuele, figlio mio. Ed egli rispose: Eccomi. 
-17 E lui gli domandò: Che ti ha detto il Signore? Ti prego, non nascondermelo. Dio ti faccia questo e peggio, se tu mi nascondi una sola parola di quanto t'è stato detto. 
-18 Samuele dunque gli riferì tutte le parole senza nasconderne alcuna. Al che lui rispose: Egli è il Signore; faccia pure quanto è ben fatto dinanzi ai suoi occhi. 
-19 Frattanto Samuele crebbe, e il Signore era con lui, e non cadde per terra neppure una delle sue parole. 
-20 Tutto Israele poi da Dan fino a Bersabea conobbe che Samuele era un fedele profeta del Signore.
+!1Sam 3,15-20
+15 Poi dormì Samuele fino al mattino. Aperte le porte della casa del Signore, temette di riferire ad Eli la visione.
+16 Ma Eli chiamò Samuele e gli disse: «Samuele, figlio mio». «Eccomi», rispose.
+17 E lo interrogò: «Che ti ha detto il Signore? Non mi nascondere nulla. Iddio faccia lo stesso e più ancora a te se mi nascondi qualcosa di quanto ti ha detto».
+18 Samuele allora gli manifestò tutto e non occultò nulla. Eli allora aggiunse: «Egli è il Signore; faccia quello che più crede opportuno».
+19 Crebbe frattanto Samuele e il Signore era con lui e non lasciò cadere in dimenticanza nessuna delle sue parole.
+20 E tutto Israele, da Dan fino a Bersabee conobbe che Samuele era un fedele profeta del Signore.
 
 [Responsory3 1960]
 @Tempora/Pent01-3:Responsory3

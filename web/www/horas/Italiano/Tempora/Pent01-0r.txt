@@ -121,12 +121,12 @@ V. Per il Verbo del Signore sono stati fatti i cieli.
 R. E collo Spirito della sua bocca tutte le sue costellazioni.
 
 [Lectio1]
-Dal Profeta Isaia
-!Isa 6:1-4
-1 Nell'anno in cui morì il re Ozia, vidi il Signore seduto sopra un trono eccelso ed elevato: e le estremità della sua (veste) riempivano il tempio. 
-2 Dei Serafini stavano sopra di esso: sei ali aveva l'uno e sei ali l'altro: con due velavano la faccia di lui, con due velavano i piedi di lui, e con due volavano. 
-3 E cantavano alternativamente, e dicevano: Santo, santo, santo il Signore Dio degli eserciti, piena è tutta la terra della sua gloria. 
-4 E i cardini delle porte si smossero alla voce di colui che cantava, e la casa si riempì di fumo.
+Dal libro del profeta Isaia
+!Is 6,1-4
+1 Nell’anno in cui morì il re Ozia, vidi il Signore seduto sopra un trono eccelso ed elevato: e le estremità della sua veste riempivano il tempio.
+2 Due serafini stavano sopra di esso: sei ali aveva uno e sei ali l’altro: con due velavano la faccia di lui, con due velavano i piedi e con due volavano.
+3 E cantavano alternativamente e dicevano: «Santo, santo, santo il Signore Dio dell’universo; tutta la terra è piena della sua gloria».
+4 E i cardini delle porte vibrarono alla voce di chi cantava, e la casa si riempì di fumo.
 
 [Responsory1]
 R. Vidi il Signore seduto sopra un trono eccelso ed elevato, e piena era tutta la terra della sua maestà: 
@@ -135,11 +135,11 @@ V. Dei Serafini stavano sopra di esso: sei ali aveva l'uno e sei ali l'altro.
 R. E le estremità della sua veste riempivano il tempio.
 
 [Lectio2]
-!Isa 6:5-8
-5 Ed io dissi: Guai a me, perché ho taciuto, perché sono uomo di labbra immonde, e abito in mezzo a un popolo di labbra immonde, eppure ho visto cogli occhi miei il Re Signore degli eserciti. 
-6 E volò a me uno dei Serafini, e teneva nella sua mano una pietruzza che colle molle aveva preso dall'altare. 
-7 E ne toccò la mia bocca, e disse: Ecco, questa ha toccato le tue labbra, or sarà tolta la tua iniquità, e lavato il tuo peccato. 
-8 Allora udii la voce del Signore che diceva: Chi manderò? e chi andrà per noi? E io dissi: Eccomi, manda me.
+!Is 6,5-8
+5 Io dissi: «Ahimè! Mi sento perduto perché sono  un uomo dalle labbra immonde ed abito in mezzo a un popolo che ha anch’esso labbra immonde; eppure i miei occhi hanno visto il re, il Dio degli eserciti».
+6 Allora volò verso di me uno dei serafini, tenendo in mano un carbone acceso, che aveva preso con le molle dall’altare.
+7 Egli mi toccò la bocca e mi disse: «Ecco, questo ha toccato le tue labbra, perciò sarà tolta la tua iniquità e il tuo peccato sarà espiato».
+8 Allora udii la voce del Signore che diceva: «Chi manderò e chi andrà per noi?». Io risposi: «Eccomi, manda me!».
 
 [Responsory2]
 R. Benedetto il Signore Dio di Israele, che solo opera meraviglie: 
@@ -148,11 +148,11 @@ V. Sarà ripiena della sua maestà tutta la terra: così sia, così sia.
 R. E benedetto il nome della sua maestà in eterno.
 
 [Lectio3]
-!Isa 6:9-12
-9 Ed egli: Va, e dirai a questo popolo: Ascoltate, ma non volete intendere: e vedete la visione, ma senza volerla capire. 
-10 Acceca il cuore di questo popolo, e rendi dure le sue orecchie, e chiudi i suoi occhi, affinché non vegga coi suoi occhi, né oda colle sue orecchie, né intenda col suo cuore, e si converta, e io lo guarisca. 
-11 E io dissi: Fino a quando, Signore? Ed egli rispose: Finché le città siano desolate e senza abitanti, e le case senza uomini, e la terra rimarrà deserta, 
-12 e il Signore allontanerà gli uomini, e moltiplicheranno gli abbandonati sopra la terra.
+!Is 6,9-12
+9 Egli disse: «Va’ e di’ a questo popolo: Ascoltate con attenzione, ma senza capire e osservate bene senza conoscere.
+10 Rendi insensibile il cuore di questo popolo, chiudi le sue orecchie e benda i suoi occhi, così che non possa vedere con i suoi occhi né udire con le sue orecchie e non abbia a comprendere nel suo cuore, in modo da convertirsi ed essere guarito».
+11 Io dissi: «Fino a quando, o Signore?». Egli rispose: «Finché non siano deserte le città, senza abitanti, le case senza uomini e la campagna resti desolata.
+12 Il Signore caccerà la gente cosicché il paese sia totalmente abbandonato».
 
 [Responsory3]
 R. Ci benedica Iddio, il nostro Dio, ci benedica Iddio: 
@@ -163,9 +163,9 @@ R. E lo temano tutti i confini della terra.
 R. E lo temano tutti i confini della terra.
 
 [Lectio4]
-Dal libro di san Fulgenzio Vescovo, della fede a Pietro
-!Fra le opere di Agostino, tomo 3
-La fede che i santi Patriarchi e Profeti ricevettero da Dio prima dell'incarnazione del Figlio suo, che i santi Apostoli appresero dal Signore stesso incarnato, che lo Spirito Santo insegnò loro e ch'essi non solo predicarono colla parola, ma consegnarono nei loro scritti a salutare istruzione dei posteri; questa fede proclama, insieme coll'unità di Dio, la sua Trinità, cioè il Padre, il Figlio e lo Spirito Santo. Ma non sarebbe vera Trinità, se una sola e stessa persona si dicesse Padre, Figlio e Spirito Santo.
+Dal libro “Sulla fede a Pietro” di san Fulgenzio vescovo
+!Fra le opere di Agostino, tom. 3
+La fede che i santi patriarchi e i profeti ricevettero prima dell’incarnazione del Figlio di Dio per ispirazione divina, che poi i santi apostoli appresero dallo stesso Signore fattosi uomo e che, con l’insegnamento dello Spirito Santo, non solo predicarono con la parola, ma anche lasciarono contenuta nei loro scritti ad utilissima istruzione dei posteri; questa fede proclama un solo Dio ma insieme Trinità, cioè Padre, Figlio e Spirito Santo. Ma non si tratterebbe di vera Trinità se Padre e Figlio e Spirito Santo si ritenessero una sola persona.
 
 [Responsory4]
 R. Qual Dio è grande come il Dio nostro? 
@@ -174,7 +174,7 @@ V. Hai fatto nota fra i popoli la tua potenza: hai redento col tuo braccio il tu
 R. Tu sei il Dio che operi meraviglie.
 
 [Lectio5]
-Se infatti, il Padre, il Figlio e lo Spirito Santo, come sono una sola sostanza, così fossero una sola persona; non ci sarebbe più luogo a professare una vera Trinità. D'altra parte ci sarebbe sì Trinità, ma questa Trinità non sarebbe più un solò Dio, se il Padre, il Figlio e lo Spirito Santo fossero separati fra loro per la diversità delle loro nature, come sono distinti per le proprietà personali. Ma com'è verità che quest'unico vero Dio per sua natura non solo è Dio unico, ma è anche Trino; così questo vero Dio è Trino nelle persone, e uno nell'unità della natura.
+Se infatti come è una sola la sostanza del Padre, del Figlio e dello Spirito Santo, fosse una sola anche la persona, certamente non si potrebbe più parlare di una vera Trinità. Al contrario ci sarebbe sì una vera Trinità, ma la stessa Trinità non si potrebbe dire un solo Dio qualora il Padre e il Figlio e lo Spirito Santo, come sono tra loro distinti per la proprietà delle persone, così fossero anche separati per la diversità delle loro nature. Ma poiché la verità, per quanto riguarda la natura, sta in quell’unico vero Dio Trinità, non solo perché è un solo Dio ma anche perché è Trinità; perciò lo stesso vero Dio è Trinità nelle persone e uno in una sola natura.
 
 [Responsory5]
 R. A te la lode, a te la gloria, a te il rendimento di grazie per i secoli eterni, 
@@ -183,7 +183,7 @@ V. E benedetto il nome santo della tua gloria: e degno d'essere lodato e sopraes
 R. O beata Trinità.
 
 [Lectio6]
-Per questa unità di natura il Padre è tutto nel Figlio e nello Spirito Santo, il Figlio tutto nel Padre e nello Spirito Santo, e lo Spirito Santo tutto nel Padre e nel Figlio. Nessuno di essi sussiste separatamente fuori degli altri due: perché nessuno precede gli altri nell'eternità, o li supera in grandezza, o li sorpassa in potere: poiché il Padre, per quanto riguarda l'unità della sua natura divina, non è né anteriore né maggiore del Figlio e dello Spirito Santo; né l'eternità o immensità del Figlio può, quasi anteriore o maggiore, per necessità della natura divina precedere o sorpassare l'immensità e l'eternità dello Spirito Santo.
+Per questa unità di natura il Padre è tutto nel Figlio e nello Spirito Santo, il Figlio è tutto nel Padre e nello Spirito Santo, e lo Spirito Santo è tutto nel Padre e nel Figlio. Nessuno di loro esiste separatamente dagli altri due: perché nessuno o precede gli altri nell’eternità o li supera in grandezza o in potere: poiché il Padre, per quanto riguarda l’unità della natura divina, non è anteriore o più grande né del Figlio né dello Spirito Santo; e, per questa natura, né l’eternità, né l’immensità del Figlio può, come fosse anteriore o maggiore, precedere o superare l’immensità e l’eternità dello Spirito Santo.
 
 [Responsory6]
 R.  Grande è il Signore, e degno d'ogni lode: 
@@ -194,13 +194,13 @@ R. E la sua sapienza non ha limiti.
 R. E la sua sapienza non ha limiti.
 
 [Lectio7]
-Lettura del santo Vangelo secondo Matteo
-!Matt 28:18-20
-In quell'occasione: Gesù disse ai suoi discepoli: Mi è stato dato ogni potere in cielo e in terra: Andate dunque a istruire tutte le Genti, battezzandole nel nome del Padre, e del Figlio e dello Spirito Santo. Eccetera.
+Dal Vangelo secondo Matteo
+!Mt 28,18-20
+In quel tempo, Gesù disse ai suoi discepoli: «Ogni potere mi è stato dato in cielo e sulla terra. Andate, dunque, e ammaestrate tutte le nazioni, battezzandole nel nome del Padre, del Figlio e dello Spirito Santo». (continua nella Messa del giorno)
 _
 Omelia di san Gregorio Nazianzeno
-!Trattato della fede, dopo il principio
-Qual cattolico ignora che il Padre è veramente Padre, il Figlio è veramente Figlio, e lo Spirito Santo è veramente Spirito Santo? siccome il Signore stesso dice ai suoi Apostoli: «Andate, battezzate tutte le Genti nel nome del Padre, e del Figlio e dello Spirito Santo». Ecco quella divinità perfetta nell'unità d'un'unica sostanza, alla quale professiamo di credere. Perché noi non ammettiamo punto in Dio divisione come nelle sostanze corporee; ma a causa della potenza della natura divina, ch'è immateriale, professiamo di credere e alla distinzione reale delle persone che nominiamo, e all'unità della natura divina.
+!Trattato sulla fede
+Qual cattolico ignora che il Padre è veramente Padre, il Figlio è veramente Figlio, e lo Spirito Santo è veramente Spirito Santo? Lo stesso Signore infatti dice agli apostoli: «Andate, battezzate tutte le genti nel nome del Padre, e del Figlio e dello Spirito Santo». Questo è il mistero della perfetta Trinità che sussiste nella unità, mistero nel quale noi crediamo. Infatti noi non ammettiamo in Dio divisione come nelle sostanze corporee, ma a causa della potenza della natura divina, che è immateriale, professiamo di credere sia alla distinzione reale delle persone che nominiamo, sia all’unità della natura divina.
 
 [Responsory7]
 R. Benediciamo il Padre e il Figlio con lo Spirito Santo: 
@@ -209,7 +209,7 @@ V. Benedetto sei tu, o Signore, nel firmamento del cielo: e degno di lode e glor
 R. Lodiamolo e sopraesaltiamolo per i secoli.
 
 [Lectio8]
-E non diciamo, come alcuni hanno immaginato, il Figlio di Dio essere una estensione di qualche parte di Dio: né intendiamo già un verbo senza realtà come un suono di voce: ma crediamo che le tre denominazioni e le tre persone hanno una stessa essenza, una stessa maestà e potenza. Noi confessiamo dunque un Dio solo: perché l'unità della maestà ci vieta di nominare più dei. Infine, noi nominiamo distintamente, conforme al linguaggio cattolico, il Padre e il Figlio; ma non possiamo né dobbiamo dire due Dii. Non già che il Figlio di Dio non sia Dio, anzi è vero Dio da Dio vero; ma perché sappiamo che il Figlio Dio non ha altro principio che l'unico suo Padre, perciò diciamo che non c'è che un Dio. Questo è quanto ci hanno tramandato i Profeti, e gli Apostoli: questo quanto ha insegnato il Signore medesimo quando disse: «Io e il Padre mio siamo uno» (Joan. 10,20).  Dicendo «Uno» esprime, come dicevo, l'unità della divinità; e «Siamo» indica la pluralità delle persone.
+Né, come alcuni hanno pensato, diciamo che il Fi­glio di Dio sia una estensione parziale di Dio, e neppure che «figlio» sia solo una parola, un suono vocale senza rispondenza nella realtà; ma crediamo che i tre nomi e le tre persone siano di una sola essenza, maestà e potenza. Per questo riconosciamo un solo Dio: è l’unica maestà che ci proibisce di chiamarlo «déi» al plurale.
 
 [Responsory8]
 R. Due Serafini cantavano alternativamente: 
@@ -220,7 +220,7 @@ R. Santo, santo, santo è il Signore Dio degli eserciti:
 R. Piena è tutta la terra della sua gloria.
 
 [Lectio9]
-Così, secondo la fede cattolica, chiamiamo Dio padre e figlio; ma che siano due dei non possiamo né dobbiamo dirlo. Non che il Figlio di Dio non sia Dio, anzi è « Dio vero da Dio vero »; ma perché sappiamo che il Figlio di Dio non ha altro principio che l'unico suo Padre, perciò diciamo che Dio è uno solo. Questo infatti ci hanno tramandato i profeti e gli apostoli; questo ci insegnò il Signore stesso, quando disse: « Io e il Padre siamo uno ». « Uno » si riferisce all'unità della divinità ; « siamo » indica le persone.  
+Così, secondo la fede cattolica, chiamiamo Dio padre e figlio; ma che siano due dèi non possiamo né dobbiamo dirlo. Non che il Figlio di Dio non sia Dio, anzi è «Dio vero da Dio vero»; ma perché sappiamo che il Figlio di Dio non ha altro principio che l’unico suo Padre, perciò diciamo che Dio è uno solo. Questo infatti ci hanno tramandato i profeti e gli apostoli; questo ci insegnò il Signore stesso, quando disse: «Io e il Padre siamo uno». «Uno» si riferisce all’unità della divinità; «siamo» indica le persone.
 &teDeum
 
 [Ant Laudes]
@@ -340,4 +340,3 @@ _
 $Oremus
 O Dio, fortezza di quelli che sperano in te, ascolta propizio le nostre preghiere: e siccome senza di te nulla può l'umana debolezza, concedici l'aiuto della tua grazia; affinché nell'eseguire i tuoi comandamenti, ti piacciamo e colla volontà e coll'opera.
 $Per Dominum
-

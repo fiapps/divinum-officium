@@ -12,26 +12,25 @@ Laudes Litania
 Doxology=Pasc
 
 [Lectio1]
-Lettura del santo Vangelo secondo Giovanni
-!Giov 17:1-11
-In quell'occasione: Gesù, sollevati gli occhi al cielo, disse: Padre, l'ora è venuta, glorifica il tuo Figlio. Eccetera.
+Dal Vangelo secondo Giovanni
+!Gv 17,1-11
+Allora Gesù, alzati gli occhi al cielo, disse: «Padre, è giunto il momento: glorifica il Figlio tuo». (continua nella Messa del giorno)
 _
-Omelia di sant'Agostino Vescovo
-!Tratt. 104 su Giovanni, circa la metà
-Nostro Signore, l'unigenito del Padre e coeterno con lui, «avendo preso la natura di servo» (Philipp. 2,7) poteva, in questa natura di servo, pregare in silenzio, se fosse stato necessario: ma volle presentarsi così supplicante davanti al Padre da mostrare di ricordarsi d'essere nostro dottore. Perciò volle che la preghiera che fece per noi ci fosse nota: perché l'edificazione dei discepoli risulta non soltanto dalle lezioni che dà loro sì gran maestro, ma ancora dalla preghiera ch'egli indirizza al Padre per loro: e se queste parole erano l'edificazione di quelli che si trovavano presenti ad ascoltarlo, certo devono essere anche di noi che le avremmo lette raccolte (nel Vangelo).
+Omelia di sant’Agostino vescovo
+!Omelia 104 su Giovanni, circa la metà
+Il nostro Signore, figlio unigenito e coeterno del Padre, avendo preso la natura di servo, poteva, se fosse stato necessario, in questa forma di servo, pregare in silenzio. Ma ha voluto presentarsi così supplicante davanti al Padre per ricordarci che era il nostro dottore. Perciò, la preghiera che fece per noi, volle fosse nota anche a noi, perché non solo i discorsi di sì grande maestro ai discepoli, ma anche la preghiera per loro al Padre, era loro di edificazione. E se le sue parole erano utili per quelli che le ascoltavano, lo sarebbero state anche per noi che le avremmo lette.
 
 [Responsory1]
 @Tempora/Pasc4-0:Responsory7
 
 [Lectio2]
-Perciò dicendo: «Padre, l'ora è venuta, glorifica il tuo Figlio» (Joann. 17,1), dimostra che quanto egli farà o lascerà di fare, in qualsiasi tempo, è stato disposto da lui che non è soggetto al tempo: perché gli avvenimenti che si svolgono nel corso dei tempi hanno loro cause efficienti nella sapienza di Dio, nella quale non c'è nulla di temporaneo. Guardiamoci dunque dal credere che quest'ora giungesse costretta dalla fatalità, sibbene da Dio che dispone i tempi. E neppure le leggi degli astri hanno regolato la passione di Cristo: perché è inammissibile che gli astri possano forzare a morire il creatore degli astri.
-
+Perciò quando disse: «Padre, è giunta l’ora, glorifica il tuo Figlio», dimostra che quanto egli farà o permetterà che avvenga, in qualsiasi tempo, è stato disposto da lui che non è soggetto al tempo; poiché gli avvenimenti che si svolgono nel corso dei tempi hanno la loro causa efficiente nella sapienza di Dio, nella quale non esiste tempo. Non si creda dunque che quest’ora sia venuta per caso, ma piuttosto per ordine di Dio. E neppure le leggi degli astri hanno determinato la passione di Cristo; no, gli astri non hanno costretto a morire il loro Creatore.
 
 [Responsory2]
 @Tempora/Pasc4-0:Responsory8
 
 [Lectio3]
-Alcuni intendono che il Figlio fu glorificato dal Padre, nel senso che non lo risparmiò, ma l'abbandonò alla morte per tutti noi. Ma se si dice ch'egli fu glorificato dalla sua passione, quanto più dalla sua risurrezione? Nella passione infatti più che la sua gloria si manifestò la sua umiltà, secondo che l'attesta l'Apostolo quando dice: «Egli abbassò se stesso fattosi obbediente sino a morire, e a morire in croce» (Philipp. 2,8). Poi aggiunge riguardo alla sua glorificazione: «Per questo anche Dio lo ha esaltato, e gli ha dato un nome ch'è al disopra di ogni altro nome: sì che al nome di Gesù si piega ogni ginocchio degli esseri celesti, terrestri e infernali. E ogni lingua confessi che il Signore Gesù Cristo è nella gloria di Dio Padre» (Philipp. 2,6). Questa è la glorificazione di nostro Signore Gesù Cristo, che ebbe principio dalla sua risurrezione.
+Alcuni ritengono che il Figlio è stato glorificato dal Padre in quanto egli non lo ha risparmiato ma lo ha dato a morte per tutti noi. Ma se si dice che è stato glorificato con la sua passione, quanto lo è stato di più con la risurrezione? Nella passione infatti si manifesta più l’umiltà che la gloria, come testimonia l’Apostolo. «Umiliò se stesso, fattosi obbediente sino alla morte e alla morte di croce». Poi aggiunge riguardo alla sua glorificazione: «Per questo Dio lo ha innalzato, gli ha dato il Nome che è sopra ogni nome, tale che nel nome di Gesù si deve piegare ogni ginocchio in cielo, in terra e nell’inferno; ed ogni lingua deve confessare che il Signore Gesù Cristo è nella gloria di Dio Padre». Questa è la glorificazione di nostro Signore Gesù Cristo, che ebbe inizio con la risurrezione.
 
 [Responsory3]
 R. Lo dicano ora quelli che sono stati redenti, alleluia, 

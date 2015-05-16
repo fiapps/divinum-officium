@@ -12,30 +12,30 @@ Comkey=20
 
 [Lectio1]
 Dal primo libro dei Re
-!1 Sam 8:4-6
-4 Radunatisi pertanto tutti i seniori d' Israele, andarono da Samuele a Ramata, 
-5 e gli dissero:  Tu sei ormai vecchio, e i tuoi figli non battono la tua strada: perciò dacci un re, che ci giudichi, come l'hanno tutte le nazioni. 
-6 Spiacque a Samuele questo parlare e dire: Dacci un re che ci giudichi. E Samuele pregò il Signore.
+!1Sam 8,4-6
+4 Radunatisi pertanto tutti i seniori di Israele, andarono da Samuele a Ramata
+5 e gli dissero: «Tu sei ormai vecchio e i tuoi figli non battono la tua strada. Perciò da’ a noi un re, che ci giudichi, come l’hanno tutte le nazioni».
+6 Spiacque a Samuele questo parlare e dire: «Da’ un re che ci giudichi». E Samuele pregò il Signore.
 
 [Responsory1 1960]
 @Tempora/Pent01-1:Responsory1
 
 [Lectio2]
-!1 Sam 8:7-9
-7 E il Signore disse a Samuele: Ascolta la voce del popolo in tutto quello che ti dicono: perché essi non hanno rigettato te, ma me, affinché io non regni su di loro. 
-8 Così hanno fatto in tutte le cose loro dal giorno che li trassi dall'Egitto fino ad oggi, abbandonandomi per servire agli dèi stranieri, così fanno anche con te. 
-9 Adesso dunque ascolta la loro voce; ma fa con essi le tue proteste, e preannunzia loro i diritti del re che regnerà su di essi.
+!1Sam 8,7-9
+7 Il Signore disse a Samuele: «Ascolta la voce del popolo in tutto quello che essi ti dicono. Perché non hanno ripudiato te, ma me, affinché io non regni su di loro.
+8 Così hanno fatto in tutte le cose loro dal giorno in cui li trassi dall’Egitto fino ad oggi, abbandonandomi per servire gli dei stranieri. Così fanno anche con te.
+9 Adesso, dunque, ascolta la loro voce, ma fa’ con essi le tue proteste e preannuncia loro i diritti del re che regnerà su di loro».
 
 [Responsory2 1960]
 @Tempora/Pent01-1:Responsory2
 
 [Lectio3]
-!1 Sam 8:10-14
-10 Samuele dunque riferì tutte le parole del Signore al popolo che gli aveva chiesto un re, 
-11 e soggiunse: Questo sarà il diritto del re che vi comanderà. Egli prenderà i vostri figli, e se ne farà dei cocchieri, dei cavalieri e dei battistrada alle sue quadriglie; 
-12 e li costituirà suoi tribuni e centurioni e aratori de' suoi campi e mietitori delle sue biade e fabbricatori delle armi e dei suoi cocchi; 
-13 e impiegherà anche le vostre figlie a confezionare unguenti, a far la cucina e il pane; 
-14 e prenderà ancora i vostri campi, le vigne e gli uliveti migliori e li darà ai suoi servi.
+!1Sam 8,10-14
+10 Samuele riferì tutte le parole del Signore al popolo che gli aveva chiesto un re
+11 e soggiunse: «Questo sarà il diritto del re che vi comanderà: egli prenderà i vostri figli e se ne farà dei cocchieri, dei cavalieri e dei battistrada alle sue quadriglie;
+12 li costituirà suoi tribuni e centurioni e aratori dei suoi campi e mietitori delle sue biade e fabbricatori delle armi e dei suoi cocchi.
+13 Impiegherà anche le vostre figlie a confezionare unguenti, cibi e pane.
+14 Prenderà inoltre i vostri campi e gli uliveti migliori e li darà ai suoi servi».
 
 [Responsory3 1960]
 @Tempora/Pent01-1:Responsory3
