@@ -51,15 +51,7 @@ V. L'ha eletta Iddio e l'ha prescelta, alleluia.
 R. La fa abitare nella sua dimora, alleluia.
 
 [Lectio1]
-Dalla prima lettera di s. Paolo apostolo ai Corinzi
-!1 Cor 7:25-31
-25 Riguardo alla verginità non ho una prescrizione del Signore, ma do un consiglio come persona che, per misericordia del Signore, è degna di fiducia. 
-26 Ecco, io penso che questo sia bene a causa della necessità che incombe; cioè, sia bene per l'uomo fare così: 
-27 sei legato a moglie?  non cercare scioglimento; ti trovi libero da moglie? non cercare moglie. 
-28 Però anche se tu prendessi moglie, non peccheresti; e se la vergine si marita, non pecca; ma costoro avranno delle tribolazioni nella carne; per parte mia vorrei risparmiarvele. 
-29 Fratelli, vi dico questo: il tempo è breve; ormai coloro che hanno moglie siano come se non l'avessero,    
-30 e coloro che piangono come se non piangessero, e coloro che godono come se non godessero, e coloro che comperano, come se non possedessero, 
-31 e coloro che usano del mondo come se non ne fruissero; passa, infatti, la scena di questo mondo.
+@Commune/C6:Lectio1
 
 [Responsory10]
 R.br.Vieni, o sposa di Cristo, ricevi la corona che ti ha preparata per l'eternità il Signore, per amore del quale hai versato il tuo sangue, 
@@ -74,11 +66,7 @@ V. Col tuo splendore e con la tua bellezza, vieni, avanza lietamente e regna.
 R. Poiché il Re amò la tua bellezza, alleluia.
 
 [Lectio2]
-!1 Cor 7:32-35
-32 Ecco, io vi vorrei liberi da ansietà. Chi non è sposato si occupa delle cose del Signore, come piacere al Signore; 
-33 chi è sposato invece, si occupa delle cose del mondo, come piacere alla moglie; ed è diviso. 
-34 Così pure la donna non maritata, e la vergine, si occupa delle cose del Signore, per essere santa di corpo e di spirito; invece, colei che è maritata si occupa delle cose del mondo, come piacere al marito. 
-35 Dico questo nel vostro stesso interesse, non per imporvi un laccio, ma per il vostro decoro e per un'assidua intimità con il Signore, senza distrazioni.
+@Commune/C6:Lectio2
 
 [Responsory2]
 R. La grazia è cosparsa sulle tue labbra,  
@@ -87,12 +75,7 @@ V. Col tuo splendore e con la tua bellezza, vieni, avanza lietamente e regna.
 R. Perciò Iddio ti ha benedetta in eterno, alleluia.
 
 [Lectio3]
-!1 Cor 7:36-40
-36 Ma e se qualcuno è convinto di non agire decorosamente con la propria figlia qualora oltrepassi il fiore dell'età, e conviene procedere così, faccia ciò che vuole; non pecca; si maritino.
-37 Ma chi è fermo e deciso in cuor suo, senza costrizione alcuna, anzi in pieno possesso della propria volontà, ed ha deliberato nel suo cuore di tenersi la sua figlia, fa bene. 
-38 Dunque chi marita sua figlia, fa bene, chi non la marita, farà meglio. 
-39 La moglie resta legata tutto il tempo che vive suo marito; se il marito morirà, è libera di sposare chi vuole; però nel Signore. 
-40 Ma, secondo il mio giudizio, sarà più felice restando così. E ritengo d'aver io pure lo Spirito di Dio.
+@Commune/C6:Lectio3
 
 [Responsory3]
 R. Con il tuo splendore e con la tua bellezza,
@@ -103,9 +86,7 @@ R. Vieni, avanza lietamente, e regna, alleluia.
 R. Vieni, avanza lietamente, e regna, alleluia.
 
 [Lectio4]
-Sermone di s. Ambrogio vescovo
-!Libro 1, sulle Vergini, verso l'inizio.
-Poiché oggi è il giorno natalizio di una vergine, l'amore della verginità ci invita a dirne ora qualche cosa, affinché non sembri che noi restringiamo ad una parola di passaggio l'elogio di una virtù così importante. Se la verginità è degna di lode, non lo è già perché si riscontra nei martiri, ma perché essa fa dei martiri. E come lo spirito umano potrà comprendere questa virtù che è fuori dalle leggi della natura? O come potranno parole umane esprimere ciò che è al di sopra della stessa natura umana? La vergine ha preso al cielo il modello da imitare in terra. E non senza ragione ha domandato al cielo la sua regola di vita, poiché in cielo si è trovato lo Sposo.  
+@Commune/C6:Lectio4
 
 [Responsory4]
 R. Per la verità, la mansuetudine e la giustizia, 
@@ -114,7 +95,7 @@ V. Col tuo splendore e con la tua bellezza, vieni, avanza lietamente e regna.
 R. La tua destra ti guiderà mirabilmente, alleluia.
 
 [Lectio5]
-Elevandosi sopra le nubi, sopra l'atmosfera, sopra gli angeli e le stelle, nello stesso seno del padre ha trovato il verbo di Dio e se ne è riempito il cuore. Chi, infatti, dopo averlo trovato , potrebbe abbandonare un bene così grande? "Perché come profumo che si spande è il nome tuo; perciò le fanciulle ti hanno amato e ti hanno attratto". Infine non sono io ad affermare che quelle che non si maritano né si mariteranno, saranno come gli angeli di Dio nel cielo.  Nessuno dunque si meravigli se si paragonano agli angeli quelle che sono le spose del Signore degli angeli.
+@Commune/C6:Lectio5
 
 [Responsory5]
 R. Hai amato la giustizia ed hai odiato l'iniquità: 
@@ -123,7 +104,7 @@ V. Per la verità, la mansuetudine e la giustizia.
 R. Perciò Dio, il tuo Dio, ti unse, con olio di letizia, alleluia.
 
 [Lectio6]
-Chi  dunque potrebbe negare questo genere di vita ci sia venuto dal cielo, che poiché non si è riscontrato facilmente sulla terra, se non dopo che Dio scese a rivestirsi di un corpo umano? Allora una Vergine concepì nel suo grembo, e il Verbo si è fatto uomo, perché l'uomo divenisse Dio. Qualcuno dirà: "Ma si sa che anche Elia non fu mai sconvolto dai desideri dell'unione carnale". Per questo dunque fu rapito in cielo su di un carro; per questo appare col Signore nella gloria; per questo verrà come precursore della venuta del Signore.
+@Commune/C6:Lectio6
 
 [Responsory6]
 R. Le vergini saranno presentate al re dopo di lei; le compagne di lei 
@@ -134,14 +115,7 @@ R. Ti saranno condotte con festosa esultanza, alleluia.
 R. Ti saranno condotte con festosa esultanza, alleluia.
 
 [Lectio7]
-Dal Vangelo secondo Matteo
-!Matt 25:1
-In quel tempo, Gesù disse ai suoi discepoli questa parabola: "Il regno dei cieli è simile a dieci vergini le quali presero le loro lampade e andarono incontro allo sposo e alla sposa". (continua nella Messa del giorno)
-_
-Omelia di s. Gregorio papa
-!Omelia 12 sui Vangeli.
-Spesso vi raccomando, fratelli carissimi, di fuggire le opere cattive e di evitare la corruzione di questo mondo, ma quest'oggi la lettura del santo Vangelo mi costringe a dirvi di stare molto attenti a non perdere il merito delle vostre buone opere, a non cercare, nel bene che fate, il favore o la stima degli uomini, ad impedire
-che si insinui in voi il desiderio della lode e ad agire in modo che, quanto appare di fuori, non sia dentro vuoto di ricompensa. Il Redentore infatti ci parla di dieci vergini, e le dice tutte vergini; eppure non tutte hanno meritato di essere ammesse al soggiorno della beatitudine, perché alcune di esse, mentre cercavano una gloria esteriore della loro verginità, non si curarono di mettere dell'olio nelle loro lampade.  
+@Commune/C6:Lectio7
 
 [Responsory7]
 R. Questa è una vergine saggia, che il Signore trovò vigilante: lei, con le lampade, prese con sé anche l'olio. 
@@ -150,7 +124,7 @@ V. A mezzanotte si udì un clamore: Ecco, arriva lo sposo, uscitegli incontro.
 R. E quando venne il Signore, entrò con lui alla festa nuziale, alleluia.
 
 [Lectio8]
-Ma prima dobbiamo chiederci che cosa sia il regno dei cieli, o perché lo si paragoni a dieci vergini, ed anche quali vengano dette vergini prudenti e quali vergini stolte. Mentre infatti è certo che nessun reprobo entrerà nel regno dei cieli, perché questo viene paragonato anche a delle vergini stolte? Dobbiamo sapere che spesso nel linguaggio sacro la Chiesa del tempo presente viene chiamata regno dei cieli.  Onde altrove il Signore dice: "Il Figlio dell'uomo manderà i suoi angeli, e toglieranno dal suo regno tutti gli scandali". Certamente in quel regno di beatitudine, dove c'è la suprema pace, non si potranno trovare scandali da togliere.
+@Commune/C6:Lectio8
 
 [Responsory8]
 R. A mezzanotte si udì un clamore: 
@@ -161,8 +135,7 @@ R. Ecco, arriva lo sposo, uscitegli incontro, alleluia.
 R. Ecco, arriva lo sposo, uscitegli incontro, alleluia.
 
 [Lectio9]
-Ciascuno vive in un corpo che ha cinque sensi; il numero cinque poi, raddoppiato, dà dieci. E, poiché la moltitudine dei fedeli comprende ambedue i sessi, la santa Chiesa si dice simile a dieci vergini. E poiché in essa i cattivi si trovano mescolati coi buoni e i reprobi con gli eletti, giustamente viene paragonata a delle vergini prudenti ed anche a delle vergini stolte. Infatti ci sono molti che vivono nella continenza, che si guardano dagli appetiti esteriori, e dalla speranza sono portati ai beni interiori, che mortificano la propria carne, e anelano alla patria celeste con tutta la forza del loro desiderio, agognano i premi eterni, e non vogliono ricevere lodi umane per le loro fatiche. Questi certamente non ripongono la loro gloria nelle parole degli uomini, ma la nascondono nella loro coscienza. E ci sono poi molti che affliggono il loro corpo con l'astinenza, ma per questa stessa loro astinenza cercano gli applausi degli uomini.
-&teDeum
+@Commune/C6:Lectio9
 
 [Ant Laudes]
 Questa è una Vergine saggia, * e una del numero delle prudenti, alleluia.

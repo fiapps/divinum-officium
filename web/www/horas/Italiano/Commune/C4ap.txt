@@ -59,13 +59,7 @@ V. Tu sei sacerdote in eterno, alleluia.
 R. Secondo l'ordine di Melchisedech, alleluia.
 
 [Lectio1]
-Dal libro dell'Ecclesiastico
-!Sir 39:1-5
-1 Il saggio indaga la sapienza di tutti gli antichi e si dà allo studio dei profeti. 
-2 Raccoglie le spiegazioni degli uomini illustri e insieme si addentra nelle sottigliezze delle parabole. 
-3 Penetra i segreti dei proverbi e si occupa degli enigmi e delle allegorie. 
-4 Esercita il suo ministero in mezzo ai grandi e compare dinanzi al governatore.
-5 Fa viaggi nei paesi di genti straniere, perché vuole conoscere il bene e il male tra gli uomini.
+@Commune/C4a:Lectio1
 
 [Responsory1]
 R. Servo buono e fedele, poiché sei stato fedele nel poco, ti darò autorità su molto: 
@@ -74,12 +68,7 @@ V. Signore, mi hai affidato cinque talenti: ecco, ne ho guadagnato altri cinque.
 R. Entra nel gaudio del tuo Signore, alleluia.
 
 [Lectio2]
-!Sir 39:6-10
-6 Egli, di buon mattino rivolge il suo cuore al Signore che l'ha creato, e prega alla presenza dell'Altissimo. 
-7 Apre la sua bocca alla preghiera e prega per i suoi peccati. 
-8 Se il Signore, il grande Iddio, vorrà lo riempirà dello spirito di intelligenza:
-9 ed egli, come pioggia spanderà le parole della sua sapienza e nella sua preghiera loderà il Signore, 
-10 il quale indirizzerà la sua prudenza e il suo sapere, e lo guiderà nella conoscenza dei misteri divini.
+@Commune/C4a:Lectio2
 
 [Responsory2]
 R. Ecco il gran sacerdote che nei suoi giorni piacque a Dio: 
@@ -88,11 +77,7 @@ V. Gli diede la benedizione di tutte le genti e confermò il suo patto sul capo 
 R. Per questo il Signore giurò di elevarlo sopra il suo popolo, alleluia.
 
 [Lectio3]
-!Sir 39:11-14
-11 Egli divulgherà l'insegnamento della sua dottrina, e si glorierà nella legge dell'alleanza del Signore. 
-12 Molti celebreranno la sua sapienza, ed egli non sarà dimenticato. 
-13 Non perirà la sua memoria, e il suo nome sarà ripetuto di generazione in generazione. 
-14 I popoli divulgheranno la sua sapienza e la Chiesa ne ripeterà l'elogio.
+@Commune/C4a:Lectio3
 
 [Responsory3]
 R. Il Signore ha giurato, né si pentirà: 
@@ -103,9 +88,7 @@ R. Tu sei sacerdote  in eterno,  secondo  l'ordine di Melchisedech, alleluia.
 R. Tu sei sacerdote  in eterno,  secondo  l'ordine di Melchisedech, alleluia.
 
 [Lectio4]
-Sermone di s. Massimo vescovo
-!Omelia 59, la seconda su sant'Eusebio di Vercelli.
-Aggiungere qualche cosa alle lodi del nostro santo e beatissimo padre N., di cui oggi celebriamo la festa, sarebbe un diminuirle, poiché la bellezza delle sue virtù non si deve esporre con i discorsi, ma provare con le opere. E, poiché la Scrittura dice: "Il figlio sapiente è la gloria del padre", quanto sarà grande la, gloria di colui che è allietato dalia sapienza e dalla devozione di tanti figli? Egli stesso infatti ci ha generati in Gesù Cristo mediante il Vangelo.  
+@Commune/C4a:Lectio4
 
 [Responsory4]
 R. Ho trovato il mio servo David e l'ho unto col mio santo olio: 
@@ -114,7 +97,7 @@ V. Nulla potrà contro di lui il nemico e il figlio dell'iniquità non potrà fa
 R. La mia mano lo assisterà, alleluia.
 
 [Lectio5]
-Tutto ciò che vi può essere di virtù e di grazia in questo popolo fedele è scaturito da lui, come l'acqua dei piccoli ruscelli deve la sua purezza a limpidissima sorgente. Infatti, perché eccelleva nella castità, perché si teneva onorato di praticare rigorosa astinenza, perché si mostrava pieno di dolcezza e di bontà, si conciliò l'affetto di tutti i cittadini e li condusse a Dio; perché risplendeva nell'esercizio del ministero pastorale, lasciò molli tra i discepoli che seguirono le sue orme nel sacerdozio.  
+@Commune/C4a:Lectio5
 
 [Responsory5]
 R. Ho posto il mio aiuto in un potente ed ho esaltalo uno scelto tra il mio popolo. 
@@ -123,7 +106,7 @@ V. Ho trovato il mio servo David e l'ho unto col mio santo olio.
 R. La mia mano lo assisterà, alleluia.
 
 [Lectio6]
-A ragione, in questo giorno, reso per noi lieto dall'entrata in paradiso del nostro santo padre N., abbiamo cantato il versetto del seguente salmo: "Il giusto sarà ricordato in eterno". Degnamente infatti vive nel ricordo degli uomini colui che è passalo al gaudio degli angeli. La parola divina dice: "Non lodare un uomo durante la sua vita"; come se dicesse: lodalo dopo la vita, glorificalo dopo la morte. Infatti, per una duplice ragione, è più utile lodare la memoria degli uomini che la loro vita : perché allora principalmente si esaltino i meriti della santità, quando né l'adulazione può spingere alla lode, né la superbia può tentare chi è lodato.
+@Commune/C4a:Lectio6
 
 [Responsory6]
 R. Questi ha praticato davanti a Dio grandi virtù e tutta la terra è ripiena della sua dottrina: 
@@ -134,13 +117,7 @@ R. Egli interceda per i peccati di tutti gli uomini, alleluia.
 R. Egli interceda per i peccati di tutti gli uomini, alleluia.
 
 [Lectio7]
-Dal Vangelo secondo Matteo
-!Matt 5:13-19
-In quel tempo, Gesù disse ai suoi discepoli: "Voi siete il sale della terra. Se il sale diventa insipido, con che cosa si salerà?".  (continua nella Messa del giorno) 
-_
-Omelia di s. Ilario vescovo
-!Comm. su Matteo, can. 4
-Voi siete il sale della terra. Se il sale diventa insipido, non è buono a nulla quello che si salerà.  Ma io credo che non ci sia il sale della terra. In che modo quindi chiamò gli apostoli il sale della terra? Ma va cercata la proprietà delle cose dette, che sarà mostrata sia dal compito degli apostoli, sia dalla natura dello stesso sale. Il sale è in se come una cosa sola e contiene l'elemento dell'acqua e quello del fuoco, e questo di due è una cosa sola.
+@Commune/C4a:Lectio7
 
 [Responsory7]
 R. Il Signore l'ha amato ed onorato: l'ha rivestito con un manto di gloria, 
@@ -149,7 +126,7 @@ V. Il Signore lo ha rivestito dello scudo della fede e lo ha onorato.
 R. E l'ha incoronato alle porte del paradiso, alleluia.
 
 [Lectio8]
-Questo dunque reso efficace in ogni uso del genere umano, impartisce l'incorruttibilità ai corpi su cui sia stato cosparso, ed è dispensatore prontissimo ad ogni senso  del sapore intrinseco. Ma gli apostoli sono i predicatori delle cose celesti, e come i seminatori dell'eternità, conferenti l'immortalità a tutti i corpi sui quali sia stato cosparso il loro annuncio. Meritatamente quindi sono chiamati sale della terra, perché conservano i corpi per l'eternità a maniera di una salatura per virtù della dottrina.
+@Commune/C4a:Lectio8
 
 [Responsory8]
 R. Gli schiuse la bocca in mezzo all'adunanza;
@@ -160,8 +137,7 @@ R. Il Signore lo riempì dello spirito di sapienza e d'intelligenza, alleluia.
 R. Il Signore lo riempì dello spirito di sapienza e d'intelligenza, alleluia.
 
 [Lectio9]
-Ma la natura del sale è sempre la stessa, né si può mai mutare. È vero che l'uomo sarà sottoposto alla mutazione e solo è beato chi sarà rimasto fino alla fine in tutte le opere di Dio: pertanto li ammonisce, avendoli chiamati sale della terra, di persistere nella virtù della potenza a loro conferita, per evitare che diventati vani non salino più, ed essi, perso il senso del sapore ricevuto, non possano vivificare i corpi corrotti, e gettatati dagli armai della Chiesa, con quelli che avrebbero salato, siano calpestati dai piedi dei passanti.
-&teDeum
+@Commune/C4a:Lectio9
 
 [Ant Laudes]
 Ecco il gran sacerdote, * che nei suoi giorni piacque a Dio e fu trovato giusto, alleluia.

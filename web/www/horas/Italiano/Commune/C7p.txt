@@ -1,5 +1,5 @@
 [Name]
-Commune non Virginum Martyrum  Tempore Paschali
+Commune non Virginum Martyrum Tempore Paschali
 
 [Rule]
 Psalmi Dominica
@@ -51,16 +51,7 @@ V. L'ha eletta Iddio e l'ha prescelta, alleluia.
 R. La fa abitare nella sua dimora, alleluia.
 
 [Lectio1]
-Dalle parabole di Salomone
-!Prov 31:10-17
-10 Chi potrà trovare una donna forte? Ella vale più delle perle portate da lontano. 
-11 In lei confida il cuore dello sposo, il quale non mancherà di ricchezze.
-12 A lui ella darà sempre gioie e mai dispiaceri per tutto il tempo della vita.
-13 Ella si procura della lana e del lino e li lavora poi con le sue mani industriose. 
-14 È simile alla nave di un mercante, che non riposa per portare da lontano il proprio vitto. 
-15 Si alza quando è ancora notte e distribuisce il cibo ai domestici è alle ancelle. 
-16 Pone gli occhi su di un podere e Io compera e col frutto del suo lavoro vi pianta una vigna. 
-17 Cinge con forza i suoi fianchi e rende robusto il suo braccio.
+@Commune/C7:Lectio1
 
 [Responsory1]
 R. Vieni, mia eletta, e porrò in te il mio trono: 
@@ -69,14 +60,7 @@ V. Col tuo splendore e con la tua bellezza, vieni, avanza lietamente e regna.
 R. Poiché il Re amò la tua bellezza, alleluia.
 
 [Lectio2]
-!Prov 31:18-24
-18 Si rallegra, perché vede che il suo lavoro le frutta: durante la notte la sua lucerna non si spegnerà. 
-19 Pone mano a lavori utili e le sue dita stringono il fuso. 
-20 Apre la sua mano al misero e stende le sue palme al povero. 
-21 Non teme per la sua casa, il freddo della neve, perché tutti quelli della sua famiglia hanno vesti doppie.
-22 Si è fatta una veste ricamata; il suo abito è di bisso e porpora. 
-23 Il marito è stimato alle porte della città quando siede con gli anziani del paese.
-24 Ha confezionato un manto e lo ha venduto; e una cintura, che ha consegnata al mercante.
+@Commune/C7:Lectio2
 
 [Responsory2]
 R. La grazia è cosparsa sulle tue labbra,  
@@ -85,14 +69,7 @@ V. Col tuo splendore e con la tua bellezza, vieni, avanza lietamente e regna.
 R. Perciò Iddio ti ha benedetta in eterno, alleluia.
 
 [Lectio3]
-!Prov 31:25-31
-25 Forza e bellezza sono il suo vestito e sorride all'avvenire. 
-26 Apre la sua bocca alla sapienza e la legge della bontà è sulla sua lingua. 
-27 Sorveglia l'andamento della sua casa e non mangia il pane nell'ozio. 
-28 Sorgono i suoi figli e la proclamano beata; anche il marito la loda. 
-29 Molte figlie hanno radunato ricchezze: ma tu le hai superate tutte. 
-30 Fallace è l'avvenenza e vana è la bellezza: la donna che teme il Signore, questa sarà lodata.
-31 Rendete omaggio al frutto delle sue mani e risuonino alle porte gli elogi delle sue opere.
+@Commune/C7:Lectio3
 
 [Responsory3]
 R. Con il tuo splendore e con la tua bellezza,
@@ -103,9 +80,7 @@ R. Vieni, avanza lietamente, e regna, alleluia.
 R. Vieni, avanza lietamente, e regna, alleluia.
 
 [Lectio4]
-Dal libro di s. Ambrogio vescovo sulle vedove
-!vicino alla fine
-Io vedo questo fertile campo della Chiesa ora ornarsi di fiori primaverili della verginità, ora divenire imponente per la gravità delle vedove, ora arricchirsi dei frutti del matrimonio. Perché, sebbene diversi, sono tuttavia frutti di uno stesso campo; né i gigli dei giardini sono tanti, quante sono le biade dei campi, le spighe delle messi; e le terre che si coltivano sono assai più numerose di quelle che si lasciano riposare dopo averne raccolto i frutti. La vedovanza, che l'Apostolo ha tante volte lodata, è cosa buona. Essa infatti insegna la fede, insegna la castità.
+@Commune/C7:Lectio4
 
 [Responsory4]
 R. Per la verità, la mansuetudine e la giustizia, 
@@ -114,7 +89,7 @@ V. Col tuo splendore e con la tua bellezza, vieni, avanza lietamente e regna.
 R. La tua destra ti guiderà mirabilmente, alleluia.
 
 [Lectio5]
-Onde quelli che venerano gli adultèri e le infamie dei loro dei, hanno fissato delle pene contro il celibato e la vedovanza, per punire, essi amanti dei delitti, l'amore per le virtù, con l'intento di abolire, adducendo il pretesto di favorire la fecondità, il proposito della castità.  Infatti anche il soldato, una volta terminato il servizio, depone le armi, e dopo aver abbandonato il mestiere che esercitava, si ritira come veterano nelle proprie campagne; per ottenere anche per sé il riposo, dopo le fatiche di una vita travagliata e perché la speranza di poter godere in futuro tale riposo renda gli altri più risoluti a sopportare il lavoro. Anche l'agricoltore troppo vecchio affida ad altri la guida dell'aratro e, stanco ormai per il lavoro della sua gioventù, cerca la saggezza delle senili occupazioni: come il potare la vite, cosa più facile che pigiarla, per reprimerne il soverchio crescente rigoglio e per tagliare con la roncola i verdi germogli sovrabbondanti; insegnandoci nei pochi tralci che lascia, che anche nella vite si deve cercare una certa continenza.
+@Commune/C7:Lectio5
 
 [Responsory5]
 R. Hai amato la giustizia ed hai odiato l'iniquità: 
@@ -123,7 +98,7 @@ V. Per la verità, la mansuetudine e la giustizia.
 R. Perciò Dio, il tuo Dio, ti unse, con olio di letizia, alleluia.
 
 [Lectio6]
-Così è anche una vedova; come una veterana, dopo aver compiuto il periodo del suo casto servizio, anche se abbandona le armi dello stato matrimoniale, tuttavia governa in pace tutta la casa; anche se non porta più pesi, ciononostante, preoccupata di condurre al matrimonio le figlie nel modo più utile e conveniente, con la saggezza propria della sua età, prepara per loro una unione perfetta. Pertanto, se un campo viene affidato meglio a persone anziane che a dei giovani, perché pensare che una sposa sia più utile che una vedova? Poiché se i persecutori della fede furono anche persecutori della vedovanza, coloro che professano questa fede non devono certamente fuggire la vedovanza come un supplizio, ma ritenerla come un premio.
+@Commune/C7:Lectio6
 
 [Responsory6]
 R. Fallace è l'avvenenza e vana la bellezza:
@@ -134,13 +109,7 @@ R. La donna che teme il Signore, questa sarà lodata, alleluia.
 R. La donna che teme il Signore, questa sarà lodata, alleluia.
 
 [Lectio7]
-Dal Vangelo secondo Matteo
-!Matt 13:44
-In quel tempo Gesù disse ai suoi discepoli questa parabola: "Il regno dei cieli è simile ad un tesoro nascosto in un campo". (continua nella Messa del giorno)
-_
-Omelia di s. Gregorio papa
-!Omelia 11 sui Vangeli
-Il regno dei cieli, fratelli carissimi, si dice simile a cose terrene, affinché l'anima si elevi da ciò che conosce a ciò che non conosce affatto, così che dall'esempio delle cose visibili si sollevi alle invisibili, e come incitata da ciò che ha appreso, s'infiammi a tal punto da imparare ad amare, per mezzo dell'affetto per un bene conosciuto, anche beni sconosciuti. Ecco dunque che il regno dei cieli si paragona ad un tesoro nascosto in un campo. L uomo che l'ha trovato, lo tiene nasco- sto e, per la gioia di possederlo, va a vendere tutto ciò che possiede e compra quel campo.  
+@Commune/C7:Lectio7
 
 [Responsory7]
 R. Apre la sua bocca alla sapienza e la legge della bontà è sulla sua lingua. Sorveglia l'andamento della sua casa 
@@ -149,7 +118,7 @@ V. Si rallegra, perché vede che il suo lavoro le frutta; durante la notte la su
 R. E non mangia il pane nell'ozio, alleluia.
 
 [Lectio8]
-Ed in ciò si deve anche notare che il tesoro trovato viene nascosto perché sia conservato: poiché non riuscirà a difendere dagli spiriti maligni l'ardore del desiderio che sente per il cielo, colui che non lo sottrae alle umane lodi. Infatti nella vita presente ci troviamo come in una via, lungo la quale ci dirigiamo alla patria. Gli spiriti maligni ci tendono insidie lungo la strada, come ladruncoli. Portare dunque pubblicamente un tesoro per via è come desiderare di essere derubati. Ora io dico questo, non perché il prossimo non veda le nostre opere buone, poiché sta scritto: "Vedano le vostre opere buone e glorifichino il Padre vostro che è nei cieli"; ma perché non cerchiamo lodi dall'esterno per quello che facciamo. L'opera  quindi sia pure pubblica, ma rimanga occulta l'intenzione; affinché noi possiamo dare al prossimo l'esempio di un'opera buona, e tuttavia con l'intenzione, per la quale cerchiamo di piacere soltanto a Dio, desideriamo sempre il segreto.
+@Commune/C7:Lectio8
 
 [Responsory8]
 R. Ho disprezzato il regno del mondo e gli ornamenti del secolo per amore di Gesù Cristo mio Signore: 
@@ -160,8 +129,7 @@ R. L'ho visto e l'ho amato, in lui ho creduto e in lui ho riposto il mio amore, 
 R. L'ho visto e l'ho amato, in lui ho creduto e in lui ho riposto il mio amore, alleluia.
 
 [Lectio9]
-Il tesoro è il desiderio del cielo, e il campo nel quale è nascosto, è una vita degna del cielo.  Vende subito ogni cosa per comperare questo campo chi, rinunziando ai piaceri della carne, con pratica esatta di questa vita di cielo, calpesta tutti i suoi desideri terreni, così che nulla più gli piaccia di ciò che solletica la carne, e il suo spirito non tema nulla di ciò che distrugge la vita carnale.
-&teDeum
+@Commune/C7:Lectio9
 
 [Ant Laudes]
 Mentre il re * era adagiato alla sua mensa, il mio nardo mandò soave profumo, alleluia.

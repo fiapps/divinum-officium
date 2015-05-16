@@ -59,15 +59,7 @@ V. Tu sei sacerdote in eterno. Alleluia.
 R. Secondo l'ordine di Melchisedech. Alleluia.
 
 [Lectio1]
-Dalla prima lettera di s. Paolo apostolo a Timoteo
-!1 Tim 3:1-7
-1 Dottrina garantita è questa: se qualcuno aspira all'episcopato, aspira ad una nobile funzione. 
-2 Ebbene, è necessario che il vescovo sia irreprensibile, marito di una sola donna, sobrio, assennato, distinto, virtuoso, cordiale verso gli estranei, capace d'insegnare; 
-3 non dedito al vino, non violento ma indulgente, conciliativo, disinteressato; 
-4 sappia governare bene la propria casa e tenere sottomessi i figli con pieno decoro; 
-5 poiché se uno non sa governare la propria casa, come potrà avere cura della Chiesa di Dio?; 
-6 non sia un convertito di recente, affinché, gonfio d'orgoglio, non incorra nella stessa condanna del diavolo. 
-7 Inoltre, deve godere la stima di quelli di fuori, in modo da non cadere in discredito e nella rete del diavolo.
+@Commune/C4:Lectio1
 
 [Responsory1]
 R. Servo buono e fedele, poiché sei stato fedele nel poco, ti darò autorità su molto: 
@@ -76,13 +68,7 @@ V. Signore, mi hai affidato cinque talenti: ecco, ne ho guadagnato altri cinque.
 R. Entra nel gaudio del tuo Signore. Alleluia.
 
 [Lectio2]
-Dalla lettera a Tito
-!Tito 1:7-11
-7 Infatti è necessario che il vescovo sia incensurabile, poiché egli governa la casa di Dio, e non sia altezzoso, né irascibile, né dedito al vino, né violento, né avido di loschi guadagni, 
-8 ma cordiale verso gli estranei, amante del bene, equilibrato, giusto, pio, padrone di sé, 
-9 saldamente abbracciato alla verace dottrina, quale fu insegnata, in modo che sia in grado con quell'insegnamento salutare di rivolgere esortazioni e di confutare gli avversari. 
-10 Di fatto, vi sono molti insubordinati, ciarlatani e ingannatori, provenienti in massima parte dalla circoncisione, 
-11 ai quali bisogna chiudere la bocca, poiché essi sono capaci di sconvolgere intere famiglie spacciando insegnamenti vietati, per losco guadagno.
+@Commune/C4:Lectio2
 
 [Responsory2]
 R. Ecco il gran sacerdote che nei suoi giorni piacque a Dio: 
@@ -91,15 +77,7 @@ V. Gli diede la benedizione di tutte le genti e confermò il suo patto sul capo 
 R. Per questo il Signore giurò di elevarlo sopra il suo popolo. Alleluia.
 
 [Lectio3]
-!Tito 2:1-8
-1 Tu invece devi predicare quello che è in accordo con il salutare insegnamento: 
-2 che i vecchi siano sobri, dignitosi, assennati, robusti nella fede, nella carità, nella pazienza. 
-3 Altrettanto, che le donne anziane abbiano un contegno santamente decoroso, non siano maldicenti né, schiave del vino; siano maestre di bontà, 
-4 affinché istruiscano le giovani spose ad amare i mariti e i figli, 
-5 ad essere assennate, caste, laboriose in famiglia, buone, sottomesse ai loro mariti, in modo che la parola di Dio non sia oltraggiata.
-6 Ugualmente esorta i giovani perché siano temperanti in tutto. 
-7 Presenta te stesso quale modello di opere buone, insegnando con incorruttibilità, nobiltà, esposizione sana, incensurabile, 
-8 in modo che chi sta all'opposizione si vergogni, non avendo nulla di male da dire sul conto nostro.
+@Commune/C4:Lectio3
 
 [Responsory3]
 R. Il Signore ha giurato, né si pentirà: 
@@ -110,9 +88,7 @@ R. Tu sei sacerdote  in eterno,  secondo  l'ordine di Melchisedech. Alleluia.
 R. Tu sei sacerdote  in eterno,  secondo  l'ordine di Melchisedech. Alleluia.
 
 [Lectio4]
-Sermone di s. Massimo vescovo
-!Omelia 59, la seconda su sant'Eusebio di Vercelli.
-Aggiungere qualche cosa alle lodi del nostro santo e beatissimo padre N., di cui oggi celebriamo la festa, sarebbe un diminuirle, poiché la bellezza delle sue virtù non si deve esporre con i discorsi, ma provare con le opere. E, poiché la Scrittura dice: "Il figlio sapiente è la gloria del padre", quanto sarà grande la, gloria di colui che è allietato dalia sapienza e dalla devozione di tanti figli? Egli stesso infatti ci ha generati in Gesù Cristo mediante il Vangelo.  
+@Commune/C4:Lectio4
 
 [Responsory4]
 R. Ho trovato il mio servo David e l'ho unto col mio santo olio: 
@@ -121,7 +97,7 @@ V. Nulla potrà contro di lui il nemico e il figlio dell'iniquità non potrà fa
 R. La mia mano lo assisterà. Alleluia.
 
 [Lectio5]
-Tutto ciò che vi può essere di virtù e di grazia in questo popolo fedele è scaturito da lui, come l'acqua dei piccoli ruscelli deve la sua purezza a limpidissima sorgente. Infatti, perché eccelleva nella castità, perché si teneva onorato di praticare rigorosa astinenza, perché si mostrava pieno di dolcezza e di bontà, si conciliò l'affetto di tutti i cittadini e li condusse a Dio; perché risplendeva nell'esercizio del ministero pastorale, lasciò molli tra i discepoli che seguirono le sue orme nel sacerdozio.  
+@Commune/C4:Lectio5
 
 [Responsory5]
 R. Ho posto il mio aiuto in un potente ed ho esaltalo uno scelto tra il mio popolo. 
@@ -130,7 +106,7 @@ V. Ho trovato il mio servo David e l'ho unto col mio santo olio.
 R. La mia mano lo assisterà. Alleluia.
 
 [Lectio6]
-A ragione, in questo giorno, reso per noi lieto dall'entrata in paradiso del nostro santo padre N., abbiamo cantato il versetto del seguente salmo: "Il giusto sarà ricordato in eterno". Degnamente infatti vive nel ricordo degli uomini colui che è passalo al gaudio degli angeli. La parola divina dice: "Non lodare un uomo durante la sua vita"; come se dicesse: lodalo dopo la vita, glorificalo dopo la morte. Infatti, per una duplice ragione, è più utile lodare la memoria degli uomini che la loro vita : perché allora principalmente si esaltino i meriti della santità, quando né l'adulazione può spingere alla lode, né la superbia può tentare chi è lodato.
+@Commune/C4:Lectio6
 
 [Responsory6]
 R. Questi ha praticato davanti a Dio grandi virtù e tutta la terra è ripiena della sua dottrina: 
@@ -141,13 +117,7 @@ R. Egli interceda per i peccati di tutti gli uomini. Alleluia.
 R. Egli interceda per i peccati di tutti gli uomini. Alleluia.
 
 [Lectio7]
-Dal Vangelo secondo Matteo
-!Matt 25:14-23
-In quel tempo Gesù disse ai suoi discepoli questa parabola: "Un uomo prima di mettersi in viaggio, chiamò i suoi servi, e consegnò loro i suoi beni". (continua nella Messa del giorno) 
-_
-Omelia di s. Gregorio papa
-!Omelia 9 sui Vangeli.
-La lettura del santo Vangelo, fratelli carissimi, ci avverte di considerare diligentemente che noi, che abbiamo ricevuto in questo mondo più degli altri, saremo poi giudicati più severamente dall'autore del mondo. Infatti più i doni sono numerosi, e tanto più grande è il conto che bisogna renderne. Le grazie dunque che si ricevono, devono rendere ciascuno tanto più umile e più pronto a servire a Dio, quanto più si vide obbligato a renderne conto. Ecco un uomo che, nel mettersi in viaggio, chiama i suoi servi e divide tra loro i talenti da far fruttare. Ma dopo molto tempo ritorna per chiederne conto, e ricompensa del guadagno fatto coloro che li hanno impiegati bene, mentre condanna il servo che fu negligente nel farli fruttare.  
+@Commune/C4:Lectio7
 
 [Responsory7]
 R. Il Signore l'ha amato ed onorato: l'ha rivestito con un manto di gloria,
@@ -156,7 +126,7 @@ V. Il Signore lo ha rivestito dello scudo della fede e lo ha onorato.
 R. E l'ha incoronato alle porte del paradiso. Alleluia.
 
 [Lectio8]
-Chi è dunque quest'uomo che si mette in viaggio, se non il nostro Redentore che, col corpo che aveva preso, se ne andò in cielo? La terra è infatti il luogo proprio della carne; ed essa è comò condotta a mettersi in viaggio quando dal nostro Redentore viene portata in cielo. Ma, come quest'uomo, egli, prima di mettersi in viaggio, consegnò ai suoi servi i propri beni, perché concesse ai suoi fedeli dei doni spirituali. E ad uno diede cinque talenti, ad un altro due, ad un altro uno. Cinque sono infatti i sensi del corpo, cioè: la vista, l'udito, il gusto, l'odorato e il tatto. Con i cinque talenti dunque viene rappresentato il dono dei cinque sensi, cioè la conoscenza delle cose esteriori ; con i due talenti invece vengono indicati l'intelletto e l'azione; con l'unico talento infine si indica soltanto l'intelletto.
+@Commune/C4:Lectio8
 
 [Responsory8]
 R. Siano cinti i vostri fianchi ed accese nelle vostre mani le lucerne, e 
@@ -167,8 +137,7 @@ R. Siate come coloro che aspettano il loro padrone quando torni da nozze. Allelu
 R. Siate come coloro che aspettano il loro padrone quando torni da nozze. Alleluia.
 
 [Lectio9]
-Mira colui che aveva ricevuto cinque talenti ne guadagnò altri cinque; perché ci sono alcuni che, pur non riuscendo a penetrare le profondità mistiche, tuttavia in vista della patria celeste insegnano, per quanto possono, la rettitudine; dagli stessi talenti esteriori che hanno ricevuto ne ricavano il doppio; e mentre proteggono sé stessi dall'insolenza della carne, dalla corruzione delle cose terrene e dai piaceri delle cose visibili, distolgono da esse con l'esortazione anche gli altri. Ci sono pure alcuni che, quasi arricchiti di due talenti, ricevono il dono dell'intelletto e dell'azione, comprendono le sottigliezze interiori e operano meraviglie all'esterno; e mentre predicano agli altri con l'intelligenza e l'azione, riportano quasi un doppio guadagno dalla loro attività.
-&teDeum
+@Commune/C4:Lectio9
 
 [Ant Laudes]
 Ecco il gran sacerdote, * che nei suoi giorni piacque a Dio e fu trovato giusto. Alleluia.

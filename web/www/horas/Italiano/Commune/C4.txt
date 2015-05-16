@@ -107,14 +107,14 @@ V. Tu sei sacerdote in eterno.
 R. Secondo l'ordine di Melchisedech. 
 
 [Lectio1]
-Dalla prima lettera di s. Paolo apostolo a Timoteo
-!1 Tim 3:1-7
-1 Dottrina garantita è questa: se qualcuno aspira all'episcopato, aspira ad una nobile funzione. 
-2 Ebbene, è necessario che il vescovo sia irreprensibile, marito di una sola donna, sobrio, assennato, distinto, virtuoso, cordiale verso gli estranei, capace d'insegnare; 
-3 non dedito al vino, non violento ma indulgente, conciliativo, disinteressato; 
-4 sappia governare bene la propria casa e tenere sottomessi i figli con pieno decoro; 
-5 poiché se uno non sa governare la propria casa, come potrà avere cura della Chiesa di Dio?; 
-6 non sia un convertito di recente, affinché, gonfio d'orgoglio, non incorra nella stessa condanna del diavolo. 
+Dalla prima lettera di san Paolo apostolo a Timoteo
+!1 Tm 3,1-7
+1 Dottrina garantita è questa: se qualcuno aspira all’episcopato, aspira ad una nobile funzione.
+2 Ebbene, è necessario che il vescovo sia irreprensibile, marito di una sola donna, sobrio, assennato, distinto, virtuoso, cordiale verso gli estranei, capace d’insegnare;
+3 non dedito al vino, non violento ma indulgente, conciliativo, disinteressato;
+4 sappia governare bene la propria casa e tenere sottomessi i figli con pieno decoro;
+5 poiché se uno non sa governare la propria casa, come potrà avere cura della Chiesa di Dio?
+6 Non sia un convertito di recente, affinché, gonfio d’orgoglio, non incorra nella stessa condanna del diavolo.
 7 Inoltre, deve godere la stima di quelli di fuori, in modo da non cadere in discredito e nella rete del diavolo.
 
 [Responsory1]
@@ -125,11 +125,11 @@ R. Entra nel gaudio del tuo Signore.
 
 [Lectio2]
 Dalla lettera a Tito
-!Tito 1:7-11
-7 Infatti è necessario che il vescovo sia incensurabile, poiché egli governa la casa di Dio, e non sia altezzoso, né irascibile, né dedito al vino, né violento, né avido di loschi guadagni, 
-8 ma cordiale verso gli estranei, amante del bene, equilibrato, giusto, pio, padrone di sé, 
-9 saldamente abbracciato alla verace dottrina, quale fu insegnata, in modo che sia in grado con quell'insegnamento salutare di rivolgere esortazioni e di confutare gli avversari. 
-10 Di fatto, vi sono molti insubordinati, ciarlatani e ingannatori, provenienti in massima parte dalla circoncisione, 
+!Tit 1,7-11
+7 Infatti è necessario che il vescovo sia incensurabile, poiché egli governa la casa di Dio, e non sia altezzoso, né irascibile, né dedito al vino, né violento, né avido di loschi guadagni,
+8 ma cordiale verso gli estranei, amante del bene, equilibrato, giusto, pio, padrone di sé,
+9 saldamente abbracciato alla verace dottrina, quale fu insegnata, in modo che sia in grado con quell’insegnamento salutare di rivolgere esortazioni e di confutare gli avversari.
+10 Di fatto, vi sono molti insubordinati, ciarlatani e ingannatori, provenienti in massima parte dalla circoncisione,
 11 ai quali bisogna chiudere la bocca, poiché essi sono capaci di sconvolgere intere famiglie spacciando insegnamenti vietati, per losco guadagno.
 
 [Responsory2]
@@ -139,15 +139,15 @@ V. Gli diede la benedizione di tutte le genti e confermò il suo patto sul capo 
 R. Per questo il Signore giurò di elevarlo sopra il suo popolo.
 
 [Lectio3]
-!Tito 2:1-8
-1 Tu invece devi predicare quello che è in accordo con il salutare insegnamento: 
-2 che i vecchi siano sobri, dignitosi, assennati, robusti nella fede, nella carità, nella pazienza. 
-3 Altrettanto, che le donne anziane abbiano un contegno santamente decoroso, non siano maldicenti né, schiave del vino; siano maestre di bontà, 
-4 affinché istruiscano le giovani spose ad amare i mariti e i figli, 
+!Tit 2,1-8
+1 Tu invece devi predicare quello che è in accordo con il salutare insegnamento:
+2 che i vecchi siano sobri, dignitosi, assennati, robusti nella fede, nella carità, nella pazienza.
+3 Altrettanto, che le donne anziane abbiano un contegno santamente decoroso, non siano maldicenti, né schiave del vino; siano maestre di bontà,
+4 affinché istruiscano le giovani spose ad amare i mariti e i figli,
 5 ad essere assennate, caste, laboriose in famiglia, buone, sottomesse ai loro mariti, in modo che la parola di Dio non sia oltraggiata.
-6 Ugualmente esorta i giovani perché siano temperanti in tutto. 
-7 Presenta te stesso quale modello di opere buone, insegnando con incorruttibilità, nobiltà, esposizione sana, incensurabile, 
-8 in modo che chi sta all'opposizione si vergogni, non avendo nulla di male da dire sul conto nostro.
+6 Ugualmente esorta i giovani perché siano temperanti in tutto.
+7 Presenta te stesso quale modello di opere buone, insegnando con incorruttibilità, nobiltà, esposizione sana,
+8 incensurabile, in modo che chi sta all’opposizione si vergogni, non avendo nulla di male da dire sul conto nostro.
 
 [Responsory3]
 R. Il Signore ha giurato, né si pentirà: 
@@ -158,9 +158,9 @@ R. Tu sei sacerdote  in eterno,  secondo  l'ordine di Melchisedech.
 R. Tu sei sacerdote  in eterno,  secondo  l'ordine di Melchisedech.
 
 [Lectio4]
-Sermone di s. Massimo vescovo
-!Omelia 59, la seconda su sant'Eusebio di Vercelli.
-Aggiungere qualche cosa alle lodi del nostro santo e beatissimo padre N., di cui oggi celebriamo la festa, sarebbe un diminuirle, poiché la bellezza delle sue virtù non si deve esporre con i discorsi, ma provare con le opere. E, poiché la Scrittura dice: "Il figlio sapiente è la gloria del padre", quanto sarà grande la, gloria di colui che è allietato dalia sapienza e dalla devozione di tanti figli? Egli stesso infatti ci ha generati in Gesù Cristo mediante il Vangelo.  
+Sermone di san Massimo vescovo
+!Omelia 59, la 2° su Sant’Eusebio di Vercelli
+Aggiungere qualche cosa alle lodi del nostro santo e beatissimo padre N., di cui oggi celebriamo la festa, sarebbe un diminuirle, poiché la bellezza delle sue virtù non si deve esporre con i discorsi, ma provare con le opere. E, poiché la Scrittura dice: «Il figlio sapiente è la gloria del padre», quanto sarà grande la gloria di colui che è allietato dalla sapienza e dalla devozione di tanti figli? Egli stesso infatti ci ha generati in Gesù Cristo mediante il Vangelo.
 
 [Responsory4]
 R. Ho trovato il mio servo David e l'ho unto col mio santo olio: 
@@ -169,7 +169,7 @@ V. Nulla potrà contro di lui il nemico e il figlio dell'iniquità non potrà fa
 R. La mia mano lo assisterà.
 
 [Lectio5]
-Tutto ciò che vi può essere di virtù e di grazia in questo popolo fedele è scaturito da lui, come l'acqua dei piccoli ruscelli deve la sua purezza a limpidissima sorgente. Infatti, perché eccelleva nella castità, perché si teneva onorato di praticare rigorosa astinenza, perché si mostrava pieno di dolcezza e di bontà, si conciliò l'affetto di tutti i cittadini e li condusse a Dio; perché risplendeva nell'esercizio del ministero pastorale, lasciò molli tra i discepoli che seguirono le sue orme nel sacerdozio.  
+Tutto ciò che vi può essere di virtù e di grazia in questo popolo fedele è scaturito da lui, come l’acqua dei piccoli ruscelli deve la sua purezza a limpidissima sorgente. Infatti, perché eccelleva nella castità, perché si teneva onorato di praticare rigorosa astinenza, perché si mostrava pieno di dolcezza e di bontà, si conciliò l’affetto di tutti i cittadini e li condusse a Dio; perché risplendeva nell’esercizio del ministero pastorale, lasciò molti tra i discepoli che seguirono le sue orme nel sacerdozio.
 
 [Responsory5]
 R. Ho posto il mio aiuto in un potente ed ho esaltalo uno scelto tra il mio popolo. 
@@ -178,7 +178,7 @@ V. Ho trovato il mio servo David e l'ho unto col mio santo olio.
 R. La mia mano lo assisterà.
 
 [Lectio6]
-A ragione, in questo giorno, reso per noi lieto dall'entrata in paradiso del nostro santo padre N., abbiamo cantato il versetto del seguente salmo: "Il giusto sarà ricordato in eterno". Degnamente infatti vive nel ricordo degli uomini colui che è passalo al gaudio degli angeli. La parola divina dice: "Non lodare un uomo durante la sua vita"; come se dicesse: lodalo dopo la vita, glorificalo dopo la morte. Infatti, per una duplice ragione, è più utile lodare la memoria degli uomini che la loro vita : perché allora principalmente si esaltino i meriti della santità, quando né l'adulazione può spingere alla lode, né la superbia può tentare chi è lodato.
+A ragione, in questo giorno, reso per noi lieto dall’entrata in paradiso del nostro santo padre N., abbiamo cantato il versetto del seguente salmo: «Il giusto sarà ricordato in eterno». Degnamente infatti vive nel ricordo degli uomini colui che è passato al gaudio degli angeli. La parola divina dice: «Non lodare un uomo durante la sua vita»; come se dicesse: lodalo dopo la vita, glorificalo dopo la morte. Infatti, per una duplice ragione, è più utile lodare la memoria degli uomini che la loro vita: perché allora principalmente si esaltino i meriti della santità, quando né l’adulazione può spingere alla lode, né la superbia può tentare chi è lodato.
 
 [Responsory6]
 R. Questi ha praticato davanti a Dio grandi virtù e tutta la terra è ripiena della sua dottrina: 
@@ -190,12 +190,12 @@ R. Egli interceda per i peccati di tutti gli uomini.
 
 [Lectio7]
 Dal Vangelo secondo Matteo
-!Matt 25:14-23
-In quel tempo Gesù disse ai suoi discepoli questa parabola: "Un uomo prima di mettersi in viaggio, chiamò i suoi servi, e consegnò loro i suoi beni". (continua nella Messa del giorno) 
+!Mt 25,14-23
+In quel tempo Gesù disse ai suoi discepoli questa parabola: «Un uomo, prima di mettersi in viaggio, chiamò i suoi servi e consegnò loro i suoi beni». (continua nella Messa del giorno)
 _
-Omelia di s. Gregorio papa
-!Omelia 9 sui Vangeli.
-La lettura del santo Vangelo, fratelli carissimi, ci avverte di considerare diligentemente che noi, che abbiamo ricevuto in questo mondo più degli altri, saremo poi giudicati più severamente dall'autore del mondo. Infatti più i doni sono numerosi, e tanto più grande è il conto che bisogna renderne. Le grazie dunque che si ricevono, devono rendere ciascuno tanto più umile e più pronto a servire a Dio, quanto più si vide obbligato a renderne conto. Ecco un uomo che, nel mettersi in viaggio, chiama i suoi servi e divide tra loro i talenti da far fruttare. Ma dopo molto tempo ritorna per chiederne conto, e ricompensa del guadagno fatto coloro che li hanno impiegati bene, mentre condanna il servo che fu negligente nel farli fruttare.  
+Omelia di san Gregorio papa
+!Omelia 9 sui Vangeli
+La lettura del santo Vangelo, fratelli carissimi, ci avverte di considerare diligentemente che noi, che abbiamo ricevuto in questo mondo più degli altri, saremo poi giudicati più severamente dall’autore del mondo. Infatti più i doni sono numerosi, tanto più grande è il conto che bisogna renderne. Le grazie dunque che si ricevono, devono rendere ciascuno tanto più umile e più pronto a servire Dio, quanto più si vede obbligato a renderne conto. Ecco un uomo che, nel mettersi in viaggio, chiama i suoi servi e divide tra loro i talenti da far fruttare. Ma dopo molto tempo ritorna per chiederne conto, e ricompensa del guadagno fatto, coloro che li hanno impiegati bene, mentre condanna il servo che fu negligente nel farli fruttare.
 
 [Responsory7]
 R. Il Signore l'ha amato ed onorato: l'ha rivestito con un manto di gloria, 
@@ -204,7 +204,7 @@ V. Il Signore lo ha rivestito dello scudo della fede e lo ha onorato.
 R. E l'ha incoronato alle porte del paradiso.
 
 [Lectio8]
-Chi è dunque quest'uomo che si mette in viaggio, se non il nostro Redentore che, col corpo che aveva preso, se ne andò in cielo? La terra è infatti il luogo proprio della carne; ed essa è comò condotta a mettersi in viaggio quando dal nostro Redentore viene portata in cielo. Ma, come quest'uomo, egli, prima di mettersi in viaggio, consegnò ai suoi servi i propri beni, perché concesse ai suoi fedeli dei doni spirituali. E ad uno diede cinque talenti, ad un altro due, ad un altro uno. Cinque sono infatti i sensi del corpo, cioè: la vista, l'udito, il gusto, l'odorato e il tatto. Con i cinque talenti dunque viene rappresentato il dono dei cinque sensi, cioè la conoscenza delle cose esteriori ; con i due talenti invece vengono indicati l'intelletto e l'azione; con l'unico talento infine si indica soltanto l'intelletto.
+Chi è dunque quest’uomo che si mette in viaggio, se non il nostro Redentore che, col corpo che aveva preso, se ne andò in cielo? La terra è infatti il luogo proprio della carne; ed essa è come condotta a mettersi in viaggio quando dal nostro Redentore viene portata in cielo. Ma, come quest’uomo, egli, prima di mettersi in viaggio, consegnò ai suoi servi i propri beni, perché concesse ai suoi fedeli dei doni spirituali. E ad uno diede cinque talenti, ad un altro due, ad un altro uno. Cinque sono infatti i sensi del corpo, cioè: la vista, l’udito, il gusto, l’odorato e il tatto. Con i cinque talenti dunque viene rappresentato il dono dei cinque sensi, cioè la conoscenza delle cose esteriori; con i due talenti invece vengono indicati l’intelletto e l’azione; con l’unico talento infine si indica soltanto l’intelletto.
 
 [Responsory8]
 R. Siano cinti i vostri fianchi ed accese nelle vostre mani le lucerne, e 
@@ -215,7 +215,7 @@ R. Siate come coloro che aspettano il loro padrone quando torni da nozze.
 R. Siate come coloro che aspettano il loro padrone quando torni da nozze.
 
 [Lectio9]
-Mira colui che aveva ricevuto cinque talenti ne guadagnò altri cinque; perché ci sono alcuni che, pur non riuscendo a penetrare le profondità mistiche, tuttavia in vista della patria celeste insegnano, per quanto possono, la rettitudine; dagli stessi talenti esteriori che hanno ricevuto ne ricavano il doppio; e mentre proteggono sé stessi dall'insolenza della carne, dalla corruzione delle cose terrene e dai piaceri delle cose visibili, distolgono da esse con l'esortazione anche gli altri. Ci sono pure alcuni che, quasi arricchiti di due talenti, ricevono il dono dell'intelletto e dell'azione, comprendono le sottigliezze interiori e operano meraviglie all'esterno; e mentre predicano agli altri con l'intelligenza e l'azione, riportano quasi un doppio guadagno dalla loro attività.
+Ma colui che aveva ricevuto cinque talenti ne guadagnò altri cinque; perché ci sono alcuni che, pur non riuscendo a penetrare le profondità mistiche, tuttavia in vista della patria celeste insegnano, per quanto possono, la rettitudine; dagli stessi talenti esteriori che hanno ricevuto ne ricavano il doppio; e mentre proteggono se stessi dall’insolenza della carne, dalla corruzione delle cose terrene e dai piaceri delle cose visibili, distolgono da esse con l’esortazione anche gli altri. Ci sono pure alcuni che, quasi arricchiti di due talenti, ricevono il dono dell’intelletto e dell’azione, comprendono le sottigliezze interiori e operano meraviglie all’esterno; e mentre predicano agli altri con l’intelligenza e l’azione, riportano quasi un doppio guadagno dalla loro attività.
 &teDeum
 
 [Ant Laudes]
@@ -347,64 +347,64 @@ V. Il Signore condusse il giusto per le vie diritte.
 R. E gli mostrò il regno di Dio.
 
 [Lectio11]
-Lettura dal libro dell'Ecclesiastico
-!Sir 44:1-5
-1 Diamo lode agli nomini gloriosi ai maggiori nostri, da' quali siamo stati noi generati.
-2 Molta gloria si procurò per essi il Signore colla sua magnificenza, che è eterna.
-3 Eglino furon signori ne' loro regni, furon uomini grandi per valore, e forniti di prudenza. Essi come profeti fecer conoscere la profetica dignità.
-4 Essi imperarono colla virtù della prudenza al popolo de' loro tempi ingiungendo precetti santissimi a' sudditi.
-5 Col loro sapere investigarono i musicali concerti, e dettarono i cantici delle Scritture.
+Dal libro dell’Ecclesiastico
+!Sir 44,1-5
+1 Lodiamo gli uomini illustri, ed i nostri progenitori nella loro generazione.
+2 Il Signore ha suscitato grande gloria con la sua magnificenza fin dall’eternità.
+3 Coloro che dominano nel loro potere uomini di grande virtù, e dotati di prudenza, che proclamano nei profeti la dignità di profeti,
+4 e che comandano sul popolo contemporaneo, e con la virtù della prudenza comunicano ai popoli parole sante al sommo grado.
+5 Coloro che nella loro perizia ricercano le modulazioni musicali, e che ripetono canti delle scritture.
 
 [Lectio21]
-!Sir 44:6-9
-6 Uomini ricchi di virtù, solleciti del decoro del santuario tranquilli nelle loro case.
-7 Tutti questi ai tempi loro fecer acquisto di gloria, e onorarono la loro età.
-8 Quelli che nacquer da questi, lasciarono un nome, che fa rammentare le loro laudi.
-9 Ma furonvi alcuni, de' quali è spenta la memoria, i quali perirono come so mai non fossero stati ed essi, e i loro figli con essi, benché nascessero furono come non nati.
+!Sir 44,6-9
+6 Uomini ricchi in virtù, che hanno il desiderio della bellezza, che portano pace nelle loro case.
+7 Tutti costoro nelle generazioni della loro stirpe hanno ottenuto gloria, e vengono lodati nei loro giorni.
+8 Coloro che sono nati da essi, hanno lasciato un nome che ripete le loro lodi:
+9 e vi sono coloro dei quali non è ricordo: sono svaniti come se non esistessero; e sono nati, ed è come se non fossero nati, ed i loro figli con essi.
 
 [Lectio31]
-!Sir 44:10-15
-10 Ma quelli furono uomini di misericordia, e le opere di loro pietà non sono andate in oblio.
-11 La loro stirpe resta posseditrice de' loro beni. 
-12 I loro nipoti sono un popolo santo, e i loro posteri stetter costanti nella alleanza.
-13 E pel merito i oro durerà in perpetuo la loro discendenza; la loro stirpe, e la loro gloria non verrà meno. 
-14 I loro corpi furon sepolti in pace, e il loro nome vive per tutti i secoli. 
-15 La loro sapienza è celebrata da' popoli, e le loro lodi sono ripetute nelle sacre adunanze.
+!Sir 44,10-15
+10 Ma vi sono degli uomini pieni di misericordia, le cui virtù non sono state dimenticate;
+11 con la loro stirpe rimangono i beni,
+12 i loro nipoti sono un’eredità santa, e la loro discendenza è nella loro eredità.
+13 Ed i loro figli per merito loro rimarranno in eterno; la loro stirpe e la loro gloria non verrà meno.
+14 I loro corpi sono sepolti in pace, ed il loro nome vive per generazioni e generazioni.
+15 I popoli narrino la loro sapienza, e la Chiesa ripeta le loro lodi.
 
 [Lectio71]
 Dal Vangelo secondo Matteo
-!Matt 16:13-19
-In quel tempo Gesù, venuto nella zona di Cesarea di Filippo, interrogava i suoi discepoli: "Chi dicono che sia il Figlio dell uomo?".  (continua nella Messa del giorno)
+!Mt 16,13-19
+In quel tempo, Gesù, venuto nella zona di Cesarea di Filippo, interrogava i suoi discepoli: «Chi dicono che sia il Figlio dell’uomo?». (continua nella Messa del giorno)
 _
-Omelia di s. Leone papa
-!Sermone 2, nell'anniversario della sua ascesa, prima di metà
-Come ci riferisce la lettura evangelica. Gesù lui interrogò i discepoli che cosa pensassero di in mezzo a tanti pareri diversi. E san Pietro rispose: "Tu sei il Cristo, il Figlio del Dio vivente". Allora il Signore gli disse: "Beato te, o Simone, figlio di Giona, perché questo non ti è stato rivelato dalla carne o dal sangue, ma dal Padre mio che sta nei cieli. Perciò io ti dico che tu sei Pietro e su questa pietra edificherò la mia Chiesa e le porte dell'inferno non prevarranno mai contro di essa. E a te darò le chiavi del regno dei cieli, e qualunque cosa avrai legata sulla terra, sarà legata anche nei cieli, e qualun que cosa avrai sciolta sulla terra, sarà sciolta anche nei cieli". L"ordine stabilito da Gesù Cristo rimane ancora; e san Pietro, che ha conservato fino ad oggi la solidità della pietra, non abbandonò mai il governo della Chiesa di cui fu incaricato.  
+Omelia di san Leone papa
+!Omelia 2 per l'anniversario del Pontificato
+Come ci riferisce la lettura evangelica, Gesù interrogò i discepoli su che cosa pensassero di lui in mezzo a tanti pareri diversi. E san Pietro rispose: «Tu sei il Cristo, il Figlio del Dio vivente». Allora il Signore gli disse: «Beato te, o Simone, figlio di Giona, perché questo non ti è stato rivelato dalla carne o dal sangue, ma dal Padre mio che sta nei cieli. Perciò io ti dico che tu sei Pietro e su questa pietra edificherò la mia Chiesa e le porte dell’inferno non prevarranno mai contro di essa. E a te darò le chiavi del regno dei cieli, e qualunque cosa avrai legata sulla terra, sarà legata anche nei cieli, e qualunque cosa avrai sciolta sulla terra, sarà sciolta anche nei cieli». L’ordine stabilito da Gesù Cristo rimane ancora; e san Pietro, che ha conservato fino ad oggi la solidità della pietra, non abbandonò mai il governo della Chiesa di cui fu incaricato.
 
 [Lectio81]
-Nella Chiesa intera, infatti, ogni giorno Pietro dice: "Tu sei il Cristo, il Figlio del Dio vivente"; ed ogni lingua che riconosce il Signore viene istruita col magistero di tale voce. Tale fede sconfigge il diavolo e scioglie i legami di coloro che egli tiene prigionieri. Essa fa entrare nel cielo coloro che ha strappato alla terra e le porte dell'inferno non possono prevalere contro di essa. È stata infatti per potenza divina munita di una tale saldezza che mai la potrà corrompere la malvagità degli eretici né la potrà superare la perfidia dei pagani. Con tali disposizioni dunque, dilettissimi, e con razionale ossequio si celebri la festività odierna: affinché nell'umiltà della mia persona venga riconosciuto e onoralo colui, nel quale continua la cura che tutti i pastori hanno nella custodia delle pecore loro affidate e la cui dignità non viene meno per l'indegnità dell'erede.
+Nella Chiesa intera, infatti, ogni giorno Pietro dice: «Tu sei il Cristo, il Figlio del Dio vivente»; ed ogni lingua che riconosce il Signore viene istruita col magistero di tale voce. Tale fede sconfigge il diavolo e scioglie i legami di coloro che egli tiene prigionieri. Essa fa entrare nel cielo coloro che ha strappato alla terra e le porte dell’inferno non possono prevalere contro di essa. È stata infatti per potenza divina munita di una tale saldezza che mai la potrà corrompere la malvagità degli eretici né la potrà superare la perfidia dei pagani. Con tali disposizioni dunque, dilettissimi, e con razionale ossequio si celebri la festività odierna: affinché nell’umiltà della mia persona venga riconosciuto e onorato colui, nel quale continua la cura che tutti i pastori hanno nella custodia delle pecore loro affidate e la cui dignità non viene meno per l’indegnità dell’erede.
 
 [Lectio91]
-Mentre dunque rivolgiamo le nostre esortazioni all'orecchio  della vostra santità, pensate che vi parli colui, del quale facciamo le veci: sia perché vi esortiamo con lo stesso suo affetto, sia perché nient'altro predichiamo a voi se non quello che egli ha insegnato, scongiurandovi a vivere una vita casta e sobria e timorata di Dio, avendo cinto i fianchi del vostro spirito. Come dice l'Apostolo, siete mia gioia e mia corona, se la vostra fede, che dall'inizio del Vangelo è stata predicata in tutto il mondo, rimarrà nell'amore e nella santità. Infatti anche se è necessario che tutta la Chiesa, che è presente in tutta la terra, fiorisca di ogni virtù; tuttavia è conveniente che vi segnaliate tra gli altri popoli per i meriti della vostra pietà, perché voi, fondati sulla stessa roccia della pietra apostolica, siete stati redenti assieme agli altri dal Signore nostro Gesù Cristo, e siete stati istruiti più di tutti dal beato apostolo Pietro.
+Mentre dunque rivolgiamo le nostre esortazioni all’orecchio della vostra santità, pensate che vi parli colui, del quale facciamo le veci: sia perché vi esortiamo con lo stesso suo affetto, sia perché nient’altro predichiamo a voi se non quello che egli ha insegnato, scongiurandovi a vivere una vita casta, sobria e timorata di Dio, avendo cinto i fianchi del vostro spirito. Come dice l’Apostolo, siete mia gioia e mia corona, se la vostra fede, che dall’inizio del Vangelo è stata predicata in tutto il mondo, rimarrà nell’amore e nella santità. Infatti anche se è necessario che tutta la Chiesa, che è presente in tutta la terra, fiorisca di ogni virtù; tuttavia è conveniente che vi segnaliate tra gli altri popoli per i meriti della vostra pietà, perché voi, fondati sulla stessa roccia della pietra apostolica, siete stati redenti assieme agli altri dal Signore nostro Gesù Cristo, e siete stati istruiti più di tutti dal beato apostolo Pietro.
 &teDeum
 
 [Lectio73]
 Dal Vangelo secondo Matteo
-!Matt 19:27-29
-In quel tempo Pietro disse a Gesù: "Ecco, noi abbiamo abbandonato tutto e ti abbiamo seguito; che ne avremo noi?". (continua nella Messa del giorno)
+!Mt 19,27-29
+In quel tempo Pietro disse a Gesù: «Ecco, noi abbiamo abbandonato tutto e ti abbiamo seguito; che ne avremo noi?». (continua nella Messa del giorno)
 _
-Omelia di s. Beda Venerabile presbitero
-!Per il giorno natale di San Benedetto
-Ci saranno due ordine di eletti nel giudizio: uno di giudicanti col Signore, dei quali questo passaggio parla, che abbandonarono ogni cosa, e Lo hanno seguito: l'altro di quelli che verranno giudicati dal Signore, che non non abbandonarono proprio tutte le loro cose in pari modo, ma tuttavia di quelle che avevano, si preoccupavano di dare elemosine ai poveri di Cristo: quindi anche essi saranno uditori nel giudizio: "Venite, benedetti dal Padre mio, prendete possesso del regno preparato a voi fin dalla fondazione del mondo: perché ebbi fame, e mi deste da mangiare: ebbi sete, e mi deste da bere."
+Omelia di san Beda il Venerabile, presbitero
+!Per la festa di san Benedetto
+Due sono gli ordini degli eletti nel giudizio del futuro: uno di coloro che giudicano col Signore, dei quali fa memoria a questo punto, che hanno lasciato tutto e lo hanno seguito. Un altro di coloro che devono essere giudicati dal Signore, che certo non hanno ugualmente abbandonato tutti i loro beni, ma tuttavia di ciò che avevano si preoccupavano di dare quotidiane elemosine ai poveri di Cristo; quindi nel giudizio saranno aiutati: Venite, benedetti del Padre mio, ereditate il regno che è stato preparato per voi fin dalla creazione del mondo; infatti ho avuto fame, e mi avete dato da mangiare; ho avuto sete, e mi avete dato da bere.
 
 [Responsory73]
 @Commune/C5:Responsory7
 
 [Lectio83]
-Ma impariamo, narrante il Signore, che ci saranno lì anche due ordini dei reprobi: uno di coloro, che iniziati ai misteri della fede cristiana, disprezzano esercitare le opere della fede, per i quali nel giudizio è testificato: "Via da me, maledetti, al fuoco eterno, che fu preparato pel diavolo e pei suoi angeli: poiché ebbi fame, e non mi deste da mangiare". L'altro di coloro, che non o non ricevettero mai la fede ed i misteri di Cristo, o abbandonarono la fede ricevuto per apostasia: de quali dice: "chi non crede, è stato già condannato: perché non crede nel nome dell'unigenito Figlio di Dio".
+Ma veniamo a sapere che lì vi saranno anche due tipi di reprobi, secondo le parole del Signore: uno di coloro che, iniziati ai misteri della fede cristiana, non si curano di compiere le opere della fede; ai quali viene attestato nel giudizio: Andatevene, maledetti, nel fuoco eterno, che è stato preparato per il diavolo e per i suoi angeli; infatti ho avuto fame, e non mi avete dato da mangiare. Un altro è di coloro che non hanno mai accettato la fede e i sacramenti di Cristo, oppure dopo averli accolti li hanno abbandonati per apostasia; dei quali dice: Chi poi non crede è già giudicato, perché non crede nel nome dell’Unigenito Figlio di Dio.
 
 [Responsory83]
 @Commune/C5:Responsory8
 
 [Lectio93]
-Ora ricordato un poco questi con timore e giusta paura, convertiamo piuttosto l'udito alle lietissime promesse del Signore e Salvatore nostro. Vediamo quale sia la grazia di tanto grande pietà: promette ai suoi seguaci non solo i premi della vita eterna, ma anche doni eccelsi di quella presente "E chiunque, disse, avrà abbandonato la casa, o i fratelli, o le sorelle, o il padre, o la madre, o la moglie, o i figli, o i poderi per amor del mio nome, riceverà il centuplo, e possederà la vita eterna". Chi infatti avrà rinunziato agli affetti o ai possedimenti terreni per esser discepolo di Cristo, tanto più nell'amore di Lui avrà profittato, tanto più numerosi troverà, che gioiranno nell'accoglierlo con affetto interiore, e sostentare con le proprie sostanze.
+Ma, dopo avere ricordato questo per un po’ col timore e la paura che è dovuta, volgiamoci piuttosto ad ascoltare le lietissime promesse del nostro Signore e Salvatore. Vediamo quale è la grazia di una così grande pietà: non soltanto promette i premi della vita eterna per i suoi seguaci, ma anche doni eccellenti della vita presente. E ognuno, dice, che avrà abbandonato la casa, o i fratelli o le sorelle, o il padre, o la madre, o la moglie, o i figli o i campi per il mio nome, riceverà il centuplo, e possiederà la vita eterna. Chi infatti per la sequela di Cristo avrà rinunciato agli affetti terreni o ai possedimenti, quando più avrà progredito nel suo amore tanti più troverà che godano nel riceverlo con un affetto interiore e nel sostenerlo con le proprie sostanze.
 &teDeum

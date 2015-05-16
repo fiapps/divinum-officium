@@ -14,8 +14,8 @@ L'inverno è già passato, * la pioggia è cessata e sparita: sorgi, amica mia, e v
 Tu sei diventata bella * e dolce nelle tue delizie, o santa Madre di Dio.;;147
 
 [Capitulum Vespera]
-!Sir 24:14 
-v. Da principio e prima dei secoli  io sono stata creata, e fino all'età futura non cesserò di esistere, ed ho servito nel santuario alla sua presenza.
+!Sir 24:14
+v. Mi ha creata, prima del tempo, fin dal principio, e non verrò meno eternamente. Nella tenda santa, innanzi a Lui, ho servito.
 $Deo gratias.
 
 [Hymnus Vespera]
@@ -111,13 +111,13 @@ V. L'ha eletta Iddio e l'ha prescelta.
 R. La fa abitare nella sua dimora.
 
 [Lectio1]
-Lettura dal libro dei Proverbi
-!Prov 8:12-17
-12 Io, Sapienza, accompagno la prudenza e possiedo scienza e riflessione. 
-13 Timore del Signore è odiare il male; io detesto la superbia l'arroganza, la via del male e la doppiezza nel parlare.
-14 A me appartiene il consiglio e l'equità, a me l'intelligenza e la forza. 
-15 Per mio mezzo regnano i re, e i legislatori stabiliscono giuste leggi; 
-16 per mio mezzo comandano i capi, e i magistrati amministrano la giustizia. 
+Dalle parabole di Salomone
+!Prv 8,12-17
+12 Io, Sapienza, accompagno la prudenza e possiedo scienza e riflessione.
+13 Timore del Signore è odiare il male; io detesto la superbia, l’arroganza, la via del male e la doppiezza nel parlare.
+14 A me appartiene il consiglio e l’equità, a me l’intelligenza e la forza.
+15 Per mio mezzo regnano i re, e i magistrati amministrano la giustizia;
+16 per mio mezzo comandano i capi, i sovrani e tutti i giudici della terra.
 17 Io amo coloro che mi amano e chi mi cerca mi troverà.
 
 [Responsory1]
@@ -128,13 +128,13 @@ R. Poiché tu portasti nel seno colui che i cieli non possono contenere.
 
 [Lectio2]
 !Prov 8:18-25
-18 Con me sono le ricchezze e la gloria, le grandi opere e la giustizia. 
-19 Il mio frutto infatti è migliore dell'oro e delle pietre preziose e i miei prodotti sono migliori di argento scelto. 
-20 Cammino nelle vie della giustizia, in mezzo ai sentieri dell'equità, 
-21 per arricchire chi mi ama e riempirlo di tesori. 
-22 Il Signore mi ebbe con sé dall'inizio delle sue imprese, prima della creazione. 
-23 Io fui stabilita fin dall'eternità, prima ancora che esistesse la terra. 
-24 Non c'erano ancora gli abissi ed io ero già concepita; non erano ancora scaturite le sorgenti delle acque, 
+18 Con me sono le ricchezze e la gloria, le grandi opere e la giustizia.
+19 Il mio frutto infatti è migliore dell’oro e delle pietre preziose e i miei prodotti sono migliori di argento scelto.
+20 Cammino nelle vie della giustizia, in mezzo ai sentieri dell’equità,
+21 per arricchire chi mi ama e riempirlo di tesori.
+22 Il Signore mi ebbe con sé dall’inizio delle sue imprese, prima della creazione.
+23 Io fui stabilita fin dall’eternità, prima ancora che esistesse la terra.
+24 Non c’erano ancora gli abissi ed io ero già concepita; non erano ancora scaturite le sorgenti delle acque,
 25 né i monti si erano ancora formati nella loro mole; il Signore non aveva ancora fatto le colline, ed io già esistevo.
 
 [Responsory2]
@@ -145,14 +145,14 @@ R. E generai colui che è Dio e uomo.
 
 [Lectio3]
 !Prov 8:34-36; 9:1-5
-34 Beato l'uomo  che mi porge ascolto e che veglia ogni giorno alla mia porta ed aspetta all'ingresso della mia casa. 
-35 Chi troverà me, troverà la vita, e riceverà dal Signore la salvezza; 
-36 ma chi peccherà contro di me, nuocerà all'anima sua.  Tutti coloro che mi odiano amano la morte. 
-1 La Sapienza si è fabbricata una casa, ha tagliato sette colonne. 
-2 Immolò le sue vittime, versò il vino e imbandì la sua mensa. 
-3 Mandò le sue ancelle, perché chiamassero, ai bastioni e alle mura della città: 
-4 "Chi è fanciullo, venga da me". Ed agli stolti disse: 
-5 "Venite, mangiate del mio pane e bevete il vino che io vi versai".
+34 Beato l’uomo che mi porge ascolto e che veglia ogni giorno alla mia porta ed aspetta all’ingresso della mia casa.
+35 Chi troverà me, troverà la vita, e riceverà dal Signore la salvezza;
+36 ma chi peccherà contro di me, nuocerà all’anima sua. Tutti coloro che mi odiano amano la morte.
+1 La Sapienza si è fabbricata una casa, ha tagliato sette colonne.
+2 Immolò le sue vittime, versò il vino e imbandì la sua mensa.
+3 Mandò le sue ancelle, perché chiamassero, ai bastioni e alle mura della città:
+4 «Chi è fanciullo, venga da me». Ed agli stolti disse:
+5 «Venite, mangiate del mio pane e bevete il vino che io vi versai».
 
 [Responsory3]
 R. Beata sei tu, vergine Maria, che hai portato il Signore, creatore del mondo: 
@@ -163,9 +163,9 @@ R. Hai generato chi ti creò e rimani vergine in eterno.
 R. Hai generato chi ti creò e rimani vergine in eterno.
 
 [Lectio4]
-Sermone di s. Giovanni Crisostomo
-!Presso il Metafraste. 
-Il Figlio di Dio non scelse per sé come madre una donna ricca e facoltosa, ma quella beata Vergine, la cui anima era ornata di virtù. Poiché infatti la beata Maria superava in castità tutta l'umanità,  perciò appunto concepì nel suo seno Cristo Signore. Otteniamo dunque il beneficio del suo patrocinio, ricorrendo a questa santissima Vergine e Madre di Dio. Pertanto quanti, siete vergini,rifugiatevi presso la Madre del Signore; infatti ella vi conserverà, col suo patrocinio, questo bene bellissimo, preziosissimo ed incorruttibile.
+Sermone di san Giovanni Crisostomo
+!Lo si trova in Metafraste.
+Il Figlio di Dio non scelse per sé come madre una donna ricca e facoltosa, ma quella beata Vergine, la cui anima era ornata di virtù. Poiché infatti la beata Maria superava in castità tutta l’umanità, perciò appunto concepì nel suo seno Cristo Signore. Otteniamo dunque il beneficio del suo patrocinio, ricorrendo a questa santissima Vergine e Madre di Dio. Pertanto, quanti siete vergini, rifugiatevi presso la Madre del Signore; infatti ella vi conserverà, col suo patrocinio, questo bene bellissimo, preziosissimo ed incorruttibile.
 
 [Responsory4]
 R. Mi elevai come il cedro sul Libano e come il cipresso sul monte Sion: come mirra squisita 
@@ -174,7 +174,7 @@ V. E come la cannella e il balsamo aromatico.
 R. Ho emanato soave profumo.
 
 [Lectio5]
-Grande miracolo fu, o fratelli dilettissimi, la beata sempre vergine Maria. Che cosa si scoprì mai in qualsiasi tempo più grande di lei, o più illustre? O che cosa potrà trovarsi in avvenire? Ella da sola supera in eccellenza il cielo è la terra. Che cosa c'è di più santo di lei? Non i profeti, non gli apostoli, non i martiri, non i patriarchi, non gli angeli, non i troni, non le dominazioni, non i serafini, non i cherubini: insomma nessun altra creatura visibile od invisibile, più grande o più perfetta si potrà mai trovare. Ed ella è insieme ancella e madre di Dio; è insieme vergine e madre.
+Grande miracolo fu, o fratelli dilettissimi, la beata sempre Vergine Maria. Che cosa si scoprì mai in qualsiasi tempo più grande di lei, o più illustre? O che cosa potrà trovarsi in avvenire? Ella da sola supera in eccellenza il cielo e la terra. Che cosa c’è di più santo di lei? Non i profeti, non gli apostoli, non i martiri, non i patriarchi, non gli angeli, non i troni, non le dominazioni, non i serafini, non i cherubini: insomma nessun’altra creatura visibile o invisibile, più grande o più perfetta si potrà mai trovare. Ed ella è insieme Ancella e Madre di Dio; è insieme Vergine e Madre.
 
 [Responsory5]
 R. Chi è costei che avanza come il sole, e graziosa come Gerusalemme? 
@@ -183,7 +183,7 @@ V. E, come in tempo di primavera, la circondavano i fiori delle rose e i gigli d
 R. La videro le figlie di Sion e la proclamarono beata e le regine l'hanno lodata.
 
 [Lectio6]
-Ella è la madre di colui che fu generato dal Padre prima di ogni principio; di colui che gli angeli e gli uomini riconoscono Signore di tutte le cose. Vuoi conoscere quanto questa Vergine sia più insigne delle potenze celesti? Queste stanno presso Dio velandosi la faccia timorose e tremanti; ella offre la natura umana a colui che ha generato. Per mezzo suo noi otteniamo ancora il perdono dei peccati. Salve, dunque, o madre, cielo, fanciulla, vergine, trono, onore, gloria e sostegno della nostra Chiesa: prega per noi incessantemente Gesù, Figlio tuo e Signore nostro, affinché per mezzo tuo possiamo trovare misericordia nel giorno del giudizio e raggiungere i beni che sono riservati a coloro che amano Dio, per la grazia e la bontà di nostro Signore Gesù Cristo: al quale assieme al Padre e allo Spirito Santo sia gloria, e onore, e potere, ora e sempre nei secoli dei secoli. Amen.
+Ella è la Madre di colui che fu generato dal Padre prima di ogni principio; di colui che gli angeli e gli uomini riconoscono Signore di tutte le cose. Vuoi conoscere quanto questa Vergine sia più insigne delle potenze celesti? Queste stanno presso Dio velandosi la faccia timorose e tremanti; ella offre la natura umana a colui che ha generato. Per mezzo suo noi otteniamo ancora il perdono dei peccati. Salve, dunque, o Madre, cielo, fanciulla, vergine, trono, onore, gloria e sostegno della nostra Chiesa: prega per noi incessantemente Gesù, Figlio tuo e Signore nostro, affinché per mezzo tuo possiamo trovare misericordia nel giorno del giudizio e raggiungere i beni che sono riservati a coloro che amano Dio, per la grazia e la bontà di nostro Signore Gesù Cristo: al quale assieme al Padre e allo Spirito Santo sia gloria, e onore, e potere, ora e sempre nei secoli dei secoli. Amen.
 
 [Responsory6]
 R. Il Signore ha amato la figlia di Gerusalemme ornata di monili: 
@@ -195,12 +195,12 @@ R. E al vederla le figlie di Sion la proclamarono beatissima, dicendo: Il tuo no
 
 [Lectio7]
 Dal Vangelo secondo Luca
-!Luca 11:27-28 
-In quel tempo, mentre Gesù parlava alle turbe, una donna, alzando la voce in mezzo alla folla, gli disse: "Beata colei che ti fu madre". (continua nella Messa del giorno).
+!Lc 11,27-28
+In quel tempo, mentre Gesù parlava alle turbe, una donna, alzando la voce in mezzo alla folla, gli disse: «Beata colei che ti fu madre». (continua nella Messa del giorno)
 _
-Omelia di s. Beda, il Venerabile, presbitero
-!Lib 4 Cap 49 su Luca 11 
-Questa donna si mostra in possesso di devozione di fede profonda, poiché, mentre gli scribi ed i farisei tentano il Signore e lo bestemmiano, ella riconosce davanti a tutti la sua incarnazione con tanta sincerità, e la confessa con fede così grande, da confondere e la calunnia dei grandi presenti e la perfidia dei futuri eretici. Infatti, come allora i Giudei, bestemmiando contro le opere dello Spirito Santo, negavano che Cristo fosse vero Figlio di Dio consustanziale al Padre; così in seguito gli eretici, negando che Maria sempre Vergine avesse somministrato, per opera e merito dello Spirito Santo, la materia della propria carne al Figlio unigenito di Dio che doveva nascere con un corpo umano, sostennero che non si doveva riconoscere come vero Figlio dell'uomo e della medesima sostanza della madre.  
+Omelia di san Beda il Venerabile, presbitero
+!Lib. iv, cap. 49, su Lc 11
+Questa donna si mostra in possesso di devozione e di fede profonda, poiché, mentre gli scribi ed i farisei tentano il Signore e lo bestemmiano, ella riconosce davanti a tutti la sua incarnazione con tanta sincerità, e la confessa con fede così grande, da confondere e la calunnia dei grandi presenti e la perfidia dei futuri eretici. Infatti, come allora i Giudei, bestemmiando contro le opere dello Spirito Santo, negavano che Cristo fosse vero Figlio di Dio, consustanziale al Padre; così in seguito gli eretici, negando che Maria sempre Vergine avesse somministrato, per opera e merito dello Spirito Santo, la materia della propria carne al Figlio unigenito di Dio che doveva nascere con un corpo umano, sostennero che non si doveva riconoscere come vero Figlio dell’uomo e della medesima sostanza della madre.
 
 [Responsory7]
 R. Beata sei tu, santa vergine Maria, e molto degna di ogni lode: 
@@ -209,7 +209,7 @@ V. Prega per il popolo, intervieni per il clero, intercedi per il ceto femminile
 R. Poiché da te è nato il sole di giustizia. Cristo, nostro Dio.
 
 [Lectio8]
-Ma se si ritiene che il corpo preso dal Verbo di Dio incarnandosi è estraneo alla carne della vergine Madre, senza motivo vengono detti beati il seno che lo portò e il petto che lo allattò.  Ora l'Apostolo dice: "Poiché Dio mandò il suo Figlio, fatto da una donna, sottomesso alla legge". E non bisogna dar retta a coloro che pensano si debba leggere: Nato da una donna, sottomesso alla legge, ma bisogna invece leggere: "Fatto da una donna"; perché, concepito nel seno di una vergine, ha tratto la carne non dal nulla, non da altra cosa, ma dalla carne materna. Altrimenti non si potrebbe dire con verità Figlio dell'uomo colui che non ha avuto origine dall'uomo. Anche noi dunque alziamo la nostra voce contro Eutiche insieme con la Chiesa cattolica, di cui questa donna fu figura; solleviamo anche la mente dal mezzo della folla e diciamo al Salvatore: "Beato il seno che ti ha portato e il petto che hai succhiato". Poiché è veramente madre beata ella che, come disse un autore, ha dato alla luce il Re, che regge il cielo e la terra per i secoli.
+Ma se si ritiene che il corpo preso dal Verbo di Dio incarnandosi è estraneo alla carne della vergine Madre, senza motivo vengono detti beati il seno che lo portò e il petto che lo allattò. Ora l’Apostolo dice: «Poiché Dio mandò il suo Figlio, fatto da una donna, sottomesso alla legge». E non bisogna dar retta a coloro che pensano si debba leggere: Nato da una donna, sottomesso alla legge, ma bisogna invece leggere: «Fatto da una donna»; perché, concepito nel seno di una vergine, ha tratto la carne non dal nulla, non da altra cosa, ma dalla carne materna. Altrimenti non si potrebbe dire con verità Figlio dell’uomo colui che non ha avuto origine dall’uomo. Anche noi dunque alziamo la nostra voce contro Eutiche insieme con la Chiesa cattolica, di cui questa donna fu figura; solleviamo anche la mente dal mezzo della folla e diciamo al Salvatore: «Beato il seno che ti ha portato e il petto che hai succhiato». Poiché è veramente madre beata ella che, come disse un autore, ha dato alla luce il Re, che regge il cielo e la terra per i secoli.
 
 [Responsory8]
 R. Tutte le generazioni mi chiameranno beata, 
@@ -220,7 +220,7 @@ R. Perché grandi cose ha fatto in me il Signore che è potente, e il cui nome è s
 R. Perché grandi cose ha fatto in me il Signore che è potente, e il cui nome è santo.
 
 [Lectio9]
-"Non solo, ma beati coloro che ascoltano la parola di Dio e la mettono in pratica". Il Salvatore approva eminentemente l'attestazione di questa donna, affermando che è beata non sol- tanto colei che aveva meritato di essere madre corporale del Verbo di Dio, ma che sono beati anche tutti coloro che si sforzeranno di concepire spiritualmente lo stesso Verbo istruendosi nella fede e che, praticando le buone opere, lo faranno nascere e quasi lo alimenteranno sia nel proprio cuore, sia in quello del prossimo Infatti la stessa Madre di Dio è sì beata per aver contribuito nel tempo all'incarnazione del Verbo, ma è molto più beata perché meritò, amandolo sempre, di custodirlo in sé eternamente.  
+«Non solo, ma beati coloro che ascoltano la parola di Dio e la mettono in pratica». Il Salvatore approva eminentemente l’attestazione di questa donna, affermando che è beata non soltanto colei che aveva meritato di essere madre corporale del Verbo di Dio, ma che sono beati anche tutti coloro che si sforzeranno di concepire spiritualmente lo stesso Verbo istruendosi nella fede e che, praticando le buone opere, lo faranno nascere e quasi lo alimenteranno sia nel proprio cuore, sia in quello del prossimo. Infatti la stessa Madre di Dio è sì beata per aver contribuito nel tempo all’Incarnazione del Verbo, ma è molto più beata perché meritò, amandolo sempre, di custodirlo in sé eternamente.
 &teDeum
 
 [Ant Laudes]
@@ -231,9 +231,7 @@ L'inverno è già passato, * la pioggia è cessata e sparita: sorgi, amica mia, e v
 Tu sei diventata bella * e dolce nelle tue delizie, o santa Madre di Dio.
 
 [Capitulum Laudes]
-!Sir 24:14 
-v. Da principio e prima dei secoli  io sono stata creata, e fino all'età futura non cesserò di esistere, ed ho servito nel santuario alla sua presenza.
-$Deo gratias.
+@:Capitulum Vespera
 
 [Hymnus Laudes]
 v. O gloriosa tra le Vergini,
@@ -271,9 +269,7 @@ $Per Dominum.
 v. Nelle piazze ho mandato profumo come la cannella e il balsamo aromatico: ho e manato soave profumo come di mirra squisita.  
 
 [Capitulum Tertia]
-!Sir 24:14 
-v. Da principio e prima dei secoli  io sono stata creata, e fino all'età futura non cesserò di esistere, ed ho servito nel santuario alla sua presenza.
-$Deo gratias.
+@:Capitulum Vespera
 
 [Responsory Tertia]
 R.br. Con il tuo splendore, * e con la tua bellezza.

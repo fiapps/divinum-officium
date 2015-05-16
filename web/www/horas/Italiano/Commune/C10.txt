@@ -11,9 +11,7 @@ Special Lectio 3
 Doxology=Nat
 
 [Capitulum Vespera]
-!Sir 24:14
-v. Da principio e prima dei secoli  io sono stata creata, e fino all'età futura non cesserò di esistere, ed ho servito nel santuario alla sua presenza.  
-$Deo gratias.
+@Commune/C11:Capitulum Vespera
 
 [Hymnus Vespera]
 ! La prima strofa del seguente inno si dice inginocchiati.
@@ -108,9 +106,7 @@ La stessa Vergine delle vergini interceda per noi presso il Signore. Amen.
 Tramite la Vergine Madre, ci conceda il Signore salute e pace. Amen.
 
 [Capitulum Laudes]
-!Sir 24:14
-v. Da principio e prima dei secoli  io sono stata creata, e fino all'età futura non cesserò di esistere, ed ho servito nel santuario alla sua presenza.  
-$Deo gratias.
+@Commune/C11:Capitulum Vespera
 
 [Hymnus Laudes]
 v. O gloriosa tra le Vergini,
@@ -151,76 +147,75 @@ $Qui tecum
 Regina del cielo, rallegrati, alleluia; perché colui che meritasti di portare, alleluia, è risuscitato, come disse, alleluia: prega Iddio per noi, alleluia.
 
 [Lectio M01]
-Dalla lettera di sant'Ambrogio vescovo a papa Siricio
-!Epist 81, al.7
-Seguendo la loro via perversa, gli eretici vanno dicendo: "Una vergine ha concepito, ma non ha partorito una vergine". Come poté dunque una vergine concepire senza poter partorire, mentre il concepimento precede sempre il parto? Ma sé non si vuol credere agli insegnamenti dei sacerdoti, si creda agli oracoli di Cristo; si creda agli avvertimenti degli angeli che dicono: "Poiché presso Dio non c'è parola che non abbia effetto"; si creda al Simbolo degli Apostoli, che la Chiesa romana sempre custodisce e conserva intatto. Maria ascoltò la voce dell'angelo, ed ella che prima aveva detto: "Come avverrà questo?", non interrogando riguardo alla garanzia del suo parto verginale, rispose poi: "Ecco l'ancella del Signore, si faccia di me secondo la tua parola".
+Dalla lettera al papa Siricio di sant’Ambrogio vescovo
+!Ep. 81, alias 7
+Seguendo la loro via perversa, gli eretici vanno dicendo: «Una vergine ha concepito, ma non ha partorito una vergine». Come poté dunque una vergine concepire senza poter partorire, mentre il concepimento precede sempre il parto? Ma se non si vuol credere agli insegnamenti dei sacerdoti, si creda agli oracoli di Cristo; si creda agli avvertimenti degli angeli che dicono: «Poiché presso Dio non c’è parola che non abbia effetto»; si creda al Simbolo degli Apostoli, che la Chiesa romana sempre custodisce e conserva intatto. Maria ascoltò la voce dell’angelo, ed ella che prima aveva detto: «Come avverrà questo?», non interrogando riguardo alla garanzia del suo parto verginale, rispose poi: «Ecco l’ancella del Signore, si faccia di me secondo la tua parola».
 &teDeum
 
 [Lectio M02]
-Dal libro di san Girolamo presbitero contro Gioviniano
-!Apologia a Pammachio del libro contro Gioviniano, alla fine.
-Cristo è vergine, la Madre del nostro vergine è sempre vergine : madre e vergine. Gesù infatti entrò con le porte chiuse; e nel suo sepolcro, nuovo e scavato in una pietra durissima, nessuno fu posto, né prima né dopo. Giardino chiuso, fonte sigillata è Maria: e da questa fonte scaturisce quel fiume che, come dice Gioele, irriga il torrente delle funi e delle spine: delle funi, cioè dei peccati, coi quali prima eravamo legati; delle spine che soffocano la semente del padre di famiglia. Ella è la porta orientale, di cui parla Ezechiele, sempre chiusa e luminosa, sia che chiuda in sé, sia che da sé tragga al mondo il Santo dei santi; attravèrso questa porta entra ed esce il Sole della giustizia e nostro Pontefice secondo l'ordine di Melchisedech.
+Dal libro contro Gioviniano di san Girolamo presbitero
+!Apologia a Pammachio riguardante il libro contro Gioviniano
+Cristo è vergine, la Madre del nostro vergine è sempre vergine: madre e vergine. Gesù infatti entrò con le porte chiuse; e nel suo sepolcro, nuovo e scavato in una pietra durissima, nessuno fu posto, né prima né dopo. Giardino chiuso, fonte sigillata è Maria: e da questa fonte scaturisce quel fiume che, come dice Gioele, irriga il torrente delle funi e delle spine: delle funi, cioè dei peccati, coi quali prima eravamo legati; delle spine che soffocano la semente del padre di famiglia. Ella è la porta orientale, di cui parla Ezechiele, sempre chiusa e luminosa, sia che chiuda in sé, sia che da sé tragga al mondo il Santo dei santi; attraverso questa porta entra ed esce il Sole della giustizia e nostro Pontefice secondo l’ordine di Melchisedech.
 &teDeum
 
 [Lectio M03]
-Dal libro di sant'Ireneo, vescovo e martire, contro le eresie
-!Libro 5 cap. 19
-Già il Signore stava per venire in mezzo ai suoi, per caricarsi della natura umana che lui stesso aveva creata, e per riparare con l'obbedienza della croce la disubbidienza che era stata perpetrata nell'albero; già stava per essere sciolta l'antica seduzione, di cui disgraziatamente rimase vittima Eva, quella vergine già destinata ad un uomo; quando, nella luce della verità, venne l'angelo a portare la buona novella alla vergine Maria, già sposa ad un uomo. Come infatti la prima fu sedotta dalla parola di un angelo, sì da sfuggire all'autorità di Dio, disobbedendo ai suoi ordini, così la seconda fu evangelizzata dalla parola di un angelo, che la invitava ad obbedire alla parola di Dio, per portare Dio nel suo seno. E come quella fu convinta a sottrarsi agli ordini di Dio, così costei fu persuasa ad obbedire a Dio, sì da diventare lei, vergine, avvocata della vergine Eva. Come per una vergine fu legato alla morte il genere umano così per una vergine, doveva esserne sciolto: e la disubbidienza della vergine Eva fu totalmente ricompensata dall'ubbidienza della vergine Maria.
+Dal libro “Contro le eresie” di sant’Ireneo vescovo e martire
+!Lib. 5, cap. 19
+Già il Signore stava per venire in mezzo ai suoi, per caricarsi della natura umana che lui stesso aveva creata, e per riparare con l’obbedienza della croce la disubbidienza che era stata perpetrata nell’albero; già stava per essere sciolta l’antica seduzione, di cui disgraziatamente rimase vittima Eva, quella vergine già destinata ad un uomo; quando, nella luce della verità, venne l’angelo a portare la buona novella alla vergine Maria, già sposa ad un uomo. Come infatti la prima fu sedotta dalla parola di un angelo, sì da sfuggire all’autorità di Dio, disobbedendo ai suoi ordini, così la seconda fu evangelizzata dalla parola di un angelo, che la invitava ad obbedire alla parola di Dio, per portare Dio nel suo seno. E come quella fu convinta a sottrarsi agli ordini di Dio, così costei fu persuasa ad obbedire a Dio, sì da diventare lei, vergine, avvocata della vergine Eva. Come per una vergine fu legato alla morte il genere umano, così per una vergine doveva esserne sciolto: e la disubbidienza della vergine Eva fu totalmente ricompensata dall’ubbidienza della vergine Maria.
 &teDeum
 
 [Lectio M04]
-Dalla esposizione di san Girolamo presbitero sul profeta Ezechiele
-!Libro 13 nel  cap. 44
-"Questa porta rimarrà chiusa e non si aprirà".  Alcuni in questa porta chiusa per la quale entra solo il Signore Dio d'Israele, e il principe senza che egli l'apra, vedono giustamente la vergine Maria, che è rimasta vergine e prima e dopo il parto. In realtà, sia quando l'angelo le diceva : "Lo Spirito Santo scenderà in te e la potenza dell'Altissimo ti coprirà della sua ombra: per questo il Sanun segno magno era apparso in cielo, che tanto prima si conosce che era stato promesso dal cielo.
+Dall’esposizione sul profeta Ezechiele di san Girolamo presbitero
+!Lib. 13, su cap. 44
+«Questa porta rimarrà chiusa e non si aprirà». Alcuni in questa porta chiusa per la quale entra solo il Signore Dio d’Israele, e il principe senza che egli l’apra, vedono giustamente la vergine Maria, che è rimasta vergine e prima e dopo il parto. In realtà, sia quando l’angelo le diceva: «Lo Spirito Santo scenderà in te e la potenza dell’Altissimo ti coprirà della sua ombra: per questo il Santo, che nascerà da te, sarà chiamato Figlio di Dio»; sia quando questi nacque, ella rimase eternamente vergine; e ciò serva a confondere coloro che credono che, dopo la nascita del Salvatore, ella abbia avuto dei figli da Giuseppe, per il fatto che nel Vangelo si parla di suoi fratelli.
 &teDeum
 
 [Lectio M05]
-Dal Trattato di sant'Agostino Vescovo sul Simbolo ai Catecumeni.
-!Lib 3. c. 4 in fine III Lezione
-Per una donna la morte, per una donna la vita: per Eva la rovina, per Maria la salvezza. Quella, lasciatasi corrompere, seguì il seduttore: questa fedele a Dio, diede al mondo il Salvatore. Quella prese volentieri il veleno preparatole dal serpente e l'offrì al suo sposo, onde
-meritarono insieme la morte : questa colla grazia celeste infusale dall'alto, produsse la vita, onde la carne morta può essere risuscitata. Chi è che ha operato tutto questo, se non il Figlio della Vergine e lo Sposo dei vergini, il quale donò la fecondità alla Madre, ma non le tolse punto l'integrità (originale)?
+Dal trattato sul Simbolo ai catecumeni di sant’Agostino vescovo
+!Lib. 3, cap. 4, alla fine
+Da una donna è derivata la morte, da una donna ci è venuta la vita: da Eva la rovina, da Maria la salvezza. La prima, lasciandosi corrompere, seguì il seduttore; la seconda, integra, generò il Salvatore. Quella volentieri accettò la coppa avvelenata che il serpente le aveva offerto e la offrì al suo sposo, per la qual cosa insieme meritarono la morte; questa, con la grazia celeste infusale dall’alto, portò la vita, per la quale la carne morta possa essere risuscitata. Chi ha compiuto tutto questo se non il Figlio della Vergine e lo Sposo delle vergini, il quale rese feconda la Madre, senza violarne la verginità?
 &teDeum
 
 [Lectio M06]
-Sermone di san Bernardo Abate
-!Sulle Parole dell'Apocalisse capo 12
-Certo grandemente, o dilettissimi, ci nocquero un uomo e una donna ; ma, grazie a Dio, per un uomo e per una donna è anche tutto restaurato, e non senza una grande messe di grazie. Poiché non come il delitto così pure il dono ; ma la grandezza del benefizio supera l' entità del danno. Difatti il prudentissimo e clementissimo artefice non ruppe quello che era fracassato, ma lo rifece interamente e più utilmente ; formando cioè per noi un nuovo Adamo dal tronco del vecchio, e sostituendo Maria a Eva.
+Sermone di san Bernardo abate
+!Sulle parole di Ap 12: Signum magnum
+Certo, o dilettissimi, un uomo e una donna ci hanno grandemente danneggiati; ma tuttavia, grazie a Dio, da un uomo e da una donna tutto è restaurato, e non senza grande frutto di grazie. Infatti non è che il dono uguagli l’errore; bensì la grandezza del beneficio supera l’entità del danno. Così appunto il previdentissimo e clementissimo artefice non ha annientato completamente quel che era stato distrutto, ma lo ha rifatto completamente e più utilmente; in modo cioè da formare per noi un nuovo Adamo dal vecchio e da trasfondere Eva in Maria.
 &teDeum
 
 [Lectio M07]
-Dalla Lettera di sant'Ambrogio Vescovo a Papa Siricio.
-!Lettera 81 ovvero 7 verso la metà
-Non eccede il limite della fede che un uomo sia uscito da una vergine quando da una roccia scaturì una fonte abbondante, quando un ferro galleggiò sull'acqua, quando un uomo camminò sulle acque. Quindi, se un onda ha portato un uomo, non poté una vergine generare un uomo, e quell'uomo di cui si legge : "E il Signore manderà loro un uomo che li salverà, e il Signore sarà conosciuto dagli Egiziani". Nel vecchio Testamento poi una vergine condusse attraverso il mare l'esercito degli Ebrei: nel nuovo Testamento una Vergine, aula di celeste prole, fu scelta per la nostra salvezza. 
+Dalla lettera al papa Siricio di sant’Ambrogio vescovo
+!Ep. 81, alias 7, circa il mezzo
+Non eccede il limite della fede che un uomo sia nato da una vergine, quando da una roccia scaturì una fonte copiosa e un ferro galleggiò sulle acque e su queste camminò un uomo. Se dunque l’onda ha tenuto a galla un uomo, forse non poté una vergine generare un uomo, e quell’uomo di cui si legge: «E il Signore manderà loro un uomo che li salverà, e il Signore sarà conosciuto dagli Egiziani»? Nell’Antico Testamento pertanto una vergine condusse attraverso il mare l’esercito degli Ebrei: nel nuovo Testa­mento una vergine, dimora di celeste prole, fu scelta per la nostra salvezza.
 &teDeum
 
 [Lectio M08]
-Dalla Esposiz. di san Gregorio Papa sui libri dei Re
-!Sul I dei Re 1
-Ci fu uomo della città di Ramataim Sofim della montagna di Efraim. Sotto il nome di questa montagna può essere designata la beatissima sempre Vergine Maria, Madre di Dio. Poiché ella fu un monte che colla dignità della sua elezione supera l'elevazione d'ogni eletta creatura. Non è ella forse un'alta montagna Maria, la quale per meritare di concepire il Verbo eterno elevò la sommità dei suoi meriti al disopra di tutti i cori degli Angeli fino al trono di Dio? Isaia infatti vaticinando l'altissima dignità di questa montagna dice : « Negli ultimi giorni sarà fondato sulla cima dei monti il monte della casa del Signore » . Certamente questo monte è sulla cima dei monti, poiché l'elevazione di Maria eccelle in gloria quella di tutti i santi.
+Dall’esposizione sui libri dei Re di san Gregorio papa
+!Su 1 Re 1
+«Vi fu un uomo della città di Ramaitam Sofim, della montagna di Efraim». Col nome di questo monte si può indicare la beatissima sempre vergine Maria, Madre di Dio. Ella fu davvero un monte, che con la dignità della sua elezione trascende l’altezza di ogni creatura prediletta. Non è forse un alto monte Maria, che, per meritare la concezione del Verbo eterno, elevò la grandezza dei suoi meriti al di sopra di tutti i cori degli angeli, fino al trono della Divinità? Isaia infatti ha profetato la dignità eccelsa di questo monte, dicendo: «Negli ultimi giorni sarà fondato sulla cima dei monti il monte della casa del Signore». Questo monte fu davvero sulla cima dei monti, perché la grandezza di Maria rifulse sopra tutti i santi.
 &teDeum
 
 [Lectio M09]
-Dalla Lettera di san Leone Papa a Pulcheria Augusta
-!Lettera 13 prima della metà
-Il mistero della nostra riconciliazione stabilito da tutta l'eternità, nessuna antica figura lo compiva; perché non ancora "era disceso lo Spirito Santo nella Vergine, né la potenza dell'Altissimo l'aveva resa madre", affinché e dentro le immacolate viscere, fabbricandosi la Sapienza una casa, il Verbo si facesse carne, e, per l'unione della natura di Dio colla natura di servo in una sola persona, nascesse nel tempo il Creatore dei tempi, ed egli, per cui tutte le cose sono state fatte, fosse generato in mezzo a tutte le cose. Poiché se l'uomo nuovo non avesse preso la natura del vecchio uomo, prendendo la somiglianza della nostra carne di peccato, e, consustanziale al Padre, non si fosse degnato d'essere anche consustanziale alla madre, e lui che solo è senza peccato, non avesse unito la nostra natura alla sua, tutto il genere umano sarebbe rimasto schiavo sotto il giogo del diavolo.
+Dalla lettera a Pulcheria Augusta di san Leone papa
+!Ep. 13, nella prima metà
+Nessuna figura compiva il mistero della nostra riconciliazione, stabilito dall’eternità; infatti non era ancora sceso lo Spirito Santo nella Vergine e la potenza dell’Altissimo non l’aveva resa madre, affinché, dentro il suo seno immacolato, fabbricandosi la Sapienza una casa, il Verbo si facesse carne, e, per l’unione in una sola persona della natura di Dio con la natura di servo, nascesse nel tempo il Creatore dei tempi, e fosse generato in mezzo a tutte le cose, colui stesso per mezzo del quale tutte le cose sono state fatte. Se infatti il nuovo uomo, fatto a somiglianza della nostra carne di peccato, non avesse preso la nostra vecchia natura, e, consustanziale al Padre, non si fosse degnato di essere consustanziale anche alla Madre, ed egli che è il solo ad essere senza peccato, non avesse unito la nostra natura alla sua, l’intera umanità sarebbe rimasta in schiavitù sotto il giogo del demonio.
 &teDeum
 
 [Lectio M10]
-Sermone di san Bernardo Abate
-!Sermone sul cap. 12 del l'Apocalisse, prima della metà 
-Baciamo, fratelli miei, le orme di Maria, e prostriamoci in devotissima preghiera ai suoi beati piedi. Stringiamola, e non lasciamola finché non ci abbia benedetti ; perché ella è potente. Il vello distese fra la terra e la rugiada, la donna fra il sole e la luna  è Maria posta fra Cristo e la Chiesa. Ma forse ti meraviglierà non tanto il vello ricoperto di rugiada, quanto la donna ammantata di sole. Certo è relazione sorprendente, è un ammirabile riavvicinamento quello del sole e d'una donna. Poiché come può resistere una natura sì fragile in mezzo a tanto ardente calore? Sì, giustamente ti stupisci, o santo Mosè, e desideri di contemplare più attentamente. Tuttavia, se brami accostarti, « sciogli i calzari dai tuoi piedi »  e deponi le pastoie dei pensieri carnali.
+Sermone di san Bernardo abate
+!Sermon of ch. 12 of the Apocalypse, in the first half
+Baciamo, fratelli miei, le orme di Maria, e gettiamoci ai suoi beati piedi in devotissima supplica. Tratteniamola e non lasciamola andare finché non ci abbia benedetti; perché è potente. Appunto il vello posto in mezzo tra la rugiada e l’aia, la donna fra il sole e la luna, è Maria, posta tra Cristo e la Chiesa. Ma forse ti stupirà non tanto il vello coperto di rugiada, quanto la donna vestita di sole. Pur essendo sorprendente, è certamente meraviglioso l’accostamento fra il sole e la donna. In che modo infatti una sì fragile natura può resistere in mezzo ad un calore così violento? A ragione ti stupisci, o santo Mosè, e desideri di osservare con più attenzione. Tuttavia, se desideri avvicinarti, sciogli i calzari dai tuoi piedi, e deponi le remore dei pensieri carnali.
 &teDeum
 
 [Lectio M11]
-Dal commento di s. Basilio vescovo sul profeta Isaia
-!Nel capitolo 8, vicino all'inizio.
-"Mi accostai, disse, alla profetessa,ed ella concepì e diede alla luce un figlio". Nessuno che ricordi le parole che Maria pronunziò ispirata dallo spirito profetico, potrà negare che Ma- ria sia stata la profetessa, alla quale Isaia si accostò moltissimo con una conoscenza profetica e spirituale. Che disse infatti? "L'anima mia magnifica il Signore: ed esultò il mio spirito in Dio, mio salvatore. Poiché guardò alla umiltà della sua ancella, e d'ora in poi tutte le generazioni mi chiameranno beata". Poiché, se porrai attenzione a tutte le sue parole, certamente non potrai negare, dissentendo, che ella sia stata profetessa, poiché lo Spirito del Signore discese in lei e la potenza dell'Altissimo la coprì della sua ombra.
+Dal commento sul profeta Isaia di san Basilio vescovo
+!Su cap. 8, vicino all’inizio
+«Mi accostai, disse, alla profetessa, ed ella concepì e diede alla luce un figlio». Nessuno che ricordi le parole che Maria pronunziò ispirata dallo spirito profetico, potrà negare che Maria sia stata la profetessa, alla quale Isaia si accostò moltissimo con una conoscenza profetica e spirituale. Che disse infatti? «L’anima mia magnifica il Signore: ed esultò il mio spirito in Dio, mio salvatore. Poiché guardò all’umiltà della sua ancella, e d’ora in poi tutte le generazioni mi chiameranno beata». Poiché, se porrai attenzione a tutte le sue parole, certamente non potrai negare, dissentendo, che ella sia stata profetessa, poiché lo Spirito del Signore discese in lei e la potenza dell’Altissimo la coprì della sua ombra.
 &teDeum
 
 [Lectio M12]
-Dal libro degli Uffici di s. Ambrogio vescovo
-!Libro I cap. 18 
-Il pudore è un buon compagno per la difesa della castità, ed esso più evidentemente, fin dal momento dell'entrata e del saluto dell'angelo, fa apprezzare la Madre del Signore ai lettori, e, come un testimone autorevole, la dichiara degna di essere prescelta per tale compito: perché se ne sta, sola, nella stanza; perché, al saluto dell'angelo, tace ed è confusa al suo ingresso; perché il suo aspetto è turbato alla vista di un uomo estraneo. Pertanto, nonostante la sua umiltà, tuttavia per pudore non rispose al saluto e non diede nessuna risposta, se non quando capì che si trattava dì accettare di divenire la madre del Signore; ma sempre per apprendere come ciò sarebbe accaduto e non per opporre qualcosa alle sue parole.
+Dal libro degli Uffici di sant’Ambrogio vescovo
+!Lib. I, cap. 18
+Il pudore è un buon compagno per la difesa della castità, ed esso più evidentemente, fin dal momento dell’entrata e del saluto dell’angelo, fa apprezzare la Madre del Signore ai lettori, e, come un testimone autorevole, la dichiara degna di essere prescelta per tale compito: perché se ne sta, sola, nella stanza; perché, al saluto dell’angelo, tace ed è confusa al suo ingresso; perché il suo aspetto è turbato alla vista di un uomo estraneo. Pertanto, nonostante la sua umiltà, tuttavia per pudore non rispose al saluto e non diede nessuna risposta, se non quando capì che si trattava di accettare di divenire la madre del Signore; ma sempre per apprendere come ciò sarebbe accaduto e non per opporre qualcosa alle sue parole.
 &teDeum
 
 [Lectio Prima]
@@ -228,9 +223,7 @@ Il pudore è un buon compagno per la difesa della castità, ed esso più evident
 v. Nelle piazze ho mandato profumo come la cannella e il balsamo aromatico: ho emanato soave profumo come di mirra squisita.
 
 [Capitulum Tertia]
-!Sir 24:14
-v. Da principio e prima dei secoli  io sono stata creata, e fino all'età futura non cesserò di esistere, ed ho servito nel santuario alla sua presenza.  
-$Deo gratias.
+@Commune/C11:Capitulum Vespera
 
 [Responsory Tertia]
 R.br. Con il tuo splendore, * e con la tua bellezza.

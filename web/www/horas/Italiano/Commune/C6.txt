@@ -1,5 +1,5 @@
 [Name]
-Commune Virgine
+Commune Virginum
 
 [Rule]
 Psalmi Dominica
@@ -116,14 +116,15 @@ V. L'ha eletta Iddio e l'ha prescelta.
 R. La fa abitare nella sua dimora.
 
 [Lectio1]
-Dalla prima lettera di s. Paolo apostolo ai Corinzi
-!1 Cor 7:25-31
-25 Riguardo alla verginità non ho una prescrizione del Signore, ma do un consiglio come persona che, per misericordia del Signore, è degna di fiducia. 
-26 Ecco, io penso che questo sia bene a causa della necessità che incombe; cioè, sia bene per l'uomo fare così: 
-27 sei legato a moglie?  non cercare scioglimento; ti trovi libero da moglie? non cercare moglie. 
-28 Però anche se tu prendessi moglie, non peccheresti; e se la vergine si marita, non pecca; ma costoro avranno delle tribolazioni nella carne; per parte mia vorrei risparmiarvele. 
-29 Fratelli, vi dico questo: il tempo è breve; ormai coloro che hanno moglie siano come se non l'avessero,    
-30 e coloro che piangono come se non piangessero, e coloro che godono come se non godessero, e coloro che comperano, come se non possedessero, 
+[Lectio1]
+Dalla prima lettera di san Paolo apostolo ai Corinzi
+!1 Cor 7,25-31
+25 Riguardo alla verginità non ho una prescrizione del Signore, ma do un consiglio come persona che, per misericordia del Signore, è degna di fiducia.
+26 Ecco, io penso che questo sia bene a causa della necessità che incombe; cioè, sia bene per l’uomo fare così:
+27 sei legato a moglie? non cercare scioglimento; ti trovi libero da moglie? non cercare moglie.
+28 Però anche se tu prendessi moglie, non peccheresti; e se la vergine si marita, non pecca; ma costoro avranno delle tribolazioni nella carne; per parte mia vorrei risparmiarvele.
+29 Fratelli, vi dico questo: il tempo è breve; ormai coloro che hanno moglie siano come se non l’avessero,
+30 e coloro che piangono come se non piangessero, e coloro che godono come se non godessero, e coloro che comprano, come se non possedessero,
 31 e coloro che usano del mondo come se non ne fruissero; passa, infatti, la scena di questo mondo.
 
 [Responsory10]
@@ -139,11 +140,11 @@ V. Col tuo splendore e con la tua bellezza, vieni, avanza lietamente e regna.
 R. Poiché il Re amò la tua bellezza.
 
 [Lectio2]
-!1 Cor 7:32-35
-32 Ecco, io vi vorrei liberi da ansietà. Chi non è sposato si occupa delle cose del Signore, come piacere al Signore; 
-33 chi è sposato invece, si occupa delle cose del mondo, come piacere alla moglie; ed è diviso. 
-34 Così pure la donna non maritata, e la vergine, si occupa delle cose del Signore, per essere santa di corpo e di spirito; invece, colei che è maritata si occupa delle cose del mondo, come piacere al marito. 
-35 Dico questo nel vostro stesso interesse, non per imporvi un laccio, ma per il vostro decoro e per un'assidua intimità con il Signore, senza distrazioni.
+!1 Cor 7,32-35
+32 Ecco, io vi vorrei liberi da ansietà. Chi non è sposato si occupa delle cose del Signore, come piacere al Signore;
+33 chi è sposato, invece, si occupa delle cose del mondo, come piacere alla moglie; ed è diviso.
+34 Così pure la donna non maritata, e la vergine, si occupa delle cose del Signore, per essere santa di corpo e di spirito; invece, colei che è maritata si occupa delle cose del mondo, come piacere al marito.
+35 Dico questo nel vostro stesso interesse, non per imporvi un laccio, ma per il vostro decoro e per un’assidua intimità con il Signore, senza distrazioni.
 
 [Responsory2]
 R. La grazia è cosparsa sulle tue labbra,  
@@ -152,12 +153,12 @@ V. Col tuo splendore e con la tua bellezza, vieni, avanza lietamente e regna.
 R. Perciò Iddio ti ha benedetta in eterno.
 
 [Lectio3]
-!1 Cor 7:36-40
-36 Ma e se qualcuno è convinto di non agire decorosamente con la propria figlia qualora oltrepassi il fiore dell'età, e conviene procedere così, faccia ciò che vuole; non pecca; si maritino.
-37 Ma chi è fermo e deciso in cuor suo, senza costrizione alcuna, anzi in pieno possesso della propria volontà, ed ha deliberato nel suo cuore di tenersi la sua figlia, fa bene. 
-38 Dunque chi marita sua figlia, fa bene, chi non la marita, farà meglio. 
-39 La moglie resta legata tutto il tempo che vive suo marito; se il marito morirà, è libera di sposare chi vuole; però nel Signore. 
-40 Ma, secondo il mio giudizio, sarà più felice restando così. E ritengo d'aver io pure lo Spirito di Dio.
+!1 Cor 7,36-40
+36 Che se qualcuno è convinto di non agire decoro-samente con la propria figlia qualora oltrepassi il fiore dell’età, e conviene procedere così, faccia ciò che vuole; non pecca; si maritino.
+37 Ma chi è fermo e deciso in cuor suo, senza costrizione alcuna, anzi in pieno possesso della propria volontà, ed ha deliberato nel suo cuore di tenersi la sua figlia, fa bene.
+38 Dunque chi marita sua figlia, fa bene, chi non la marita, farà meglio.
+39 La moglie resta legata tutto il tempo che vive suo marito; se il marito morirà, è libera di sposare chi vuole; però nel Signore.
+40 Ma, secondo il mio giudizio, sarà più felice restando così. E ritengo d’aver io pure lo Spirito di Dio.
 
 [Responsory3]
 R. Con il tuo splendore e con la tua bellezza,
@@ -168,9 +169,9 @@ R. Vieni, avanza lietamente, e regna.
 R. Vieni, avanza lietamente, e regna.
 
 [Lectio4]
-Sermone di s. Ambrogio vescovo
-!Libro 1, sulle Vergini, verso l'inizio.
-Poiché oggi è il giorno natalizio di una vergine, l'amore della verginità ci invita a dirne ora qualche cosa, affinché non sembri che noi restringiamo ad una parola di passaggio l'elogio di una virtù così importante. Se la verginità è degna di lode, non lo è già perché si riscontra nei martiri, ma perché essa fa dei martiri. E come lo spirito umano potrà comprendere questa virtù che è fuori dalle leggi della natura? O come potranno parole umane esprimere ciò che è al di sopra della stessa natura umana? La vergine ha preso al cielo il modello da imitare in terra. E non senza ragione ha domandato al cielo la sua regola di vita, poiché in cielo si è trovato lo Sposo.  
+Sermone di sant’Ambrogio vescovo
+!Lib. I sulle Vergini
+Poiché oggi è il giorno natalizio di una vergine, l’amore della verginità ci invita a dirne ora qualche cosa, affinché non sembri che noi restringiamo ad una parola di passaggio l’elogio di una virtù così importante. Se la verginità è degna di lode, non lo è già perché si riscontra nei martiri, ma perché essa fa dei martiri. E come lo spirito umano potrà comprendere questa virtù che è fuori dalle leggi della natura? O come potranno parole umane esprimere ciò che è al di sopra della stessa natura umana? La vergine ha preso dal cielo il modello da imitare in terra. E non senza ragione ha domandato al cielo la sua regola di vita, poiché in cielo si è trovato lo Sposo.
 
 [Responsory4]
 R. Per la verità, la mansuetudine e la giustizia, 
@@ -179,7 +180,7 @@ V. Col tuo splendore e con la tua bellezza, vieni, avanza lietamente e regna.
 R. La tua destra ti guiderà mirabilmente.
 
 [Lectio5]
-Elevandosi sopra le nubi, sopra l'atmosfera, sopra gli angeli e le stelle, nello stesso seno del padre ha trovato il verbo di Dio e se ne è riempito il cuore. Chi, infatti, dopo averlo trovato , potrebbe abbandonare un bene così grande? "Perché come profumo che si spande è il nome tuo; perciò le fanciulle ti hanno amato e ti hanno attratto". Infine non sono io ad affermare che quelle che non si maritano né si mariteranno, saranno come gli angeli di Dio nel cielo.  Nessuno dunque si meravigli se si paragonano agli angeli quelle che sono le spose del Signore degli angeli.
+Elevandosi sopra le nubi, sopra l’atmosfera, sopra gli angeli e le stelle, nello stesso seno del padre ha trovato il verbo di Dio e se ne è riempito il cuore. Chi, infatti, dopo averlo trovato, potrebbe abbandonare un bene così grande? «Perché come profumo che si spande è il nome tuo; perciò le fanciulle ti hanno amato e ti hanno attratto». Infine non sono io ad affermare che quelle che non si maritano né si mariteranno saranno come gli angeli di Dio nel cielo. Nessuno dunque si meravigli se si paragonano agli angeli quelle che sono le spose del Signore degli angeli.
 
 [Responsory5]
 R. Hai amato la giustizia ed hai odiato l'iniquità: 
@@ -188,7 +189,7 @@ V. Per la verità, la mansuetudine e la giustizia.
 R. Perciò Dio, il tuo Dio, ti unse, con olio di letizia.
 
 [Lectio6]
-Chi  dunque potrebbe negare questo genere di vita ci sia venuto dal cielo, che poiché non si è riscontrato facilmente sulla terra, se non dopo che Dio scese a rivestirsi di un corpo umano? Allora una Vergine concepì nel suo grembo, e il Verbo si è fatto uomo, perché l'uomo divenisse Dio. Qualcuno dirà: "Ma si sa che anche Elia non fu mai sconvolto dai desideri dell'unione carnale". Per questo dunque fu rapito in cielo su di un carro; per questo appare col Signore nella gloria; per questo verrà come precursore della venuta del Signore.
+Chi dunque potrebbe negare che questo genere di vita ci sia venuto dal cielo, poiché non si è riscontrato facilmente sulla terra, se non dopo che Dio scese a rivestirsi di un corpo umano? Allora una Vergine concepì nel suo grembo, e il Verbo si è fatto uomo, perché l’uomo divenisse Dio. Qualcuno dirà: «Ma si sa che anche Elia non fu mai sconvolto dai desideri dell’unione carnale». Per questo dunque fu rapito in cielo su di un carro; per questo appare col Signore nella gloria; per questo verrà come precursore della venuta del Signore.
 
 [Responsory6]
 R. Le vergini saranno presentate al re dopo di lei; le compagne di lei 
@@ -200,13 +201,12 @@ R. Ti saranno condotte con festosa esultanza.
 
 [Lectio7]
 Dal Vangelo secondo Matteo
-!Matt 25:1
-In quel tempo, Gesù disse ai suoi discepoli questa parabola: "Il regno dei cieli è simile a dieci vergini le quali presero le loro lampade e andarono incontro allo sposo e alla sposa". (continua nella Messa del giorno)
+!Mt 25,1-13
+In quel tempo, Gesù disse ai suoi discepoli questa parabola: «Il regno dei cieli è simile a dieci vergini le quali presero le loro lampade e andarono incontro allo sposo e alla sposa». (continua nella Messa del giorno)
 _
-Omelia di s. Gregorio papa
-!Omelia 12 sui Vangeli.
-Spesso vi raccomando, fratelli carissimi, di fuggire le opere cattive e di evitare la corruzione di questo mondo, ma quest'oggi la lettura del santo Vangelo mi costringe a dirvi di stare molto attenti a non perdere il merito delle vostre buone opere, a non cercare, nel bene che fate, il favore o la stima degli uomini, ad impedire
-che si insinui in voi il desiderio della lode e ad agire in modo che, quanto appare di fuori, non sia dentro vuoto di ricompensa. Il Redentore infatti ci parla di dieci vergini, e le dice tutte vergini; eppure non tutte hanno meritato di essere ammesse al soggiorno della beatitudine, perché alcune di esse, mentre cercavano una gloria esteriore della loro verginità, non si curarono di mettere dell'olio nelle loro lampade.  
+Omelia di san Gregorio papa
+!Omelia 12 sui Vangeli
+Spesso vi raccomando, fratelli carissimi, di fuggire le opere cattive e di evitare la corruzione di questo mondo, ma quest’oggi la lettura del santo Vangelo mi costringe a dirvi di stare molto attenti a non perdere il merito delle vostre buone opere, a non cercare, nel bene che fate, il favore o la stima degli uomini, ad impedire che si insinui in voi il desiderio della lode e ad agire in modo che, quanto appare di fuori, non sia dentro vuoto di ricompensa. Il Redentore infatti ci parla di dieci vergini, e le dice tutte vergini; eppure non tutte hanno meritato di essere ammesse al soggiorno della beatitudine, perché alcune di esse, mentre cercavano una gloria esteriore della loro verginità, non si curarono di mettere dell’olio nelle loro lampade.
 
 [Responsory7]
 R. Questa è una vergine saggia, che il Signore trovò vigilante: lei, con le lampade, prese con sé anche l'olio. 
@@ -215,7 +215,7 @@ V. A mezzanotte si udì un clamore: Ecco, arriva lo sposo, uscitegli incontro.
 R. E quando venne il Signore, entrò con lui alla festa nuziale.
 
 [Lectio8]
-Ma prima dobbiamo chiederci che cosa sia il regno dei cieli, o perché lo si paragoni a dieci vergini, ed anche quali vengano dette vergini prudenti e quali vergini stolte. Mentre infatti è certo che nessun reprobo entrerà nel regno dei cieli, perché questo viene paragonato anche a delle vergini stolte? Dobbiamo sapere che spesso nel linguaggio sacro la Chiesa del tempo presente viene chiamata regno dei cieli.  Onde altrove il Signore dice: "Il Figlio dell'uomo manderà i suoi angeli, e toglieranno dal suo regno tutti gli scandali". Certamente in quel regno di beatitudine, dove c'è la suprema pace, non si potranno trovare scandali da togliere.
+Ma prima dobbiamo chiederci che cosa sia il regno dei cieli, o perché lo si paragoni a dieci vergini, ed anche quali vengano dette vergini prudenti e quali vergini stolte. Mentre infatti è certo che nessun reprobo entrerà nel regno dei cieli, perché questo viene paragonato anche a delle vergini stolte? Dobbiamo sapere che spesso nel linguaggio sacro la Chiesa del tempo presente viene chiamata regno dei cieli. Onde altrove il Signore dice: «Il Figlio dell’uomo manderà i suoi angeli, e toglieranno dal suo regno tutti gli scandali». Certamente in quel regno di beatitudine, dove c’è la suprema pace, non si potranno trovare scandali da togliere.
 
 [Responsory8]
 R. A mezzanotte si udì un clamore: 
@@ -226,7 +226,7 @@ R. Ecco, arriva lo sposo, uscitegli incontro.
 R. Ecco, arriva lo sposo, uscitegli incontro.
 
 [Lectio9]
-Ciascuno vive in un corpo che ha cinque sensi; il numero cinque poi, raddoppiato, dà dieci. E, poiché la moltitudine dei fedeli comprende ambedue i sessi, la santa Chiesa si dice simile a dieci vergini. E poiché in essa i cattivi si trovano mescolati coi buoni e i reprobi con gli eletti, giustamente viene paragonata a delle vergini prudenti ed anche a delle vergini stolte. Infatti ci sono molti che vivono nella continenza, che si guardano dagli appetiti esteriori, e dalla speranza sono portati ai beni interiori, che mortificano la propria carne, e anelano alla patria celeste con tutta la forza del loro desiderio, agognano i premi eterni, e non vogliono ricevere lodi umane per le loro fatiche. Questi certamente non ripongono la loro gloria nelle parole degli uomini, ma la nascondono nella loro coscienza. E ci sono poi molti che affliggono il loro corpo con l'astinenza, ma per questa stessa loro astinenza cercano gli applausi degli uomini.
+Ciascuno vive in un corpo che ha cinque sensi; il numero cinque poi, raddoppiato, dà dieci. E, poiché la moltitudine dei fedeli comprende ambedue i sessi, la santa Chiesa si dice simile a dieci vergini. E poiché in essa i cattivi si trovano mescolati coi buoni e i reprobi con gli eletti, giustamente viene paragonata a delle vergini prudenti ed anche a delle vergini stolte. Infatti ci sono molti che vivono nella continenza, che si guardano dagli appetiti esteriori, e dalla speranza sono portati ai beni interiori, che mortificano la propria carne, e anelano alla patria celeste con tutta la forza del loro desiderio, bramano i premi eterni, e non vogliono ricevere lodi umane per le loro fatiche. Questi certamente non ripongono la loro gloria nelle parole degli uomini, ma la nascondono nella loro coscienza. E ci sono poi molti che affliggono il loro corpo con l’astinenza, ma per questa stessa loro astinenza cercano gli applausi degli uomini.
 &teDeum
 
 [Ant Laudes]
@@ -320,28 +320,28 @@ R. Perciò Iddio ti ha benedetta in eterno.
 Vieni, o sposa di Cristo, * ricevi la corona che il Signore ti ha preparata per l'eternità.
 
 [Lectio11]
-Dal libro dell'Ecclesiastico
-!Sir 51:1-7
-1 Ti loderò, o Signore mio re, e ti glorificherò, mio salvatore. 
+Dal libro dell’Ecclesiastico
+!Sir 51,1-7
+1 Ti loderò, o Signore mio re, e ti glorificherò, mio salvatore.
 2 Io glorificherò il tuo nome, perché sei divenuto mio aiuto e mio protettore,
-3 ed hai liberato il mio corpo dalla perdizione, dal laccio di una lingua calunniatrice e di labbra che proferiscono menzogne; sei stato il mio aiuto contro i miei nemici. 
-4 Nella tua grande misericordia mi hai liberato dai demoni ruggenti, pronti a divorarmi, 
-5 dalle mani di coloro che insidiavano la mia vita, dalle tribolazioni che mi circondavano, 
-6 dalle fiamme che mi avvolgevano rabbiosamente, dal fuoco da cui non fui bruciata, 
-7 dal profondo dell'inferno, dalla lingua impura e dalla parola menzognera, dal re iniquo e dalla calunnia di una lingua ingiusta.
+3 ed hai liberato il mio corpo dalla perdizione, dal laccio di una lingua calunniatrice e di labbra che proferiscono menzogne; sei stato il mio aiuto contro i miei nemici.
+4 Nella tua grande misericordia mi hai liberato dai demoni ruggenti, pronti a divorarmi,
+5 dalle mani di coloro che insidiavano la mia vita, dalle tribolazioni che mi circondavano,
+6 dalle fiamme che mi avvolgevano rabbiosamente, dal fuoco da cui non fui bruciata,
+7 dal profondo dell’inferno, dalla lingua impura e dalla parola menzognera, dal re iniquo e dalla calunnia di una lingua ingiusta.
 
 [Lectio21]
-!Sir 51:8-12
-8 L'anima mia si accostò quasi alla morte, 
-9 e la mia vita era vicina ai profondi inferi. 
-10 Mi avevano circondato da ogni parte e non c'era chi mi aiutasse; guardavo verso un soccorso umano, ma non c'era. 
-11 Mi ricordai allora della tua misericordia, o Signore, e delle tue opere che sono dall'eternità, 
+!Sir 51,8-12
+8 L’anima mia si accostò quasi alla morte,
+9 la mia vita era vicina ai profondi inferi.
+10 Mi avevano circondato da ogni parte e non c’era chi mi aiutasse; guardavo verso un soccorso umano, ma non c’era.
+11 Mi ricordai allora della tua misericordia, o Signore, e delle tue opere che sono dall’eternità,
 12 e come tu salvi coloro che sperano in te, o Signore, e li liberi dalle mani dei nemici.
 
 [Lectio31]
-!Sir 51:13-17
-13 E innalzai dalla terra la mia supplica e pregai per la liberazione dalla morte. 
-14 Invocai il Signore, padre del mio Signore, che non mi abbandonasse nel giorno della mia tribolazione e nell'ora dei superbi, quando più non resta aiuto.
-15 "Loderò il tuo nome assiduamente, e lo celebrerò, con rendimento di grazie". E fu esaudita la mia preghiera, 
-16 e mi liberasti dalla rovina e mi salvasti dalla sventura. 
+!Sir 51,13-17
+13 E innalzai dalla terra la mia supplica e pregai per la liberazione dalla morte.
+14 Invocai il Signore, padre del mio Signore, che non mi abbandonasse nel giorno della mia tribolazione e nell’ora dei superbi, quando più non resta aiuto.
+15 «Loderò il tuo nome assiduamente, e lo celebrerò, con rendimento di grazie». E fu esaudita la mia preghiera,
+16 e mi liberasti dalla rovina e mi salvasti dalla sventura.
 17 Perciò ti renderò grazie e lodi e benedirò il nome del Signore.

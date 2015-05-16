@@ -110,9 +110,7 @@ R. La morte dei suoi santi, alleluia.
 R. La morte dei suoi santi, alleluia.
 
 [Lectio4]
-Sermone di s. Gregorio papa.
-!Omelia 30ma sui Vangeli, dopo la metà.
-È stato scritto: "Lo Spirito del Signore ornò i cieli". Ornamenti dei cieli sono infatti le virtù dei predicatori, e di certo essi vengono elencati da Paolo quando dice: "A chi è dato per mezzo dello Spirito il linguaggio della sapienza, a chi il linguaggio della scienza, secondo il medesimo Spirito; a chi la fede per mezzo del medesimo Spirito; a chi il dono delle guarigioni, per quest'unico e medesimo Spirito, a chi il potere di operare miracoli, a chi la profezia, a chi il discernimento degli spiriti, a chi ogni genere di lingue, a chi il dono di interpretarle.  Ma tutte queste cose le opera l'unico e medesimo Spirito, distribuendole a ciascuno come vuole".
+@Commune/C1p:Lectio4
 
 [Responsory4]
 R. La luce perpetua risplenderà per i tuoi Santi, o Signore,
@@ -121,7 +119,7 @@ V. Essi saranno incoronati di eterna letizia: avranno gaudio e consolazione.
 R. E l'eternità dei secoli, alleluia, alleluia.
 
 [Lectio5]
-Quanti sono dunque i doni tanti sono gli ornamenti dei predicatori del cielo. Onde, ancora è stato scritto: "Per il Verbo del Signore furono stabiliti i cieli". Il Verbo del Signore è infatti il Figlio del Padre. Ma per dimostrare come tutta insieme la Trinità santa abbia creato questi stessi cieli, cioè i santi apostoli, riguardo alla divinità dello Spirito Santo si aggiunge subito: "E con lo Spirito della sua bocca tutta la loro virtù". Dunque la virtù dei cieli proviene dallo Spirito; perché non avrebbero potuto andar contro le potestà di questo mondo, se non li avesse corroborati la fortezza dello Spirito Santo.  Sappiamo infatti quali siano stati i dottori della santa Chiesa prima della venuta di questo Spirito; e noi vediamo di quale forza siano stati dotati dopo la sua venuta.  
+@Commune/C1p:Lectio5
 
 [Responsory5]
 R. Con grande forza gli apostoli 
@@ -130,7 +128,7 @@ V.  Ripieni di Spirito Santo, annunciavano coraggiosamente la parola di Dio.
 R. Testimonianza della risurrezione di Gesù Cristo, nostro Signore, alleluia, alleluia.
 
 [Lectio6]
-Certamente, se la interroghiamo, la serva portinaia ci dirà quanto debole e pauroso fosse, prima della venuta dello Spirito, questo stesso pastore della Chiesa presso il cui sacratissimo corpo ora noi sediamo. Sgomentato infatti da una sola parola di una donna, temendo di morire, rinnegò la Vita. E bisogna pensare che Pietro lo rinnegò quando, catturato, stava ancora a terra, mentre il ladrone lo confessò quando già stava appeso alla croce. Ma ascoltiamo come quest'uomo tanto timoroso si sia comportato dopo la venuta dello Spirito. Si radunano i magistrati e gli anziani, ed ai percossi apostoli viene intimato di non parlare più nel nome di Gesù.  Pietro con grande autorità risponde: "Bisogna ubbidire a Dio più che agli uomini".
+@Commune/C1p:Lectio6
 
 [Responsory6]
 R. Questi sono i teneri agnelli che hanno recato l'annuncio, alleluia; sono venuti ora alle fonti: 
