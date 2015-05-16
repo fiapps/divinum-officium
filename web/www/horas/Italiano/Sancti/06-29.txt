@@ -1,11 +1,11 @@
 [Rank]
-SS. Apostolorum Petri et Pauli;;Duplex I classis cum octava communi;;6.5;;ex C1
+SS. Apostolorum Petri and Pauli;;Duplex I classis cum octava communi;;6.5;;ex C1
 
 [Rank1960]
-SS. Apostolorum Petri et Pauli;;Duplex 1 classis;;6;;ex C1
+SS. Apostolorum Petri and Pauli;;Duplex I classis;;6;;ex C1
 
 [Rule]
-vide C1;
+ex C1;
 9 lectiones
 Psalmi Dominica
 Antiphonas horas
@@ -54,11 +54,11 @@ $Per Dominum
 
 [Lectio1]
 Dagli Atti degli Apostoli
-!Atti 3:1-5
-1 Pietro e Giovanni salivano al tempio, sull'ora della preghiera delle tre pomeridiane. 
-2 E veniva portato un certo uomo ch'era sciancato fin dalla nascita; e lo posavano ogni giorno alla porta del tempio, detta la Bella, perché chiedesse l'elemosina a quelli che entravano nel tempio. 
-3 Costui, visto Pietro e Giovanni che stavano per entrare nel tempio, si raccomandava per aver l'elemosina. 
-4 E Pietro, fissandolo insieme con Giovanni, disse: Guardaci. 
+!Atti 3,1-5
+1 Pietro e Giovanni salivano un giorno al tempio, per la preghiera delle tre pomeridiane.
+2 E veniva portato un certo uomo storpio fin dalla nascita, e deposto ogni giorno alla porta del tempio, detta Bella, perché chiedesse l’elemosina a coloro che entravano nel tempio.
+3 Costui avendo visto Pietro e Giovanni che stavano per entrare nel tempio, si raccomandava per avere l’elemosina.
+4 E Pietro, fissandolo insieme con Giovanni, disse: «Guardaci».
 5 E quello li guardava attentamente, sperando di ricevere da essi qualche cosa.
 
 [Responsory1]
@@ -68,12 +68,12 @@ V. Qualunque cosa legherai sulla terra, sarà legata anche nei cieli; e qualunqu
 R. E t'ho dato le chiavi del regno dei cieli.
 
 [Lectio2]
-!Atti 3:6-10
-6 Ma Pietro disse: Non ho né argento né oro; ma quello che ho, te lo dò: In nome di Gesù Cristo Nazareno, alzati e cammina. 
-7 E prèsolo per la mano destra, lo alzò, e in quell'istante gli si consolidarono le piante e le caviglie. 
-8 E d'un salto fu in piedi, e si mise a camminare; ed entrò con loro nel tempio, camminando, saltando e lodando Dio. 
-9 E tutto il popolo lo vide camminare e lodare Dio. 
-10 E siccome lo conoscevano per quello stesso che sedeva alla porta Bella del tempio a chieder l'elemosina, erano stupiti e fuor di sé per quello che gli era accaduto.
+!Atti 3,6-10
+6 Ma Pietro disse: «Non ho né oro né argento: ma quello che ho, te lo dò: Nel nome di Gesù Cristo Nazareno, alzati e cammina».
+7 E presolo per la mano destra, lo alzò e in quell’istante gli si consolidarono le gambe.
+8 E, balzando in piedi, si mise a camminare; ed entrò nel tempio con loro camminando, saltando e lodando Iddio.
+9 Tutto il popolo lo vide camminare e lodare Iddio,
+10 e riconoscendo che era quel tale che abitualmente sedeva davanti alla porta Bella del Tempio a domandare l’elemosina, rimasero stupiti e perplessi per ciò che gli era accaduto.
 
 [Responsory2]
 R. Se tu m'ami, o Simon Pietro, pasci le mie pecore. Signore, tu sai ch'io t'amo, 
@@ -82,13 +82,13 @@ V. Quand'anche dovessi morire con te, io non ti rinnegherò
 R. E per te darei la mia vita.
 
 [Lectio3]
-!Atti 3:11-16
-11 E mentre egli teneva stretti Pietro e Giovanni, tutto il popolo era corso stupito verso di loro nel portico, detto di Salomone. 
-12 Pietro vedendo ciò, disse al popolo; Uomini d'Israele, perché vi meravigliate di questo, e perché ci guardate, quasi che per potenza e bontà nostra avessimo fatto che costui cammini? 
-13 Il Dio d'Abramo, il Dio d'Isacco e il Dio di Giacobbe, il Dio dei nostri padri ha glorificato il suo Figlio Gesù, che voi avete tradito e rinnegato davanti a Pilato, mentre questi era d'avviso che lo si dovesse rilasciare. 
-14 Voi invece avete rinnegato il Santo e il Giusto, e chiedeste che vi fosse graziato un assassino: 
-15 e avete ucciso l'Autore della vita, cui Dio ha risuscitato da morte, e ne siamo testimoni noi. 
-16 Ora è per la fede nel nome di lui, che il suo nome ha rafforzato costui che vedete e conoscete: e la fede, che viene da lui, gli ha dato questa perfetta guarigione alla presenza di tutti voi.
+!Atti 3,11-16
+11 Mentre egli si teneva vicino a Pietro e a Giovanni, tutta la gente accorse attonita presso di loro sotto il portico di Salomone.
+12 Vedendo ciò, Pietro si rivolse al popolo e prese a parlare così: «O Israeliti, perché vi stupite di questo fatto e perché ci guardate tanto come se fosse dipeso dalla nostra potenza o dalla nostra religiosità il far camminare quest’uomo?
+13 È stato il Dio di Abramo, di Isacco e di Giacobbe, il Dio dei nostri padri, che ha glorificato il Figlio suo Gesù, da voi consegnato e rinnegato davanti a Pilato.
+14 Mentre questi era deciso a liberarlo, voi rinnegaste il Santo e il Giusto e domandaste che vi fosse graziato un assassino.
+15 Così uccideste l’Autore della vita. Egli però è stato risuscitato da Dio, e di questo noi siamo testimoni.
+16 Anzi, proprio per la fede nel suo nome, questi, che voi vedete e conoscete è stato ristabilito in salute da lui. È appunto la fede dataci da lui che ha dato a quest’uomo la perfetta guarigione, in presenza di tutti voi.
 
 [Responsory3]
 R. Tu sei Pietro, e su questa pietra io edificherò la mia Chiesa, e le porte dell'inferno non prevarranno contro di lei: 
@@ -99,9 +99,9 @@ R. E darò a te le chiavi del regno dei cieli.
 R. E darò a te le chiavi del regno dei cieli.
 
 [Lectio4]
-Sermone di san Leone Papa
-!Sermone 1 sul natale degli Apostoli Pietro e Paolo
-Senza dubbio, dilettissimi, il mondo intero prende parte a tutte le nostre sante solennità, e la pietà d'una stessa fede, esige che si celebri in ogni luogo con gioia comune ciò che si commemora compiuto per la salvezza di tutti. Tuttavia la festa odierna, oltre la venerazione che s'è acquistata per tutto il mondo, deve avere nella nostra Città un culto speciale ed un'allegrezza particolare; così che là dove i principi degli Apostoli morirono sì gloriosamente, ci sia ancora, il giorno del loro martirio, maggiore esplosione di gioia. Perché son dessi, o Roma, gli eroi che fecero risplendere ai tuoi occhi il Vangelo di Cristo; e che da maestra dell'errore; ti resero discepola della verità.
+Sermone di san Leone papa
+!Sermone 1 per la festa dei santi Apostoli Pietro e Paolo
+Tutto il mondo, o dilettissimi, prende parte a tutte le nostre sante solennità, e la devozione ad un’unica fede esige che si celebri dovunque e con gaudio comune, tutto quanto si commemora come compiuto per la salvezza di tutti. La festa odierna tuttavia, oltre che con quella venerazione che si è acquistata in tutto il mondo, deve essere celebrata nella nostra città con una gioia speciale e del tutto particolare; perché là dove fu glorificata la morte dei Principi degli apostoli, ci sia nel giorno del loro martirio, una maggiore manifestazione di letizia. Questi sono, o Roma, gli eroi per merito dei quali ti apparve nella sua luce il Vangelo di Cristo; e tu, che eri maestra dell’errore, divenisti discepola della verità.
 
 [Responsory4]
 R. Signore, se sei tu, comandami di venire a te sulle acque. 
@@ -110,7 +110,7 @@ V. Ma egli vedendo il vento gagliardo, s'impaurì; e, cominciando a sommergersi,
 R. E stesa la mano, Gesù lo prese e gli disse: Uomo di poca fede, perché hai dubitato?
 
 [Lectio5]
-Son dessi i tuoi padri, i veri pastori, che, per introdurti nel regno celeste han saputo fondarti molto meglio e ben più felicemente di coloro che ebbero cura di porre le prime fondamenta delle tue mura; dei quali colui che ti diede il nome si macchiò dell'uccisione del proprio fratello. Son dessi, che ti hanno innalzata a tanta gloria, che, divenuta nazione santa, popolo eletto, città sacerdotale e reale e, per la Sede augusta del beato Pietro, la capitale del mondo intero, stendi la tua supremazia, grazie alla religione divina, assai più lontano che non fu per la dominazione terrena. Dacché, sebbene resa potente da molte vittorie, avessi steso il diritto del tuo impero e su terre e su mari, tuttavia quello che ti assoggettarono le fatiche della guerra è assai meno di quello che ti ha sottomesso la pace cristiana.
+Sono questi i tuoi padri e i tuoi veri pastori che, per introdurti nel regno dei cieli, seppero fondarti molto meglio e molto più felicemente di coloro che si assunsero l’impresa di porre le prime fondamenta delle tue mura; di costoro, colui che ti diede il nome, ti macchiò con un fratricidio. Sono questi che ti hanno innalzata a tanta gloria che, divenuta nazione santa, popolo eletto, città sacerdotale e regia e, per la sede sacra del beato Pietro, capitale del mondo intero, hai potuto estendere il tuo dominio, con la tua religione divina, molto più largamente di quanto tu non sia riuscita a fare con la tua supremazia terrena. Benché infatti, ingrandita da molte vittorie, tu abbia esteso il diritto del tuo dominio per terra e per mare; tuttavia quello che sottomisero al tuo potere le fatiche della guerra, è meno di quanto assoggettò a te la pace cristiana.
 
 [Responsory5]
 R.  Lèvati su, Pietro, bùttati addosso il tuo mantello, ricevi il potere di salvare le Genti: 
@@ -119,7 +119,7 @@ V. Si presentò un Angelo del Signore e brillò una luce nella cella del carcere
 R. Poiché son cadute le catene dalle tue mani
 
 [Lectio6]
-D'altra parte conveniva assai meglio col piano dell'opera divina, che molti regni fossero riuniti sotto un medesimo impero, perché così la predicazione avesse facile accesso e pronta diffusione fra i popoli sottomessi alla autorità suprema d'una stessa città. Ma allorquando questa città, ignara dell'autore della sua elevazione, dominava su quasi tutte le nazioni, essa era schiava di tutti gli errori; e perché non ne rigettava alcuno, credeva di potersi attribuire molta religiosità. Quindi quanto più strettamente il diavolo la teneva incatenata, tanto più mirabilmente è stata da Cristo liberata.
+Era rispondente, d’altra parte, al piano predisposto dall’alto, che molti regni venissero riuniti sotto un medesimo impero, e che un’unica predicazione potesse avere facile e veloce diffusione fra i popoli sottomessi al dominio di una sola città. Ma quando questa città, ignorando l’autore della sua fortuna, dominava su quasi tutti i popoli, essa era schiava degli errori di tutte le genti; e poiché non rigettava alcuna di tali falsità, le sembrava di potersi attribuire una grande religiosità. Per cui quanto più strettamente era incatenata dal diavolo, tanto più meravigliosamente è stata liberata da Cristo.
 
 [Responsory6]
 R. Tu sei il pastore delle pecore, il Principe degli Apostoli, a te Dio ha dato tutti i regni del mondo: 
@@ -130,13 +130,13 @@ R. E perciò a te sono state date le chiavi del regno dei cieli.
 R. E perciò a te sono state date le chiavi del regno dei cieli.
 
 [Lectio7]
-Lettura del santo Vangelo secondo Matteo
-!Matt 16:13-19
-In quell'occasione: Gesù, venuto nelle parti di Cesarea di Filippo, interrogò i suoi discepoli, dicendo: La gente chi dice che sia il Figlio dell'uomo? Eccetera.
+Dal Vangelo secondo Matteo
+!Mt 16,13-19
+In quel tempo, Gesù, venuto nella zona di Cesarea di Filippo, interrogava i suoi discepoli: «Chi dicono che sia il Figlio dell’uomo?». (continua nella Messa del giorno)
 _
-Omelia di san Girolamo Prete
-!Libro 3 Commentari su Matteo, cap. 16
-Giustamente egli domanda: «La gente chi dice che sia il Figlio dell'uomo?» (Matth. 16,13) quelli che non vedono in lui che il figlio dell'uomo, sono infatti degli uomini; ma quelli che riconoscono la sua divinità, son detti dii, e non uomini. «Ed essi risposero: Alcuni dicono ch'è Giovanni Battista, altri Elia» (Matth. 16,14) Mi meraviglio che certi interpreti cerchino le cause di questi errori, e vogliano stabilire con discussioni lunghissime, perché alcuni hanno pensato nostro Signore Gesù Cristo essere Giovanni, altri Elia, altri Geremia o qualcuno dei profeti; avendo essi potuto sbagliare prendendolo per Elia e Geremia allo stesso modo che sbagliò Erode prendendolo per Giovanni quando disse: «Questi è quel Giovanni, a cui io tagliai la testa: egli è risorto dai morti, e perciò in lui si operano dei miracoli» (Matth, 6, 15).
+Omelia di san Girolamo presbitero
+!Lib. iii, comm. su Mt
+Giustamente egli domanda: «Gli uomini chi dicono che sia il Figlio dell’uomo?», poiché quelli che vedono in lui soltanto il figlio dell’uomo, sono degli uomini; quelli invece che comprendono la sua divinità non sono detti uomini ma dèi. «Ed essi risposero: Alcuni dicono che sia Giovanni Battista, altri Elia». Mi meraviglio che certi interpreti vadano cercando le cause degli errori di ciascuno e facciano lunghissime discussioni sul perché alcuni abbiano creduto che nostro Signore Gesù Cristo fosse Giovanni, altri Elia, altri Geremia o qualcuno dei profeti; avendo essi potuto sbagliare credendolo Elia o Geremia, come sbagliò Erode credendolo Giovanni, quando disse: «Quello stesso Giovanni al quale tagliai il capo, è risorto dai morti, ed in lui si operano dei miracoli».
 
 [Responsory7]
 R. Io ho pregato per te, o Pietro, che la tua fede non venga meno: 
@@ -145,7 +145,7 @@ V. Non te l'ha rivelato la natura e l'istinto, ma il Padre mio ch'è nei cieli.
 R. E tu, quando ti sarai ravveduto conferma i tuoi fratelli.
 
 [Lectio8]
-«E voi chi dite ch'io sia?» (Matth. 6,15) Lettore intelligente, bada che e da quel che segue e dal testo del discorso gli Apostoli non sono punto chiamati uomini, ma dii. Perché, dopo aver detto: «La gente chi dice che sia il Figlio dell'uomo?» soggiunge: «E voi chi dite ch'io sia?» (Matth. 16,13) Mentre gli altri, perché sono uomini, pensano di me cose affatto umane, voi che siete dii, chi credete ch'io sia? Pietro a nome di tutti gli Apostoli fa questa professione di fede: «Tu sei Cristo, il Figlio del Dio vivente» (Matth. 16,16). Dice, del Dio vivente, per distinguerlo dagli altri dèi, che passano per dèi, ma che sono morti.
+«E voi chi dite che io sia?». Lettore saggio, bada che, da ciò che segue e dal testo del discorso, gli apostoli non sono affatto chiamati uomini, ma dèi. Infatti, dopo aver detto: «Gli uomini chi dicono che sia il figlio dell’uomo?», aggiunse: «E voi chi dite che io sia?». Mentre gli altri, essendo uomini, pensano di me cose umane voi, che siete dèi, chi pensate che io sia? E Pietro, a nome di tutti gli apostoli, fa questa professione di fede: «Tu sei il Cristo, il Figlio del Dio vivente». Lo chiama Dio vivente per distinguerlo dagli altri dèi che sono ritenuti dèi, ma sono morti.
 
 [Responsory8]
 R. La gente chi dice che sia il Figlio dell'uomo? domandò Gesù ai suoi discepoli. Rispose Simon Pietro e disse: Tu sei Cristo, il Figlio del Dio vivente. 
@@ -156,7 +156,7 @@ R. E io ti dico, che tu sei Pietro, e su questa pietra io edificherò la mia Chi
 R. E io ti dico, che tu sei Pietro, e su questa pietra io edificherò la mia Chiesa.
 
 [Lectio9]
-E Gesù rispondendogli disse: «Beato te, Simone, Figlio di Giona» (Matth. 16,17). Egli ripagò la testimonianza resagli dall'Apostolo. Pietro aveva detto: «Tu sei Cristo, il Figlio del Dio vivente»; la confessione della verità è ricompensata: «Beato te, Simone, figlio di Giona». Perché? «Perché non te l'ha rivelato né la natura né l'istinto, ma te l'ha rivelato il Padre» (Ibi). Ciò che non ha potuto rivelare né la natura né l'istinto, l'ha rivelato la grazia dello Spirito Santo. In seguito dunque alla professione di fede, egli riceve un nome in cui si trova espressa la rivelazione dello Spirito Santo, del quale merita anche d'essere detto figlio. Difatti Bar-Jona nella nostra lingua è lo stesso che Figlio della colomba.
+E Gesù in risposta gli disse: «Beato sei tu, Simone, Bar-Iona». Egli ripagò la testimonianza resagli dall’Apostolo. Pietro aveva detto: «Tu sei il Cristo, il Fi­glio del Dio vivo»; la confessione della verità è stata ricompensata: «Beato te, Simone, Bar-Iona». Perché? «Perché non te l’ha rivelato né la natura né l’istinto, ma te l’ha rivelato il Padre». Ciò che non ha potuto rivelare la natura né l’istinto, l’ha rivelato la grazia dello Spirito Santo. Dalla professione di fede egli riceve dunque un nome in cui si trova espressa la rivelazione dello Spirito Santo, del quale merita anche d’essere detto figlio. Infatti Bar-Iona, nella nostra lingua, significa figlio della colomba.
 &teDeum
 
 [Ant Laudes]

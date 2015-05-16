@@ -16,26 +16,26 @@ $Per Dominum
 
 [Lectio1]
 Dagli Atti degli Apostoli
-!Atti 13:43-47
-43 Scioltasi la adunanza, molti dei Giudei e dei proseliti pii seguirono Paolo e Barnaba; e questi colle loro parole li persuadevano a perseverare nella grazia di Dio. 
-44 E il sabato seguente quasi tutta la città accorse per sentire la parola di Dio. 
-45 Ma i Giudei, vista la folla, ne furon pieni d'invidia e, bestemmiando, contradicevano alle cose dette da Paolo. 
-46 Allora Paolo e Barnaba dissero risoluti: Era necessario annunziare prima a voi la parola di Dio; ma giacché la respingete e. vi giudicate da voi stessi indegni della vita eterna, ecco che noi ci rivolgiamo ai Gentili; 
-47 perché così ci ha ordinato il Signore: «Io ti ho costituito per essere luce delle Genti, per essere la salvezza sino agli estremi confini della terra» (Is. 49,6).
+!Atti 13,43-47
+43 Sciolta l’adunanza molti Giudei e credenti in Dio accompagnarono Paolo e Barnaba, mentre questi li esortavano, in modo persuasivo, a rimanere fedeli alla grazia di Dio.
+44 Il sabato seguente quasi tutti i cittadini si riunirono per ascoltare la parola di Dio.
+45 Gli Ebrei, scorgendo tutta quella gente, si ingelosirono e ribattevano, con offese personali, quanto loro spiegavano.
+46 Paolo e Barnaba ribadirono risolutamente: «Era stabilito che a voi, per primi, fosse riportata la parola di Dio. Considerato però che la state respingendo, e che non vi credete atti alla vita eterna, noi ci rivolgiamo ai pagani.
+47 Infatti questo è il comando del Signore: Ti ho incaricato di essere la luce dei pagani, affinché tu provochi la salvezza anche negli estremi confini del mondo».
 
 [Lectio2]
-!Atti 13:48-52
-48 Udendo questo i Gentili si rallegrarono e glorificavano la parola del Signore, e quanti erano preordinati alla vita eterna credettero. 
-49 Così la parola di Dio si diffondeva per tutto quel paese. 
-50 Ma i Giudei istigarono matrone timorate e ragguardevoli e i principali della città, e suscitarono una persecuzione contro Paolo e Barnaba, e li scacciarono dal loro territorio. 
-51 Essi però, scossa contro di quelli la polvere dei loro piedi, andarono a Iconio. 
-52 I discepoli poi erano pieni d'allegrezza e di Spirito Santo.
+!Atti 13,48-52
+48 Udendo queste parole, i pagani salutarono con tripudio la parola del Signore e quelli che erano destinati alla vita eterna abbracciarono la fede.
+49 Così la parola di Dio si disseminava per tutto quel luogo.
+50 I Giudei però sobillarono alcune matrone, che credevano in Dio, e gli aristocratici della città, e li indussero a perseguitare Paolo e Barnaba e a cacciarli da quel territorio.
+51 Essi, scossa la polvere dei piedi contro di loro, si avviarono verso Iconio.
+52 Però i neofiti si sentivano pieni di gioia e di Spirito Santo.
 
 [Lectio3]
-!Atti 14:1-3
-1 Avvenne pure in Iconio che essi entrarono insieme nella sinagoga dei Giudei e ragionarono in maniera che una gran moltitudine di Giudei e di Greci credette. 
-2 Ma i Giudei rimasti increduli, misero su e inasprirono gli animi dei Gentili contro i fratelli. 
-3 Essi però si fermaron molto tempo, predicando liberamente nel Signore, il quale confermava la parola della sua grazia, concedendo che si operassero per mezzo delle loro mani miracoli e prodigi.
+!Atti 14,1-3
+1  A Iconio, secondo il loro costume, si recarono nella sinagoga ebraica e parlarono con tale convinzione che un bel gruppetto di Ebrei e di Greci abbracciarono la fede.
+2 Ma i Giudei non convertiti eccitarono i pagani contro di loro.
+3 Nonostante ciò, gli apostoli restarono parecchio tempo e parlavano senza reticenze, perché si fidavano di Gesù che confermava l’annuncio del suo dono concedendo loro di compiere dei miracoli.
 
 [Lectio4]
 Barnaba, Levita, detto anche Giuseppe, oriundo di Cipro, fu ordinato con Paolo quale Apostolo dei Gentili per annunziare il Vangelo di Gesù Cristo. Egli, venduto il podere che aveva, portò agli Apostoli il denaro ricavatone. Inviato poi a predicare ad Antiochia, avendovi trovati molti convertiti alla fede di Cristo Signore, se ne rallegrò immensamente, e li esortava a perseverare nella fede di Cristo. Le sue esortazioni ebbero gran successo, perché tutti lo riputavano siccome uomo buono e pieno dello Spirito Santo.
@@ -64,5 +64,5 @@ E certo è assai più grande e mirabile cambiare le menti dei nemici e trasforma
 &teDeum
 
 [Lectio94]
-Barnaba, levita, di origine cipriota, fu designato con l'apostolo Paolo ad annunziare il Vangelo di Gesù Cristo. Vendette la sua proprietà e portò agli apostoli il danaro ricavato dalla vendita. Inviato a predicare ad Antiochia, fortificò con le sue esortazioni molti convertiti alla fede di Cristo. Partito di là con Paolo, attraversò molte città e regioni con grandissimo beneficio di coloro che li ascoltavano. Alla fine, separatosi da Paolo, si imbarcò per Cipro con Giovanni soprannominato Marco. A Cipro nel settimo anno dell'impero di Nerone aggiunse la corona del martirio alla gloria del ministero apostolico.
+Barnaba, levita, di origine cipriota, fu designato con l’apostolo Paolo ad annunziare il Vangelo di Gesù Cristo. Vendette la sua proprietà e portò agli apostoli il denaro ricavato dalla vendita. Inviato a predicare ad Antiochia, fortificò con le sue esortazioni molti convertiti alla fede di Cristo. Partito di là con Paolo, attraversò molte città e regioni con grandissimo beneficio di coloro che li ascoltavano. Alla fine, separatosi da Paolo, si imbarcò per Cipro con Giovanni soprannominato Marco. A Cipro nel settimo anno dell’impero di Nerone aggiunse la corona del martirio alla gloria del ministero apostolico.
 &teDeum

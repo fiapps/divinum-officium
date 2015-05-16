@@ -5,7 +5,7 @@ S. Ephraem Syri Confessoris et Ecclesiae Doctoris;;Duplex;;3;;vide C5a
 S. Ephraem Syri Confessoris et Ecclesiae Doctoris;;Duplex optional;;2;;vide C5a
 
 [Name]
-Efrem
+Ephraem
 
 [Rule]
 vide C5a;
@@ -49,5 +49,5 @@ Marco e Marcelliano, fratelli Romani, imprigionati dal prefetto Fabiano a causa 
 &teDeum
 
 [Lectio94]
-Sant'Efrem nacque in Siria, da una famiglia di Nísibe, Ancora giovane, si recò dal vescovo san Giacomo per essere battezzato. In breve aumentò tanto la sua scienza e la sua bontà da essere nominato maestro della scuola di Nísibe, in Mesopotamia. Fu ordinato diacono a Edessa, ma, per umiltà, rifiutò il sacerdozio. Era mollo virtuoso e si sforzava di insegnare la vera sapienza con l'amore e con la preghiera. Fu ritenuto dottore della Chiesa mentre era ancora in vita, per i suoi scritti, pieni di profonda dottrina. Fu particolarmente devoto della Madonna.  Morì, colmo di meriti, a Edessa in Mesopotamia, il 18 giugno 379, sotto il regno di Valente. Il papa Benedetto XV, dopo aver consultato la sacra Congregazione dei Riti, lo dichiarò dottore della Chiesa.  
+Sant’Efrem nacque in Siria, da una famiglia di Nísibe. Ancora giovane, si recò dal vescovo san Giacomo per essere battezzato. In breve aumentò tanto la sua scienza e la sua bontà da essere nominato maestro della scuola di Nísibe, in Mesopotamia. Fu ordinato diacono a Edessa, ma, per umiltà, rifiutò il sacerdozio. Era molto virtuoso e si sforzava di insegnare la vera sapienza con l’amore e con la preghiera. Fu ritenuto dottore della Chiesa mentre era ancora in vita, per i suoi scritti, pieni di profonda dottrina. Fu particolarmente devoto della Madonna. Morì, colmo di meriti, a Edessa in Mesopotamia, il 18 giugno 379, sotto il regno di Valente. Il papa Benedetto XV, dopo aver consultato la sacra Congregazione dei Riti, lo dichiarò dottore della Chiesa.
 &teDeum
