@@ -30,6 +30,9 @@ Options:
 --failures=FILENAME   Write to FILENAME a list of files of tests that failed
                       (one test filename per line). If no test fails, an
                       empty file will be written.
+--successes=FILENAME   Write to FILENAME a list of files of tests that succeeded
+                      (one test filename per line). If no test succeeds, an
+                      empty file will be written.
 --tests=FILENAME      Read names of test(s) from FILENAME (one test filename
                       per line). These tests will be added to any specified
                       directly on the command line. This flag can be repeated.
@@ -73,6 +76,7 @@ my $filter = '';
 my $update;
 my $new_base_url;
 my $failures_filename;
+my $successes_filename;
 my @tests_filenames;
 my $baulk = 1;
 my $decode = 1;
@@ -87,6 +91,7 @@ GetOptions(
     'decode!' => \$decode,
     'filter=s' => \$filter,
     'failures=s' => \$failures_filename,
+    'successes=s' => \$successes_filename,
     'tests=s' => \@tests_filenames,
     'update' => \$update
 ) or die $USAGE;
@@ -106,6 +111,9 @@ unless ( $update )
     $new_base_url = 'http://divinumofficium.com' unless $new_base_url;
     if ( $failures_filename && ! open FAILURES, ">$failures_filename" ) {
       die "Cannot write to $failures_filename";
+    }
+    if ( $successes_filename && ! open SUCCESSES, ">$successes_filename" ) {
+      die "Cannot write to $successes_filename";
     }
 }
 
@@ -444,6 +452,10 @@ foreach my $file ( @testfiles )
                             }
                         }
                     }
+                    if ( $successes_filename && !$printed )
+                    {
+                        print SUCCESSES "$file\n"
+                    }
                 }
             }
             else
@@ -465,6 +477,7 @@ foreach my $file ( @testfiles )
     }
 }
 close FAILURES;
+close SUCCESSES;
 
 # This procedure converts its argument into internal form and split it into lines
 # using a guessing procedure.
