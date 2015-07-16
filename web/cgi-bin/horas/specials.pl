@@ -368,7 +368,7 @@ sub specials {
 	if ($item =~ /(benedictus|magnificat)/i) {	 
 	  $comment = ($winner =~ /sancti/i) ? 3 : 2; 
 	  $prefix = ($lang =~ /English/i) ? 'Antiphon' : 'Antiphona';	   
-	  $prefix = ($lang =~ /Magyar/i) ? 'Antifóna' : 'Antiphona';
+#	  $prefix = ($lang =~ /Magyar/i) ? 'Antifóna' : 'Antiphona';
 	  setcomment($label, 'Source', $comment, $lang, $prefix);
 	  next;																 
 	}
