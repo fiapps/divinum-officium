@@ -1,7 +1,4 @@
 #Incipit
-$Pater noster
-$Ave Maria
-_
 $Deus in adjutorium
 &Gloria
 &Alleluia
@@ -10,7 +7,7 @@ $Deus in adjutorium
 
 #Capitulum Hymnus Versus
 
-#Canticum Benedictus
+#Canticum: Benedictus
 &ant_Benedictus(1)
 &canticum(1)
 &Gloria
@@ -64,16 +61,7 @@ R. Und lass mein Rufen zu dir kommen.
 
 #Oratio
 
-#Suffragium
-
 #Conclusio
 &Dominus_vobiscum
 &Benedicamus_Domino
 $Fidelium animae
-$Pater noster
-V. Gott gebe uns seinen Frieden.
-R. Und das ewige Leben. Amen.
-
-&antiphona_finalis
-V. Die Hilfe Gottes + möge ständig bei uns bleiben.
-R. Amen.
