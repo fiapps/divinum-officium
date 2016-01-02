@@ -70,80 +70,80 @@ Ich möchte loben meinen Gott * in meinem ganzen Leben.;;145
 
 [Day3 Laudes2]
 O wasch und wasche mich, * o Herr, von meinem Schmutz.;;50
-Impietátibus nostris * tu propitiáberis Deus.;;64
-In innocéntia * cordis mei perambulabo, Dómine.;;100
-Exsultávit cor meum * in Dómino, qui humíliat et súblevat.;;223
-Lauda * ánima mea Dóminum, qui érigit elísos et díligit justos.;;145
+Gegen unsere Missetaten * zeig doch dein Erbarmen.;;64
+In der Unschuld * meines Herzens will ich wandeln, o Herr.;;100
+Es hüpft mein Herz vor Freude, * über dich, o Herr, der du erniedrigst und erhebst.;;223
+Lobe * den Herrn nun, meine Seele, der die Gefallenen hebt empor und Liebe zeigt seinen Treuen.;;145
 
 [Day3 Vespera]
-Beáti omnes * qui timent Dóminum.;;127
-Confundántur omnes * qui odérunt Sion.;;128
-De profúndis * clamávi ad te, Dómine.;;129
-Dómine, * non est exaltátum cor meum.;;130
-Elégit Dóminus * Sion in habitatiónem sibi.;;131
+Wie glücklich ist doch jeder, * der dem Herrn bleibt treu ergeben.;;127
+Lass beschämt davon gehen alle, * die Sion hassen.;;128
+Aus dem Abgrund * flehe ich, o Herr, zu dir.;;129
+O Herr, * nicht strebt mein Herz nach hohen Dingen.;;130
+Erkoren hat der Herr * sich zu seiner Wohnung Sion.;;131
 
 [Day4 Laudes1]
-Jubiláte * in conspéctu régis Dómini.;;97
-Dómine, * refúgium factus es nobis.;;89
-Dómine, * in cælo misericórdia tua.;;35
-Pópulus meus, * ait Dóminus, bonis meis adimplébitur.;;214
-Deo nostro * jucúnda sit laudátio.;;146
+Nun jubelt * vor dem Herrn, * dem König.;;97
+O Herr, * du bist doch unsere Zuflucht.;;89
+O Herr, * es reicht zum Himmel dein Erbarmen.;;35
+Mein Volk, * so spricht der Herr, soll ganz sich sättigen an meinen Schätzen.;;214
+Unserm Gott * sei freudiges Lob gesungen.;;146
 
 [Day4 Laudes2]
 Tibi soli peccávi, * Dómine, miserére mei.;;50
 Convértere, Dómine, * et deprecábilis esto super servos tuos.;;89
 Multiplicásti, Deus, * misericórdiam tuam.;;35
 Fortitúdo mea * et laus mea Dóminus: et factus est mihi in salútem.;;224
-Laudáte * Dóminum qui sanat contrítos corde, et álligat contritiónes eórum.;;146
+Lobt * den Herrn, der heilt die wunden Herzen, verbindet alle ihre Wunden.;;146
 
 [Day4 Vespera]
-Ecce quam bonum * et quam jucúndum habitáre fratres in unum.;;132
-Confitémini Dómino * quóniam in ætérnum misericórdia ejus.;;135(1-9)
-Confitémini Dómino * quia in humilitáte nostra memor fuit nostri.;;135(10-26)
-Adhæreat lingua mea * fáucibus meis, si non memínero tui Jerúsalem.;;136
-Confitébor * nómini tuo, Dómine, super misericórdia et veritáte tua.;;137
+Seht, wie das schön * und angenehm ist, wenn Brüder eines Sinns zusammenkommen.;;132
+O preist den Herrn, * denn ewig währt sein Erbarmen.;;135(1-9)
+O preist den Herrn, * da er unserer eingedenk war in unserer Erniedrigung.;;135(10-26)
+Mag meine Zunge kleben stumm am Gaumen, * wenn ich, Jerusalem, an dich nicht denken sollte.;;136
+Ich preise * deinen Namen, o Herr, ob deiner Huld und Treue.;;137
 
 [Day5 Laudes1]
-Exaltáte * Dóminum Deum nóstrum, et adoráte in monte sancto ejus.;;98
-Éripe me * de inimícis meis, Dómine, ad te confúgi.;;142
-Benedixísti, * Dómine, terram tuam: remisísti iniquitátem plebis tuæ.;;84
-In Dómino justificábitur * et laudábitur omne semen Israël.;;215
-Lauda, * Jerúsalem, Dóminum.;;147
+O preiset * unsern Herrgott und fallt vor ihm zu Boden auf seinem heiligen Berge.;;98
+Rette mich, * o Herr, vor meinen Feinden, wo bei dir ich suche Zuflucht.;;142
+Gar großen Segen * hast du, Herr, gespendet deinem Lande, hast erlassen deinem Volk die Sünden.;;84
+Im Herrn nur findet Glück * und kann sich glücklich preisen Israels gesamter Nachwuchs.;;215
+Lobe, * o Jerusalem, den Herrn.;;147
 
 [Day5 Laudes2]
-Cor contrítum * et humiliátum, Deus, non despícies.;;50
-Propter nomen tuum, * Dómine, vivificábis me in æquitáte tua.;;142
-Deus, tu convérsus * vivificábis nos, et plebs tua lætábitur in te.;;84
-Cum irátus fúeris, * Dómine, misericórdiæ recordáberis.;;225
-Lauda * Deum tuum, Sion, qui annúntiat judícia sua Israël.;;147
+Ein Herz, das recht zerknirscht und reuig ist, * wirst du, o Herr, nicht von dir weisen.;;50
+Um deines Namens willen, * o Herr, sei Tröster mir in deiner Güte.;;142
+Gott, wende dich uns zu * um uns zu trösten, damit dein Volk an dir nun wieder Freude habe.;;84
+Wenn du zornig wirst, * o Herr, erinnere dich an dein Erbarmen.;;225
+Lobe * deine Gott, o Sion, der Israel bekundet seine Güte.;;147
 
 [Day5 Vespera]
-Dómine, * probásti me et cognovísti me.;;138(1-13)
-Mirabília ópera tua, * Dómine, et ánima mea cognóscit nimis.;;138(14-24)
-Ne derelínquas me, * Dómine, virtus salútis meæ.;;139
-Dómine, * clamávi ad te, exáudi me.;;140
-Educ de custódia * ánimam meam, Dómine, ad confiténdum nómini tuo.;;141
+O Herr, * du durchdringst mich und du durchschaust mich.;;138(1-13)
+Ganz wunderbar sind deine Werke, * Herr, und klar erkennt es meine Seele.;;138(14-24)
+Verlass micht nicht, * o Herr, du meine Kraft und meine Rettung.;;139
+O Herr, * ich ruf zu dir, erhöre mich.;;140
+Führ aus diesem Kerker, * mich heraus, o Herr, um deine Majestät zu preisen.;;141
 
 [Day6 Laudes1]
-Fílii Sion * exsúltent in Rege suo.;;149
-Quam magnificáta * sunt ópera tua, Dómine.;;91
-Lætábitur justus * in Dómino et sperábit in eo.;;63
-Osténde nobis, Dómine, * lucem miseratiónum tuárum.;;216
-Omnis spíritus * laudet Dóminum.;;150
+Die Söhne Sions * mögen jubeln über ihren König.;;149
+O wie erhaben, * Herr, sind deine Werke.;;91
+Freuen kann der Gottesdiener sich * im Herrn und ganz auf ihn vertrauen.;;63
+Zeige uns, o Herr, * das Licht deiner Erbarmungen.;;216
+Was Atem hat, * das alles soll den Herrn nun loben.;;150
 
 [Day6 Laudes2]
-Benígne fac, Dómine, * in bona voluntáte tua Sion.;;50
-Rectus Dóminus, * Deus noster, et non est iníquitas in eo.;;91
-A timóre inimíci * éripe, Dómine, ánimam meam.;;63
-In servis suis * miserébitur Dóminus et propítius erit terræ pópuli sui.;;226
-Laudáte * Dóminum secúndum multitúdinem magnitúdinis ejus.;;150
+O handle gnädig, Herr, * in deiner Huld an Sion.;;50
+Richtig macht alles unser Gott, * der Herr, und niemals ist in ihm ein Unrecht.;;91
+Von der Angst vor dem Feinde, * errette, o Herr, meine Seele.;;63
+Seinen Knechten * mag sich Gott gnädig erweisen und gütig sein dem Lande seines Volkes.;;226
+Lobt * den Herrn, * wie es zukommt seiner ungeheuren Größe.;;150
 
 [Day6 Vespera]
-Benedíctus Dóminus * suscéptor meus et liberátor meus.;;143(1-8)
-Beátus pópulus * cujus Dóminus Deus ejus.;;143(9-15)
-Magnus Dóminus * et laudábilis nimis: et magnitúdinis ejus non est finis.;;144(1-7)
-Suávis Dóminus * univérsis: et miseratiónes eíus super ómnia ópera ejus.;;144(8-13)
-Fidélis Dóminus * in ómnibus verbis suis: et sanctus in ómnibus opéribus suis.;;144(14-21)
+Sei gepriesen, Herr, * o du mein Anwalt und mein Retter.;;143(1-8)
+O glücklich Volk du, * dessen Gott der Herr ist.;;143(9-15)
+Groß bist du, o Herr, * und überaus des Lobes würdig, und deine Größe hat kein Ende.;;144(1-7)
+Der Herr ist liebevoll * für alle, und seine Hulderweise leuchten über allen seinen Werken.;;144(8-13)
+Treu ist der Herr * in allem, was er sagt, und in allem, was er tut, gar gnädig.;;144(14-21)
 
 [Daya0 Laudes]
 Allelúja * allelúja;;92;99;62;66
@@ -263,46 +263,46 @@ Deo nostro * jucúnda sit laudátio.;;146
 Lauda * Jerúsalem Dóminum.;;147
 
 [Day1 Laudes3]
-Ecce véniet * Dóminus princeps regum terræ: beáti, qui parati sunt occurrere illi.
-Cum vénerit * Fílius hóminis, putas inveniet fidem super terram?
-Ecce jam venit * plenitúdo témporis, in quo misit Deus Fílium suum in terras.
-Hauriétis aquas * in gáudio de fóntibus Salvatóris.
-Egrediétur * Dóminus de loco sancto suo: véniet ut salvet pópulum suum.
+Seht, es wird kommen * der Herr, der höchste der Könige auf der Erde; selig sind, die bereit sind, ihm entgegen zu gehen.
+Wenn einmal kommt * der Menschensohn, glaubst du, dass er Glauben vorfinden wird auf Erden?
+Seht, schon kommt * die Fülle der Zeit, in der Gott seinen Sohn auf die Erde gesandt hat.
+Nun könnt ihr werdet Wasser schöpfen * in Freude aus den Quellen des Heilands.
+Es tritt heraus * der Herr aus seiner heiligen Wohnung, er kommt, um sein Volk zu beglücken.
 
 [Day2 Laudes3]
-Rorate cæli désuper, * et nubes pluant justum: aperiatur terra, et gérminet Salvatórem.
-Emítte Agnum, Dómine * Dominatorem terræ, de Petra desérti, ad montem fíliæ Sion.
-Ut cognoscámus, Dómine, * in terra viam tuam, in ómnibus géntibus salutáre tuum.
-Da mercédem, Dómine, * sustinentibus te, ut prophétæ tui fidéles inveniántur.
-Lex per Móysen data est, * grátia et véritas per Jesum Christum facta est.
+Tauet, ihr Himmel, von oben, * ihr Wolken, regnet den Gerechten: es möge sich auftun die Erde und hervorsprießen lassen den Erlöser.
+Sende uns das Lamm, o Herr, * das da beherrschen soll die Erde, aus der Felsenburg, die einsam steht, zu deiner Tochter Sion.
+Damit wir erkennen, o Herr, * deinen Weg auf der Erde, bei allen Völkern deine Güte.
+Gib Gnade, o Herr, * denen, die auf dich wartend vertrauen, damit deine Propheten sich als wahrhaft erweisen.
+Das Gesetz ist durch Moses gegeben, * die Gnade und die Wahrheit ist uns durch Jesus Christus zuteil geworden.
 
 [Day3 Laudes3]
-Prophétæ prædicaverunt * nasci Salvatórem de Vírgine María.
-Spíritus * Dómini super me, evangelizáre paupéribus misit me.
-Propter Sion * non tacebo, donec egrediatur ut splendor justus ejus.
-Ecce véniet Dóminus, * ut sédeat cum princípibus, et sólium glóriæ téneat.
-Annuntiáte * pópulis, et dícite: Ecce Deus Salvátor noster véniet.
+Die Propheten haben vorausgesagt, * dass der Heiland geboren wird aus der Jungfrau Maria.
+Der Geist * des Herrn ist in mir wirksam, er hat mich gesandt, um frohe Kunde den Armen zu bringen.
+Im Anblick Sions * kann ich nicht schweigen, bis wie eine Leuchte sein Gerechter hervorgeht.
+Seht, es wird kommen der Herr, * damit der Mensch mit Fürsten zusammensitze und einen herrlichen Thron innehabe.
+Verkündet * es den Völkern und meldet es: Seht, Gott, unser Heiland wir kommen.
 
 [Day4 Laudes3]
-De Sion * véniet Dóminus omnípotens, ut salvum fáciat pópulum suum.
-Convértere, Dómine, * aliquantulum, et ne tardes veníre ad servos tuos.
-De Sion * véniet, qui regnaturus est Dóminus, Emmanuel magnum nomen ejus.
-Ecce Deus meus, * et honorabo eum: Deus pátris mei, et exaltábo eum.
-Dóminus * légifer noster, Dóminus Rex noster, ipse véniet, et salvábit nos.
+Aus Sion * wird der Herr kommen, der Allmächtige, um sein Volk zu retten.
+Ändere dein Verhalten, Herr, * knapp ist die Zeit, und zögere nicht, zu deinen Dienern zu kommen.
+Aus Sion * wird kommen der, der König sein soll, der Herr, "Gott mit uns" ist sein erhabener Name.
+Wisst es, mein Gott ist er, * und ich will ihn ehren: Den Gott meines Vaters, und ich will ihn rühmen.
+Der Herr * ist unser Gesetzgeber, der Herr ist unser König, er wird kommen und uns Heil bringen.
 
 [Day5 Laudes3]
-Constantes estóte, * videbitis auxílium Dómini super vos.
-Ad te, Dómine, * levávi ánimam meam: veni, et éripe me, Dómine, ad te confúgi.
-Veni, Dómine, * et noli tardare: relaxa facinora plebi tuæ Israël.
-Deus a Libano véniet, * et splendor ejus sicut lumen erit.
-Ego autem * ad Dóminum aspíciam, et exspectábo Deum Salvatórem meum.
+Seid guten Mutes, * ihr werdet die helfende Kraft des Herrn unter euch erfahren.
+Zu dir, o Herr, * erheb ich meine Seele: komm und rette mich, o Herr, zu dir nehme ich meine Zuflucht.
+Komm, o Herr, * und säume nicht: erleichtere die Last der Frevel deinem Volke Israel.
+Gott kommt aus der Lichthöhe, * und sein Glanz ist wie das Tageslicht.
+Ich aber * schau hinauf zum Herrn, und will Gott erwarten, meinen Heiland.
 
 [Day6 Laudes3]
-Intuimini * quam sit gloriósus iste, qui ingredietur ad salvandos pópulos.
-Multiplicábitur * eíus impérium, et pacis non erit finis.
-Ego Dóminus * prope feci justítiam meam, non elongábitur, et salus mea non morabitur.
-Exspectetur * sicut plúvia elóquium Dómini: et descendat sicut ros, super nos Dóminus Deus noster.
-Parátus esto * Israël, in occúrsum Dómini, quóniam venit.
+Schaut doch zu * wie majestätsvoll der ist, der hineintritt, um die Völker zu retten.
+Es wird groß sein * seine Herrschermacht, und des Friedens wird kein Ende sein.
+Ich, der Herr, * habe meine Gerechtigkeit nahe gebracht, sie wird nicht ausbleiben, und das von mir ausgehende Heil wird nicht zögern.
+Es soll erwartet werden * wie ein Regen das Wort des Herrn: und es wird wie ein erfrischender Tau auf uns herabsteigen, auf uns der Herr unser Gott.
+Sei bereit, * o Israel, um dem Herrn entgegenzugehen, denn er kommt.
 
 [Daym0 Laudes]
 Allelúja * allelúja;;50

@@ -4,28 +4,28 @@ v. Błogosławienie i chwała i mądrość i dziękowanie i cześć i moc i sił
 $Deo gratias
 
 [Hymnus Day0 Laudes]
-{:H-Ecceiamnoctis:}v. Oto już niknie cień nocy, 
-i światło jutrzenki jaśnieje różowo: 
+{:H-Ecceiamnoctis:}v. Oto już niknie cień nocy,
+i światło jutrzenki jaśnieje różowo:
 wdzięcznym głosem módlmy się
 kornie do Pana wszechrzeczy.
 _
-Iżby, litując się nad obarczonymi winą, 
-oddalił wszelki lęk, 
-udzielił zbawienia i dał nam dobre dary 
+Iżby, litując się nad obarczonymi winą,
+oddalił wszelki lęk,
+udzielił zbawienia i dał nam dobre dary
 pokoju wiekuistego.
 _
-Niechaj nam tego użyczy 
-błogosławione Bóstwo 
-Ojca i Syna, jako też Ducha Świętego, 
+Niechaj nam tego użyczy
+błogosławione Bóstwo
+Ojca i Syna, jako też Ducha Świętego,
 którego chwała po całym rozbrzmiewa świecie.
 Amen.
 
 [Day0 Versum 2]
 V. Pan królował, oblókł się w ozdobę.
-R. Índuit Dóminus fortitúdinem, et prćcínxit se virtúte.
+R. Oblókł się Pan mocą i przepasał się.
 
 [Day0 Laudes2]
-!1Kor 9:24
+!1 Kor 9:24
 v. Bracia: Nie wiecie, iż ci, którzy w zawód biegają, acz wszyscy bieżą, ale jeden zakład bierze? Tak bieżcie, abyście otrzymali.
 $Deo gratias
 
@@ -77,11 +77,11 @@ teraz i po wszystek wiek.
 Amen.
 
 [Day02 Versum 2]
-V. Dómine, refúgium factus es nobis.
-R. A generatióne et progénie.
+V. Panie, stałeś się ucieczką nam. 
+R. Od rodzaju do rodzaju.
 
 [Day0 Vespera]
-!2Kor 1:3-4
+!2 Kor 1:3-4
 v. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia, a Bóg wszystkiéj pociechy, który nas cieszy we wszelakiem utrapieniu naszem.
 $Deo gratias
 
@@ -113,8 +113,8 @@ królujący po wszystek wiek.
 Amen.
 
 [Day0 Versum 3]
-V. Dirigátur, Dómine, orátio mea.
-R. Sicut incénsum in conspéctu tuo.
+V. Niech się wzniesie modlitwa moja.
+R. Jako woń kadzidła przed obliczem Twoim.
 
 [Day1 Laudes]
 !Rz 13:12-13
@@ -122,80 +122,80 @@ v. Noc przeminęła, a dzień się przybliżył. Odrzućmyź tedy uczynki ciemno
 $Deo gratias
 
 [Hymnus Day1 Laudes]
-{:H-LaudsFeria:}v.  Blasku chwały Ojcowskiej, 
-z światłości przynoszący światłość, 
-światło światłości i źródło jasności, 
+{:H-LaudsFeria:}v.  Blasku chwały Ojcowskiej,
+z światłości przynoszący światłość,
+światło światłości i źródło jasności,
 dniem dzień oświetlający.
 _
-I	spuść się jako słońce prawdziwe, 
-jaśniejące blaskiem niegasnącym: 
-i światło Ducha Świętego 
+I	spuść się jako słońce prawdziwe,
+jaśniejące blaskiem niegasnącym:
+i światło Ducha Świętego
 wlej do serc naszych.
 _
-Prośbami wołajmy także do Ojca, 
-Ojca możnej łaski, 
-Ojca wiecznej chwały, 
+Prośbami wołajmy także do Ojca,
+Ojca możnej łaski,
+Ojca wiecznej chwały,
 aby oddalał od nas winę zgubną.
 _
-Niechaj utwierdzi czyny stanowcze, 
-zęby stępi zawistnika, 
-sprzyja w wypadkach przykrych, 
+Niechaj utwierdzi czyny stanowcze,
+zęby stępi zawistnika,
+sprzyja w wypadkach przykrych,
 tem, co czynić trzeba, kieruje należycie.
 _
-Ducha niechaj wiedzie i nim kieruje; 
-niech czystość nasza pozostanie nieskalana, 
-wiara niechaj pała żarem 
+Ducha niechaj wiedzie i nim kieruje;
+niech czystość nasza pozostanie nieskalana,
+wiara niechaj pała żarem
 i nie zna jadu fałszu.
 _
-Chrystus też niechaj będzie naszym pokarmem, 
-a wiara naszym napojem; 
-radośnie pijmy z nieupajającej 
+Chrystus też niechaj będzie naszym pokarmem,
+a wiara naszym napojem;
+radośnie pijmy z nieupajającej
 obfitości Ducha.
 _
-Niechaj dzień ten przejdzie radośnie, 
-wstydliwość niechaj będzie jako świt, 
-wiara jako południe, 
+Niechaj dzień ten przejdzie radośnie,
+wstydliwość niechaj będzie jako świt,
+wiara jako południe,
 zmroku niechaj duch nie zazna.
 _
-Jutrzenka sprowadza światło, 
-z światłem zaś niechaj nam objawi się 
-w Ojcu Syn cały 
+Jutrzenka sprowadza światło,
+z światłem zaś niechaj nam objawi się
+w Ojcu Syn cały
 i cały w Słowie Ojciec.
 _
-Bogu Ojcu niechaj będzie chwała 
-i jedynemu jego Synowi 
-wraz z Duchem Pocieszycielem teraz 
+Bogu Ojcu niechaj będzie chwała
+i jedynemu jego Synowi
+wraz z Duchem Pocieszycielem teraz
 i po wszystek wiek.
 Amen.
 
 [Day1 Versum 2]
-V. Napełnieniśmy rano miłosierdzia twego. 
+V. Napełnieniśmy rano miłosierdzia twego.
 R. Rozradowaliśmy się, i kochaliśmy się.
 
 [Day1 Vespera]
-!2Kor 1:3-4
+!2 Kor 1:3-4
 v. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia, a Bóg wszystkiéj pociechy, który nas cieszy we wszelakiem utrapieniu naszem.
 $Deo gratias
 
 [Hymnus Day1 Vespera]
 {:H-VespFeria:}v. Niezmierny Stwórco nieba,
-który rozdzielając strumienie wody, 
-by zmieszanych żywiołów nie wprowadziły w nieład, 
+który rozdzielając strumienie wody,
+by zmieszanych żywiołów nie wprowadziły w nieład,
 niebo ustanowiłeś granicą.
 _
-Utwierdziłeś miejsce dla podniebnych, 
-a zarazem dla wód przyziemnych; 
-by wilgoć upały łagodziła, 
+Utwierdziłeś miejsce dla podniebnych,
+a zarazem dla wód przyziemnych;
+by wilgoć upały łagodziła,
 a one nie rozsadzały ziemi.
 _
-Wlej nam teraz, najmiłościwszy, 
-dar nieustannej łaski, 
-aby nas upadkami nowego podstępu 
+Wlej nam teraz, najmiłościwszy,
+dar nieustannej łaski,
+aby nas upadkami nowego podstępu
 nie podeptał obłęd stary.
 _
-Wiara niechaj przymnoży nam światła: 
-takim sposobem przyniesie blask światłości; 
-ona niechaj zetrze wszystko (co) próżne; 
+Wiara niechaj przymnoży nam światła:
+takim sposobem przyniesie blask światłości;
+ona niechaj zetrze wszystko (co) próżne;
 niechaj jej nie zdusi żaden fałsz.
 _
 Udziel Ojcze najmiłościwszy,
@@ -205,8 +205,8 @@ królujący po wszystek wiek.
 Amen.
 
 [Day1 Versum 3]
-V. Dirigátur, Dómine, orátio mea.
-R. Sicut incénsum in conspéctu tuo.
+V. Niech się wzniesie modlitwa moja.
+R. Jako woń kadzidła przed obliczem Twoim.
 
 [Day2 Laudes]
 !Rz 13:12-13
@@ -214,61 +214,61 @@ v. Noc przeminęła, a dzień się przybliżył. Odrzućmyź tedy uczynki ciemno
 $Deo gratias
 
 [Hymnus Day2 Laudes]
-{:H-LaudsFeria:}v. Ales diei nuntius
-Lucem propinquam prćcinit:
-Nos excitator méntium
-Jam Christus ad vitam vocat.
+{:H-LaudsFeria:}v. Skrzydlaty zwiastun dnia
+Sapowiada bliski świt:
+Wskrzesiciel duchów Chrystus
+Już nas powołuje do życia.
 _
-Auferte, clamat, lectulos,
-Ćgro sopore desides:
-Castique, recti, ac sóbrii
-Vigiláte, jam sum próximus.
+Ociężali od snu gnuśnego,
+Odsuńcie - woła - łoża,
+Czyści, prawi i trzeźwi
+Czuwajcie, już jestem bliski.
 _
-Jesum ciamus vócibus,
-Flentes, precantes, sóbrii:
-Inténta supplicatio
-Dormire cor mundum vetat.
+Jezusa przywołujmy głosami
+Płacząc, błagając trzeźwi:
+Niechaj żarliwa modlitwa
+Nie pozwala zasypiać sercu czystemu.
 _
-Tu, Christe, somnum discute:
-Tu rumpe noctis víncula:
-Tu solve peccátum vetus,
-Novumque lumen ingere.
+Ty, Chryste, rozprosz sen,
+Ty skrusz więzy nocy,
+Ty rozwiąż grzech,
+A wznieś światło nowe.
 _
-Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sćculum.
+Bogu Ojcu niechaj będzie chwała
+I jedynemu Jego Synowi
+Wraz z Duchem Pocieszycielem
+Teraz i po wszystek wiek.
 Amen.
 
 [Day2 Versum 2]
-V. Repléti sumus mane misericórdia tua.
-R. Exsultávimus, et delectáti sumus.
+V. Napełnieniśmy rano miłosierdzia twego.
+R. Rozradowaliśmy się, i kochaliśmy się.
 
 [Day2 Vespera]
-!2Kor 1:3-4
+!2 Kor 1:3-4
 v. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia, a Bóg wszystkiéj pociechy, który nas cieszy we wszelakiem utrapieniu naszem.
 $Deo gratias
 
 [Hymnus Day2 Vespera]
-{:H-VespFeria:}v. Telluris alme Conditor,
-Mundi solum qui separans,
-Pulsis aquć molestiis,
-Terram dedísti immobilem:
+{:H-VespFeria:}v. Dobroczynny Stwórco świata,
+Który oddzielasz grunt ziemi,
+Usunąwszy szkodliwy napór wody,
+Uczyniłeś ląd stały:
 _
-Ut germen aptum proferens,
-Fulvis decora floribus,
-Fcúnda fructu sisteret,
-Pastumque gratum rédderet.
+Iżby rodząc odpowiednie nasienie,
+W barwne przybrana kwiaty,
+Stała się płodną w owoc
+I wdzięczną wydawała żywność.
 _
-Mentis perustć vúlnera
-Munda virore grátić:
-Ut facta fletu diluat,
-Motusque pravos atterat.
+Duszy przepalonej rany
+Oczyść mocą łaski:
+By uczynki zmyła płaczem,
+A przebaczenia przewrotne zdeptała.
 _
-Jussis tuis obtémperet:
-Nullis malis approximet:
-Bonis repleri gaudeat,
-Et mortis ictum nesciat.
+Niech słucha twych przykazań,
+Nie zbliża się do niczego złego,
+Radośnie napełnia się dobrem
+I nie zazna ciosu śmierci.
 _
 Udziel Ojcze najmiłościwszy,
 i Ty Jedyny równy Ojcu,
@@ -277,8 +277,8 @@ królujący po wszystek wiek.
 Amen.
 
 [Day2 Versum 3]
-V. Dirigátur, Dómine, orátio mea.
-R. Sicut incénsum in conspéctu tuo.
+V. Niech się wzniesie modlitwa moja.
+R. Jako woń kadzidła przed obliczem Twoim.
 
 [Day3 Laudes]
 !Rz 13:12-13
@@ -286,61 +286,61 @@ v. Noc przeminęła, a dzień się przybliżył. Odrzućmyź tedy uczynki ciemno
 $Deo gratias
 
 [Hymnus Day3 Laudes]
-{:H-LaudsFeria:}v. Nox, et tenebrae, et nubila,
-Confusa mundi et turbida:
-Lux intrat, albescit polus:
-Christus venit: discédite.
+{:H-LaudsFeria:}v. Noc, i ciemności, i chmury,
+Wszystko cokolwiek na świecie
+Zmieszanego i wzruszonego, ustąpcie:
+Światło wschodzi, rozjaśnia się niebo: Chrystus idzie.
 _
-Calígo terrć scinditur
-Percússa solis spiculo,
-Rebúsque jam color redit,
-Vultu nitentis síderis.
+Ciemność na ziemi przerywa się,
+Prażona ostrzem słońca,
+I wraca już rzeczom barwność
+Na widok jaśniejącego słońca.
 _
-Te, Christe, solum novimus:
-Te mente pura et simplici,
-Flendo et canendo qućsumus,
-Inténde nostris sénsibus.
+Ciebie, Chryste, jedynego znamy:
+Ciebie sercem czystem i prostem,
+Płacząc i śpiewając, prosimy,
+Zwróć się ku naszej duszy.
 _
-Sunt multa fucis illita,
-Quć luce purgentur tua:
-Tu, vera lux cćléstium,
-Vultu sereno illúmina.
+Dużo jest pokrytych fałszywemi barwami,
+Które oczyszcza światło twoja:
+Ty, prawdziwa światłości niebian,
+Oświeć nas pogodnem wejrzeniem.
 _
-Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sćculum.
+Bogu Ojcu niechaj będzie chwała
+I jedynemu Jego Synowi
+Wraz z Duchem Pocieszycielem
+Teraz i po wszystek wiek.
 Amen.
 
 [Day3 Versum 2]
-V. Repléti sumus mane misericórdia tua.
-R. Exsultávimus, et delectáti sumus.
+V. Napełnieniśmy rano miłosierdzia twego.
+R. Rozradowaliśmy się, i kochaliśmy się.
 
 [Day3 Vespera]
-!2Kor 1:3-4
+!2 Kor 1:3-4
 v. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia, a Bóg wszystkiéj pociechy, który nas cieszy we wszelakiem utrapieniu naszem.
 $Deo gratias
 
 [Hymnus Day3 Vespera]
-{:H-VespFeria:}v. Caeli Deus sanctissime,
-Qui lucidas mundi plagas
-Candóre pingis igneo,
-Augens decoro lúmine:
+{:H-VespFeria:}v. Najświętszy nieba Boże,
+Który jasne ziemi obszary
+Barwisz blaskiem ognistym,
+Przymnażając blasku świetnego:
 _
-Quarto die qui flammeam
-Dum solis accendis rotam,
-Lunć ministras órdinem,
-Vagosque cursus siderum:
+Gdy czwartego dnia zapalasz
+Ognistą tarczę słońca,
+Księżycowi wyznaczas porządek
+I niestałe biegi gwiazd:
 _
-Ut nóctibus, vel lumini
-Diremptionis términum,
-Primordiis et mensium
-Signum dares notissimum;
+Abyś nocom, albo światłu
+Dał granicę podziału,
+A początkom miesięcy
+Znak bardzo wyraźny:
 _
-Expélle noctem córdium:
-Absterge sordes méntium:
-Resolve culpć vinculum:
-Everte moles criminum.
+Wypłosz noc z serc,
+Otrzyj brud z dusz,
+Rozwiąż pęta winy,
+Zrzuć ciężar grzechów.
 _
 Udziel Ojcze najmiłościwszy,
 i Ty Jedyny równy Ojcu,
@@ -349,8 +349,8 @@ królujący po wszystek wiek.
 Amen.
 
 [Day3 Versum 3]
-V. Dirigátur, Dómine, orátio mea.
-R. Sicut incénsum in conspéctu tuo.
+V. Niech się wzniesie modlitwa moja.
+R. Jako woń kadzidła przed obliczem Twoim.
 
 [Day4 Laudes]
 !Rz 13:12-13
@@ -358,61 +358,61 @@ v. Noc przeminęła, a dzień się przybliżył. Odrzućmyź tedy uczynki ciemno
 $Deo gratias
 
 [Hymnus Day4 Laudes]
-{:H-LaudsFeria:}v. Lux ecce surgit aurea,
-Pallens facessat cćcitas,
-Quć nosmet in prćceps diu
-Errore traxit devio.
+{:H-LaudsFeria:}v. Oto światło powstaje złociste,
+Blednąc niechaj odejdzie ciemność,
+Która długo nas ciągnęła
+W przepaść omamieniem zdrożnem.
 _
-Hćc lux serenum conferat,
-Purosque nos prćstet sibi:
-Nihil loquamur subdolum:
-Volvamus obscúrum nihil.
+Światło to niechaj sprowadzi pogodę
+I niechaj nas uczyni dla siebie czystymi:
+Nie mówmy nic podstępnego,
+Nie żywmy w sercu nic ponurego.
 _
-Sic tota decúrrat dies,
-Ne lingua mendax, ne manus
-Oculive peccent lubrici,
-Ne noxa corpus ínquinet.
+Tak niechaj upłynie dzień cały,
+By ani język kłamliwy, ani ręce,
+Ani oczy ruchliwe nie zgrzeszyły,
+By grzech nie zbrukał ciała.
 _
-Speculator astat désuper,
-Qui nos diébus ómnibus,
-Actusque nostros próspicit
-A luce prima in vésperum.
+Jest na wysokości badający,
+Który po wszystkie dni przygląda się
+Nam i uczynkom naszym
+Od pierwszego światła aż do wieczora
 _
-Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sćculum.
+Bogu Ojcu niechaj będzie chwała
+I jedynemu Jego Synowi
+Wraz z Duchem Pocieszycielem
+Teraz i po wszystek wiek.
 Amen.
 
 [Day4 Versum 2]
-V. Repléti sumus mane misericórdia tua.
-R. Exsultávimus, et delectáti sumus.
+V. Napełnieniśmy rano miłosierdzia twego.
+R. Rozradowaliśmy się, i kochaliśmy się.
 
 [Day4 Vespera]
-!2Kor 1:3-4
+!2 Kor 1:3-4
 v. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia, a Bóg wszystkiéj pociechy, który nas cieszy we wszelakiem utrapieniu naszem.
 $Deo gratias
 
 [Hymnus Day4 Vespera]
-{:H-VespFeria:}v. Magnae Deus potentiae,
-Qui fertili natos aqua
-Partim relinquis gurgiti,
-Partim levas in aëra.
+{:H-VespFeria:}v. Wielkiej potęgi Boże,
+Który stworzenia z płodnej wody
+Częścią zostawiasz w otchłani,
+Częścią wznosisz w powietrze.
 _
-Demersa lymphis imprimens,
-Subvecta cćlis érigens:
-Ut stirpe ab una pródita,
-Divérsa repleant loca:
+Zanurzone w wodzie spychając,
+Wzniesione ku niebu podnosząc,
+By z jednego narodu wydane,
+Napełniały miejsca różne:
 _
-Largire cunctis sérvulis,
-Quos mundat unda Sánguinis,
-Nescíre lapsus criminum,
-Nec ferre mortis tćdium.
+Udziel hojnie wszystkim sługom,
+Których obmywa strumień Krwi,
+By nie zaznali upadków grzesznych
+Ani doznali odrazy śmierci.
 _
-Ut culpa nullum deprimat:
-Nullum efferat jactantia:
-Elisa mens ne concidat:
-Elata mens ne corruat.
+By wina nikogo nie przytłaczała,
+Nikogo nie wynosiła pycha,
+Nie załamał się duch skruszony,
+Nie upadł duch wyniosły.
 _
 Udziel Ojcze najmiłościwszy,
 i Ty Jedyny równy Ojcu,
@@ -421,8 +421,8 @@ królujący po wszystek wiek.
 Amen.
 
 [Day4 Versum 3]
-V. Dirigátur, Dómine, orátio mea.
-R. Sicut incénsum in conspéctu tuo.
+V. Niech się wzniesie modlitwa moja.
+R. Jako woń kadzidła przed obliczem Twoim.
 
 [Day5 Laudes]
 !Rz 13:12-13
@@ -430,66 +430,66 @@ v. Noc przeminęła, a dzień się przybliżył. Odrzućmyź tedy uczynki ciemno
 $Deo gratias
 
 [Hymnus Day5 Laudes]
-{:H-LaudsFeria:}v. Aeterna caeli gloria,
-Beáta spes mortálium,
-Summi Tonantis Únice,
-Castćque proles Vírginis:
+{:H-LaudsFeria:}v. Odwieczna nieba chwało,
+Błogosławiona nadziejo śmiertelnych,
+Jednorodzony Boga Najwyższego
+I potomku czystej Dziewicy:
 _
-Da déxteram surgentibus,
-Exsúrgat et mens sobria,
-Flagrans et in laudem Dei
-Grates rependat débitas.
+Podaj prawicę dźwigającym się,
+Niechaj powstanie także duch trzeźwy
+I z zapałem ku chwale Bożej
+Oddaje dzięki należne.
 _
-Ortus refúlget Lucifer,
-Prćitque solem núntius:
-Cadunt ténebrć noctium:
-Lux sancta nos illúminet.
+Wzeszedłszy jaśnieje jutrzenka,
+I jako zwiastun poprzedza słońce:
+Opadają ciemności nocy:
+Światłość święta niechaj nas oświeca.
 _
-Manensque nostris sénsibus,
-Noctem repellat sćculi,
-Omníque fine témporis
-Purgata servet pectora.
+Zostając w naszych sercach,
+Niechaj wypędzi noc światła
+I aż do ostatecznego końca czasu
+Zachowa serca czyste.
 _
-Qućsíta jam primum fides
-In corde radíces agat:
-Secúnda spes congaudeat,
-Qua major exstat cáritas.
+Uproszona już wiara niechaj pierwsza
+Zapuści korzenie w sercu:
+Druga niechaj raduje się nadzieja,
+Nad którą większa jest miłość.
 _
-Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sćculum.
+Bogu Ojcu niechaj będzie chwała
+I jedynemu Jego Synowi
+Wraz z Duchem Pocieszycielem
+Teraz i po wszystek wiek.
 Amen.
 
 [Day5 Versum 2]
-V. Repléti sumus mane misericórdia tua.
-R. Exsultávimus, et delectáti sumus.
+V. Napełnieniśmy rano miłosierdzia twego.
+R. Rozradowaliśmy się, i kochaliśmy się.
 
 [Day5 Vespera]
-!2Kor 1:3-4
+!2 Kor 1:3-4
 v. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia, a Bóg wszystkiéj pociechy, który nas cieszy we wszelakiem utrapieniu naszem.
 $Deo gratias
 
 [Hymnus Day5 Vespera]
-{:H-VespFeria:}v. Hominis superne Conditor,
-Qui cuncta solus ordinans,
-Humum jubes producere
-Reptantis et ferć genus:
+{:H-VespFeria:}v. Najwyższy Stwórco człowieka,
+Który wszystko sam porządkując,
+Ziemi każesz wydawać
+Rodzaj płazów i zwierząt:
 _
-Et magna rerum córpora,
-Dictu jubentis vivida,
-Per témporum certas vices
-Obtemperare sérvulis:
+I wielkim stworzenia ciałom,
+Słowem rozkazującego ożywionym,
+W pewnej kolejności czasu
+Sługom twym były posłuszne:
 _
-Repelle, quod cupidinis
-Ciente vi nos impetit,
-Aut móribus se suggerit,
-Aut áctibus se interserit.
+Oddał, cokolwiek pożądliwego
+Kuszącą mocą nas nagabuje,
+Albo miesza się do obyczajów,
+Albo wtrąca się do uczynków.
 _
-Da gaudiórum prćmia,
-Da gratiárum múnera:
-Dissolve litis víncula:
-Astringe pacis fdera.
+Daj nagrody radosne,
+Daj dary łask,
+Rozwiąż pęta niezgody,
+Wzmocnij więzy pokoju.
 _
 Udziel Ojcze najmiłościwszy,
 i Ty Jedyny równy Ojcu,
@@ -498,8 +498,8 @@ królujący po wszystek wiek.
 Amen.
 
 [Day5 Versum 3]
-V. Dirigátur, Dómine, orátio mea.
-R. Sicut incénsum in conspéctu tuo.
+V. Niech się wzniesie modlitwa moja.
+R. Jako woń kadzidła przed obliczem Twoim.
 
 [Day6 Laudes]
 !Rz 13:12-13
@@ -507,30 +507,30 @@ v. Noc przeminęła, a dzień się przybliżył. Odrzućmyź tedy uczynki ciemno
 $Deo gratias
 
 [Hymnus Day6 Laudes]
-{:H-LaudsFeria:}v. Aurora jam spargit polum:
-Terris dies illabitur:
-Lucis resultat spiculum:
-Discedat omne lúbricum.
+{:H-LaudsFeria:}v. Zorza już rozsiewa się po niebie,
+Dzień spływa na ziemię,
+Odbija się promień światła:
+Niechaj ustąpi wszystko niebezpieczne.
 _
-Phantasma noctis exsulet:
-Mentis reatus corruat:
-Quidquid ténebris horridum
-Nox áttulit culpć, cadat.
+Niechaj ucieka zjawa nocna,
+Niech zginie przewinienie duszy,
+Niech odpadnie, cokolwiek strasznego
+Pod względem grzechu przysporzyła ciemnościom.
 _
-Ut mane, quod nos ultimum
-Hic deprecámur cernui,
-Cum luce nobis effluat,
-Hoc dum canóre concrepat.
+Ażeby rano, które jako ostatnie
+Tutaj kornie sobie wypraszamy,
+Z światłem nam spłynęło,
+Jak to brzmi w śpiewie.
 _
-Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sćculum.
+Bogu Ojcu niechaj będzie chwała
+I jedynemu Jego Synowi
+Wraz z Duchem Pocieszycielem
+Teraz i po wszystek wiek.
 Amen.
 
 [Day6 Versum 2]
-V. Repléti sumus mane misericórdia tua.
-R. Exsultávimus, et delectáti sumus.
+V. Napełnieniśmy rano miłosierdzia twego.
+R. Rozradowaliśmy się, i kochaliśmy się.
 
 [Day6 Vespera]
 !Rz 11:33
@@ -538,20 +538,20 @@ v. O głębokości bogactw, mądrości i wiadomości Bożéj! jako są nieogarni
 $Deo gratias
 
 [Hymnus Day6 Vespera]
-{:H-VespFeria:}v. Jam sol recedit igneus:
-Tu, lux perénnis, Únitas,
-Nostris, beáta Trínitas,
-Infúnde lumen córdibus.
+{:H-VespFeria:}v. Już słońce zachodzi ogniste:
+Ty, światłości nieustająca, Jedności,
+Trójco błogosławiona,
+Wlej światło do naszych serc.
 _
-Te mane laudum carmine,
-Te deprecámur véspere;
-Digneris ut te súpplices
-Laudémus inter cćlites.
+Ciebie rano w pieśni pochwalnej,
+Ciebie błagamy wieczorem:
+Zezwól, byśmy Cię kornie
+Sławili między niebianami.
 _
-Patri, simúlque Fílio,
-Tibique, Sancte Spíritus,
-Sicut fuit, sit júgiter
-Sćclum per omne glória.
+Ojcu, zarazem i Synowi,
+I Tobie, Duchu Święty,
+Jak była, tak niech będzie chwała
+Nieustannie po wszystkie wieki.
 Amen.
 
 [HymnusM Day6 Vespera]
@@ -568,12 +568,12 @@ _
 Deo Patri sit glória,
 ejúsque soli Fílio,
 cum Spíritu Paráclito,
-et nunc, et in perpétuum. 
+et nunc, et in perpétuum.
 Amen.
 
 [Day6 Versum 3]
-V. Vespertina orátio ascendat ad te, Dómine.
-R. Et descendat super nos misericórdia tua.
+V. Niech modlitwa wieczorna wzniesie się do Ciebie, Panie.
+R. I niech zstąpi na nas miłosierdzie Twoje.
 
 [Day0 Ant 2]
 missing from próprium
@@ -585,72 +585,71 @@ missing from próprium
 missing from próprium
 
 [Day1 Ant 2]
-Benedíctus * Dóminus Deus Israël, quia visitávit et liberávit nos.
+Błogosławiony * Pan, Bóg Izraelski: * iż nawiedził i wybawił nas.
 
 [Day1 Ant 3]
-Magníficat * ánima mea Dóminum, quia respéxit Deus humilitátem meam.
+Wielbij * duszo moja, Pana, iż wejrzał Bóg na niskość moją.
 
 [Day2 Ant 2]
-Eréxit nobis * Dóminus cornu salútis in domo David púeri sui.
+Podniósł nam * Pan róg zbawienia w domu Dawida, służebnika swego.
 
 [Day2 Ant 3]
-Exsultávit * spíritus meus in Deo salutári meo.
+Rozradował się * duch mój: w Bogu, Zbawicielu mojem.
 
 [Day3 Ant 2]
-De manu ómnium * qui odérunt nos, liberávit nos Dóminus.
+Z ręki wszystkich, * którzy nas nienawidzą, wybaw nas Panie.
 
 [Day3 Ant 3]
-Respéxit Dóminus * humilitátem meam, et fecit in me magna, qui potens est.
+Wejrzał Pan * na niskość moją, i uczynił mi wielkie rzeczy, który możny jest.
 
 [Day4 Ant 2]
-In sanctitáte * serviámus Dómino, et liberábit nos ab inimícis nostris.
+W świętobliwości * służmy Panu, a wybawi nas od nieprzyjaciół naszych.
 
 [Day4 Ant 3]
-Fecit Deus * poténtiam in bráchio suo: dispérsit supérbos mente cordis sui.
+Uczynił Bóg * moc ramieniem swojem: rozproszył pyszne myśli serca ich.
 
 [Day5 Ant 2]
-Per víscera misericórdić * Dei nostri visitávit nos Óriens ex alto.
+Dla wnętrzności miłosierdzia * Boga naszego: nawiedził nas Wschód z wysokości.
 
 [Day5 Ant 3]
-Depósuit Dóminus * poténtes de sede, et exaltávit húmiles.
+Złożył Pan * mocarze z stolice: a podwyższył niskie.
 
 [Day6 Ant 2]
-Illúmina, Dómine, * sedéntes in ténebris et umbra mortis, et dírige pedes nostros in viam pacis.
+Oświeć Panie, * siedzących w ciemności i w cieniu śmierci, ku wyprostowaniu nóg naszych na drogę pokoju.
 
 [Day6 Ant 3]
-Suscépit Deus * Israël, púerum suum: sicut locútus est ad Ábraham, et semen ejus usque in sćculum.
-
+Przyjął Bóg * Izraela, sługę swego: jako mówił do ojców naszych: Abrahamowi i nasieniu jego na wieki.
 
 [Adv Laudes]
-!Isa 2:3
-v. Veníte et ascendámus ad montem Dómini, et ad Domum Dei Jacob, et docébit nos vias suas, et ambulabimus in sémitis ejus: quia de Sion exíbit lex, et verbum Dómini de Jerúsalem.
+!Iz 2:3
+v. Chodźcie, a wstąpmy na górę Pańską i do domu Boga Jakóbowego, a nauczy nas dróg swoich, i będziemy chodzić ścieżkami jego; bo z Syonu wynidzie zakon, a słowo Pańskie z Jeruzalem.
 $Deo gratias
 
 [Hymnus Adv Laudes]
-{:H-LaudsAdv:}v. En clara vox redarguit
-Obscúra qućque personans:
-Procul fugéntur sómnia,
-Ab alto Jesus prómicat.
+{:H-LaudsAdv:}v. Oto głos donośny wypomina
+Wszystko, co ciemne, rozbrzmiewając:
+Daleko niechaj uciekają widziadła senne:
+Z wysokości przenika blask Jezusa.
 _
-Mens jam resúrgat tórpida,
-Non ámplius jacens humi:
-Sidus refúlget jam novum,
-Ut tollat omne nóxium.
+Duch niechaj powstanie, niechaj
+Odurzony nie leży dłużej na ziemi:
+Gwiazda nowa już świeci,
+Aby zgładzić zło wszelkie.
 _
-En Agnus ad nos míttitur
-Laxáre gratis débitum:
-Omnes simul cum lácrimis
-Precémur indulgéntiam.
+Oto Baranek nam przysłany,
+By darmo odjął winę:
+Wszyscy wspólnie ze łzami
+Prośmy o przebaczenie:
 _
-Ut cum secúndo fúlserit,
-Metúque mundum cínxerit,
-Non pro reátu púniat,
-Sed nos pius tunc prótegat.
+By, gdy powtórnie zabłyśnie
+I świat otoczy lękiem,
+Nie karał nas za winy,
+Lecz miłościwie nas osłaniał.
 _
-Virtus, honor, laus, glória
-Deo Patri cum Fílio,
-Sancto simul Paráclito,
-In sćculórum sćcula.
+Moc, cześć, sława, chwała
+Bogu Ojcu z Synem,
+z Świętym także Pocieszycielem,
+Na wieki wieków.
 Amen.
 
 [HymnusM Adv Laudes]
@@ -677,48 +676,48 @@ _
 Summo Parénti glória
 Natóque sit victória,
 et Flámini laus débita
-per sćculórum sćcula. 
+per sćculórum sćcula.
 Amen.
 
 [Adv Versum 2]
-V. Vox clamantis in desérto: Parate viam Dómini. 
-R. Rectas fácite sémitas ejus.
+V. Głos wołającego na puszczy: Gotujcie drogę Pańską.
+R. Czyńcie proste ścieżki jego.
 
 [Adv Vespera]
-!Gen 49:10
-v. Non auferetur sceptrum de Juda, et dux de fémore ejus, donec véniat qui mitténdus est; et ipse erit exspectátio Géntium.
+!Rdz 49:10
+v. Nie będzie odjęty sceptr od Judy, ani wódz z biódr jego, aż przyjdzie, który ma być posłan, a on będzie oczekawaniem narodów.
 $Deo gratias
 
 [Hymnus Adv Vespera]
-{:H-VespAdv:}v. Creator alme siderum,
-Ćtérna lux credéntium,
-Jesu, Redémptor ómnium,
-Inténde votis súpplicum.
+{:H-VespAdv:}v.  Potężny Stwórco gwiazd,
+wieczna światłości wierzących,
+Jezu, Odkupicielu wszystkich,
+usłysz błagania i obietnice nasze.
 _
-Qui dćmonis ne fráudibus
-Períret orbis, ímpetu
-Amóris actus, languidi
-Mundi medela factus es.
+Aby przez złość szatana
+nie zginął świat;
+bo Ty, natchniony miłością,
+stałeś się lekarstwem dla chorego świata.
 _
-Commúne qui mundi nefas
-Ut expiares, ad crucem
-E Vírginis sacrário
-Intácta prodis victima.
+Aby zgładzić przez mękę Krzyża
+powszechne zło.
+jako ofiara bez zmazy,
+wychodzisz z przybytku Dziewicy.
 _
-Cujus potéstas glórić
-Noménque cum primum sonat,
-Et cćlites et ínferi
-Tremente curvántur genu.
+Przed chwalebną potęgą Twoją
+i na sam dźwięk Imienia Twego
+moce niebieskie i piekielne
+ze drżeniem zginają kolana.
 _
-Te deprecámur ultimć
-Magnum diéi Júdicem,
-Armis supernć grátić
-Defende nos ab hóstibus.
+Błagamy Cię, wielki Sędzio
+dnia ostatniego,
+bronią łaski niebieskiej
+strzeż nas od wroga.
 _
-Virtus, honor, laus, glória
-Deo Patri cum Fílio,
-Sancto simul Paráclito,
-In sćculórum sćcula.
+Moc, sława, władza, cześć
+Ojcu i Synowi
+i Świętemu Duchowi,
+po wiek wieków.
 Amen.
 
 [HymnusM Adv Vespera]
@@ -750,311 +749,311 @@ _
 Sit, Christe, rex piíssime,
 tibi Patríque glória
 cum Spíritu Paráclito,
-in sempitérna sćcula. 
+in sempitérna sćcula.
 Amen.
 
 [Adv Versum 1]
-V. Rorate cćli désuper, et nubes pluant justum.
-R. Aperiatur terra et gérminet Salvatórem.
+V. Spuśćcie niebiosa rosę z góry, a obłoki niechaj spuszczą ze dżdżem Sprawiedliwego.
+R. Niech się otworzy ziemia i zrodzi Zbawiciela.
 
 [Adv Versum 3]
 @:Adv Versum 1
 
 [Adv Ant 17]
-O Sapiéntia * quć ex ore Altíssimi prodiisti, attingens a fine usque ad finem, fórtiter suaviterque disponens ómnia: veni ad docendum nos viam prudéntić.
+O	Mądrości, * któraś wyszła z ust Najwyższego, dosięgając od końca do końca mocnie, a rozrządzając wszystko wdzięcznie: przyjdź ku nauczeniu nas dróg roztropności.
 
 [Adv Ant 18]
-O Adonái * et Dux domus Israël, qui Móysi in igne flammć rubi apparuisti, et ei in Sina legem dedísti: veni ad redimendum nos in bráchio extento.
+O	Adonai, * wodzu domu Izraelowego, któryś się ukazał Mojżeszowi w ogniu krzaka gorejącego i dałeś mu prawa na górze Synai: przybądź, abyś nas odkupił, wyciągnąwszy ramię.
 
 [Adv Ant 19]
-O radix Jesse * qui stas in signum populórum, super quem continebunt reges os suum, quem Gentes deprecabúntur: veni ad liberándum nos, jam noli tardare.
+O Korzeniu Jessego, * ktoryś postawiony na znak narodom, przed którym umilkną królowie, któremu ludy modlić się będą: przyjdź ku wyzwoleniu nas, a nie opóźniaj się.
 
 [Adv Ant 20]
-O clavis David * et sceptrum domus Israël; qui aperis, et nemo claudit; claudis, et nemo aperit: veni, et educ vinctum de domo carceris, sedentem in ténebris, et umbra mortis.
+O	Kluczu Dawidów * i berło domu Izraelowego, który otwierasz, a żaden nie zamyka, zamykasz, a żaden nie otwiera, przyjdź i wyprowadź pojmane z więzienia, pogrążone w ciemności i cieniach śmierci.
 
 [Adv Ant 21]
-O Óriens * splendor lucis ćternć, et sol justítić: veni, et illúmina sedéntes in ténebris, et umbra mortis.
+O	Wschodzie, * jasność światła wiekuistego i słońce sprawiedliwości, przyjdź i oświeć będących w ciemności i cieniach śmierci.
 
 [Adv Ant 22]
-O Rex Géntium, * et desiderátus eárum, lapisque angularis, qui facis utráque unum: veni, et salva hóminem, quem de limo formásti.
+O	Królu narodów, * któryś ich pożądaniem, kamieniu węgielny, który czynisz dwoje jednym, przyjdź i zbaw człowieka, któregoś z mułu utworzył.
 
 [Adv Ant 23]
-O Emmanuel, * Rex et légifer noster, exspectátio Géntium, et Salvátor eárum: veni ad salvándum nos, Dómine, Deus noster.
+O	Emanuelu, * Królu i prawodawco nasz, oczekiwanie narodów i Zbawicielu, przyjdź ku wybawieniu nas, Panie Boże nasz.
 
 [Adv Ant 21L]
-Nolíte timére; * quinta enim die véniet ad vos Dóminus noster.
+Nie bójcie się * piątego dnia, przyjdzie do was Pan nasz.
 
 [Adv Ant 23L]
 Ecce compléta sunt * ómnia, quć dicta sunt per Angelum de Vírgine María.
- 
+
 [Quad Laudes]
-!Isa 58:1
-v. Clama, ne cesses, quasi tuba exalta vocem tuam, et annuntia pópulo meo scélera eórum, et dómui Iacob peccáta eórum.
+!Iz 58:1
+v. Wołaj, nie przestawaj, jako trąba wynoś głos swój: a opowiadaj ludowi memu złości ich, a domowi Jakóbowemu grzechy ich.
 $Deo gratias
 
 [Hymnus Quad Laudes]
-{:H-Osolsalutis:}v. O sol salutis, intimis,
-Jesu, refulge mentibus,
-Dum, nocte pulsa, gratior
-Orbi dies renascitur.
+{:H-Osolsalutis:}v. O słońce zbawienia,
+Jezu, zajaśnij we wnętrzu dusz,
+Gdy po oddaleni nocy
+Odradza się światu dzień przyjemniejszy.
 _
-Dans tempus acceptabile,
-Da lacrimárum rivulis
-Lavare cordis víctimam,
-Quam lćta adurat cáritas.
+Dając czas przyjemny,
+Daj strugom łez
+Zmyć ofiarę serca,
+Którą wznieca radosna miłość.
 _
-Quo fonte manávit nefas,
-Fluent perénnes lácrimć,
-Si virga pniténtić
-Cordis rigorem conterat.
+Ze źródła, z którego wypływa bezbożność,
+Niechaj płyną ciągle łzy,
+Gdy rózga pokuty
+Skruszy zatwardziałość serca.
 _
-Dies venit, dies tua,
-In qua reflorent ómnia:
-Lćtémur et nos in viam
-Tua reducti déxtera.
+Dzień nadchodzi, dzień twój,
+W którym wszystko rozkwita na nowo:
+Radujmy się i my,
+Na drogę sprowadzeni prawicą twoją.
 _
-Te prona mundi machina,
-Clemens, adóret, Trínitas,
-Et nos novi per grátiam
-Novum canámus cánticum.
+Tobie, Trójco miłościwa,
+Niechaj stworzenie świata kornie oddaje cześć,
+A my, odnowieni przez łaskę,
+Nową śpiewajmy pieśń.
 Amen.
 
 [Quad Versum 2]
-V. Ángelis suis Deus mandávit de te.
-R. Ut custódiant te in ómnibus viis tuis.
+V. Aniołom swoim rozkazał o tobie. 
+R. Aby cię strzegli na wszystkich drogach twoich. 
 
 [Quad Vespera]
-!Joel 2:17
-v. Inter vestibulum et altáre plorabunt sacerdótes, minístri Dómini, et dicent: Parce, Dómine, parce pópulo tuo: et ne des hereditátem tuam in oppróbrium, ut dominentur eis natiónes. 
+!Jo 2:17
+v. Między przysionkiem a ołtarzem będą płakać kapłani, słudzy Pańscy, a będą mówić: Przepuść, Panie! przepuść ludowi twemu, a nie daj dziedzictwa twego na hańbę, żeby nad niem poganie panowali.
 $Deo gratias
 
 [Hymnus Quad Vespera]
-{:H-Audibenigne:}v. Audi benigne Conditor,
-Nostras preces cum flétibus,
-In hoc sacro jejúnio
-Fusas quadragenario.
+{:H-Audibenigne:}v. Usłysz łaskawie Stwórco,
+Modły nasze i wejrzyj na łzy
+Wylane w czasie tego świętego
+Postu 40-o dniowego.
 _
-Scrutator alme córdium,
-Infirma tu scis virium:
-Ad te reversis exhibe
-Remissionis grátiam.
+Ty, co przenikasz serca
+I znasz słabość naszych sił:
+Użycz łaski przebaczenia tym,
+Co do Ciebie wracają.
 _
-Multum quidem peccávimus,
-Sed parce confitentibus:
-Ad nóminis laudem tui
-Confer medelam languidis.
+Wieleśmy wprawdzie zgrzeszyli,
+Lecz przebacz wyznającym:
+Dla sławy Imienia Twego,
+Użycz chorym lekarstwa.
 _
-Concéde nóstrum conteri
-Corpus per abstinéntiam;
-Culpć ut relinquant pabulum
-Jejuna corda criminum.
+Dozwól, abyśmi ciało nasze
+Poskromili postem
+I aby serca nasze, wolne od zmazy,
+Rzuciły strawę grzechu.
 _
-Prćsta, beáta Trínitas,
-Concéde, simplex Únitas;
-Ut fructuosa sint tuis
-Jejuniorum múnera.
+Spraw to, Najświętsza Trójco,
+Zdziałaj najczystsza Jedności,
+Aby dary tego świętego Postu
+Były nam owocne.
 Amen.
 
 [Quad Versum 3]
-V. Ángelis suis Deus mandávit de te.
-R. Ut custódiant te in ómnibus viis tuis.
+V. Aniołom swoim rozkazał o tobie. 
+R. Aby cię strzegli na wszystkich drogach twoich. 
 
 [Quad5 Laudes]
-!Jer 11:19
-v. Veníte, mittamus lignum in panem ejus, et eradamus eum de terra vivéntium, et nomen ejus non memorétur ámplius.
+!Jr 11:19
+v. Włóżmy drewno w chleb jego a wygładźmy go z ziemie żywiących, i imienia jego więcej niech nie wspomnią.
 $Deo gratias
 
 [Hymnus Quad5 Laudes]
-{:H-Lustrasex:}v. Lustra sex qui jam perégit,
-Tempus implens córporis:
-Sponte líbera Redémptor
-Passióni déditus:
-Agnus in Crucis levátur
-Immolándus stípite.
+{:H-Lustrasex:}v. Odkupiciel, który spędził już sześć pięcioleci,
+Czas wypełniając w ciele,
+Z własnej woli podawszy się na Mękę
+Jako Baranek, mający się ofiarować,
+Podniesiony zostaje
+Na pniu Krzyża.
 _
-Felle potus ecce languet,
-Spina, clavi, láncea,
-Mite corpus perforárunt,
-Unda manat, et cruor:
-Terra, pontus, astra, mundus,
-Quo lavántur flúmine.
+Oto, napojony żółcią, słabnie:
+Cierniem, gwoźdźmi, włócznią
+Przebili ciało delikatne:
+Woda płynie i krew:
+Ziemia, morze, gwiazdy, świat
+Jakimż zostają obmyte strumieniem!
 _
-Crux fidélis, inter omnes
-Arbor una nóbilis:
-Silva talem nulla profert
-Fronde, flore, gérmine:
-Dulce ferrum, dulce lignum
-Dulce pondus sústinent.
+Krzyżu wierny, wśród wszytskich
+Drzew jedyne szlachetne:
+Żaden las takiego nie wydaje
+Liściem, kwiatem, nasieniem:
+Słodkie żelazo, słodkie drzewo,
+Słodki dźwigają ciężar.
 _
-Flecte ramos, arbor alta,
-Tensa laxa víscera:
-Et rigor lentéscat ille,
-Quem dedit natívitas:
-Et supérni membra Régis
-Tende miti stípite.
+Nagnij gałęzie, drzewo wysokie,
+Zwolnij napięte członki,
+A niechaj zmiękne srogość ona,
+Jaką dało przyrodzenie,
+I członki Króla niebieskiego
+Napręż pniem łagodnym.
 _
-Sola digna tu fuísti
-Ferre mundi víctimam;
-Atque portum prćparáre
-Arca mundo náufrago;
-Quam sacer cruor perúnxit,
-Fusus Agni córpore.
+Jedyne ty byłoś godne
+Nosić ofiarę świata
+I światu rozbitemu
+Przygotować port jako arka,
+Którą pomazała święta krew,
+Wylana z ciała Baranka.
 _
-Sempitérna sit beátć
-Trinitáti glória:
-Ćqua Patri, Filióque,
-Par decus Paráclito:
-Uníus, Triníque nomen
-Laudet univérsitas.
+Bezustanna chwała niechaj będzie
+Błogosławionej Trójcy,
+Równa Ojcu i Synowi,
+Takaż cześć Pocieszycielowi:
+Jednego, Troistego imię
+Niechaj wysławia wszechświat.
 Amen.
 
 [Quad5 Versum 2]
-V. Éripe me de inimícis meis, Deus meus.
-R. Et ab insurgéntibus in me líbera me.
+V. Wyrwij mię od nieprzyjaciół moich, Boże mój.
+R. I od powstawających przeciwko mnie wybaw mię.
 
 [Quad5 Vespera]
-!Jer 11:20
-v. Tu autem, Dómine Sábaoth, qui júdicas juste, et probas renes et corda, vídeam ultiónem tuam ex eis: tibi enim revelavi causam meam, Dómine, Deus meus.
+!Jr 11:20
+v. Ale ty, Panie zastępów! który sądzisz sprawiedliwie, a nerek i serca doznawasz, niech ujrzę pomstę twoję nad nimi; bom tobie objawił sprawę moję.
 $Deo gratias
 
 [Hymnus Quad5 Vespera]
-{:H-Vexillaregis:}v. Vexilla Regis prodeunt;
-Fulget Crucis mystérium,
-Qua Vita mortem pértulit,
-Et morte vitam protulit.
+{:H-Vexillaregis:}v. Sztandary króla się wznoszą:
+Zabłysła tajemnica Krzyża,
+Na którym życie śmierć poniosło
+I przez śmierć dało żywot światu.
 _
-Quć vulnerata lanceć
-Mucrone diro, criminum
-Ut nos lavaret sórdibus,
-Manávit unda et sánguine.
+Z boku, przebitego
+Srogiem ostrzem włóczni,
+Wypłynęła krew i woda,
+Aby obmyć nas z grzechów.
 _
-Impléta sunt quć concinit
-David fidéli carmine,
-Dicendo natiónibus:
-Regnávit a ligno Deus.
+Wypełniła się przepowiednia,
+Którą wyśpiewał Dawid
+Mówiąc narodom:
+Z drzewa Bóg zakróluje.
 _
-Arbor decora et fulgida,
-Ornata Régis purpura,
-Elécta digno stípite
-Tam sancta membra tángere.
+O drzewo drogie i najświetniejsze,
+Przyozdobione purpurą króla,
+Stałoś się godnem dotykać
+Najświętszych członków.
 _
-Beáta, cujus bráchiis
-Prétium pependit sćculi,
-Statera facta córporis,
-Tulitque prćdam tartari.
+Szczęśliweś jest, bo na ramionach
+Twoich, zawisnął okup świata!
+Na twojej szali Bóg zważył Ciało,
+Które wydarło piekłu zdobycz.
 _
-!Sequens stropha dicitur flexis genibus.
+!Poniższą strofę odmawia się klęcząc.
 _
-O Crux, ave, spes única,
-In hac triúmphi glória
+Witaj, krzyżu, nadziejo jedyna!
+W tej tryumfu chwale
 (sed tempore Passionis)
-Hoc Passiónis témpore
+W tym czasie męki,
 (sed tempore Paschali)
 Paschále quć fers gáudium
-Piis adáuge grátiam,
-Reísque dele crímina.
+Wyproś dla wiernych pomnożenie łaski,
+A grzesznym odpuszczenie win.
 _
-Te, fons salútis, Trínitas,
-Collaudet omnis spíritus:
-Quibus Crucis victóriam
-Largiris, adde prćmium.
+O Trójco, zdroju zbawienia,
+Niechaj Cię chwali wszelkie stworzenie!
+Przydaj nagrodę wieczną tym,
+Którym dajesz zwyciężać w krzyżu.
 Amen.
 
 [Quad5 Versum 3]
-V. Éripe me, Dómine, ab hómine malo.
-R. A viro iníquo éripe me. 
+V. Wybaw mnie Panie od człowieka złego.
+R. Od męża niegodziwego ustrzeż mnie.
 
 [Pasch Laudes]
-!Rom 6:9-10
-v. Christus resurgens ex mórtuis iam non móritur, mors illi ultra non dominábitur. Quod enim mórtuus est peccáto, mórtuus est semel: quod autem vivit, vivit Deo.
+!Rz 6:9-10
+v. Wiedząc, że Chrystus powstawszy z martwych, więcéj nie umiera, śmierć mu więcéj panować nie będzie. Bo iż umarł, grzechowi raz umarł, a iż żywie, żywie Bogu.
 $Deo gratias
 
 [Hymnus Pasch Laudes]
-{:H-Auroracoelum:}v. Aurora caelum purpurat,
-Ćther resultat láudibus,
-Mundus triúmphans jubilat,
-Horrens avernus infremit:
+{:H-Auroracoelum:}v. Od zorzy porannej różowi się niebo,
+Przestworza rozbrzmiewają chwałą,
+Świat raduje się w triumfie,
+Zgrzyta piekło przerażone:
 _
-Rex ille dum fortissimus
-De mortis inférno specu
-Patrum senatum liberum
-Edúcit ad vitć jubar.
+Podczas, gdy Król ów przemożny,
+Z podziemnej otchłani śmierci
+Uwolniony zastęp ojców
+Wyprowadza na światło żywota.
 _
-Cujus sepúlcrum plurimo
-Custóde signábat lapis,
-Victor triumphat, et suo
-Mortem sepúlcro funerat.
+Grób jego pod liczną strażą
+Zamykał kamień opieczętowany,
+Lecz zwycięzca triumfuje i we własnym
+Grobie śmierć grzebie.
 _
-Sat funeri, sat lácrimis,
-Sat est datum dolóribus:
-Surrexit exstinctor necis,
-Clamat corúscans Ángelus.
+Dość żałoby, dość łez,
+Dość jest boleści:
+Powstał pokonawca śmierci,
+Woła anioł jaśniejący.
 _
-Ut sis perénne mentibus
-Paschále, Jesu, gáudium,
-A morte dira criminum
-Vitć renatos líbera.
+Abyś sercom naszym mógł być bezustanną
+Radością wielkanocną, Jezu:
+Uwolnij nas odrodzonych na żywot
+Od strasznej śmierci grzechów.
 _
-* Deo Patri sit glória,
-Et Fílio, qui a mórtuis
-Surrexit, ac Paráclito,
-In sempitérna sćcula.
+Bogu Ojcu niech będzie chwała
+I Synowi, który powstał z martwych,
+I Pocieszycielowi
+Po nieskończone wieki.
 Amen.
 
 [Pasch Versum 2]
-V. In resurrectione tua, Christe, allelúia.
-R. Cćli et terra lćténtur, allelúia.
+V. Ze zmartwychwstania twego, Chryste, alleluja.
+R. Niebo i ziemia weselą się, alleluja.
 
 [Pasch Vespera]
-!Rom 6:9-10
-v. Christus resurgens ex mórtuis iam non móritur, mors illi ultra non dominábitur. Quod enim mórtuus est peccáto, mórtuus est semel: quod autem vivit, vivit Deo.
+!Rz 6:9-10
+v. Wiedząc, że Chrystus powstawszy z martwych, więcéj nie umiera, śmierć mu więcéj panować nie będzie. Bo iż umarł, grzechowi raz umarł, a iż żywie, żywie Bogu.
 $Deo gratias
 
 [Hymnus Pasch Vespera]
-{:H-Adregias:}v. Ad regias Agni dapes,
-Stolis amícti cándidis,
-Post transitum Maris Rubri,
-Christo canámus Principi:
+{:H-Adregias:}v. Przy królewskiej uczcie Baranka,
+Odziani w białe szaty,
+Po przejściu Czerwonego morza,
+Sławmy Chrystusa wodza!
 _
-Divína cujus cáritas
-Sacrum propinat sánguinem,
-Almíque membra córporis
-Amor sacérdos immolat.
+Którego Boska miłość,
+Przelała świętą krew za nas:
+I czyniąc się Kapłanem,
+Wydała swe Ciało na ofiarę.
 _
-Sparsum cruorem postibus
-Vastator horret Ángelus:
-Fugitque divisum mare;
-Merguntur hostes flúctibus.
+Anioł śmierci omija
+Drzwi krwią pomazane:
+Morze rozdziela się i ucieka,
+Fale zalewają nieprzyjaciół.
 _
-Jam Pascha nóstrum Christus est
-Paschális idem victima,
-Et pura puris mentibus
-Sinceritatis azyma.
+Chrystus jest Paschą naszą
+I ofiarą paschalną:
+Dla czystych serc
+Jest czystym przaśnikiem szczerości.
 _
-O vera cćli victima,
-Subjécta cui sunt tartara,
-Soluta mortis víncula,
-Recépta vitć prćmia.
+O ty prawdziwa z niebios ofiaro,
+Której piekła są poddane!
+Rozwiązałaś pęta śmierci
+I przywróciłaś nam niebo!
 _
-Victor, subactis inferis,
-Trophća Christus éxplicat;
-Cćloque apérto, subditum
-Regem tenebrárum trahit.
+Chrystus, zwycięzca mocy piekielnych,
+Wstępując chwalebnie w otwarte niebiosa
+Wlecze za sobą
+Pokonanego króla ciemności.
 _
-Ut sis perénne mentibus
-Paschále, Jesu, gáudium,
-A morte dira criminum
-Vitć renatos líbera.
+Wyzwól od śmierci grzechu
+Tych, których odrodziłeś na życie,
+O Jezu, abyś się mógł stać
+Radością paschalną dusz naszych na wieki.
 _
-* Deo Patri sit glória,
-Et Fílio, qui a mórtuis
-Surrexit, ac Paráclito,
-In sempitérna sćcula.
+Bogu Ojcu niechaj będzie chwała,
+Synowi, który zmartwychwstał
+I Duchowi Pocieszycielowi
+Na wieki wieków.
 Amen.
 
 [Pasch Versum 3]
-V. Mane nobíscum, Dómine, allelúia.
-R. Quóniam advesperascit, allelúia.
+V. Zostań z nami, Panie, Alleluja.
+R. Boć się ma ku wieczorowi, Alleluja.
 
 [Suffragium1]
 Ant. Beáta Dei Génitrix Virgo María, Sanctique omnes intercedant pro nobis ad Dóminum.
@@ -1064,7 +1063,7 @@ R. Et exaudívit eos clamantes ad se.
 _
 !Oratio
 !N. exprimitur nomen titularis propriae ecclesiae
-v. Orémus. 
+v. Orémus.
 v. A cunctis nos, qućsumus, Dómine, mentis et córporis defende perículis: et, intercedénte beáta et gloriósa semper Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto ~
 r. N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destructis adversitátibus et erroribus univérsis, Ecclésia tua secúra tibi sérviat libertáte.
 $Per eumdem
@@ -1077,8 +1076,8 @@ R. Et exaudívit eos clamantes ad se.
 _
 !Oratio
 !N. exprimitur nomen titularis propriae ecclesiae
-v. Orémus. 
-v. A cunctis nos, qućsumus, Dómine, mentis et córporis defende perículis: et, intercedénte beáto Joseph, cum beátis Apóstolis tuis Petro et Paulo, atque beáto~ 
+v. Orémus.
+v. A cunctis nos, qućsumus, Dómine, mentis et córporis defende perículis: et, intercedénte beáto Joseph, cum beátis Apóstolis tuis Petro et Paulo, atque beáto~
 r. N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destructis adversitátibus et erroribus univérsis, Ecclésia tua secúra tibi sérviat libertáte.
 $Per eumdem
 
@@ -1093,13 +1092,13 @@ v. Orémus
 v. Perpétua nos, qućsumus, Dómine, pace custódi, quos per lignum sanctć Crucis redímere dignátus es.
 
 [Suffragium2]
-Ant. Crucifíxus surrexit a mórtuis, et redémit nos, allelúia, allelúia.
+Ant. Crucifíxus surrexit a mórtuis, et redémit nos, alleluja, alleluja.
 _
-V. Dícite in natiónibus, allelúia.
-R. Quia Dóminus regnávit a ligno, allelúia.
+V. Dícite in natiónibus, alleluja.
+R. Quia Dóminus regnávit a ligno, alleluja.
 _
 !Oratio
-v. Orémus 
+v. Orémus
 v. Deus qui pro nobis Fílium tuum Crucis patibulum subíre voluísti, ut inimíci a nobis expelleres potestátem: concéde nobis famúlis tuis; ut resurrectiónis grátiam consequámur.
 $Per eumdem
 
@@ -1111,7 +1110,7 @@ V. Ora pro nobis sancta Dei Génitrix.
 R. Ut digni efficiamur promissionibus Christi.
 _
 !Oratio
-v. Orémus 
+v. Orémus
 v. Concéde nos fámulos tuos, qućsumus Dómine Deus, perpétua mentis et córporis sanitate gaudére, et gloriósa beátć Maríć semper Vírginis intercessióne, a prćsénti liberari tristítia, et ćtérna pérfrui lćtítia.
 
 [Suffragium41]
@@ -1122,7 +1121,7 @@ V. Glória et divítić in domo ejus.
 R. Et justítia ejus manet in sćculum sćculi.
 _
 !Oratio
-v. Orémus 
+v. Orémus
 v. Deus, qui ineffábili providentia beátum Joseph sanctíssimć Genitrícis tuć sponsum elígere dignátus es: prćsta qućsumus; ut quem protectórem veneramur in terris, intercessórem habére mereámur in cćlis.
 
 [Suffragium42]
@@ -1133,7 +1132,7 @@ V. Os justi meditábitur sapiéntiam.
 R. Et lingua ejus loquétur judícium.
 _
 !Oratio
-v. Orémus 
+v. Orémus
 v. Deus, qui ineffábili providentia beátum Joseph sanctíssimć Genitrícis tuć sponsum elígere dignátus es: prćsta qućsumus; ut quem protectórem veneramur in terris, intercessórem habére mereámur in cćlis.
 
 [Suffragium51]
@@ -1144,7 +1143,7 @@ V. Constítues eos príncipes super omnem terram.
 R. Mémores erunt nóminis tui Dómine.
 _
 !Oratio
-v. Orémus 
+v. Orémus
 v. Deus, cujus déxtera beátum Petrum ambulantem in flúctibus, ne mergeretur, eréxit, et coapostolum ejus Paulum tértio naufragantem de profúndo pelagi~ liberávit: exáudi nos propítius, et concéde; ut amborum méritis, ćternitátis glóriam consequámur.
 
 [Suffragium52]
@@ -1155,7 +1154,7 @@ V. In omnem terram exívit sonus eórum.
 R. Et in fines orbis terrć verba eórum.
 _
 !Oratio
-v. Orémus 
+v. Orémus
 v. Deus, cujus déxtera beátum Petrum ambulantem in flúctibus, ne mergeretur, eréxit, et coapostolum ejus Paulum tértio naufragantem de profúndo pelagi liberávit: exáudi nos propítius, et concéde; ut amborum méritis, ćternitátis glóriam consequámur.
 
 [Suffragium6]
@@ -1166,13 +1165,13 @@ V. Fiat pax in virtúte tua.
 R. Et abundántia in túrribus tuis.
 _
 !Oratio
-v. Orémus 
+v. Orémus
 v. Deus, a quo sancta desidéria, recta consília, et justa sunt ópera: da servis tuis illam, quam mundus dare non potest, pacem; ut et corda nostra mandátis tuis dédita, et hóstium sublata formidine, témpora sint tua protectióne tranquilla.
 $Per Dominum
 
 [Litania]
 &Dominus_vobiscum
-&Benedicamus_Domino 
+&Benedicamus_Domino
 !Litania omnium Sanctorum
 v. Kyrie, eléison. Kyrie, eléison.
 Christe, eléison. Christe, eléison.
@@ -1352,7 +1351,7 @@ v. Omnípotens sempitérne Deus, miserére famulo tuo Pontífici nostro N., et d
 v. Deus, a quo sancta desidéria, recta consília et justa sunt ópera: da servis tuis illam, quam mundus dare non potest, pacem; ut et corda nostra mandátis tuis dédita, et, hóstium sublata formidine, témpora sint, tua protectióne, tranquilla.
 v. Ure igne Sancti Spíritus renes nostros et cor nóstrum, Dómine: ut tibi casto córpore serviámus, et mundo corde placeamus.
 v. Fidélium, Deus, ómnium Conditor et Redémptor, animábus famulórum famulárumque tuárum remissiónem cunctórum tríbue peccatórum: ut indulgéntiam, quam semper optaverunt, piis supplicatiónibus consequantur.
-v. Actiónes nostras, qućsumus, Dómine, aspirando prćvéni et adjuvando proséquere: ut cuncta nostra orátio et operatio a te semper incipiat, et per te cpta finiatur. 
+v. Actiónes nostras, qućsumus, Dómine, aspirando prćvéni et adjuvando proséquere: ut cuncta nostra orátio et operatio a te semper incipiat, et per te cpta finiatur.
 v. Omnípotens sempitérne Deus, qui vivórum domináris simul et mortuórum, omniúmque misereris quos tuos fide et ópere futuros esse prćnoscis: te súpplices exoramus; ut, pro quibus effúndere preces decrevimus, quosque vel prćsens sćculum adhuc in carne retinet vel futúrum jam exutos córpore, suscépit, intercedentibus ómnibus Sanctis tuis, pietátis tuć clementia, ómnium delictórum suórum véniam consequantur.
 $Per Dominum
 &Dominus_vobiscum
@@ -1361,174 +1360,174 @@ R. Amen.
 $Fidelium animae
 
 [Day0M Laudes]
-!Apo 7:12
-v. Benedíctio, et claritas, et sapiéntia, et gratiárum actio, honor, virtus, et fortitúdo Deo nostro in sćcula sćculórum. Amen.
+!Ap 7:12
+v. Błogosławienie i chwała i mądrość i dziękowanie i cześć i moc i siła Bogu naszemu na wieki wieków. Amen.
 $Deo gratias
 _
-R.br. Inclína cor meum, Deus, * In testimónia tua. 
-R. Inclína cor meum, Deus, in testimónia tua. 
-V. Avérte óculos meos, ne vídeant vanitátem: in via tua vivífica me. 
-R. In testimónia tua. 
+R.br. Nakłoń serce moje, Boże, * ku świadectwom twoim.
+R. Nakłoń serce moje, Boże, * ku świadectwom twoim.
+V. Odwróć oczy moje, aby nie patrzały na próżność: ożyw mię na drodze twojéj.
+R. Ku świadectwom twoim.
 &Gloria
-R. Inclína cor meum, Deus, * in testimónia tua.
+R. Nakłoń serce moje, Boże, * ku świadectwom twoim.
 
 [DayFM Laudes]
 !Rz 13:12-13
 v. Noc przeminęła, a dzień się przybliżył. Odrzućmyź tedy uczynki ciemności a obleczmy się w zbroję światłości. Jako w dnie uczciwie chodźmy.
 $Deo gratias
 _
-R.br. Sana ánimam meam, * quia peccávi tibi.
-R. Sana ánimam meam, * quia peccávi tibi.
-Ego dixi: Dómine, miserére mei
-R. Quia peccávi tibi.
+R.br. Uzdrów duszę moję, * bom grzeszył tobie.
+R. Uzdrów duszę moję, * bom grzeszył tobie.
+V. Jam rzekł: Panie, zmiłuj się nademną.
+R. Bom grzeszył tobie.
 &Gloria
-R. Sana ánimam meam, * quia peccávi tibi.
+R. Uzdrów duszę moję, * bom grzeszył tobie.
 
 [Day6M Laudes]
 !Rz 13:12-13
 v. Noc przeminęła, a dzień się przybliżył. Odrzućmyź tedy uczynki ciemności a obleczmy się w zbroję światłości. Jako w dnie uczciwie chodźmy.
 $Deo gratias
 _
-R.br. Sana ánimam meam, * quia peccávi tibi.
-R. Sana ánimam meam, * quia peccávi tibi.
-Ego dixi: Dómine, miserére mei
-R. Quia peccávi tibi.
+R.br. Uzdrów duszę moję, * bom grzeszył tobie.
+R. Uzdrów duszę moję, * bom grzeszył tobie.
+V. Jam rzekł: Panie, zmiłuj się nademną.
+R. Bom grzeszył tobie.
 &Gloria
-R. Sana ánimam meam, * quia peccávi tibi.
+R. Uzdrów duszę moję, * bom grzeszył tobie.
 
 [Day0M Vespera]
-!2Kor 1:3-4
+!2 Kor 1:3-4
 v. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia, a Bóg wszystkiéj pociechy, który nas cieszy we wszelakiem utrapieniu naszem.
 $Deo gratias
 _
-R.br. Quam magnificáta sunt * ópera tua, Dómine.
-R. Quam magnificáta sunt * ópera tua, Dómine.
-V. Ómnia in sapiéntia fecísti.
-R. Ópera tua Dómine.
+R.br. Jako wielmożne są, * Panie, uczynki twoje.
+R. Jako wielmożne są, * Panie, uczynki twoje.
+V. Wszystkoś w mądrości uczynił.
+R. Panie, uczynki twoje.
 &Gloria
-R. Quam magnificáta sunt * ópera tua, Dómine.
+R. Jako wielmożne są, * Panie, uczynki twoje.
 
 [DayFM Vespera]
-!2Kor 1:3-4
+!2 Kor 1:3-4
 v. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia, a Bóg wszystkiéj pociechy, który nas cieszy we wszelakiem utrapieniu naszem.
 $Deo gratias
 _
-R.br. Benedícam Dóminum * In omni témpore.
-R. Benedícam Dóminum * In omni témpore.
-V. Semper laus ejus in ore meo.
-R. In omni témpore.
+R.br. Będę błogosławił Pana * na każdy czas.
+R. Będę błogosławił Pana * na każdy czas.
+V. Zawżdy chwała jego w uściech moich.
+R. Na każdy czas.
 &Gloria
-R. Benedícam Dóminum * In omni témpore.
+R. Będę błogosławił Pana * na każdy czas.
 
 [Day6M Vespera]
 !Rz 11:33
 v. O głębokości bogactw, mądrości i wiadomości Bożéj! jako są nieogarnione sądy jego, i niedościgłe drogi jego!
 $Deo gratias
 _
-R.br. Magnus Dóminus noster, * et magna virtus ejus.
-R. Magnus Dóminus noster, * et magna virtus ejus.
-V. Et sapiéntić ejus non est númerus.
-R. Et magna virtus ejus.
+R.br. Wielki Pan nasz, * i wielka moc jego. 
+R. Wielki Pan nasz, * i wielka moc jego. 
+V. A mądrości jego niemasz liczby.
+R. I wielka moc jego. 
 &Gloria
-R. Magnus Dóminus noster, * et magna virtus ejus.
+R. Wielki Pan nasz, * i wielka moc jego.
 
 [AdvM Laudes]
-!Isa 2:3
-v. Veníte, ascendámus ad montem Dómini, et ad Domum Dei Jacob, et docébit nos vias suas, et ambulabimus in sémitis ejus: quia de Sion exíbit lex, et verbum Dómini de Jerúsalem.
+!Iz 2:3
+v. Chodźcie, a wstąpmy na górę Pańską i do domu Boga Jakóbowego, a nauczy nas dróg swoich, i będziemy chodzić ścieżkami jego; bo z Syonu wynidzie zakon, a słowo Pańskie z Jeruzalem.
 $Deo gratias
 _
-R.br. Veni ad liberándum nos * Dómine Deus virtútum.
-R. Veni ad liberándum nos * Dómine Deus virtútum.
-V. Osténde fáciem tuam et salvi érimus.
-R. Dómine Deus virtútum.
+R.br. Przyjdź nas wyzwolić * Panie, Boże zastępów.
+R. Przyjdź nas wyzwolić * Panie, Boże zastępów.
+V. Ukaż oblicze twoje, i będziemy zbawieni.
+R. Panie, Boże zastępów.
 &Gloria
-R. Veni ad liberándum nos * Dómine Deus virtútum.
+R. Przyjdź nas wyzwolić * Panie, Boże zastępów.
 
 [AdvM Vespera]
-!Gen 49:10
-v. Non auferátur sceptrum de Juda, et dux de fémore ejus, donec véniat qui mitténdus est; et ipse erit expectatio géntium.
+!Rdz 49:10
+v. Nie będzie odjęty sceptr od Judy, ani wódz z biódr jego, aż przyjdzie, który ma być posłan, a on będzie oczekawaniem narodów.
 $Deo gratias
 _
-R.br. Osténde nobis Dómine * Misericórdiam tuam.
-R. Osténde nobis Dómine * Misericórdiam tuam.
-V. Et salutáre tuum da nobis.
-R. Misericórdiam tuam.
+R.br. Okaż nam, Panie, * miłosierdzie twoje
+R. Okaż nam, Panie, * miłosierdzie twoje
+V. A daj nam zbawienie twoje.
+R. Miłosierdzie twoje.
 &Gloria
-R. Osténde nobis Dómine * Misericórdiam tuam.
+R. Okaż nam, Panie, * miłosierdzie twoje
 
 [QuadM Laudes]
-!Isa 58:1
-v. Clama ne cesses quasi tuba exalta vocem tuam et annuntia pópulo meo scélera eórum et dómui Iacob peccáta eórum
+!Iz 58:1
+v. Wołaj, nie przestawaj, jako trąba wynoś głos swój: a opowiadaj ludowi memu złości ich, a domowi Jakóbowemu grzechy ich.
 $Deo gratias
 _
-R.br. Ipse liberávit me * de láqueo venántium.
-R. Ipse liberávit me * de láqueo venántium.
-V. Et a verbo áspero.
-R. De láqueo venántium.
+R.br. Albowiem on mię wyrwał * z sidła łowiących.
+R. Albowiem on mię wyrwał * z sidła łowiących.
+V. I od przykrego słowa.
+R. Z sidła łowiących.
 &Gloria
-R. Ipse liberávit me * de láqueo venántium
+R. Albowiem on mię wyrwał * z sidła łowiących.
 
 [QuadM Vespera]
-!Joel 2:17
-v. Inter vestibulum et altáre plorabunt sacerdótes, minístri Dómini, et dicent: parce, Dómine, parce pópulo tuo: et ne des hereditátem tuam in oppróbrium, ut dominentur eis natiónes. 
+!Jo 2:17
+v. Między przysionkiem a ołtarzem będą płakać kapłani, słudzy Pańscy, a będą mówić: Przepuść, Panie! przepuść ludowi twemu, a nie daj dziedzictwa twego na hańbę, żeby nad niem poganie panowali.
 $Deo gratias
 _
-R.br Scápulis suis * obumbrábit tibi.
-R. Scápulis suis * obumbrábit tibi.
-V. Et sub pennis ejus sperábis.
-R. Obumbrábit tibi.
+R.br Plecami swemi * okryje cię.
+R. Plecami swemi okryje cię.
+V. A pod skrzydłami jego nadzieję mieć będziesz.
+R. Okryje cię.
 &Gloria
-R. Scápulis suis * obumbrábit tibi.
+R. Plecami swemi okryje cię.
 
 [Quad5M Laudes]
 !Jer 11:19
-v. Veníte, mittamus lignum in panem ejus, et eradamus eum de terra vivéntium, et nomen ejus non memorétur ámplius.
+v. Włóżmy drewno w chleb jego a wygładźmy go z ziemie żywiących, i imienia jego więcej niech nie wspomnią.
 $Deo gratias
 _
-R.br. Érue a frámea * Deus ánimam meam.
-R. Érue a frámea * Deus ánimam meam
-V. Et de manu canis únicam meam.
-R. Deus ánimam meam.
-R. Érue a frámea * Deus ánimam meam.
+R.br. Wyrwij od miecza, * Boże, duszę moję.
+R. Wyrwij od miecza, * Boże, duszę moję.
+V. A z ręki psiéj jedynaczkę moję.
+R. Boże, duszę moję.
+R. Wyrwij od miecza, * Boże, duszę moję.
 
 [Quad5M Vespera]
-!Jer 11:20
-v. Tu autem Dómine Sábaoth qui júdicas juste et probas renes et cor vídeam ultiónem tuam ex eis tibi enim revelavi causam meam Dómine Deus meus.
+!Jr 11:20
+v. Ale ty, Panie zastępów! który sądzisz sprawiedliwie, a nerek i serca doznawasz, niech ujrzę pomstę twoję nad nimi; bom tobie objawił sprawę moję.
 $Deo gratias
 _
-R.br. De ore leónis * líbera me Dómine.
-R. De ore leónis * líbera me Dómine.
-V. Et a córnibus unicórnium humilitátem meam.
-R. Líbera me, Dómine.
-R. De ore leónis * líbera me Dómine
+R.br. Z paszczęki lwiéj * wybaw mię Panie.
+R. Z paszczęki lwiéj * wybaw mię Panie.
+V. A od rogów jednorożcowych uniżenie moje.
+R. Wybaw mię, Panie.
+R. Z paszczęki lwiéj * wybaw mię Panie.
 
 [PaschM Laudes]
 !Rz 6:9-10
 v. Wiedząc, że Chrystus powstawszy z martwych, więcéj nie umiera, śmierć mu więcéj panować nie będzie. Bo iż umarł, grzechowi raz umarł, a iż żywie, żywie Bogu.
 $Deo gratias
 _
-R.br. Surrexit Dóminus de sepúlcro: * Allelúia, allelúia.
-R. Surrexit Dóminus de sepúlcro: * Allelúia, allelúia.
-V. Qui pro nobis pependit in ligno.
-R. Allelúia, allelúia.
+R.br. Wstał Pan z grobu: * Alleluja, alleluja.
+R. Wstał Pan z grobu: * Alleluja, alleluja.
+V. Który za nas zawisł na drzewie.
+R. Alleluja, alleluja.
 &Gloria
-R. Surrexit Dóminus de sepúlcro: * Allelúia, allelúia.
+R. Wstał Pan z grobu: * Alleluja, alleluja.
 
 [PaschM Vespera]
 !Rz 6:9-10
 v. Wiedząc, że Chrystus powstawszy z martwych, więcéj nie umiera, śmierć mu więcéj panować nie będzie. Bo iż umarł, grzechowi raz umarł, a iż żywie, żywie Bogu.
 $Deo gratias
 _
-R.br. Surrexit Dóminus vere, * allelúia, allelúia .
-R. Surrexit Dóminus vere, * allelúia, allelúia.
-V. Et appáruit Simóni.
-R. Allelúia, allelúia.
+R.br. Zmartwychwstał Pan prawdziwie, * alleluja, alleluja.
+R. Zmartwychwstał Pan prawdziwie, * alleluja, alleluja.
+V. I ukazał się Szymonowi.
+R. Alleluja, alleluja.
 &Gloria
-R. Surrexit Dóminus vere, * allelúia, allelúia.
+R. Zmartwychwstał Pan prawdziwie, * alleluja, alleluja.
 
 [LitaniaM]
 &Dominus_vobiscum
-&Benedicamus_Domino 
+&Benedicamus_Domino
 !Litania omnium Sanctorum
 v. Kyrie, eléison. Kyrie, eléison.
 Christe, eléison. Christe, eléison.
@@ -1708,7 +1707,7 @@ v. Omnípotens sempitérne Deus, miserére famulo tuo Pontífici nostro N., et d
 v. Deus, a quo sancta desidéria, recta consília et justa sunt ópera: da servis tuis illam, quam mundus dare non potest, pacem; ut et corda nostra mandátis tuis dédita, et, hóstium sublata formidine, témpora sint, tua protectióne, tranquilla.
 v. Ure igne Sancti Spíritus renes nostros et cor nóstrum, Dómine: ut tibi casto córpore serviámus, et mundo corde placeamus.
 v. Fidélium, Deus, ómnium Conditor et Redémptor, animábus famulórum famulárumque tuárum remissiónem cunctórum tríbue peccatórum: ut indulgéntiam, quam semper optaverunt, piis supplicatiónibus consequantur.
-v. Actiónes nostras, qućsumus, Dómine, aspirando prćvéni et adjuvando proséquere: ut cuncta nostra orátio et operatio a te semper incipiat, et per te cpta finiatur. 
+v. Actiónes nostras, qućsumus, Dómine, aspirando prćvéni et adjuvando proséquere: ut cuncta nostra orátio et operatio a te semper incipiat, et per te cpta finiatur.
 v. Omnípotens sempitérne Deus, qui vivórum domináris simul et mortuórum, omniúmque misereris quos tuos fide et ópere futuros esse prćnoscis: te súpplices exoramus; ut, pro quibus effúndere preces decrevimus, quosque vel prćsens sćculum adhuc in carne retinet vel futúrum jam exutos córpore, suscépit, intercedentibus ómnibus Sanctis tuis, pietátis tuć clementia, ómnium delictórum suórum véniam consequantur.
 $Per Dominum
 &Dominus_vobiscum
@@ -1718,7 +1717,7 @@ $Fidelium animae
 
 [LitaniaT]
 &Dominus_vobiscum
-&Benedicamus_Domino 
+&Benedicamus_Domino
 !Litania omnium Sanctorum
 v. Kyrie, eléison. Kyrie, eléison.
 Christe, eléison. Christe, eléison.
@@ -1898,7 +1897,7 @@ v. Omnípotens sempitérne Deus, miserére famulo tuo Pontífici nostro N., et d
 v. Deus, a quo sancta desidéria, recta consília et justa sunt ópera: da servis tuis illam, quam mundus dare non potest, pacem; ut et corda nostra mandátis tuis dédita, et, hóstium sublata formidine, témpora sint, tua protectióne, tranquilla.
 v. Ure igne Sancti Spíritus renes nostros et cor nóstrum, Dómine: ut tibi casto córpore serviámus, et mundo corde placeamus.
 v. Fidélium, Deus, ómnium Conditor et Redémptor, animábus famulórum famulárumque tuárum remissiónem cunctórum tríbue peccatórum: ut indulgéntiam, quam semper optaverunt, piis supplicatiónibus consequantur.
-v. Actiónes nostras, qućsumus, Dómine, aspirando prćvéni et adjuvando proséquere: ut cuncta nostra orátio et operatio a te semper incipiat, et per te cpta finiatur. 
+v. Actiónes nostras, qućsumus, Dómine, aspirando prćvéni et adjuvando proséquere: ut cuncta nostra orátio et operatio a te semper incipiat, et per te cpta finiatur.
 v. Omnípotens sempitérne Deus, qui vivórum domináris simul et mortuórum, omniúmque misereris quos tuos fide et ópere futuros esse prćnoscis: te súpplices exoramus; ut, pro quibus effúndere preces decrevimus, quosque vel prćsens sćculum adhuc in carne retinet vel futúrum jam exutos córpore, suscépit, intercedentibus ómnibus Sanctis tuis, pietátis tuć clementia, ómnium delictórum suórum véniam consequantur.
 $Per Dominum
 &Dominus_vobiscum
