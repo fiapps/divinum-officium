@@ -1,1 +1,4 @@
 cases
+.vagrant
+Vagrantfile
+divinum-officium.conf
