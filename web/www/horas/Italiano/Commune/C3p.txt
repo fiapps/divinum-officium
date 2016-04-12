@@ -20,7 +20,36 @@ v. I giusti staranno con grande sicurezza dinanzi a coloro che li oppressero e d
 $Deo gratias
 
 [Hymnus Vespera]
-@Commune/C3:Hymnus Laudes
+v. Cantiamo uniti gli incliti gaudi
+dovuti ai meriti dei Santi
+e l'eroiche loro gesta: bramoso è infatti l'animo
+di celebrare la nobilissima stirpe dei vincitori.
+_
+Questi sono coloro che il mondo insensato aborrì,
+ed essi a loro volta disprezzarono       
+il mondo sterile di fiori e vuoto di frutti
+per seguire il tuo nome, o Gesù, buon Re del cielo.
+_
+Questi disprezzarono per te le furie,
+le truci minacce e i crudi flagelli degli uomini:
+s'infranse il ferro nel lacerarli crudelmente,
+ma non valse a piegar la loro anima.
+_
+Uccisi di spada a guisa di agnelli,
+non si lamentano né danno un gemito,
+ma con cuore impavido e mente serena
+conservano la pazienza.
+_
+Qual voce, qual lingua potrà ridire
+le ricompense che tu prepari ai Martiri?
+Imporporati ancora di caldo sangue
+cingono la fronte di fulgidi allori.
+_
+* O sommo ed unico Dio, noi ti preghiamo
+di rimetterci le colpe, di preservarci dal male
+e dare la pace ai servi, affinché così ti cantino
+gloria per tutti i secoli. 
+Amen.
 
 [Versum 1]
 V. Santi e giusti, gioite nel Signore alleluia.
@@ -37,7 +66,31 @@ $Per Dominum
 Esultino i santi nel Signore, * alleluia.
 
 [Hymnus Matutinum]
-@Commune/C3:Hymnus Matutinum
+v. Cantiamo con liete voci
+il sangue sparso per Cristo,
+le vittorie dei martiri
+e la corona meritata nel cielo.
+_
+Vinto il terrore del secolo,
+sprezzati i tormenti del corpo,
+possiedono la vita eterna,
+premio di una santa morte.
+_
+I martiri sono gettati al fuoco
+e alle zanne delle belve:
+su di essi armata di uncini,
+infierisce la mano di un crudele carnefice.
+_
+Squarciate, pendono le viscere,
+scorre il sacro sangue:
+ma essi restano irremovibili,
+in grazia della vita perenne.
+_
+* Unisci, o Redentore, ti preghiamo,
+alla compagnia dei martiri 
+i servi che ti pregano,
+per tutti i secoli. 
+Amen.
 
 [Ant Matutinum]
 I giusti staranno * con grande sicurezza davanti a coloro che li perseguitarono, alleluia.;;1
@@ -57,7 +110,16 @@ V. Essi saranno incoronati di eterna letizia, alleluia.
 R. Avranno gaudio e consolazione, alleluia.
 
 [Lectio1]
-@Commune/C3:Lectio1
+Dalla lettera di san Paolo apostolo ai Romani
+!Rm 8,12-19
+12 Così dunque, o fratelli, noi abbiamo sì dei doveri, ma non verso la carne, per vivere secondo la carne;
+13 infatti, se vivete secondo la carne, siete destinati a morire; ma se mediante lo spirito fate morire le opere del corpo, vivrete.
+14 Infatti, quanti sono animati dallo Spirito di Dio, costoro son figli di Dio.
+15 E in realtà, non avete ricevuto uno spirito di schiavitù per rica-dere nella paura, ma avete ricevuto uno spirito di adozione filiale, che ci fa esclamare: «Abba, Padre!».
+16 Lo Spirito in persona si unisce allo spirito nostro per attestare che noi siamo figli di Dio.
+17 E se figli, anche eredi: eredi di Dio, coeredi però di Cristo, se è vero che noi soffriamo con lui per essere anche glorificati con lui.
+18 Sì, io penso che i patimenti del tempo presente non reggono il confronto con la gloria che deve manifestarsi in noi!
+19 Anche l’ansiosa aspettativa del mondo creato è protesa verso la rivelazione dei figli di Dio.
 
 [Responsory1]
 R. Beato l'uomo che teme il Signore, alleluia:
@@ -66,7 +128,14 @@ V. Nella sua casa vi saranno gloria e ricchezze, e la sua giustizia rimarrà nei
 R. Nei suoi precetti molto si delizia, alleluia, alleluia, alleluia.
 
 [Lectio2]
-@Commune/C3:Lectio2
+!Rm 8,28-34
+28 Sappiamo, inoltre, che con quelli che lo amano  Iddio collabora in tutto per il loro bene, cioè con coloro che egli ha eletti secondo il suo eterno disegno.
+29 Poiché, coloro che egli in antecedenza conobbe, li ha pure predestinati a riprodurre l’immagine del Figlio suo, affinché egli sia il primogenito d’una moltitudine di fratelli;
+30 e quelli che predestinò, li ha pure chiamati; e quelli che chiamò, li ha pure giustificati; e quelli che giustificò, li ha pure glorificati.
+31 Dopo questo, che dire? Se Dio è per noi, chi sarà contro di noi?
+32 Colui che non risparmiò il proprio Figlio, ma lo sacrificò per tutti noi, come non ci accorderà tutto con lui?
+33 Chi sarà l’accusatore contro gli eletti di Dio? Iddio che giustifica? Chi li condannerà?
+34 Cristo Gesù che morì, più ancora, che risuscitò, che sta alla destra del Padre e che anzi intercede per noi?
 
 [Responsory2]
 R. La vostra tristezza, alleluia, 
@@ -75,7 +144,12 @@ V. Il mondo godrà, voi invece sarete tristi. Ma la vostra tristezza.
 R. Si cambierà in gioia, alleluia, alleluia.
 
 [Lectio3]
-@Commune/C3:Lectio3
+!Rm 8.35-39
+35 Chi ci separerà dall’amore del Cristo? La tribolazione? L’angustia? La persecuzione? La fame? La nudità? Il pericolo? La spada?
+36 Così sta scritto: «A causa di te siamo messi a morte tutto il giorno; siamo considerati come pecore da macello!».
+37 Ma di tutto questo noi siamo più che vincitori in virtù di Colui che ci ha amati.
+38 Infatti, io sono sicuro che né morte, né vita, né angeli, né principati, né cose presenti, né cose future, né potenze,
+39 né altezza, né profondità, né altra creatura qualsiasi potrà strapparci dall’amore di Dio, manifestatoci in Cristo Gesù, nostro Signore.
 
 [Responsory3]
 R. Preziosa è agli occhi del Signore, alleluia,
@@ -156,7 +230,26 @@ v. I giusti staranno con grande sicurezza dinanzi a coloro che li oppressero e d
 $Deo gratias
 
 [Hymnus Laudes]
-@Commune/C3:Hymnus Laudes
+v. O Re glorioso dei Martiri,
+corona dei Confessori,
+tu che conduci al regno celeste
+chi disprezza i beni terreni,
+_
+porgi sollecito il tuo orecchio
+benevolo alle nostre voci:
+noi cantiamo i trionfi dei Santi:
+perdonaci quanto abbiamo commesso.
+_
+Tu che vinci nei Martiri
+e perdoni per i Confessori:
+tu vinci i nostri delitti,
+donandocene il perdono.
+_
+* Sia gloria a Dio Padre
+e al suo Figlio unigenito,
+insieme con lo Spirito Santo,
+ora e per tutti i secoli.
+Amen. 
 
 [Versum 2]
 V. Preziosa è agli occhi del Signore, alleluia,
