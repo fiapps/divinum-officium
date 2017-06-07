@@ -71,7 +71,7 @@ Unde nos quoque nati in hujus peregrinationis aerumna, huc fastidiosi jam venimu
 &teDeum
 
 [Ant 2]
-Homo quidam * fecit cœnam magnam, et vocávit multos: et misit servum suum hora cœnæ dicere invitátis ut venírent, quia ómnia paráta sunt, allelúja.
+Homo quidam * fecit cenam magnam, et vocávit multos: et misit servum suum hora cenæ dicere invitátis ut venírent, quia ómnia paráta sunt, allelúja.
 
 [Ant 3]
 Exi cito * in plateas et vicos civitátis: et páuperes ac debiles, cæcos et claudos compelle intrare, ut impleátur domus mea, allelúja.
