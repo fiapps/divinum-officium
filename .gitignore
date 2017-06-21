@@ -2,3 +2,4 @@ cases
 .vagrant
 Vagrantfile
 divinum-officium.conf
+.DS_Store
