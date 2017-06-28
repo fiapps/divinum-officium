@@ -100,12 +100,12 @@ Prudéntes vírgines, * aptate vestras lámpades: ecce sponsus venit, exíte obv
 @:Versum 1
 
 [Oratio]
-Da nobis, quaesumus Domine Deus noster, sanctarum Virginum et Martyrum tuarum N. et N. palmas incessabili devotione venerari: ut quas digna mente non possumus celebrare, humilibus saltem frequentemus obsequiis.
+Da nobis, quǽsumus, Dómine Deus noster, sanctárum Vírginum et Mártyrum tuárum N. et N. palmas incessábili devotióne venerári: ut quas digna mente non póssumus celebráre, humílibus saltem frequentémus obséquiis.
 $Per Dominum
 
 [Lectio Prima]
 !Sir 51:13-14
-v. Dómine, Deus meus, exaltásti super terram habitatiónem meam, et pro morte defluénte deprecáta sum.  Invocávi Dóminum, Patrem Dómini mei, ut non derelínquat me in die tribulatiónis meæ, et in témpore superbórum sine adjutório.
+v. Dómine, Deus meus, exaltásti super terram habitatiónem meam, et pro morte defluénte deprecáta sum. Invocávi Dóminum, Patrem Dómini mei, ut non derelínquat me in die tribulatiónis meæ, et in témpore superbórum sine adjutório.
 
 [Capitulum Tertia]
 @Commune/C6:Capitulum Vespera
