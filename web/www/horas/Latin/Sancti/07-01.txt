@@ -11,52 +11,52 @@ Psalm5 Vespera3=147
 Festum Domini
 
 [Ant Vespera]
-Quis est iste * qui venit de Edom tinctis vestibus de Bosra? iste formusus in stola sua.
-Ego * qui loquor justítiam et propugnator sum ad salvándum.
-Vestitus erat * veste aspersa sánguine, et vocátur nomen ejus Verbum Dei.
-Quare ergo * rubrum est induméntum tuum, et vestiménta tua sicut calcántium in torculari?
-Torcular * calcávi solus, et de Géntibus non est vir mecum.
+Quis est iste * qui venit de Edom tinctis vestibus de Bosra? iste formósus in stola sua.
+Ego * qui loquor justítiam et propugnátor sum ad salvándum.
+Vestítus erat * veste aspérsa sánguine, et vocátur nomen ejus Verbum Dei.
+Quare ergo * rubrum est induméntum tuum, et vestiménta tua sicut calcántium in torculári?
+Tórcular * calcávi solus, et de Géntibus non est vir mecum.
 
 [Capitulum Vespera]
 !Heb 9:11-12
-v. Fratres: Christus assistens Pontifex futurórum bonórum, per ámplius et perfectius tabernáculum non manufactum, id est, non hujus creatiónis: neque per sánguinem hircórum aut vitulórum, sed per proprium sánguinem introívit semel in Sancta, æterna redemptióne invénta.
+v. Fratres: Christus assístens Póntifex futurórum bonórum, per ámplius et perféctius tabernáculum non manufáctum, id est, non hujus creatiónis: neque per sánguinem hircórum aut vitulórum, sed per próprium sánguinem introívit semel in Sancta, ætérna redemptióne invénta.
 $Deo gratias
 
 [Hymnus Vespera]
-v. Festivis resonent compita vócibus,
-Cives lætítiam fróntibus explicent,
-Tædis flammiferis ordine prodeant
-Instructi púeri et senes.
+v. Festívis résonent cómpita vócibus,
+Cives lætítiam fróntibus éxplicent,
+Tædis flammíferis órdine pródeant
+Instrúcti púeri et senes.
 _
-Quem dura móriens Christus in arbore
-Fudit multiplici vulnere sánguinem,
-Nos facti mémores dum colimus, decet
-Saltem fundere lácrimas.
+Quem dura móriens Christus in árbore
+Fudit multíplici vúlnere sánguinem,
+Nos facti mémores dum cólimus, decet
+Saltem fúndere lácrimas.
 _
-Humano generi pernicies gravis
-Adami veteris crimine contigit:
-Adami integritas et pietas novi
+Humáno géneri pernícies gravis
+Adámi véteris crímine cóntigit:
+Adámi intégritas et píetas novi
 Vitam réddidit ómnibus.
 _
-Clamórem validum summus ab æthere
-Languéntibus Geniti si Pater audiit,
-Placari potius sánguine debuit,
+Clamórem válidum summus ab ǽthere
+Languéntibus Géniti si Pater áudiit,
+Placári pótius sánguine débuit,
 Et nobis véniam dare.
 _
-Hoc quicúmque stolam sánguine proluit,
-Abstergit maculas; et roseum decus,
-Quo fiat símilis protinus Angelis
+Hoc quicúmque stolam sánguine próluit,
+Abstérgit máculas; et róseum decus,
+Quo fiat símilis prótinus Angelis
 Et Regi pláceat, capit.
 _
-A recto instábilis tramite postmodum
-Se nullus retrahat, meta sed ultima
-Tangátur; tríbuet nóbile præmium,
+A recto instábilis trámite póstmodum
+Se nullus rétrahat, meta sed última
+Tangátur; tríbuet nóbile prǽmium,
 Qui cursum Deus ádjuvat.
 _
-Nobis propítius sis, Genitor potens,
-Ut, quos unigenæ sánguine Fílii
-Emísti, et placido Flamine recreas,
-Cæli ad culmina transferas.
+Nobis propítius sis, Génitor potens,
+Ut, quos unígenæ sánguine Fílii
+Emísti, et plácido Flamine récreas,
+Cæli ad cúlmina tránsferas.
 Amen.
 
 [Versum 1]
@@ -64,11 +64,11 @@ V. Redemísti nos, Dómine, in sánguine tuo.
 R. Et fecísti nos Deo nostro regnum.
 
 [Ant 1]
-Accessístis * ad Sion montem, et civitátem Dei viventis, Jerusalem cælestem, et Testaménti novi mediatórem Jesum, et sánguinis aspersiónem mélius loquentem quam Abel.
+Accessístis * ad Sion montem, et civitátem Dei vivéntis, Jerúsalem cæléstem, et Testaménti novi mediatórem Jesum, et sánguinis aspersiónem mélius loquéntem quam Abel.
 
 [Oratio]
 Omnípotens sempitérne Deus, qui unigénitum Fílium tuum mundi Redemptórem~
-constituísti, ac ejus Sánguine placári voluísti: concéde, quaesumus, salútis~
+constituísti, ac ejus Sánguine placári voluísti: concéde, quǽsumus, salútis~
 nostræ prétium solémni cultu ita venerári, atque a præséntis vitæ malis ejus~
 virtúte deféndi in terris; ut fructu perpétuo lætémur in cælis.
 $Per eumdem
@@ -77,60 +77,60 @@ $Per eumdem
 Christum Dei Fílium, qui suo nos redémit sánguine, * Veníte, adorémus.
 
 [Hymnus Matutinum]
-v. Ira justa Conditoris,
-Imbre aquárum vindice,
+v. Ira justa Conditóris,
+Imbre aquárum víndice,
 Criminósum mersit orbem
 Noë in arca sóspite:
-Mira tandem vis amoris
+Mira tandem vis amóris
 Lávit orbem sánguine.
 _
-Tam salubri terra felix
+Tam salúbri terra felix
 Irrigáta plúvia,
-Ante spinas quæ scatebat,
-Germinávit flosculos;
-Inque nectaris sapórem
-Transiere absynthia.
+Ante spinas quæ scatébat,
+Germinávit flósculos;
+Inque néctaris sapórem
+Transiére absýnthia.
 _
-Triste protinus venénum
+Triste prótinus venénum
 Dirus anguis pósuit,
 Et cruénta belluárum
-Desiit ferocia:
+Désiit ferocia:
 Mitis Agni vulneráti
-Hæc fuit victoria.
+Hæc fuit victória.
 _
-O sciéntiæ supernæ
-Altitúdo impervia!
-O suávitas benigni
+O sciéntiæ supérnæ
+Altitúdo impérvia!
+O suávitas benígni
 Prædicanda péctoris!
 Servus erat morte dignus,
-Rex luit pœnam optimus.
+Rex luit pœnam óptimus.
 _
 Quando culpis provocámus
 Ultiónem júdicis,
-Tunc loquentis protegámur
-Sanguinis præséntia;
+Tunc loquéntis protegámur
+Sánguinis præséntia;
 Ingruéntium malórum
-Tunc recedant agmina.
+Tunc recédant agmina.
 _
-Te redemptus laudet orbis
+Te redémptus laudet orbis
 Gráta servans múnera,
-O salútis sempiternæ
-Dux et Auctor inclyte,
+O salútis sempitérnæ
+Dux et Auctor ínclite,
 Qui tenes beáta regna
-Cum Parénte et Spiritu.
+Cum Parénte et Spíritu.
 Amen.
 
 [Ant Matutinum]
 Postquam consummáti sunt * dies octo, ut circumciderétur Puer, vocátum est nomen ejus Jesus.;;2
-Factus in agonía * prolixius orabat, et factus est sudor ejus sicut guttæ sánguinis decurrentis in terram.;;3
-Judas, qui eum trádidit, * pœniténtia ductus rétulit trigínta argenteos dicens: Peccávi tradens sánguinem justum.;;15
+Factus in agonía * prolíxius orábat, et factus est sudor ejus sicut guttæ sánguinis decurréntis in terram.;;3
+Judas, qui eum trádidit, * pœniténtia ductus rétulit trigínta argénteos, dicens: Peccávi tradens sánguinem justum.;;15
 V. Redemísti nos, Dómine.
 R. In sánguine tuo.
-Pilatus, * volens pópulo satisfácere, trádidit illis Jesum flagellis cæsum.;;22
-Videns autem * quia nihil proficeret, accepta aqua, lavit manus coram pópulo dicens: Innocens ego sum a sánguine Justi hujus.;;29
-Et respondens * univérsus pópulus dixit: Sanguis ejus super nos et super fílios nostros.;;63
-V. Sanguis Jesu Christi, Fílii Dei.
-R. Emundat nos ab omni peccáto.
+Pilatus, * volens pópulo satisfácere, trádidit illis Jesum flagéllis cæsum.;;22
+Videns autem * quia nihil profíceret, accépta aqua, lavit manus coram pópulo dicens: Innocens ego sum a sánguine Justi hujus.;;29
+Et respóndens * univérsus pópulus dixit: Sanguis ejus super nos et super fílios nostros.;;63
+V. Sánguis Jesu Christi, Fílii Dei.
+R. Emúndat nos ab omni peccáto.
 Exívit ergo Jesus * portans corónam spíneam et purpúreum vestiméntum. Et dixit eis: Ecce homo.;;73
 Et bájulans sibi crucem, * exívit in eum, qui dícitur Calváriæ, locum, ubi crucifixérunt eum.;;87
 Ut vidérunt eum jam mortuum, * non fregérunt ejus crura, sed unus militum lancea latus ejus apéruit, et continuo exívit sanguis et aqua.;;93
@@ -259,55 +259,55 @@ Beáti * qui lavant stolas suas in sánguine Agni.
 @:Capitulum Vespera
 
 [Hymnus Laudes]
-v. Salvete, Christi vulnera,
-Imménsi amoris pignora
-Quibus perennes rivuli
+v. Salvéte, Christi vúlnera,
+Imménsi amoris pígnora
+Quibus perénnes rivuli
 Manant rubéntis sánguinis.
 _
-Nitore stellas vincitis
-Rosas odore et balsama,
-Pretio lapillos Indicos,
+Nitóre stellas víncitis
+Rosas odóre et bálsama,
+Prétio lapíllos Indícos,
 Mellis favos dulcédine.
 _
 Per vos patet gratíssimum
-Nostris asylum méntibus;
+Nostris asýlum méntibus;
 Non huc furor minántium
-Umquam penetrat hostium.
+Umquam penétrat hóstium.
 _
-Quot Jesus in prætorio
-Flagella nudus excipit!
-Quot scissa pellis undique
-Stillat cruoris guttulas!
+Quot Jesus in prætório
+Flagélla nudus éxcipit!
+Quot scissa pellis úndique
+Stillat cruóris gúttulas!
 _
-Frontem venustam, proh dolor!
-Corona pungit spinea,
-Clavi retusa cuspide
-Pedes manusque perforant.
+Frontem venústam, proh dolor!
+Coróna pungit spínea,
+Clavi retúsa cúspide
+Pedes manúsque pérforant.
 _
 Postquam sed ille trádidit
-Amans volensque spíritum,
-Pectus feritur lancea,
-Geminusque liquor exsilit.
+Amans volénsque spíritum,
+Pectus ferítur láncea,
+Geminúsque liquor éxsilit.
 _
-Ut plena sit redemptio,
-Sub torculari stringitur;
-Suique Jesus immemor,
-Sibi nil reservat sánguinis.
+Ut plena sit redémptio,
+Sub torculári stríngitur;
+Suíque Jesus ímmemor,
+Sibi nil resérvat sánguinis.
 _
-Veníte quotquot criminum
-Funesta labes inficit;
-In hoc salútis balneo
+Veníte quotquot críminum
+Funésta labes ínficit;
+In hoc salútis bálneo
 Qui se lavat, mundábitur.
 _
-Summi ad Parentis déxteram
-Sedénti habenda est grátia,
+Summi ad Paréntis déxteram
+Sedénti habénda est grátia,
 Qui nos redémit sánguine,
-Sanctoque firmat Spiritu.
+Sanctóque firmat Spíritu.
 Amen.
 
 [Versum 2]
 V. Justificáti in sánguine Christi.
-R. Salvi érimus ab ira per ipsum
+R. Salvi érimus ab ira per ipsum.
 
 [Ant 2]
 Erit sanguis Agni * vobis in signum, dicit Dóminus; et vidébo sánguinem, et transíbo vos nec erit in vobis plaga dispérdens.
@@ -317,7 +317,7 @@ Erit sanguis Agni * vobis in signum, dicit Dóminus; et vidébo sánguinem, et t
 
 [Lectio Prima]
 !Heb 9:19-20
-v. Accípiens Móyses sánguinem vitulórum, et hircórum cum aqua et lana coccinea et hyssópo: ipsum quoque librum, et omnem pópulum aspersit, dicens: Hic sanguis testamenti, quod mandávit ad vos Deus.
+v. Accípiens Móyses sánguinem vitulórum, et hircórum cum aqua et lana coccínea et hyssópo: ipsum quoque librum, et omnem pópulum aspérsit, dicens: Hic sanguis testaménti, quod mandávit ad vos Deus.
 
 [Versum Prima]
 Qui tuo nos sánguine redémisti.
@@ -338,7 +338,7 @@ R. Emundat nos ab omni peccáto.
 
 [Capitulum Sexta]
 !Heb 9:13-14
-v. Si sanguis hircórum, et taurórum, et cinis vitulæ aspersus inquinatos sanctíficat ad emundatiónem carnis: quanto magis sanguis Christi, qui per Spíritum Sanctum semetípsum obtulit immaculátum Deo, emundábit consciéntiam nostram ab opéribus mórtuis, ad serviéndum Deo viventi?
+v. Si sanguis hircórum, et taurórum, et cinis vítulæ aspérsus inquinátos sanctíficat ad emundatiónem carnis: quanto magis sanguis Christi, qui per Spíritum Sanctum semetípsum óbtulit immaculátum Deo, emundábit consciéntiam nostram ab opéribus mórtuis, ad serviéndum Deo vivénti?
 $Deo gratias
 
 [Responsory Sexta]
