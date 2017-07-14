@@ -11,44 +11,34 @@ Psalmi Dominica
 Antiphonas horas
 
 [Oratio]
-Deus, qui nos per beatos Apostolos tuos Simonem et Judam ad agnitionem tui~
-nominis venire tribuisti: da nobis eorum gloriam sempiternam et proficiendo~
-celebrare, et celebrando proficere.
+Deus, qui nos per beatos Apóstolos tuos Simónem et Iudam ad agnitiónem tui nóminis veníre tribuísti: da nobis eórum glóriam sempitérnam et proficiéndo celebráre, et celebrándo profícere.
 $Per Dominum
 
 [Lectio1]
-Incipit Epistola catholica beati Judae Apostoli.
+Incipit Epistola catholica beáti Judæ Apostoli.
 !Judas 1:1-4
-1 Judas Jesu Christi servus, frater autem Jacobi, his qui sunt in Deo Patre dilectis, et Christo Jesu conservatis, et vocatis.
-2 Misericordia vobis, et pax, et caritas adimpleatur.
-3 Carissimi, omnem sollicitudinem faciens scribendi vobis de communi vestra salute, necesse habui scribere vobis: deprecans supercertari semel traditae sanctis fidei.
-4 Subintroierunt enim quidam homines (qui olim praescripti sunt in hoc judicium) impii, Dei nostri gratiam transferentes in luxuriam, et solum Dominatorem, et Dominum nostrum Jesum Christum negantes.
-
+1 Judas, Jesu Christi servus, frater autem Jacobi, his qui sunt in Deo Patre diléctis et Christo Jesu conservátis, et vocatis. 
+2 Misericórdia vobis et pax et caritas adimpleátur. 
+3 Caríssimi, omnem sollicitúdinem fáciens scribéndi vobis de communi vestra salúte, necesse hábui scribere vobis: déprecans supercertari semel traditæ sanctis fidei.
+4 Subintroiérunt enim quidam hómines (qui olim præscripti sunt in hoc judícium) ímpii, Dei nostri grátiam transferéntes in luxuriam, et solum Dominatórem, et Dóminum nostrum Jesum Christum negantes.
 
 [Lectio2]
 !Judas 1:5-8
-5 Commonere autem vos volo, scientes semel omnia, quoniam Jesus populum de terra �gypti salvans, secundo eos, qui non crediderunt, perdidit:
-6 angelos vero, qui non servaverunt suum principatum, sed dereliquerunt suum domicilium, in judicium magni diei, vinculis aeternis sub caligine reservavit.
-7 Sicut Sodoma, et Gomorrha, et finitimae civitates simili modo exfornicatae, et abeuntes post carnem alteram, factae sunt exemplum, ignis aeterni p�nam sustinentes.
-8 Similiter et hi carnem quidem maculant, dominationem autem spernunt, majestatem autem blasphemant.
-
+5 Commonére autem vos volo, sciéntes semel ómnia, quóniam Jesus pópulum de terra Ægypti salvans, secundo eos, qui non credidérunt, pérdidit: 
+6 ángelos vero, qui non servavérunt suum principátum, sed dereliquérunt suum domicílium, in judícium magni diéi, vinculis ætérnis sub calígine reservávit. 
+7 Sicut Sódoma, et Gomorrha, et finítimæ civitátes simili modo exfornicátæ, et abeuntes post carnem álteram, factæ sunt exemplum, ignis æterni pœnam sustinénte;
+8 simíliter et hi carnem quidem maculant, dominatiónem autem spernunt, majestátem autem blasphemant.
 
 [Lectio3]
 !Judas 1:9-13
-9 Cum Micha�l Archangelus cum diabolo disputans altercaretur de Moysi corpore, non est ausus judicium inferre blasphemiae: sed dixit: Imperet tibi Dominus.
-10 Hi autem quaecumque quidem ignorant, blasphemant: quaecumque autem naturaliter, tamquam muta animalia, norunt, in his corrumpuntur.
-11 Vae illis, quia in via Cain abierunt, et errore Balaam mercede effusi sunt, et in contradictione Core perierunt!
-12 Hi sunt in epulis suis maculae, convivantes sine timore, semetipsos pascentes, nubes sine aqua, quae a ventis circumferentur, arbores autumnales, infructuosae, bis mortuae, eradicatae,
-13 fluctus feri maris, despumantes suas confusiones, sidera errantia: quibus procella tenebrarum servata est in aeternum.
-
+9 Cum Michaël Archangelus cum diabolo dísputans altercarétur de Móysi corpore, non est ausus judícium inferre blasphemiæ, sed dixit: Imperet tibi Dóminus. 
+10 Hi autem quæcúmque quidem ignorant, blasphemant; quæcúmque autem naturáliter, tamquam muta animália, norunt, in his corrumpúntur. 
+11 Væ illis, quia in via Cain abiérunt, et erróre Bálaam mercede effúsi sunt, et in contradictióne Core periérunt! 
+12 Hi sunt in epulis suis maculæ, convivántes sine timóre, semetípsos pascéntes, nubes sine aqua, quæ a ventis circumferúntur, árbores autumnales, infructuosæ, bis mortuæ, eradicátæ,
+13 fluctus feri maris despumántes suas confusiónes, sidera errántia: quibus procella tenebrárum serváta est in ætérnum.
 
 [Lectio4]
-Simon Chananaeus, qui et Zelotes, et Thaddaeus, qui et Judas Jacobi appellatur~
-in Evangelio, unius ex catholicis Epistolis scriptor, hic Mesopotamiam, ille~
-Aegyptum evangelica praedicatione peragravit. Postea in Persidem convenientes,~
-cum innumerabiles filios Jesu Christo peperissent, fidemque in vastissimis illis~
-regionibus et efferatis gentibus disseminassent doctrina et miraculis, ac~
-denique glorioso martyrio, simul sanctissimum Jesu Christi nomen illustrarunt.
+Simon Chananæus, qui et Zelótes, et Thaddæus, qui et Judas Jacobi appellátur in Evangelio, uníus ex catholicis Epistolis scriptor; hic Mesopotamiam, ille Ægyptum evangelica prædicatióne peragrávit. Postea in Pérsidem conveniéntes, cum innumerábiles fílios Jesu Christo peperissent fidemque in vastíssimis illis regiónibus et efferátis géntibus disseminassent, doctrina et miraculis, ac denique glorióso martyrio, simul sanctíssimum Jesu Christi nomen illustrarunt.
 
 [Lectio5]
 @Commune/C1:Lectio4
@@ -57,46 +47,17 @@ denique glorioso martyrio, simul sanctissimum Jesu Christi nomen illustrarunt.
 @Commune/C1:Lectio5
 
 [Lectio7]
-Lectio sancti Evangelii secundum Joannem.
+Léctio sancti Evangélii secúndum Joánnem.
 !Joannes 15:17-25
-In illo tempore: Dixit Jesus discipulis suis: Haec mando vobis, ut diligatis~
-invicem. Si mundus vos odit: scitote quia me priorem vobis odio habuit. Et~
-reliqua.
+In illo témpore: Dixit Jesus discípulis suis: Hæc mando vobis, ut diligátis invicem. Si mundus vos odit, scitóte quia me priórem vobis ódio hábuit. Et réliqua.
 _
-Homilia sancti Augustini Episcopi.
-!Tractatus 87. in Joannem.
-In lectione evangelica quae hanc antecedit, dixerat Dominus: Non vos me~
-elegistis: sed ego elegi vos, et posui vos, ut eatis, et fructum afferatis, et~
-fructus vester maneat: ut quodcumque petieritis Patrem in nomine meo, det vobis.~
-Hic autem dicit: Haec mando vobis, ut diligatis invicem. Ac per hoc intelligere~
-debemus hunc esse fructum nostrum, de quo ait: Ego vos elegi, ut eatis, et~
-fructum afferatis, et fructus vester maneat. Et quod adjunxit, Ut quodcumque~
-petieritis Patrem in nomine meo, det vobis, tunc utique dabit nobis, si~
-diligamus invicem: cum et hoc ipsum ipse dederit nobis, qui nos elegit non~
-habentes fructum, quia non eum nos elegeramus, et posuit nos ut fructum~
-afferamus, hoc est, invicem diligamus.
+Homilía sancti Augustini Episcopi.
+!Tractátus 87 in Joánnem.
+In lectióne evangelica quæ hanc antecedit, dixerat Dóminus: Non vos me elegístis; sed ego elégi vos et pósui vos, ut eatis, et fructum afferatis, et fructus vester maneat: ut quodcúmque petieritis Patrem in nómine meo, det vobis. Hic autem dicit: Hæc mando vobis, ut diligátis invicem. Ac per hoc intellígere debémus hunc esse fructum nostrum, de quo ait: Ego vos elégi, ut eatis, et fructum afferatis, et fructus vester maneat. Et quod adjunxit, Ut quodcúmque petieritis Patrem in nómine meo, det vobis, tunc útique dabit nobis, si diligámus invicem; cum et hoc ipsum ipse dederit nobis, qui nos elégit non habéntes fructum, quia non eum nos elegeramus, et pósuit nos ut fructum afferamus, hoc est, invicem diligamus.
 
 [Lectio8]
-Caritas ergo est fructus noster, quam definit Apostolus, de corde puro, et~
-conscientia bona, et fide non ficta. Hac diligimus invicem, hac diligimus Deum:~
-neque enim vera dilectione diligeramus invicem, nisi diligentes Deum. Diligit~
-enim unusquisque proximum suum tamquam seipsum, si diligit Deum: nam si non~
-diligit Deum, non diligit seipsum. In his enim duobus praeceptis caritatis, tota~
-lex pendet et prophetae. Hic est fructus noster. De fructu itaque nobis mandans,~
-Haec mando, inquit, vobis, ut diligatis invicem. Unde et Apostolus Paulus, cum~
-contra opera carnis commendare fructum spiritus vellet, a capite hoc posuit:~
-Fructus, inquit, spiritus, caritas est: ac deinde cetera, tamquam ex isto capite~
-exorta et religata contexuit, quae sunt, gaudium, pax, longanimitas, benignitas,~
-bonitas, fides, mansuetudo, continentia, castitas.
+Caritas ergo est fructus noster, quam defínit Apóstolus, De corde puro, et consciéntia bona, et fide non ficta. Hac dilígimus invicem, hac dilígimus Deum; neque enim vera dilectióne diligerémus invicem, nisi diligéntes Deum. Díligit enim unusquísque próximum suum tamquam seípsum, si díligit Deum. Nam, si non díligit Deum, non díligit seípsum; in his enim duobus præceptis caritátis tota lex pendet et prophetæ. Hic est fructus noster. De fructu itaque nobis mandans, Hæc mando, inquit, vobis, ut diligátis invicem. Unde et Apóstolus Paulus, cum contra ópera carnis commendare fructum spíritus vellet, a cápite hoc pósuit: Fructus, inquit, spíritus, caritas est; ac deinde cetera, tamquam ex isto cápite exorta et religáta contexuit, quæ sunt, gáudium, pax, longanimitas, benignitas, bonitas, fides, mansuetúdo, continéntia, castitas.
 
 [Lectio9]
-Quis autem bene gaudet, qui bonum non diligit unde gaudet? Quis pacem veram,~
-nisi cum illo potest habere quem veraciter diligit? Quis est longanimis in~
-bono opere perseveranter manendo, nisi ferveat diligendo? Quis est benignus,~
-nisi diligat, cui opitulatur? Quis bonus, nisi diligendo efficiatur? Quis~
-salubriter fidelis, nisi ea fide quae per dilectionem operatur? Quis utiliter~
-mansuetus, cui non dilectio moderetur? Quis ab eo continet unde turpatur, nisi~
-diligat unde honestatur? Merito itaque magister bonus dilectionem sic saepe~
-commendat, tamquam sola praecipienda sit, sine qua non possunt prodesse cetera~
-bona, et quae non potest haberi sine ceteris bonis, quibus homo efficitur bonus.
+Quis autem bene gaudet, qui bonum non díligit unde gaudet? Quis pacem veram, nisi cum illo potest habere, quem veraciter díligit? Quis est longánimis in bono opere perseveranter manendo, nisi ferveat diligendo? Quis est benignus, nisi diligat cui opitulátur? Quis bonus, nisi diligéndo efficiátur? Quis salubriter fidélis, nisi ea fide quæ per dilectiónem operátur? Quis utíliter mansuetus, cui non diléctio moderétur? Quis ab eo cóntinet unde turpátur, nisi diligat unde honestátur? Merito itaque Magister bonus dilectiónem sic sæpe commendat, tamquam sola præcipienda sit, sine qua non possunt prodesse cetera bona, et quæ non potest haberi sine ceteris bonis, quibus homo effícitur bonus.
 &teDeum

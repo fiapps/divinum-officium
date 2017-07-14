@@ -11,57 +11,19 @@ Doxology=Nat
 BMV
 
 [Oratio]
-Deus, qui per gloriosissimam Filii tui Matrem ad liberandos Christifideles a~
-potestate paganorum nova Ecclesiam tuam prole amplificare dignatus es: praesta~
-quaesumus; ut, quam pie veneramur tanti operis institutricem, ejus pariter~
-meritis et intercessione a peccatis omnibus, et captivitate daemonis liberemur.
+Deus, qui per gloriosíssimam Fílii tui Matrem, ad liberándos Christi fidéles a potestate paganórum nova Ecclésiam tuam prole amplificáre dignátus es: præsta, quǽsumus; ut, quam pie venerámur tanti operis institutricem, ejus páriter meritis et intercessióne, a peccátis ómnibus et captivitáte dæmonis liberemur.
 $Per eumdem
 
 [Lectio4]
-Quo tempore major feliciorque Hispaniarum pars diro Saracenorum opprimebatur~
-jugo, innumerique fideles sub immani servitute, maximo cum periculo christianae~
-fidei abjurandae amittendaeque salutis aeternae, infeliciter detinebantur,~
-beatissima caelorum Regina, tot tantisque benigniter occurrens malis, nimiam~
-caritatem suam in iis redimendis ostendit. Nam sancto Petro Nolasco, pietate et~
-opibus florenti, qui sanctis vacans meditationibus jugiter animo recogitabat qua~
-ratione tot Christianorum aerumnis sub Maurorum captivitate degentium succurri~
-posset, ipsamet beatissima Virgo serena fronte se conspiciendam dedit, et~
-acceptissimum sibi ac unigenito suo Filio fore dixit, si suum in honorem~
-institueretur ordo religiosorum, quibus cura incumberet captivos e Turcarum~
-tyrannide liberandi. Qua caelesti visione vir Dei recreatus, mirum est, quo~
-caritatis ardore flagrare coeperit, hoc unum servans in corde suo, ut ipse, ac~
-instituenda ab eo religio maximam illam caritatem sedulo exercerent, ut quisque~
-animam suam poneret pro amicis et proximis suis.
+Quo témpore major feliciorque Hispaniárum pars diro Saracenórum opprimebátur jugo, innumerique fidéles sub immani servitute, maximo cum periculo christianæ fidei abjurandæ, amittendæque salútis ætérnæ, infeliciter detinebántur, beatíssima cælórum Regína, tot tantisque benigniter occurrens malis, nimiam caritátem suam in iis rediméndis osténdit. Nam sancto Petro Nolasco, pietáte et opibus florenti, qui, sanctis vacans meditatiónibus, jugiter animo recogitábat qua ratióne tot Christianórum ærumnis sub Maurórum captivitáte degéntium succurri posset, ípsamet beatíssima Virgo, serena fronte, se conspiciéndam dedit; et acceptíssimum sibi ac unigenito suo Fílio fore dixit, si suum in honórem institueréntur ordo religiosórum, quibus cura incumberet captivos e Turcárum tyrannide liberandi. Qua cælésti visióne vir Dei recreatus, mirum est quo caritátis ardore flagrare cœperit, hoc unum servans in corde suo, ut ipse ac instítuenda ab eo religio maximam illam caritátem sedulo exercerent, ut quisque ánimam suam póneret pro amicis et próximis suis.
 
 [Lectio5]
-Ea ipsa nocte eadem Virgo sanctissima beato Raymundo de Penafort, et Jacobo~
-Aragoniae regi apparuit, idipsum de religiosis instituendis admonens~
-suadensque, ut opem pro constructione tanti operis ferrent. Petrus autem statim~
-ad Raymundi pedes, qui ipsi erat a sacris confessionibus, advolans, ei rem omnem~
-aperuit: quem etiam caelitus instructum reperit, ejusque directioni se humillime~
-subjecit At superveniens Jacobus rex, quam et ipse acceperat a beatissima~
-Virgine, revelationem exsequi statuit. Unde collatis inter se consiliis, et~
-consentientibus animis, in honorem eiusdem Virginis Matris ordinem instituere~
-aggressi sunt, sub invocatione sanctae Mariae de Mercede Redemptionis~
-captivorum.
+Ea ipsa nocte éadem Virgo sanctíssima beato Raymundo de Péñafort et Jacobo Aragoniæ regi appáruit, idípsum de religiosis instituéndis ádmonens, suadensque ut opem pro constructióne tanti operis ferrent. Petrus autem statim ad Raymundi pedes, qui ipsi erat a sacris confessiónibus, ádvolans, ei rem omnem apéruit; quem etiam cælitus instructum réperit, ejusque directióni se humillime subjécit. At, superveniens Jacobus rex, quam et ipse acceperat a beatíssima Vírgine, revelatiónem éxsequi státuit. Unde, collátis inter se consíliis, et consentiéntibus ánimis, in honórem ejusdem Vírginis Matris ordinem institúere aggressi sunt, sub invocatióne sanctæ Maríæ de Mercede redemptiónis captivórum.
 
 [Lectio6]
-Die igitur decima Augusti anno Domini millesimo ducentesimo decimo octavo, rex~
-idem Jacobus eam institutionem jam pridem ab iisdem sanctis viris conceptam~
-exsequi statuit, sodalibus quarto voto adstrictis, manendi in pignus sub~
-paganorum potestate, si pro Christianorum liberatione opus fuerit. Quibus rex~
-ipse arma sua regia in pectore deferre concessit, et a Gregorio nono illud tam~
-praecellentis erga proximum caritatis institutum et religionem confirmari~
-curavit. Sed et ipse Deus per Virginem Matrem incrementum dedit, ut talis~
-institutio celerius ac felicius totum per orbem divulgaretur, sanctisque viris~
-floruerit caritate ac pietate insignibus, qui eleemosynas a Christi fidelibus~
-collectas in pretium redemptionis suorum proximorum expenderent, seque ipsos~
-interdum darent in redemptionem multorum. Ut autem tanti beneficii et~
-institutionis debitae Deo et Virgini Matri referantur gratiae, Sedes apostolica~
-hanc peculiarem festivitatem celebrari, et Officium recitari indulsit, cum alia~
-fere innumera eidem ordini privilegia pariter contulisset.
+Die ígitur décima Augusti anno Dómini millesimo ducentésimo décimo octavo, rex idem Jacobus eam institutiónem, jamprídem ab iisdem sanctis viris conceptam, éxsequi státuit, sodálibus quarto voto adstrictis manéndi in pignus sub paganórum potestate, si pro Christianórum liberatióne opus fúerit. Quibus rex ipsa arma sua regia in péctore deferre concessit, et a Gregório nono illud tam præcellentis erga próximum caritátis institutum et religiónem confírmari curávit. Sed et ipse Deus per Vírginem Matrem increméntum dedit, ut talis institútio celerius ac felicius totum per orbem divulgarétur, sanctisque viris florúerit caritate ac pietáte insígnibus, qui eleemósynas a Christi fidelibus collectas in prétium redemptiónis suórum proximórum expénderent, seque ipsos intérdum darent in redemptiónem multórum. Ut autem tanti beneficii et institutiónis, débitæ Deo et Virgini Matri referántur gratiæ, Sedes apostolica hanc peculiarem festivitátem celebrari et Offícium recitari indulsit, cum alia fere innumera eídem ordini privilegia páriter contulísset.
 
 [Lectio94]
-Quo t�mpore inn�meri fid�les sub imm�ni Saracen�rum servit�te, cum per�culo amitt�nd� sal�tis �t�rn�, infel�citer detineb�ntur, be�ta Virgo Mar�a, sancto Petro Nol�sco, be�to Raym�ndo de P��afort et Jac�bo Arag�ni� regi noctu app�rens, accept�ssimum sibi ac unig�nito suo F�lio fore dixit si suum in hon�rem instituer�tur ordo religios�rum, quibus cura inc�mberet capt�vos e Turc�rum tyr�nnide liber�ndi. Quare, coll�tis inter se cons�liis et consenti�ntibus �nimis, in hon�rem ej�sdem V�rginis Matris �rdinem instit�ere aggr�ssi sunt, sub invocati�ne sanct� Mar�� de Merc�de redempti�nis captiv�rum, sod�libus quarto voto adstr�ctis man�ndi in pignus sub pagan�rum potest�te, si pro Christian�rum liberati�ne opus esset. Quibus rex ipse arma sua r�gia in p�ctore def�rre conc�ssit, et a Greg�rio nono illud tam pr�cell�ntis carit�tis instit�tum confirm�ndum cur�vit. Ut autem tanti benef�cii et instituti�nis d�bit� Deo et Virgini Matri refer�ntur gr�ti�, Sedes apost�lica hanc peculi�rem festivit�tem celebr�ri ind�lsit.
+Quo témpore innúmeri fidéles sub immáni Saracenórum servitúte, cum perículo amitténdæ salútis ætérnæ, infelíciter detinebántur, beáta Virgo María, sancto Petro Nolásco, beáto Raymúndo de Péñafort et Jacóbo Aragóniæ regi noctu appárens, acceptíssimum sibi ac unigénito suo Fílio fore dixit si suum in honórem instituerétur ordo religiosórum, quibus cura incúmberet captívos e Turcárum tyránnide liberándi. Quare, collátis inter se consíliis et consentiéntibus ánimis, in honórem ejúsdem Vírginis Matris órdinem institúere aggréssi sunt, sub invocatióne sanctæ Maríæ de Mercéde redemptiónis captivórum, sodálibus quarto voto adstríctis manéndi in pignus sub paganórum potestáte, si pro Christianórum liberatióne opus esset. Quibus rex ipse arma sua régia in péctore deférre concéssit, et a Gregório nono illud tam præcelléntis caritátis institútum confirmándum curávit. Ut autem tanti benefícii et institutiónis débitæ Deo et Virgini Matri referántur grátiæ, Sedes apostólica hanc peculiárem festivitátem celebrári indúlsit.
 &teDeum
 

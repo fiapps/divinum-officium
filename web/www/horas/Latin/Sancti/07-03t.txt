@@ -1,5 +1,5 @@
 [Rank]
-Quinta die infra Octavam Ss. Petri et Pauli.;;Semiduplex;;2;;vide C1
+Quinta die infra Octavam Ss. Petri et Pauli.;;Semiduplex;;1.9;;vide C1
 
 [Rule]
 vide C1;
@@ -10,8 +10,7 @@ Gloriosi principes terrae, * quomodo in vita sua dilexerunt se, ita et in morte~
 non sunt separati.
 
 [Versum 2]
-V. In omnem terram exivit sonus eorum.
-R. Et in fines orbis terrae verba eorum.
+@Commune/C1:Versum 1
 
 [Ant 1]
 Petrus Apostolus, * et Paulus Doctor Gentium, ipsi nos docuerunt legem tuam~
@@ -22,10 +21,7 @@ V. Constitues eos principes super omnem terram.
 R. Memores erunt nominis tui Domine.
 
 [Oratio]
-Deus, qui hodiernam diem Apostolorum tuorum Petri et Pauli martyrio consecrasti:~
-da Ecclesiae tuae, eorum in omnibus sequi praeceptum, per quos religionis~
-sumpsit exordium.
-$Per Dominum
+@Sancti/06-29:Oratio
 
 [Lectio4]
 De Sermone sancti Leonis Papae.
