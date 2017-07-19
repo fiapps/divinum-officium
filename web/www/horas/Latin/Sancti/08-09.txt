@@ -1,5 +1,5 @@
 [Rank]
-S. Joannis Mariae Vianney Confessoris;;Duplex;;3;;vide C5
+S. Joannis Mariæ Vianney Confessoris;;Duplex;;3;;vide C5
 
 [Rule]
 vide C5;mtv
@@ -17,7 +17,7 @@ Præsta, quǽsumus, omnípotens Deus: ut, intercedénte beáto Románo Mártyre 
 $Per Dominum.
 
 [Lectio Vigilia]
-!Commemoratio Vigiliae S. Laurentii
+!Commemoratio Vigiliæ S. Laurentii
 @Sancti/08-09t:Lectio1
 
 [Lectio4]
@@ -41,10 +41,10 @@ Præsta, quǽsumus, omnípotens Deus: ut, intercedénte beáto Románo Mártyre 
 $Per Dominum.
 
 [Oratio Vigilia]
-!Commemoratio Vigiliae S. Laurentii Martyris
+!Commemoratio Vigiliæ S. Laurentii Martyris
 Adesto, Dómine, supplicatiónibus nostris: et intercessióne beáti Lauréntii Mártyris tui, cujus prævenimus festivitátem; perpetuam nobis misericórdiam benignus impende.
 $Per Dominum
 
 [Lectio94]
-Joánnes María Vianney, in pago Dardilly Dioecésis Lugdunénsis, piis rurículis ortus, plura dedit sanctitátis indícia. Cum octénnis oves custodíret, puérulos ad imáginem Deíparæ genufléxos, Rosárium verbo et exémplo edocére solébat, et agris coléndis addíctus, de cæléstibus meditabátur. Páuperum amantíssimus, eos omnímodo adjuváre in delíciis hábuit. Ut erat tardióris ingénii, divína ope imploráta, ac theologíæ cursu operóse confécto, dignus hábitus est qui sacris initiarétur. Párochus renuntiátus, omníno squaléntis ac desértæ paroeciæ fáciem florentíssime renovávit. In consciéntiis judicándis ac moderándis quotídie assíduus, atrocíssimas Sátanæ vexatiónes patiénter tolerávit. Pia Missiónum exercítia in ámplius centum paroeciis instítuit. Cum autem humíllime de se sentíret, sancto fidélium desidério, in suam paroeciam illum viséndi grátia étiam ex díssitis provínciis accurréntium, se subdúcere conabátur. Labóribus pótius quam sénio conféctus prænuntiáto suæ mortis die, in Dómino quiévit, die quarta Augústi anno millésimo octingentésimo quinquagésimo nono, annos natus tres ac septuagínta. Quem tot clarum miráculis Pius décimus inter Beátos, Pius undécimus inter Sanctos cælites anno sacro adscrípsit, anno vero quinquagésimo sacerdótii sui ómnium parochórum cæléstem Patrónum constítuit.
+Joánnes María Vianney, in pago Dardilly Diœcésis Lugdunénsis, piis rurículis ortus, plura dedit sanctitátis indícia. Cum octénnis oves custodíret, puérulos ad imáginem Deíparæ genufléxos, Rosárium verbo et exémplo edocére solébat, et agris coléndis addíctus, de cæléstibus meditabátur. Páuperum amantíssimus, eos omnímodo adjuváre in delíciis hábuit. Ut erat tardióris ingénii, divína ope imploráta, ac theologíæ cursu operóse confécto, dignus hábitus est qui sacris initiarétur. Párochus renuntiátus, omníno squaléntis ac desértæ parœciæ fáciem florentíssime renovávit. In consciéntiis judicándis ac moderándis quotídie assíduus, atrocíssimas Sátanæ vexatiónes patiénter tolerávit. Pia Missiónum exercítia in ámplius centum parœciis instítuit. Cum autem humíllime de se sentíret, sancto fidélium desidério, in suam parœciam illum viséndi grátia étiam ex díssitis provínciis accurréntium, se subdúcere conabátur. Labóribus pótius quam sénio conféctus prænuntiáto suæ mortis die, in Dómino quiévit, die quarta Augústi anno millésimo octingentésimo quinquagésimo nono, annos natus tres ac septuagínta. Quem tot clarum miráculis Pius décimus inter Beátos, Pius undécimus inter Sanctos cælites anno sacro adscrípsit, anno vero quinquagésimo sacerdótii sui ómnium parochórum cæléstem Patrónum constítuit.
 &teDeum

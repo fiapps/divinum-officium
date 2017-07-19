@@ -6,11 +6,11 @@ vide C5;mtv
 9 lectiones
 
 [Oratio]
-Deus, qui beátum Raymúndum poeniténtiæ sacraménti insígnem minístrum elegísti, et per maris undas mirabíliter traduxísti: concéde; ut eius intercessióne dignos pœniténtiæ fructus fácere, et ad ætérnæ salútis portum perveníre valeámus.
+Deus, qui beátum Raymúndum pœniténtiæ sacraménti insígnem minístrum elegísti, et per maris undas mirabíliter traduxísti: concéde; ut eius intercessióne dignos pœniténtiæ fructus fácere, et ad ætérnæ salútis portum perveníre valeámus.
 $Per Dominum
 
 [Commemoratio]
-!Commemoratio S. Emerentianae Virginis et Martyris
+!Commemoratio S. Emerentianæ Virginis et Martyris
 @Commune/C6:Oratio proper
 $Oremus
 Indulgéntiam nobis, quǽsumus, Dómine, beáta Emerentiána Virgo et Martyr implóret: quæ tibi grata semper éxstitit, et merito castitatis, et tuæ professione virtútis. 

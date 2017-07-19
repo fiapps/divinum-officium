@@ -1,5 +1,5 @@
 [Rank]
-S. Teresiae Virginis;;Duplex;;3;;vide C6
+S. Teresiæ Virginis;;Duplex;;3;;vide C6
 
 [Rule]
 vide C6;
@@ -67,6 +67,6 @@ _
 Te, Sponse Jesu Vírginum,
 Beáti adorent ordines,
 Et nuptiali cántico
-Laudent per omne sæculum.
+Laudent per omne sǽculum.
 Amen.
 _
