@@ -1708,7 +1708,7 @@ sub papal_antiphon_dum_esset($)
           |
             (?:hoc\s+versus\s+)?omittitur
           |
-            (?:haec\s+versus\s+)?omittuntur
+            (?:h(ae|æ)c\s+versus\s+)?omittuntur
         )
         \b
       )?
