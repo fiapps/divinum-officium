@@ -15,7 +15,7 @@ _
 V. Lætámini in Dómino et exsultáte, justi.
 R. Et gloriámini, omnes recti corde.
 _
-v. Oremus. 
+$Oremus
 Præsta, Dómine, précibus nostris cum exsultatióne provéntum: ut sanctórum Mártyrum Euphémiæ, Lúciæ et Geminiáni, quorum diem passiónis ánnua devotióne recólimus, étiam fídei constántiam subsequámur.
 $Per Dominum
 
