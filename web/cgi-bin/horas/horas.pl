@@ -372,7 +372,7 @@ sub Dominus_vobiscum : ScriptFunc {
 
 sub Dominus_vobiscum1 : ScriptFunc { #* prima after preces
   my $lang = shift;  
-  if (!preces('Dominicales et Feriales')&& !$priest) {$precesferiales = 1; }
+  if ((!preces('Dominicales et Feriales') || $litaniaflag) && !$priest) {$precesferiales = 1; }
   return Dominus_vobiscum($lang);
 }
 
@@ -410,6 +410,7 @@ sub antiphona_finalis : ScriptFunc {
     {$t = $ant{'Quadragesimae'};}
   elsif ($dayname[0] =~ /Pasc/) {$t = $ant{'Paschalis'};}
   else {$t = $ant{'Postpentecost'};}  
+  $t = '#' . translate('Antiphona finalis BMV', $lang) . "\n$t";
   return ($t);
 }
 

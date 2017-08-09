@@ -22,7 +22,7 @@ perpétuo patrocínia sentiámus.
 $Per eumdem
 
 [Lectio4]
-Sermo sancti Epiphanii Episcopi.
+Sermo sancti Epiphanii Epíscopi.
 !Orat. de Laud. Virg. sub init.
 De radíce Jesse ortus est rex David, et de tribu regis David sancta Virgo: sancta, inquam, et sanctórum virórum fília, cujus paréntes fuérunt Joachim et Anna; qui quidem in vita sua Deo placuérunt, atque etiam fructum ejusmodi germinavérunt, sanctam Vírginem Mariam, templum simul et matrem Dei.  Joachim porro, Anna et Maria, hi tres Trinitáti palam sacrifícium laudis offerebant.  Joachim enim interpretátur Præparátio Dómini, eo quod ex illo præparátum sit templum Dómini, nempe Virgo.  Anna rursus simíliter Gratia interpretátur, proptérea quod Joachim et Anna grátiam accepérunt, ut accedéntibus precibus, talem fructum germinarent, sanctam Vírginem adepti; Joachim síquidem precabátur in monte, et Anna in horto suo.
 
@@ -35,7 +35,7 @@ Quóniam futurum erat ut Dei Génitrix et Virgo ex Anna orirétur, natúra grati
 Exsulta, Joachim, quóniam ex fília tua Fílius natus est nobis; et vocátur nomen ejus magni consílii, hoc est, salútis totius mundi Angelus.  Pudore afficiátur Nestorius, ac manum ori imponat.  Puer hic Deus est.  Quonam ígitur modo ea Dei Génitrix non sit, quæ péperit?  Si quis sanctam Dei Genitricem non confitétur, a Deitate remotus est.  Mea non est hæc orátio, quamquam alioqui mea; hanc enim diviníssimam hereditátem a theólogo patre Gregório accepi.  O beátum par Joachim et Anna!  Ac profecto ex ventris vestri fructu immaculáti agnoscímini, quemádmodum Christus quodam loco dixit: Ex fructibus eórum cognoscétis eos.  Ut Deo grátum erat ac dignum ea quæ a vobis orta est, vitæ vestræ ratiónes instituistis.  Caste enim ac sancte munere vestro functi, virginitátis thesáurum produxistis.
 
 [Lectio7]
-Lectio sancti Evangelii secundum Matthǽum.
+Léctio sancti Evangélii secúndum Matthǽum.
 !Matt 1:1-16
 Liber generatiónis Jesu Christi, fílii David, fílii Abraham.  Abraham génuit Isaac, Isaac autem génuit Jacob.  Et réliqua.
 _

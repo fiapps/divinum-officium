@@ -44,13 +44,13 @@ De Epistola ad Romanos
 @Sancti/01-01:Responsory3
 
 [Lectio93]
-Sermo sancti Augustini Episcopi.
+Sermo sancti Augustini Epíscopi.
 !Sermo 2 de S. Stephano.
 Christus caput Mártyrum prior passus est pro nobis, relínquens vobis exemplum, ut sequámini vestígia ejus. Cujus passiónis vestígia prosecutus beatíssimus Stephanus, confiténdo Christum lapidátus a Judæis, corónam meruit tamquam suo sibi nómine pósitam. Stephanus enim Græce, Latine coróna appellátur. Jam coróna nomen habebat, et ideo palmam martyrii suo nómine præferebat. Qui cum lapidarétur, non solum non exspectábat de persecutóribus reportare vindíctam, sed eis potius a Deo véniam postulabat.
 &teDeum
 
 [Lectio4]
-Sermo sancti Augustini Episcopi.
+Sermo sancti Augustini Epíscopi.
 !Serm. 2. de S. Stephano.
 Post hesternum festivissimum diem, quo Salvatoris nostri Christi nobis Nativitas illuxit, etiam hodiernus dies beati Martyris Stephani corona illustratur. Martyris illius merita nulla pars orbis ignorat: passus enim est in ipso principio Ecclesiæ, id est, in ipsa urbe Jerosolyma. Ibi enim Diaconus ministravit: et in ipso juventutis flore decorem ætatis suæ sanguine purpuravit. Passio ejus insignis est, multumque mirabilis. Hanc modo de libro Actuum Apostolorum, cum legeretur, non solum audivimus, sed etiam oculis spectavimus.
 
@@ -61,9 +61,9 @@ Christus ergo caput Martyrum prior passus est pro nobis, relinquens vobis exempl
 Qui cum lapidaretur, non solum non exspectabat de persecutoribus reportare vindictam, sed eis potius a Deo veniam postulabat. Meminerat enim dixisse Dominum: Mihi vindictam, ego retribuam, dicit Dominus. Et iterum: Ne dixeris, Ulciscar me de inimicis meis; sed exspecta Dominum, ut tibi auxilio sit. Exspectare nos jubet Dominus Deus, ut in die futuræ retributionis cum sanctis Martyribus vindicemur.
 
 [Lectio7]
-Lectio sancti Evangelii secundum Matthǽum.
+Léctio sancti Evangélii secúndum Matthǽum.
 !Matt 23:34-35
-In illo tempore: Dicebat Jesus scribis et pharisæis: Ecce ego mitto ad vos prophetas, et sapientes, et scribas: et ex illis occidetis, et crucifigetis. Et reliqua.
+In illo témpore: Dicebat Jesus scribis et pharisæis: Ecce ego mitto ad vos prophetas, et sapientes, et scribas: et ex illis occidetis, et crucifigetis. Et réliqua.
 _
 Homilia sancti Hieronymi Presbyteri.
 !Lib. 4. Comment. in cap. 23. Matth.
