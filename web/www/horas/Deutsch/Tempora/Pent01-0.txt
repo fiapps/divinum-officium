@@ -1,15 +1,5 @@
 [Rank]
-Dominica Sanctissimæ Trinitatis;;Duplex I classis;;6.5
-
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-No Commemoration
-Psalm5 Vespera=116
-Psalm5 Vespera3=113
-Prima=53
+Fest der allerheiligsten Dreifaltigkeit;;Duplex I classis;;6.5
 
 [Ant Vespera]
 Glória tibi, Trinitas * æqualis, una Deitas, et ante ómnia sæcula, et nunc et in perpétuum.;;109
@@ -185,12 +175,12 @@ Nec extensiónem partis alicujus ex parte, ut quidam putavérunt, Dei Fílium di
 Nec extensiónem partis alicujus ex parte, ut quidam putavérunt, Dei Fílium dicimus: nec verbum sine re, velut sonum vocis, accípimus: sed tria nómina et tres personas uníus esse esséntiæ, uníus majestátis atque poténtiæ crédimus. Et ideo unum Deum confitemur: quia únitas majestátis, plurium vocábulo deos próhibet appellari.
 
 [Responsory8]
-R. Duo Séraphim clamábant alter ad álterum: 
-* Sanctus, sanctus, sanctus Dóminus Deus Sabaoth: * Plena est omnis terra glória ejus.
-V. Tres sunt qui testimónium dant in cælo: Pater, Verbum, et Spíritus Sanctus: et hi tres unum sunt.
-R. Sanctus, sanctus, sanctus Dóminus Deus Sabaoth.
+R. Zwei Seraphim riefen einander zu: 
+* Heilig, heilig, heilig ist der Herr, der Gott der Heerscharen: * Voll ist die ganze Erde von seiner Herrlichkeit.
+V. Drei sind es, die eine Bestätigung geben im Himmel: Der Vater, das Wort und der Heilige Geist, und diese drei sind eins.
+R. Heilig, heilig, heilig ist der Herr, der Gott der Heerscharen.
 &Gloria
-R. Plena est omnis terra glória ejus.
+R. Voll ist die ganze Erde von seiner Herrlichkeit.
 
 [Lectio9]
 !Commemoratio Dominicæ
