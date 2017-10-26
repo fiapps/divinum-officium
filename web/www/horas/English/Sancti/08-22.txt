@@ -55,7 +55,7 @@ voice.
 @Sancti/08-15:Responsory3
 
 [Lectio4]
-From the Sermons of St Bernard, Abbot of Clairvaux.
+From the Sermons of St. Bernard, Abbot of Clairvaux.
 !4th on the Assumption of the Blessed Virgin.
 There is nothing which giveth me keener pleasure or keener fear than to have to~
 speak of the glory of the Virgin Mary. Behold if I praise her virginity, many~
@@ -63,7 +63,7 @@ virgins come before me, who bear her company, and, after her, are brought unto~
 the King. (Ps. xliv. 16.) If I proclaim her lowliness, there will some be found,~
 few though they may be, who have learnt of her Son to be meek and lowly in~
 heart. (Matth. xi. 29.) If I extol the multitude of her mercies, there are men~
-who are also merciful yea, and women. But there is one thing wherein  Neither~
+who are also merciful yea, and women. But there is one thing wherein Neither~
 before nor henceforth hath there been or shall be such another, The joy of a~
 Mother was hers, remaining a virgin unsullied. This is the peculiar grace of~
 Mary, which will never be another's. This standeth alone, and what it is words~
@@ -113,7 +113,7 @@ From the Holy Gospel according to Luke
 At that time, Jesus entered into a certain village, and a certain woman named~
 Martha received Him into her house. And so on.
 _
-Homily by St Bernard, Abbot (of Clairvaux.) 
+Homily by St. Bernard, Abbot (of Clairvaux.) 
 !(2nd on the Assumption of the Blessed Virgin.) 
 Why should we speak of Jesus having entered into a village? He~
 entered even into the narrow lodging of a Virgin's womb. And a certain woman~
