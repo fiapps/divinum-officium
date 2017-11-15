@@ -37,7 +37,7 @@ our $missa = 1;
 our $NewMass = 0;
 our $officium = 'missa.pl';
 our $version = 'Rubrics 1960';
-@versions = ('Trident 1570', 'Trident 1910', 'Divino Afflatu', 'Reduced 1955', 'Rubrics 1960', '1960-1967', '1960 Newcalendar');
+@versions = ('Trident 1570', 'Trident 1910', 'Divino Afflatu', 'Reduced 1955', 'Rubrics 1960', '1965-1967', '1960 Newcalendar');
 
 #***common variables arrays and hashes
 #filled  getweek()
@@ -226,7 +226,7 @@ PrintTag
   print << "PrintTag";
 <P ALIGN=CENTER>
 <TABLE BORDER=0 HEIGHT=$height><TR>
-<TD><IMG SRC="$htmlurl/missa.gif" HEIGHT=$height></TD>
+<TD><IMG SRC="$htmlurl/missa.jpg" HEIGHT=$height></TD>
 </TR></TABLE>
 <BR>
 </P>
