@@ -1071,12 +1071,10 @@ sub oratio
 
     #* deletes added commemoratio
     $comm_regex_str = "!(" .&translate('Commemoratio',$lang) . "|Commemoratio)";
-    if (($w =~ /(?<prelude>.*?)$comm_regex_str/is &&
-          $hora !~ /(laudes|vespera)/i) ||
-        ($hora =~ /laudes/i && $w =~ /$comm_regex_str/i &&
-          $w =~ /(?<prelude>.*?)(precedenti|sequenti)/is)) {
-      $w = $+{prelude};
-      $w =~ s/\s*_$\s*//;
+    if (($w =~ /$comm_regex_str/i && $hora !~ /(laudes|vespera)/i) ||
+        ($hora =~ /laudes/i && $w =~ /$comm_regex_str/i && $w =~ /(precedenti|sequenti)/i)) {
+        $w = $`;
+        $w =~ s/\s*_$\s*//;
     }
 
     if (!$w) {$w = 'Oratio missing';}
