@@ -5,7 +5,7 @@ Exsúrge, * Dómine, salvum me fac, Deus meus.;;3
 V. Memor fui nocte nóminis tui, Dómine.
 R. Et custodívi legem tuam.
 Quam admirábile * est nomen tuum, Dómine, in univérsa terra!;;8
-Sedísti super thronum * qui júdicas justítiam.;;9(1-11) 
+Sedísti super thronum * qui júdicas justítiam.;;9(2-11) 
 Exsúrge, Dómine, * non præváleat homo.;;9(12-21)
 V. Média nocte surgébam ad confiténdum tibi.
 R. Super judícia justificatiónis tuæ.
@@ -21,7 +21,7 @@ Qui operátur justítiam * requiéscet in monte sancto tuo, Dómine.;;14
 Inclína, Dómine, * aurem tuam mihi, et exáudi verba mea.;;16
 V. Mirífica Dómine misericórdias tuas.
 R. Qui salvos facis sperántes in te.
-Díligam te, * Dómine, virtus mea.;;17(1-16)
+Díligam te, * Dómine, virtus mea.;;17(2-16)
 Retríbuet mihi Dóminus * secúndum justítiam meam.;;17(17-35)
 Vivit Dóminus * et benedíctus Deus salútis meæ.;;17(36-51)
 V. Confitébor tibi in natiónibus, Dómine.
@@ -50,13 +50,13 @@ V. Deus, ne síleas a me, remítte mihi.
 R. Quóniam íncola ego sum apud te et peregrínus.
 
 [Day3]
-Speciósus forma * præ fíliis hóminum, diffúsa est grátia in lábiis tuis.;;44(1-10)
+Speciósus forma * præ fíliis hóminum, diffúsa est grátia in lábiis tuis.;;44(2-10)
 Confitebúntur tibi * pópuli Deus in ætérnum.;;44(11-18)
 Adjútor in tribulatiónibus * Deus noster.;;45
 V. Dóminus virtútum nobíscum.
 R. Suscéptor noster, Deus Jacob.
 Magnus Dóminus * et laudábilis nimis in civitáte Dei nostri.;;47
-Os meum loquétur * sapiéntiam: et meditátio cordis mei prudéntiam.;;48(1-13)
+Os meum loquétur * sapiéntiam: et meditátio cordis mei prudéntiam.;;48(2-13)
 Ne timúeris * cum divite non descéndet in sepúlcrum glória ejus.;;48(14-21)  
 V. Deus rédimet ánimam meam de manu ínferi.
 R. Cum accéperit me.
@@ -67,13 +67,13 @@ V. Audítui meo dabis gáudium et lætítiam.
 R. Et exsultábunt ossa humiliáta.
 
 [Day31]
-Speciósus forma * præ fíliis hóminum, diffúsa est grátia in lábiis tuis.;;44(1-10)
+Speciósus forma * præ fíliis hóminum, diffúsa est grátia in lábiis tuis.;;44(2-10)
 Confitebúntur tibi * pópuli Deus in ætérnum.;;44(11-18)
 Adjútor in tribulatiónibus * Deus noster.;;45
 V. Dóminus virtútum nobíscum.
 R. Suscéptor noster, Deus Jacob.
 Magnus Dóminus * et laudábilis nimis in civitáte Dei nostri.;;47
-Os meum loquétur * sapiéntiam: et meditátio cordis mei prudéntiam.;;48(1-13)
+Os meum loquétur * sapiéntiam: et meditátio cordis mei prudéntiam.;;48(2-13)
 Ne timúeris * cum divite non descéndet in sepúlcrum glória ejus.;;48(14-21)  
 V. Deus rédimet ánimam meam de manu ínferi.
 R. Cum accéperit me.
@@ -141,7 +141,7 @@ Gaudéte omnes * et lætámini: ecce quia véniet Dóminus ultiónis addúcet re
 V. Ex Sion spécies decóris ejus.
 R. Deus noster maniféste véniet.
 Gaude et lætáre, * fília Jerúsalem: ecce Rex tuus véniet tibi: Sion, noli timére, quia cito véniet salus tua.;;8
-Rex noster * adveniet Christus, quem Joánnes prædicávit Agnum esse ventúrum.;;9(1-11)
+Rex noster * advéniet Christus, quem Joánnes prædicávit Agnum esse ventúrum.;;9(2-11)
 Ecce vénio * cito et merces mea mecum est, dicit Dóminus: dare unicuíque secúndum ópera sua.;;9(12-21)
 V. Emítte Agnum, Dómine, Dominatorem terræ.
 R. De Petra desérti ad montem fíliæ Sion.
