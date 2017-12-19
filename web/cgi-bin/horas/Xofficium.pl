@@ -78,7 +78,7 @@ require "$Bin/Xhoras.pl";
 require "$Bin/specials.pl";
 require "$Bin/specmatins.pl";
 if (-e "$Bin/monastic.pl") {require "$Bin/monastic.pl";}
-require "$Bin/../../../aux_html/bmbe/clavis.pl";
+require "$Bin/../../../../../aux_html/bmbe/clavis.pl";
 
 binmode(STDOUT,':encoding(utf-8)');
 
