@@ -89,12 +89,12 @@ Osservate le opere del Signore * e proclamate ad alta voce la sua gloria.;;65(1-
 Udite, voi tutti * che temete Dio, quanto egli ha fatto all'anima mia.;;65(13-20)
 V. Il Signore non ha rigettato la mia preghiera.
 R. E allontanato da me la sua misericordia.
-Sorga Dio, * e siano dispersi i suoi nemici.;;67(1-11)
+Sorga Dio, * e siano dispersi i suoi nemici.;;67(2-11)
 Il nostro Dio * è colui che ci salva; è lui che ci libera dalla morte.;;67(12-24)
 Nelle assemblee * benedite il Signore Iddio.;;67(25-36)
 V. Dio è mirabile nei suoi santi.
 R. Il Dio d'Israele darà valore al suo popolo.
-Salvami, * o Dio: le acque mi sono salite fino alla gola.;;68(1-13)
+Salvami, * o Dio: le acque mi sono salite fino alla gola.;;68(2-13)
 Liberami, o Signore, * a cagione miei nemici.;;68(14-29)
 Ricercate il Signore, * e la vostra anima vivrà.;;68(30-37)
 V. Loderò il nome di Dio con un cantico.
@@ -124,8 +124,8 @@ Iddio condusse fuori * il suo popolo con gioia, i suoi eletti con letizia.;;104(
 V. Il Signore si ricordò della sua santa promessa.
 R. Che aveva fatto ad Abramo, suo servo.
 Il Signore li salvò * per amore del suo nome.;;105(1-15)
-Dimenticarono Dio * che li aveva salvati.;;105(16-28)
-Mentre erano angustiati, * il Signore li guardò e ascoltò la loro preghiera.;;105(29-48)
+Dimenticarono Dio * che li aveva salvati.;;105(16-31)
+Mentre erano angustiati, * il Signore li guardò e ascoltò la loro preghiera.;;105(32-48)
 V. Salvaci, o Signore Dio, nostro. 
 R. Affinché celebriamo il tuo santo nome.
 Gridarono al Signore, * ed egli li liberò dai loro pericoli.;;106(1-14)
@@ -556,11 +556,11 @@ Dacci * aiuto nella tribolazione, o Signore.;;59
 ;;60
 Benedite, * o nazioni, il nostro Dio.;;61
 ;;65
-Nelle assemblee * benedite il Signore.;;67(1-19)
+Nelle assemblee * benedite il Signore.;;67(2-19)
 ;;67(20-36)
 V. Benedite, o nazioni, il nostro Dio.
 R. E fate udire la voce della sua lode.
-Ricercate il Signore, * e la vostra anima vivrà.;;68(1-16)
+Ricercate il Signore, * e la vostra anima vivrà.;;68(2-16)
 ;;68(17-37)
 Vieni, Signore Iddio, * in mio soccorso.;;69
 ;;70
@@ -586,7 +586,7 @@ Signore, * hai benedetto la tua terra.;;83
 [Daym5]
 Porgi, o Signore, * il tuo orecchio ed esaudiscimi,;;85
 ;;86
-Benedetto il Signore * in eterno;;88(1-18)
+Benedetto il Signore * in eterno;;88(2-19)
 ;;88(20-53)
 Innalzati, * Tu che giudichi la terra.:;;92!75
 ;;93
@@ -604,12 +604,12 @@ Giunga fino a te * il mio grido, o Dio.;;101
 ;;102
 Benedici * il Signore, o anima mia.;;103(1-24)
 ;;103(25-35)
-Si rallegri il cuore * di quei che cercano il Signore.;;104(1-21)
-;;104(22-45)
+Si rallegri il cuore * di quei che cercano il Signore.;;104(1-22)
+;;104(23-45)
 V. O Signore, esaudisci la mia preghiera.
 R. E il mio grido giunga fino a Te.
-Vieni a visitarci, * o Signore, colla tua salute.;;105(1-28)
-;;105(29-44)
+Vieni a visitarci, * o Signore, colla tua salute.;;105(1-31)
+;;105(32-48)
 Liberami dalle mie angoscie, * o Signore.;;106(1-24)
 ;;106(25-43)
 Darò alta lode al Signore * colla mia bocca.;;107
