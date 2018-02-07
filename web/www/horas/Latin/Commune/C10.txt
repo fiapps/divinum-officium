@@ -88,21 +88,21 @@ Per Vírginem matrem concédat nobis Dóminus salútem et pacem. Amen.
 
 [Hymnus Laudes]
 {:Ogloriosavirginum:}v. O gloriósa vírginum,
-Sublimis inter sidera,
+Sublímis inter sídera,
 Qui te creávit, párvulum
 Lacténte nutris úbere.
 _
 Quod Heva tristis ábstulit,
-Tu reddis almo germine:
-Intrent ut astra flebiles,
-Cæli reclúdis cardines.
+Tu reddis almo gérmine:
+Intrent ut astra flébiles,
+Cæli reclúdis cárdines.
 _
-Tu Regis alti janua
-Et aula lucis fulgida:
+Tu Regis alti jánua
+Et aula lucis fúlgida:
 Vitam datam per Vírginem,
 Gentes redémptæ, pláudite.
 _
-* Jesu tibi sit gloria,
+* Jesu tibi sit glória,
 Qui natus es de Vírgine,
 Cum Patre, et almo Spiritu,
 In sempitérna sǽcula.
@@ -183,7 +183,7 @@ De via perversitátis prodúntur dicere: Virgo concépit, sed non virgo generáv
 [Lectio M02]
 Ex libro sancti Hierónymi Presbýteri advérsus Joviniánum
 !Apologia ad Pammachium pro lib. advérsus Jovinianum, in fine
-Christus virgo, Mater vírginis nostri virgo perpetua, mater et virgo. Jesus enim clausis ingréssus est ostiis; et in sepúlcro ejus, quod novum et in petra duríssima fuerat excisum, nec ántea quis nec póstea positus est. Hortus conclusus, fons signátus. De quo fonte ille fluvius manat, juxta Joël, qui írrigat torréntem vel funium vel spinárum: funium, peccatórum, quibus ante alligabámur; spinárum, quæ suffócant seméntem patrisfamilias. Hæc est porta orientalis, ut ait Ezéchiel, semper clausa et lúcida, opériens in se vel ex se próferens Sancta sanctórum; per quam Sol justítiæ et Pontifex noster secúndum ordinem Melchisedech ingréditur et egréditur.
+Christus virgo, Mater vírginis nostri virgo perpétua, mater et virgo. Jesus enim clausis ingréssus est óstiis; et in sepúlcro ejus, quod novum et in petra duríssima fúerat excísum, nec ántea quis nec póstea positus est. Hortus conclúsus, fons signátus. De quo fonte ille flúvius manat, juxta Joël, qui írrigat torréntem vel fúnium vel spinárum: fúnium, peccatórum, quibus ante alligabámur; spinárum, quæ suffócant seméntem patrisfamílias. Hæc est porta orientális, ut ait Ezéchiel, semper clausa et lúcida, opériens in se vel ex se próferens Sancta sanctórum; per quam Sol justítiæ et Póntifex noster secúndum órdinem Melchísedech ingréditur et egréditur.
 &teDeum
 
 [Lectio M03]
