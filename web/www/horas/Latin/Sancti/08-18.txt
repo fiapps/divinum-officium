@@ -6,7 +6,7 @@ vide Sancti/08-15r;
 9 lectiones
 
 [Commemoratio]
-!Commemoratio S. Agapiti Martyris.
+!Commemoratio S. Agapiti Martyris
 @Commune/C2:oratio proper
 $Oremus
 Lætétur Ecclésia tua, Deus, beáti Agápiti Mártyris tui confísa suffrágiis: atque,~
@@ -19,32 +19,34 @@ $Per eumdem
 
 [Lectio1]
 De Canticis Canticorum
-!Song 4:7-12.
-7 tota pulchra es amica mea et macula non est in te
-8 veni de Libano sponsa veni de Libano veni coronaberis de capite Amana de vertice Sanir et Hermon de cubilibus leonum de montibus pardorum
-9 vulnerasti cor meum soror mea sponsa vulnerasti cor meum in uno oculorum tuorum et in uno crine colli tui
-10 quam pulchræ sunt mammæ tuæ soror mea sponsa pulchriora ubera tua vino et odor unguentorum tuorum super omnia aromata
-11 favus distillans labia tua sponsa mel et lac sub lingua tua et odor vestimentorum tuorum sicut odor turis
-12 hortus conclusus soror mea sponsa hortus conclusus fons signatus
+!Cant 4:7-12
+7 Tota pulchra es, amíca mea, et mácula non est in te.
+8 Veni de Líbano, sponsa mea: veni de Líbano, veni, coronáberis: de cápite Amana, de vértice Sanir et Hermon, de cubílibus leónum, de móntibus pardórum.
+9 Vulnerásti cor meum, soror mea, sponsa; vulnerásti cor meum in uno oculórum tuórum, et in uno crine colli tui.
+10 Quam pulchræ sunt mammæ tuæ, soror mea sponsa! pulchrióra sunt úbera tua vino, et odor unguentórum tuórum super ómnia arómata.
+11 Favus distíllans lábia tua, sponsa; mel et lac sub lingua tua: et odor vestimentórum tuórum sicut odor thuris.
+12 Hortus conclúsus soror mea, sponsa, hortus conclúsus, fons signátus.
 
 [Lectio2]
-!Song 6:3-9; 8:5
-3 pulchra es amica mea suavis et decora sicut Hierusalem terribilis ut castrorum acies ordinata
-4 averte oculos tuos a me quia ipsi me avolare fecerunt capilli tui sicut grex caprarum quæ apparuerunt de Galaad
-5 dentes tui sicut grex ovium quæ ascenderunt de lavacro omnes gemellis fetibus et sterilis non est in eis
-6 sicut cortex mali punici genæ tuæ absque occultis tuis
-7 sexaginta sunt reginæ et octoginta concubinæ et adulescentularum non est numerus
-8 una est columba mea perfecta mea una est matris suæ electa genetrici suæ viderunt illam filiæ et beatissimam prædicaverunt reginæ et concubinæ et laudaverunt eam
-9 quæ est ista quæ progreditur quasi aurora consurgens pulchra ut luna electa ut sol terribilis ut acies ordinata
-5 quæ est ista quæ ascendit de deserto deliciis affluens et nixa super dilectum suum sub arbore malo suscitavi te ibi corrupta est mater tua ibi violata est genetrix tua
+!Cant 6:3-9; 8:5
+3 Pulchra es, amíca mea; suávis, et decóra sicut Ierúsalem; terríbilis ut castrórum ácies ordináta.
+4 Avérte óculos tuos a me, quia ipsi me avoláre fecérunt. Capílli tui sicut grex caprárum quæ apparuérunt de Gálaad.
+5 Dentes tui sicut grex óvium quæ ascendérunt de lavácro: omnes geméllis fœ́tibus, et stérilis non est in eis.
+6 Sicut cortex mali púnici, sic genæ tuæ, absque occúltis tuis.
+7 Sexagínta sunt regínæ, et octogínta concubínæ, et adolescentulárum non est númerus.
+8 Una est colúmba mea, perfécta mea, una est matris suæ, elécta genetríci suæ. Vidérunt eam fíliæ, et beatíssimam prædicavérunt; regínæ et concubínæ, et laudavérunt eam.
+9 Quæ est ista quæ progréditur quasi auróra consúrgens, pulchra ut luna, elécta ut sol, terríbilis ut castrórum ácies ordináta?
+5 Quæ est ista quæ ascéndit de desérto, delíciis áffluens, inníxa super diléctum suum? Sub árbore malo suscitávi te; ibi corrúpta est mater tua, ibi violáta est génitrix tua.
 
 [Lectio3]
-!Song 8:6-7
-6 pone me ut signaculum super cor tuum ut signaculum super brachium tuum quia fortis est ut mors dilectio dura sicut inferus æmulatio lampades eius lampades ignis atque flammarum
-7 aquæ multæ non poterunt extinguere caritatem nec flumina obruent illam si dederit homo omnem substantiam domus suæ pro dilectione quasi nihil despicient eum
+!Cant 8:6-7
+6 Pone me ut signáculum super cor tuum, ut signáculum super bráchium tuum, quia fortis est ut mors diléctio, dura sicut inférnus æmulátio: lámpades eius lámpades ignis atque flammárum.
+7 Aquæ multæ non potuérunt extínguere caritátem, nec flúmina óbruent illam. Si déderit homo omnem substántiam domus suæ pro dilectióne, quasi nihil despíciet eam.
 
 [Lectio4]
-Ex Constitutióne Apostólica Pii Papæ duodécimi Sanctórum Patrum ac theologórum arguménta considerationésque Sacris Lítteris, tamquam último fundaménto, nitúntur; quæ quidem almam Dei Matrem nobis véluti ante óculos propónunt divíno Fílio suo conjunctíssimam, ejúsque semper participántem sortem. Quamóbrem quasi impossíbile vidétur eam cérnere, quæ Christum concépit, péperit, suo lacte áluit, eúmque inter ulnas hábuit pectoríque obstrínxit suo, ab eódem post terréstrem hanc vitam, etsi non ánima, córpore tamen separátam. Cum Redémptor noster Maríæ Fílius sit, haud póterat profécto, útpote divínæ legis observátor perfectíssimus, præter Ætérnum Patrem, Matrem quoque suam dilectíssimam non honoráre. Atqui, cum eam posset tam magno honóre exornáre, ut eam a sepúlcri corruptióne serváret incólumem, id reápse fecísse credéndum est.
+Ex Constitutióne Apostólica Pii Papæ duodécimi 
+_
+Sanctórum Patrum ac theologórum arguménta considerationésque Sacris Lítteris, tamquam último fundaménto, nitúntur; quæ quidem almam Dei Matrem nobis véluti ante óculos propónunt divíno Fílio suo conjunctíssimam, ejúsque semper participántem sortem. Quamóbrem quasi impossíbile vidétur eam cérnere, quæ Christum concépit, péperit, suo lacte áluit, eúmque inter ulnas hábuit pectoríque obstrínxit suo, ab eódem post terréstrem hanc vitam, etsi non ánima, córpore tamen separátam. Cum Redémptor noster Maríæ Fílius sit, haud póterat profécto, útpote divínæ legis observátor perfectíssimus, præter Ætérnum Patrem, Matrem quoque suam dilectíssimam non honoráre. Atqui, cum eam posset tam magno honóre exornáre, ut eam a sepúlcri corruptióne serváret incólumem, id reápse fecísse credéndum est.
 
 [Lectio5]
 Máxime autem illud memorándum est, inde a sæculo secúndo, Maríam Vírginem a sanctis Pátribus véluti novam Hevam propóni novo Adæ, etsi subjéctam, arctíssime conjúnctam in certámine illo advérsus inferórum hostem, quod quemádmodum in protœvangélio præsignificátur, ad pleníssimam deventúrum erat victóriam de peccáto ac de morte, quæ semper in géntium Apóstoli scriptis inter se copulántur. Quamóbrem, sicut gloriósa Christi anástasis essentiális pars fuit ac postrémum hujus victóriæ tropæum, ita Beátæ Vírginis commúne cum Fílio suo certámen virgínei córporis « glorificatióne » concludéndum erat; ut enim idem Apóstolus ait, « cum mortále hoc indúerit immortalitátem, tunc fiet sermo, qui scriptus est: absórpta est mors in victória. »
@@ -66,5 +68,5 @@ Revértere per singularitátem. In mánibus tuis sunt thesáuri miseratiónum D�
 	
 [Lectio93]
 !Commemoratio S. Agapito Mart.
-Agapitus Prænestinus quindecim annos natus, Aureliano imperatore, martyrii cupidissimus, cum propter constantiam religionis, imperatoris jussu primum nervis diutissime cæsus, deinde in tetrum carcerem conjectus esset, ut nihil omnino per quatuor dies gustaret, e custodia est eductus: et ardentibus carbonibus capiti ejus impositis, Deo agens gratias, iterum affectus verberibus, nudus ita pedibus suspensus est, ut ingens fumus e subjecto igne os ejus obrueret. Tum fervens aqua in ejus ventrem effusa est, maxillæque confractæ. Quo tempore judex e tribunali lapsus, paulo post mortuus est. Ea re incenso imperatore, sanctum juvenem jubente feris objici, cum illæ non auderent attingere, Præneste gladio percussus est.
+Agapitus Prænestinus, quindecim annos natus, Aureliáno imperatóre, martyrii cupidíssimus, cum propter constántiam religiónis, imperatóris jussu, primum nervis diutíssime cæsus, deinde in tetrum carcerem conjéctus esset, ut nihil omnino per quatuor dies gustaret, e custódia est edúctus. Et, ardéntibus carbónibus capiti ejus impositis, Deo agens grátias, íterum afféctus verbéribus, nudus ita pédibus suspénsus est, ut ingens fumus e subjecto igne os ejus obrúeret. Tum fervens aqua in ejus ventrem effusa est, maxillǽque confractæ. Quo témpore judex, e tribunali lapsus, paulo post mórtuus est. Ea re incénso imperatóre, sanctum juvenem jubénte feris óbjici, cum illæ non audérent attingere, Præneste gládio percússus est.
 &teDeum
