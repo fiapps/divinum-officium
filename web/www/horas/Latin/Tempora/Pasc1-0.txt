@@ -1,6 +1,9 @@
 [Rank]
 Dominica in Albis in Octava Paschæ;;Duplex majus I. classis;;7;;
 
+[Rank1960]
+Dominica in Albis in Octava Paschæ;;Duplex I classis;;6;;
+
 [Rule]
 9 Lectiones
 Duplex
@@ -64,7 +67,7 @@ R. Veníte, et vidéte, allelúja, allelúja.
 [Lectio4]
 Sermo sancti Augustíni Epíscopi
 !Sermo 1 in Octava Paschæ, qui est 157 de Tempore
-Paschalis solemnitas hodiérna festivitáte concluditur, et ideo hódie Neophytórum hábitus commutátur: ita tamen, ut candor, qui de hábitu depónitur, semper in corde teneátur. In qua quidem primum nobis agéndum est, ut quia paschales dies sunt, id est, indulgéntiæ ac remissiónis, ita a nobis sanctórum diérum festívitas agátur, ut relaxatióne córporum puritas non obfuscétur: sed potius abstinéntes ab omni luxu, ebrietáte, lascivia, demus operam sobriæ remissióni, ac sanctæ sinceritáti: ut, quidquid modo corporali abstinéntia non acquírimus, méntium puritate quærámus.
+Paschális solémnitas hodiérna festivitáte concluditur, et ideo hódie Neophytórum hábitus commutátur: ita tamen, ut candor, qui de hábitu depónitur, semper in corde teneátur. In qua quidem primum nobis agéndum est, ut quia paschales dies sunt, id est, indulgéntiæ ac remissiónis, ita a nobis sanctórum diérum festívitas agátur, ut relaxatióne córporum puritas non obfuscétur: sed potius abstinéntes ab omni luxu, ebrietáte, lascívia, demus operam sobriæ remissióni, ac sanctæ sinceritáti: ut, quidquid modo corporáli abstinéntia non acquírimus, méntium puritate quærámus.
 
 [Responsory4]
 @Tempora/Pasc0-1:Responsory1
@@ -88,7 +91,7 @@ In illo témpore: Cum sero esset die illo, una sabbatórum, et fores essent clau
 _
 Homilía sancti Gregórii Papæ
 !Homilía 26 in Evangelia
-Prima lectiónis hujus evangelicæ quæstio animum pulsat: quómodo post resurrectiónem corpus Dominicum verum fuit, quod clausis januis ad discipulos íngredi pótuit? Sed sciéndum nobis est, quod divina operátio, si ratióne comprehénditur, non est admirábilis: nec fides habet méritum, cui humana rátio præbet experiméntum. Sed hæc ipsa nostri Redemptoris opera, quæ ex semetípsis comprehéndi nequaquam possunt, ex alia ejus operatióne pensanda sunt: ut rebus mirabílibus fidem præbeant facta mirabíliora. Illud enim corpus Dómini intrávit ad discipulos januis clausis, quod videlicet ad humanos óculos per nativitátem suam clauso exívit útero Vírginis. Quid ergo mirum, si clausis januis post resurrectiónem suam in ætérnum jam victurus intrávit, qui moriturus veniens, non aperto útero Vírginis exívit?
+Prima lectiónis hujus evangélicæ quǽstio ánimum pulsat: quómodo post resurrectiónem corpus Domínicum verum fuit, quod clausis jánuis ad discipulos íngredi pótuit? Sed sciéndum nobis est, quod divína operátio, si ratióne comprehénditur, non est admirábilis: nec fides habet méritum, cui humana rátio præbet experiméntum. Sed hæc ipsa nostri Redemptóris opera, quæ ex semetípsis comprehéndi nequáquam possunt, ex alia ejus operatióne pensánda sunt: ut rebus mirabílibus fidem prǽbeant facta mirabíliora. Illud enim corpus Dómini intrávit ad discípulos jánuis clausis, quod vidélicet ad humános óculos per nativitátem suam clauso exívit útero Vírginis. Quid ergo mirum, si clausis jánuis post resurrectiónem suam in ætérnum jam victúrus intrávit, qui moritúrus véniens, non apérto útero Vírginis exívit?
 
 [Responsory7]
 @Tempora/Pasc0-2:Responsory2
