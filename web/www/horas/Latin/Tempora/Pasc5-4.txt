@@ -22,7 +22,7 @@ Vidéntibus illis, * elevátus est, et nubes suscépit eum in cælo, allelúja.
 
 [Capitulum Vespera]
 !Act. 1:1-2
-v. Primum quidem sermónem feci de ómnibus, o Theophile, quæ cœpit Jesus fácere et docére usque in diem, qua præcípiens Apóstolis per Spíritum Sanctum, quos elégit assúmptus est.
+v. Primum quidem sermónem feci de ómnibus, o Theóphile, quæ cœpit Jesus fácere et docére usque in diem, qua præcípiens Apóstolis per Spíritum Sanctum, quos elégit, assúmptus est.
 $Deo gratias
 
 [Hymnus Vespera]
@@ -33,7 +33,7 @@ Et casta lux amántium:
 _
 Qua victus es cleméntia,
 Ut nostra ferres crímina?
-Mortem subires ínnocens,
+Mortem subíres ínnocens,
 A morte nos ut tólleres?
 _
 Perrúmpis inférnum chaos:
@@ -70,7 +70,7 @@ Allelúja, Christum Dóminum ascendéntem in cælum, * Veníte adorémus, allel�
 
 [Hymnus Matutinum]
 {:H-Aeternarex:}v. Ætérne Rex altíssime,
-Redémptor et fidelium,
+Redémptor et fidélium,
 Cui mors perémpta détulit
 Summæ triúmphum glóriæ:
 _
@@ -120,7 +120,7 @@ Exaltáre, Dómine, * in virtúte tua: cantábimus et psallemus, allelúja.;;20
 Exaltábo te, * Dómine, quóniam suscepísti me, allelúja.;;29
 Ascéndit Deus * in jubilatióne, et Dóminus in voce tubæ, allelúja.;;46
 V. Ascéndens Christus in altum, allelúja.
-R. Captivam duxit captivitátem, allelúja.
+R. Captívam duxit captivitátem, allelúja.
 Nimis exaltátus est, * allelúja: super omnes deos, allelúja.;;96
 Dóminus in Sion, * allelúja: magnus et excélsus, allelúja.;;98
 Dóminus in cælo, * allelúja: parávit sedem suam, allelúja.;;102
@@ -291,7 +291,7 @@ R. Allelúja, allelúja.
 R. Ascéndit Deus in jubilatióne, * Allelúja, allelúja.
 _
 V. Ascéndens Christus in altum, allelúja.
-R. Captivam duxit captivitátem, allelúja.
+R. Captívam duxit captivitátem, allelúja.
 
 [Capitulum Sexta]
 !Act. 1:4-5
