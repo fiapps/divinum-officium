@@ -6,6 +6,9 @@ use Date::Format;
 use URL::Encode ('url_encode');
 use Date::Calc
     qw/check_date Date_to_Days Add_Delta_Days Decode_Date_US Today/;
+use Digest::SHA qw(hmac_sha256_hex);
+use FindBin qw($Bin);
+require "$Bin/../../../aux_html/bmbe/clavis.pl";
 
 my ($y, $m, $d) = Today();
 
@@ -46,6 +49,7 @@ my $entry;
 my $dir;
 my $base_url = 'http://divinumofficium.com/cgi-bin';
 sub resource_to_filename($);
+sub calcauth(@);
 
 my $suppress_timestamp;
 
@@ -158,7 +162,7 @@ if ( $prayer )
             }
             else
             {
-                $entry = 'horas/officium.pl';
+                $entry = 'horas/Xofficium.pl';
             }
         }
         elsif ( $action eq 'kalendar' )
@@ -228,6 +232,9 @@ while ( Date_to_Days($y1,$m1,$d1) <= Date_to_Days($y2,$m2,$d2) )
     }
     push @arglist, @cgi;
 
+    # Sign @arglist
+    my $auth = calcauth(@arglist);
+    push @arglist, "auth=$auth";
     # Encode for URL transmission
     for ( @arglist )
     {
@@ -276,8 +283,16 @@ sub resource_to_filename($)
     $resource =~ s:^[^/]*/::;
     $resource =~ s/\.pl//g;
     $resource =~ s/command=(pray|setup|edit)//g;
+    $resource =~ s/auth=\w+//g;
     $resource =~ s/\w+=//g;
     $resource =~ s/%[0-9a-f][0-9a-f]/ /i;   # cheap urldecode : absolutely works
 
     return join ('-', split(/\W+/, $resource));
+}
+
+sub calcauth(@)
+{
+    my $authstr = join(':', sort @_);
+    our $clavis;
+    return hmac_sha256_hex($authstr, $clavis);
 }
