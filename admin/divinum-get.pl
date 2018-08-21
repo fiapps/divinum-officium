@@ -71,7 +71,7 @@ Options:
 --query=QUERY       retrieve BASE/QUERY
 --cgi=PARAM=VALUE   query parameters passed directly as PARAM=VALUE&PARAM=VALUE...
 
---dir=DIR           put downlaods into directory DIR [default: current directory]
+--dir=DIR           put downloads into directory DIR [default: current directory]
 --url=BASE          base URL of site to download from [default: $base_url]
 --no-timestamp      suppress timestamp in test files
 
@@ -122,7 +122,7 @@ if ( $help )
     exit 0;
 }
 
-die "Specify one or --prayer or --query\n" unless ($prayer && !$query) || (!$prayer && $query);
+die "Specify one of --prayer or --query\n" unless ($prayer && !$query) || (!$prayer && $query);
 
 # If --prayer is specified, set things up aright.
 if ( $prayer )
