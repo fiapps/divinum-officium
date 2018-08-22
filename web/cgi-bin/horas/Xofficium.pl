@@ -432,7 +432,8 @@ sub prevnext {
 
 sub checkauth {
   # Don't require auth from localhost (or command line)
-  if ($q->url() =~ /http:\/\/localhost/i) {
+  if ($q->url() =~ /http:\/\/localhost/i ||
+      $q->url() =~ /http:\/\/1.0.0.127.in-addr.arpa/i) {
     return;
   }
 
