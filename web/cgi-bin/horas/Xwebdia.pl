@@ -34,7 +34,7 @@ sub htmlHead {
   <TITLE>$title</TITLE>
     <style type='text/css'>
         body {
-            background-image:url("../horas/horasbg.jpg");
+            background-image:url("../../www/horas/horasbg.jpg");
             font-family:'Times New Roman', Times, serif;
         }
         * { color: #000000; font-size: 1em; }
