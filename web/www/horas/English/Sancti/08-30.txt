@@ -17,7 +17,7 @@ smell of her perfumes, worthily themselves to become a sweet savour unto Christ.
 $Qui tecum
 
 [Commemoratio]
-!Commemoration of St. Felix and Adauctus, Martyrs
+!Commemoration of St. Felix and his Companion, Martyrs
 @Commune/C3:Oratio proper
 $Oremus
 v. We humbly beseech thy Majesty, O Lord, that as Thou dost make us exceeding glad~
