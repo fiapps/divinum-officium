@@ -156,13 +156,13 @@ if ($p) {
 $p = strictparam('screenheight');
 if ($p) {
   $screenheight = $p;
-  setsetupvalue('parametrs', 12, $screenheight);
+  setsetupvalue('parameters', 12, $screenheight);
 }
 
 $p = strictparam('textwidth');
 if ($p) {
   $textwidth = $p;
-  setsetupvalue('parametrs', 13, $textwidth);
+  setsetupvalue('parameters', 13, $textwidth);
 }
 $expand = 'all';
 
