@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Normalize orthography: search for and replace words 
+Normalize orthography: search for and replace words listed in a file.
+
+This currently has the side effect of transforming the file into NFC
+form (composes characters with accents). Though undesired, this
+might be a good thing.
 """
 
 import re
@@ -8,6 +12,13 @@ import unicodedata
 import sys
 import argparse
 import logging
+
+def process(s, replacer):
+    s = unicodedata.normalize('NFD', s)
+    # Words are made of "word characters" or the combining acute accent (U+0301).
+    s = re.sub(r'[\w\u0301]+', replacer, s)
+    s = unicodedata.normalize('NFC', s)
+    return s
 
 def process_file(filename, replacer):
     """
@@ -18,20 +29,22 @@ def process_file(filename, replacer):
     about accidentally changing a file.
     """
     with open(filename, 'r', encoding='UTF-8') as f:
-        read_data = unicodedata.normalize('NFD', f.read())
-        re.sub(r'[a-zA-ZáéíóúÁÉÍÓÚæœ́]+', replacer, read_data)
+        modified_data = process(f.read(), replacer)
 
     with open(filename, 'w', encoding='UTF-8') as f:
-        f.write(unicodedata.normalize('NFC', read_data))
+        f.write(modified_data)
 
 def make_replacer(the_dict):
     # The lambda will receive a match object as an argument, so it must
     # use group() to get a string.
     return lambda w: w.group(0) if w.group(0) not in the_dict else the_dict[w.group(0)]
 
-def printer(m):
-    print(m.group(0))
-    return m.group(0)
+# def printer(m):
+#     """
+#     For testing the split into words.
+#     """
+#     print(m.group(0))
+#     return m.group(0)
 
 def main():
     parser = argparse.ArgumentParser()
@@ -50,7 +63,6 @@ def main():
         with open(filename, 'r', encoding='UTF-8') as f:
             lineno = 0
             for line in f:
-                line = unicodedata.normalize('NFD', line)
                 lineno += 1
                 words = line.split()
                 if len(words) != 2:
@@ -61,8 +73,9 @@ def main():
     # Make a function that uses the dictionary to replace words
     replacer = make_replacer(replacement)
 
-    # QX: Test replacer
-    print(re.sub(r'[a-zA-ZáéíóúÁÉÍÓÚæœ́]+', replacer, 'nunquam fecit obédiens'))
+    # # QX: Test replacer
+    # process('Jesu, tuis obédiens', printer)
+    # print(process('Jesu, tuis obédiens', replacer))
 
     # Process files
     for filename in args.input:
