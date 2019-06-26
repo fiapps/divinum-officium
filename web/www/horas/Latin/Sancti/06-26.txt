@@ -27,7 +27,7 @@ $Per Dominum
 [Responsory4]
 R. Isti sunt duo viri misericórdiæ, qui assístunt ante Dóminum, 
 * Dominatórem univérsæ terræ.
-V. Isti sunt duæ olivæ, et duo candelábra lucéntia ante Dóminum.
+V. Isti sunt duæ olívæ, et duo candelábra lucéntia ante Dóminum.
 R. Dominatórem univérsæ terræ.
 
 [Responsory5]
@@ -51,7 +51,7 @@ Léctio sancti Evangélii secúndum Lucam
 In illo témpore: Dixit Jesus discípulis suis: Atténdite a fermento pharisæórum, quod est hypócrisis. Et réliqua.
 _
 Homilía sancti Bedæ Venerábilis Presbýteri
-!Lib. 4. in Lucam, cap. 52.
+!Lib. 4 in Lucam, cap. 52
 De hoc fermento Apóstolus præcepit: Itaque epulemur, non in fermento veteri, neque in fermento malítiæ et nequítiæ, sed in ázymis sinceritátis et veritátis. Nam, sicut módicum ferméntum totam farinæ, cui injícitur, massam corrumpit, universamque mox conspersiónem suo sapore commaculat; sic nimirum simulátio, cujus semel animum imbúerit, tota virtútum sinceritáte et veritáte fraudabit. Est ergo sensus: Atténdite ne æmulémini simulatóres; quia véniet profecto tempus, in quo et vestra virtus ómnibus, et eórum revelétur hyprocrisis.
 
 [Lectio8]
@@ -77,7 +77,10 @@ Isti sunt Sancti, * qui pro Christi amóre minas hóminum contempsérunt: sancti
 [Ant 3]
 Isti sunt * duæ olivæ, et duo candelábra lucéntia ante Dóminum; habent potestátem cláudere cælum núbibus et aperíre portas ejus, quia linguæ eórum claves cæli factæ sunt.
 
-[Commemoratio]
+[Commemoratio 2](rubrica 1570)
+@Sancti/06-24:Octava
+
+[Commemoratio](rubrica 1910 aut rubrica divino)
 @Sancti/06-24:Octava
 
 [Lectio94]
