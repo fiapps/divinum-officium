@@ -18,7 +18,7 @@ De Epistola ad Romanos.
 
 [Lectio2]
 !Rom 6:19-20
-19 humanum dico propter infirmitatem carnis vestrae sicut enim exhibuistis membra vestra servire inmunditiae et iniquitati ad iniquitatem ita nunc exhibete membra vestra servire iustitiae in sanctificationem 
+19 humánum dico propter infirmitatem carnis vestrae sicut enim exhibuistis membra vestra servire inmunditiae et iniquitati ad iniquitatem ita nunc exhibete membra vestra servire iustitiae in sanctificationem 
 20 cum enim servi essetis peccati liberi fuistis iustitiae
 
 [Responsory2]
