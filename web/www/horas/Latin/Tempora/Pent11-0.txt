@@ -53,7 +53,7 @@ Ne elevarétur cor Ezechíæ post incredibiles triumphos et de media captivitát
 @Tempora/Pent01-2:Responsory1
 
 [Lectio5]
-Audiensque se esse moritúrum, non precátur vitam et annos plurimos, sed in Dei judício, quid velit præstare, dimittit. Nóverat enim idcirco Deo plácuisse Salomónem, quod annos vitæ non petierit ampliores; sed iturus ad Dóminum narrat ópera sua, quómodo ambuláverit coram eo in veritáte et in corde perfecto. Felix consciéntia, quæ afflictiónis témpore bonórum óperum recordátur. Beáti enim mundo corde: quóniam ipsi Deum videbunt. Et quómodo álibi scríbitur: Quis gloriábitur purum habere se cor? Quod ita solvitur: perfectiónem cordis in eo nunc dici, quod idola destruxerit, templi valvas aperúerit, serpéntem æneum comminúerit, et cetera fécerit quæ Scriptura commemorat.
+Audiensque se esse moritúrum, non precátur vitam et annos plurimos, sed in Dei judício, quid velit præstare, dimittit. Nóverat enim idcirco Deo plácuisse Salomónem, quod annos vitæ non petierit ampliores; sed iturus ad Dóminum narrat ópera sua, quómodo ambuláverit coram eo in veritáte et in corde perfecto. Felix consciéntia, quæ afflictiónis témpore bonórum óperum recordátur. Beáti enim mundo corde: quóniam ipsi Deum videbunt. Et quómodo álibi scríbitur: Quis gloriábitur purum habere se cor? Quod ita solvitur: perfectiónem cordis in eo nunc dici, quod idola destruxerit, templi valvas aperúerit, serpéntem æneum comminúerit, et cetera fécerit quæ Scriptúra commemorat.
 
 [Responsory5]
 @Tempora/Pent01-2:Responsory2

@@ -50,7 +50,7 @@ De libro tértio Regum
 [Lectio4]
 Ex libro sancti Augustíni Epíscopi de Civitáte Dei.
 !Liber 17. cap. 8. sub medio.
-Facta est quidem nonnulla imago rei futuræ étiam in Salomone, in eo quod templum ædificávit, et pacem hábuit secúndum nomen suum (Sálomon quippe pacificus est Latine), et in exordio regni sui mirabíliter laudábilis fuit. Sed eadem sua persona per umbram futuri prænuntiábat étiam ipse Christum Dóminum nostrum, non exhibebat. Unde quædam de illo ita scripta sunt, quasi de ipso ista prædicta sint, dum Scriptura sancta étiam rebus gestis prophétans, quodámmodo in eo figuram delineat futurórum.
+Facta est quidem nonnulla imago rei futuræ étiam in Salomone, in eo quod templum ædificávit, et pacem hábuit secúndum nomen suum (Sálomon quippe pacificus est Latine), et in exordio regni sui mirabíliter laudábilis fuit. Sed eadem sua persona per umbram futuri prænuntiábat étiam ipse Christum Dóminum nostrum, non exhibebat. Unde quædam de illo ita scripta sunt, quasi de ipso ista prædicta sint, dum Scriptúra sancta étiam rebus gestis prophétans, quodámmodo in eo figuram delineat futurórum.
 
 [Responsory4]
 @Tempora/Pent01-2:Responsory1
