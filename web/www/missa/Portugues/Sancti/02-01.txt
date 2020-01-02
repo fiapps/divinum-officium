@@ -11,7 +11,6 @@ Gloria
 # 01 II – Św. Ignacego, Biskupa i Męczennika
 ! 3 classe
 ! Paramentos vermelhos
-Św. Ignacy był drugim następcą św. Piotra na biskupstwie w Antiochii. Za czasów cesarza Trajana został skazany na pożarcie przez dzikie zwierzęta. W tym celu wysłano go do Rzymu. Z drogi pisał listy do gmin chrześcijańskich wyrażając w nich gorące pragnienie męczeństwa. Listy te są ważnym dokumentem wiary pierwotnego Kościoła. Św. Ignacy osiągnął koronę męczeńską w Rzymie koło roku 107. Imię jego wymienia się w kanonie Mszy świętej.
 
 [Introitus]
 !Gl 6:14
@@ -52,7 +51,7 @@ V. Uprzedziłeś go hojnym błogosławieństwem.
 V. Włożyłeś mu na głowę koronę z drogich kamieni.
 
 [Evangelium]
-Continuação do santo Evangelho segundo S. João.
+Continuação ++ do santo Evangelho segundo S. João.
 !Jo 12:24-26
 Onego czasu: Rzekł Jezus uczniom swoim: «Zaprawdę, zaprawdę powiadam wam, jeśli ziarno pszeniczne wrzucone w ziemię nie obumrze, samo zostanie, lecz jeśli obumrze, wiele owocu przynosi. Kto miłuje życie swoje, straci je, ale kto ma w nienawiści życie swoje na tym świecie, na żywot wieczny zachowa je. Kto by chciał mi służyć, niech mnie naśladuje, a gdzie ja jestem, tam będzie i sługa mój. Jeśli kto służyć mi będzie, uczci go Ojciec mój».
 
