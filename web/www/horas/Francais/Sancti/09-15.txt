@@ -8,13 +8,13 @@ Septem Dolorum Beatæ Mariæ Virginis;;Duplex 2nd class;;5;;ex C11
 Septem Dolorum Beatæ Mariæ Virginis;;Duplex;;3;;ex C11
 
 [Rule]
-ex C11;
+ex C11 ;
 9 lectiones
 Psalmi Dominica
 Antiphonas horas
 
 [Ant Vespera]
-Où s’en est-il allé, * votre bien-aimé, ô la plus belle des femmes! De quel côté est-il parti, votre bien- aimé, et nous le chercherons avec vous.;;109
+Où s’en est-il allé, * votre bien-aimé, ô la plus belle des femmes ! De quel côté est-il parti, votre bien- aimé, et nous le chercherons avec vous.;;109
 Retirez-vous de moi, * je pleurerai amèrement, ne cherchez pas à me consoler.;;112
 Il n’a plus ni beauté,* ni décor ; nous l’avons vu, il n’était pas à regarder.;;121
 De la plante des pieds, * au sommet de la tête, il n’y a en lui plus rien de sain.;;126
@@ -22,7 +22,7 @@ Soutenez-moi avec des fleurs,* fortifiez-moi avec des fruits ; car je languis d�
 
 [Capitulum Vespera]
 !Lam 2:13
-v. A qui te comparer? ou bien à qui t’assimiler, fille de Jérusalem? A qui t’égaler pour te consoler, vierge fille de Sion ? Grande est comme la mer, la douleur qui te broie.
+v. A qui te comparer ? ou bien à qui t’assimiler, fille de Jérusalem ? A qui t’égaler pour te consoler, vierge fille de Sion ? Grande est comme la mer, la douleur qui te broie.
 $Deo gratias
 
 [Hymnus Vespera]
@@ -39,9 +39,9 @@ _
 Votre Fils, suspendu à la croix sous vos yeux, 
 Votre Fils, déchiré sous les coups des barbares, 
 Votre Fils, tout meurtri de blessures béantes, 
-Ah! de quelles douleurs il transperce votre âme!
+Ah ! de quelles douleurs il transperce votre âme !
 _
-Hélas! les crachats, les souffleté, les blessures et les coups, 
+Hélas ! les crachats, les souffleté, les blessures et les coups, 
 Les clous, le fiel, le vinaigre, l'éponge et la lance 
 Les épines, la soif, le sang tour à tour, 
 Accablèrent votre âme d'angoisse.
@@ -51,10 +51,10 @@ Nouveau prodige, vous demeurez debout,
 Mourante en ces douleurs, ô Mère, vous vivez 
 Enchaînée à vos dures souffrances.
 _
-Gloire, honneur, louange à la Trinité sainte! 
+Gloire, honneur, louange à la Trinité sainte ! 
 Daignez, ô Dieu, nous vous prions avec instance, 
 Daigner donner à tous une force pareille à la force 
-De Marie, au milieu des épreuves! 
+De Marie, au milieu des épreuves ! 
 Ainsi soit-il.
 
 [Versum 1]
@@ -71,39 +71,39 @@ Ne prenez pas garde * à mon teint basané ; c’est le soleil qui m’a brûlé
 Tenons-nous près de la croix, avec la Mère de Jésus, Marie * Dont un glaive de douleur a transpercé l’âme.
 
 [Hymnus Matutinum]
-v. Oh! quels tourments de larmes 
+v. Oh ! quels tourments de larmes 
 Quelles douleurs pour Marie, 
 Dans ses bras étendu, 
 La Vierge Mère en deuil ,
 Voit son fils Détaché de l'arbre sanglant.
 _
 O bouche aimée, poitrine suave, 
-Côté percé malgré sa douceur; 
+Côté percé malgré sa douceur ; 
 Et ses deux mains dont la droite est trouée 
 Et la gauche, elle aussi, blessée ; 
-Et ses pieds rouges de sang: 
+Et ses pieds rouges de sang : 
 De quels pleurs désolés elle vous arrose ! 
 _
 Cent fois, mile fois 
 Elle enlace, elle étreint 
 Cette poitrine et ces bras, 
-Elle met ses lèvres à ses blessures; 
+Elle met ses lèvres à ses blessures ; 
 Elle se fond toute 
 Dans les baisers de la douleur.
 _
 O Mère, Mère, nous vous en supplions 
 Par ces larmes de vos yeux 
 Par la mort de votre Fils, 
-Par la pourpre de ses blessures: 
+Par la pourpre de ses blessures : 
 Imprimez dans nos cœurs 
 Les douleurs du vôtre.
 _
 Gloire éternelle, gloire 
 Au Père, et gloire au Fils 
-Gloire à l'Esrpit Saint! 
+Gloire à l'Esrpit Saint ! 
 Louange, honneurs éternels 
 A la Trinité souveraine 
-Et maintenant et toujours!
+Et maintenant et toujours !
 Ainsi soit-il.
 
 [Ant Matutinum]
@@ -118,14 +118,14 @@ Elles m’ont été, * mes larmes, pain de jour et de nuit.;;41
 V. Bouquet de myrrhe est mon bien-aimé pour moi.
 R. Entre mes seins, il reposera.
 Ils ont tendu leur arc,* source d’amertume, pour tirer, dans l’ombre, sur l’innocent.;;63
-Mon âme * est profondément troublée, mais vous, Seigneur, jusques à quand?;;6
+Mon âme * est profondément troublée, mais vous, Seigneur, jusques à quand ?;;6
 Dieu * est le secours dans les tribulations qui nous ont accablés.;;45
 V. C’est par vous que nous puiserons le salut, ô Vierge Marie.
 R. Aux blessures du Christ.
 
 [Lectio1]
 Du Prophète Jérémie. 
-!Lam. 1:2; 1:20-21
+!Lam. 1:2 ; 1:20-21
 Pleurant, elle a pleuré pendant la nuit, et ses larmes [coulent] sur ses joues ; et il n’est [personne] qui la console parmi ceux qui lui étaient chers ; tous ses amis l’ont méprisée et sont devenus ses ennemis. Voyez, Seigneur, que je suis dans la tribulation ; mes entrailles sont émues ; mon cœur est bouleversé au dedans de moi, parce que je suis remplie d’amertume ; au dehors le glaive tue ; au dedans, c’est la même mort. Ils ont appris que je gémis et qu’il n’y a [personne] qui me console. 
 
 [Responsory1]
@@ -217,10 +217,10 @@ R. Afin que, dans leur plénitude, vous receviez miséricorde et bénédiction.
 &teDeum
 
 [Lectio93]
-@Sancti/09-15t:Lectio93
+@Sancti/09-15t :Lectio93
 
 [Ant Laudes]
-@:Ant Vespera:s/;;.*//g
+@:Ant Vespera :s/;;.*//g
 
 [Capitulum Laudes]
 @:Capitulum Vespera
@@ -231,7 +231,7 @@ Faites que nous méditions avec amour,
 Les sept douleurs de la Vierge Marie 
 Et les plaies de son Fils Jésus. 
 _
-Ah! qu'elles nous procurent le salut, 
+Ah ! qu'elles nous procurent le salut, 
 Ces larmes si abondantes de la Mère de Dieu, 
 Ces larmes qui seules pouvaient suffire 
 A effacer les crimes du monde entier. 
@@ -280,7 +280,7 @@ R. Qui passez par le chemin.
 R. O vous tous * Qui passez par le chemin.
 _
 V. Ils se sont consumés dans les larmes, mes yeux.
-R.  Il est troublé, tout mon intérieur. 
+R. Il est troublé, tout mon intérieur. 
 
 [Capitulum Sexta]
 !Lam. 1:2
@@ -296,7 +296,7 @@ R. Dans les larmes, mes yeux.
 R. Ils se sont consumés * Dans les larmes, mes yeux. 
 _
 V. Bouquet de myrrhe est mon bien-aimé.
-R.  Entre mes seins, il demeurera.
+R. Entre mes seins, il demeurera.
 
 [Capitulum Nona]
 @:Lectio Prima

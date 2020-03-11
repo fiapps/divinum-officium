@@ -8,9 +8,9 @@ S. Clementis Papæ et Martyris;;Semiduplex;;2;;vide C2
 S. Clementis Papæ et Martyris;;Duplex optional;;2;;vide C2
 
 [Rule]
-vide C2;
+vide C2 ;
 9 lectiones
-OPapaM=Cleméntem;
+OPapaM=Cleméntem ;
 
 [Ant Vespera]
 Pendant * que saint Clément priait, l’Agneau de Dieu lui apparut.;;109
@@ -65,25 +65,25 @@ Furieux de ces événements, Trajan envoya en ce lieu des soldats pour jeter Cl�
 [Lectio7]
 Lecture du saint Évangile selon saint Matthieu. 
 !Matt 24:42-45
-In illo témpore: Dixit Jesus discipulis suis: Vigilate, quia nescitis qua hora Dominus vester venturus sit. Et réliqua.
+In illo témpore : Dixit Jesus discipulis suis : Vigilate, quia nescitis qua hora Dominus vester venturus sit. Et réliqua.
 _
 Homilía sancti Hilárii Epíscopi
 !Comment. in Matth. Can 26
-Ut ignorantiam illam diei omnibus taciti, non sine utilis silentii ratione esse sciremus, vigilare nos Dominus propter adventum furis admonuit, et orationum assiduitate detentos omnibus præceptorum suorum operibus inhærere. Furem enim esse ostendit zabulum, ad detrahenda ex nobis spolia pervigilem, et corporum nostrorum domibus insidiantem: ut ea incuriosis nobis, et somno deditis, consiliorum suorum atque illecebrarum jaculis perfodiat. Paratos igitur esse nos convenit: quia diei ignoratio intentam sollicitudinem suspensæ exspectationis exagitet.
+Ut ignorantiam illam diei omnibus taciti, non sine utilis silentii ratione esse sciremus, vigilare nos Dominus propter adventum furis admonuit, et orationum assiduitate detentos omnibus præceptorum suorum operibus inhærere. Furem enim esse ostendit zabulum, ad detrahenda ex nobis spolia pervigilem, et corporum nostrorum domibus insidiantem : ut ea incuriosis nobis, et somno deditis, consiliorum suorum atque illecebrarum jaculis perfodiat. Paratos igitur esse nos convenit : quia diei ignoratio intentam sollicitudinem suspensæ exspectationis exagitet.
 
 [Lectio8]
 !Can 27
-Quisnam est fidelis servus et prudens, quem constituit Dominus super familiam suam? Quamquam in commune nos ad indefessam vigilantiæ curam adhortetur: specialem tamen populi principibus, id est, episcopis, in exspectatione adventuque suo sollicitudinem mandat. Hunc enim servum fidelem atque prudentem, præpositum familiæ significat, commoda atque utilitates commissi sibi populi curantem. Qui si dicto audiens, et præceptis obediens erit, id est, si doctrinæ opportunitate et veritate infirma confirmet, disrupta consolidet, depravata convertat, et verbum vitæ in æternitatis cibum alendæ familiæ dispendat, atque hæc agens, hisque immorans deprehendatur: gloriam a Domino tamquam dispensator fidelis et villicus utilis consequetur, et super omnia bona constituetur; id est, in Dei gloria collocabitur, quia nihil sit ultra, quod melius sit.
+Quisnam est fidelis servus et prudens, quem constituit Dominus super familiam suam ? Quamquam in commune nos ad indefessam vigilantiæ curam adhortetur : specialem tamen populi principibus, id est, episcopis, in exspectatione adventuque suo sollicitudinem mandat. Hunc enim servum fidelem atque prudentem, præpositum familiæ significat, commoda atque utilitates commissi sibi populi curantem. Qui si dicto audiens, et præceptis obediens erit, id est, si doctrinæ opportunitate et veritate infirma confirmet, disrupta consolidet, depravata convertat, et verbum vitæ in æternitatis cibum alendæ familiæ dispendat, atque hæc agens, hisque immorans deprehendatur : gloriam a Domino tamquam dispensator fidelis et villicus utilis consequetur, et super omnia bona constituetur ; id est, in Dei gloria collocabitur, quia nihil sit ultra, quod melius sit.
 
 [Lectio93]
 !Commémoraison de Ste Félicité, Martyre 
 Sermon de saint Grégoire, Pape.
 !Ex Homilía 3 in Evangelica
-La bienheureuse Félicité dont nous célébrons aujourd’hui la naissance au ciel, craignit de laisser après elle ses sept fils vivant sur terre, autant que les parents de ce monde ont coutume de craindre que leurs enfants ne les précèdent dans la tombe. En effet, alors qu’elle était aux prises avec la peine de la persécution, elle affermit, par ses exhortations, le cœur de ses fils, dans l’amour de la patrie céleste. Ainsi elle enfanta selon l’esprit ceux qu’elle avait enfantés selon la chair, afin de donner à Dieu par son exhortation ceux qu’elle avait donnés au monde par sa chair. Dirai-je donc de cette femme qu’elle est une Martyre? Mais je dirai qu’elle est plus qu’une Martyre, celle qui, en envoyant avant elle ses sept enfants au royaume des deux, les a livrés autant de fois, avant elle, à la mort. Elle est venue la première à la peine, mais n’a atteint le but, que la huitième.
+La bienheureuse Félicité dont nous célébrons aujourd’hui la naissance au ciel, craignit de laisser après elle ses sept fils vivant sur terre, autant que les parents de ce monde ont coutume de craindre que leurs enfants ne les précèdent dans la tombe. En effet, alors qu’elle était aux prises avec la peine de la persécution, elle affermit, par ses exhortations, le cœur de ses fils, dans l’amour de la patrie céleste. Ainsi elle enfanta selon l’esprit ceux qu’elle avait enfantés selon la chair, afin de donner à Dieu par son exhortation ceux qu’elle avait donnés au monde par sa chair. Dirai-je donc de cette femme qu’elle est une Martyre ? Mais je dirai qu’elle est plus qu’une Martyre, celle qui, en envoyant avant elle ses sept enfants au royaume des deux, les a livrés autant de fois, avant elle, à la mort. Elle est venue la première à la peine, mais n’a atteint le but, que la huitième.
 &teDeum
 
 [Ant Laudes]
-@:Ant Vespera:s/;;.*//g
+@:Ant Vespera :s/;;.*//g
 
 [Ant 2]
 Pendant qu’il s’avançait vers la mer, * le peuple criait à haute voix : Seigneur Jésus-Christ, sauvez-le ; et Clément disait tout en larmes : Père, recevez mon esprit.
@@ -92,4 +92,4 @@ Pendant qu’il s’avançait vers la mer, * le peuple criait à haute voix : Se
 @:Ant 1
 
 [Ant Vespera 3]
-@:Ant Vespera:s/116/115/
+@:Ant Vespera :s/116/115/
