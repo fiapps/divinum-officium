@@ -16,7 +16,7 @@ $Per Dominum
 De libro Exodi
 !Exod 3:1-6
 1 Móyses autem pascébat oves Jethro sóceri sui sacerdótis Mádian; cumque minásset gregem ad interióra desérti, venit ad montem Dei Horeb. 
-2 Appáruitque ei Dóminus in flamma ignis de médio rubi; et vidébat quod rubus ardéret et non comburerétur. 
+2 Apparuítque ei Dóminus in flamma ignis de médio rubi; et vidébat quod rubus ardéret et non comburerétur. 
 3 Dixit ergo Móyses: Vadam, et vidébo visiónem hanc magnam, quare non comburátur rubus. 
 4 Cernens autem Dóminus quod pérgeret ad vidéndum, vocávit eum de médio rubi, et ait: Móyses, Móyses! Qui respóndit: Adsum. 
 5 At ille: Ne apprópies, inquit, huc: solve calceaméntum de pédibus tuis; locus enim, in quo stas, terra sancta est. 
@@ -95,7 +95,7 @@ In illo témpore: Abiit Jesus trans mare Galilǽæ, quod est Tiberíadis: et seq
 _
 Homilía sancti Augustíni Epíscopi
 !Tract. 24 in Joánnem
-Mirácula, quæ fecit Dóminus noster Jesus Christus, sunt quidem divína ópera, et ad intellegéndum Deum de visibílibus ádmonent humánam méntem. Quia enim ille non est talis substántia, quæ vidéri óculis possit; et mirácula ejus, quibus totum mundum regit, universámque creatúram adminístrat, assiduitáte viluérunt, ita ut pene nemo dignétur atténdere ópera Dei mira et stupénda in quólibet séminis grano: secúndum ipsam suam misericórdiam, servávit sibi quædam, quæ fáceret opportúno témpore præter usitátum cursum ordinémque natúræ; ut non majóra, sed insólita vidéndo stupérent, quibus quotidiána vilúerant.
+Mirácula, quæ fecit Dóminus noster Jesus Christus, sunt quidem divína ópera, et ad intellegéndum Deum de visibílibus ádmonent humánam méntem. Quia enim ille non est talis substántia, quæ vidéri óculis possit; et mirácula ejus, quibus totum mundum regit, universámque creatúram adminístrat, assiduitáte viluérunt, ita ut pene nemo dignétur atténdere ópera Dei mira et stupénda in quólibet séminis grano: secúndum ipsam suam misericórdiam, servávit sibi quædam, quæ fáceret opportúno témpore præter usitátum cursum ordinémque natúræ; ut non majóra, sed insólita vidéndo stupérent, quibus cotidiána vilúerant.
 
 [Responsory7]
 R. Spléndida facta est fácies Móysi, dum respíceret in eum Dóminus: 
