@@ -190,10 +190,11 @@ sub getrank {
       ($version =~ /Monastic/i) ? 'M'
     : ($version =~ /1570/) ? 1570
     : ($version =~ /Trident/i) ? 1888
+    : ($version =~ /Divino/i) ? '1954'
     : ($version =~ /newcal/i) ? 'NC'
     : ($version =~ /1955/) ? 1955
     : ($version =~ /1960/) ? 1960
-    : 1954;
+    : 1960;
   our %kalendar = undef;
   our $kalendarkey = '';
 
@@ -215,7 +216,7 @@ sub getrank {
     : ($version =~ /monastic/i) ? 'M'
     : ($version =~ /1570/) ? '1570'
     : ($version =~ /1910/) ? 1910
-    : 'DA';
+    : '1960';
 
   if ($vtrans && (@lines = do_read("$datafolder/../horas/Latin/Tabulae/Tr$vtrans.txt"))) {
     my $tr = join('', @lines);
@@ -1115,6 +1116,12 @@ sub precedence {
 
   if ($version =~ /1960/ && $winner{Rule} =~ /No Sunday commemoratio/i && $dayofweek == 0) {
     $commemoratio = $commemoratio1 = $dayname[2] = '';
+  }
+  
+  if ($version =~ /1960/ && $sday !~ /(05\-11|05\-31)/ && $winner == /Pasc5-3/i) {
+      $commemoratio = '';
+      %commemoratio = undef;
+      $dayname[2] = '';
   }
 
   if ($commemoratio) {
