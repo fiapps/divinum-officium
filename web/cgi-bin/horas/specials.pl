@@ -284,7 +284,7 @@ sub specials {
     if ($item =~ /Capitulum/i && $hora =~ /(Laudes|Vespera)/i) {
       my %capit = %{setupstring($datafolder, $lang, 'Psalterium/Major Special.txt')};
       my $name = major_getname(1);
-      if ($version =~ /monastic/i) { $name =~ s/Day[0-5]M/DayFM/i; }
+      if ($version =~ /monastic/i) { $name =~ s/Day[1-5]M/DayFM/i; }
       my $capit = $capit{$name};
       my $name = major_getname();
       my $hymn = '';
@@ -916,7 +916,7 @@ sub psalmi_major {
     if ($hora =~ /Laudes/i && $dayname[0] =~ /Pasc/i && $head =~ /Daym0/i) { $head = 'DaymP'; }
     @psalmi = split("\n", $psalmi{"$head $hora"});
 
-    if ($hora =~ /Laudes/i && $head =~ /Daym\d/) {
+    if ($hora =~ /Laudes/i && $head =~ /Daym[1-6]/) {
       $sday = get_sday($month, $day, $year);
       unless ( (($dayname[0] =~ /Adv|Quadp/) && ($duplex < 3) && ($commune !~ /C10/))
                || (($dayname[0] =~ /Quad\d/) && ($dayname[1] =~ /Feria/))
@@ -1023,7 +1023,15 @@ sub psalmi_major {
   } else {
     @p = @psalmi;
   }
-  my $lim = ($version =~ /monastic/i && $hora =~ /Vespera/i) ? 4 : 5;
+  my $lim = 5;
+  if ($version =~ /monastic/i && $hora =~ /Vespera/i && ($dayname[0] !~ /Quad6/ || $dayofweek < 4)) {
+    $lim = 4;
+    if ($antiphones[4]) {
+      local($a1,$p1) = split(/;;/, $antiphones[3]);
+      local($a2,$p2) = split(/;;/, $antiphones[4]);
+      $antiphones[3] = "$a2;;$p1"
+    }
+  }
 
   if (@antiphones) {
     for ($i = 0; $i < $lim; $i++) {
@@ -1508,7 +1516,8 @@ sub commemoratio {
   if ($hora =~ /Laudes/i && $dayofweek == 6 && exists($w{'Commemoratio Sabbat'}) && $version !~ /1960/) {
     $w = getrefs($w{'Commemoratio Sabbat'}, $lang, 2, $w{Rule});
   }
-  if ($version =~ /(1955|1960)/ && $w =~ /!.*?(O[ckt]ta|Dominica)/i && nooctnat()) { return; }
+
+  if ($version =~ /1955|1960|Monastic/i && $w =~ /!.*?(O[ckt]ta|Dominica)/i && nooctnat()) { return; }
   if ($version =~ /(1955|1960)/ && $hora =~ /Vespera/i && $rank >= 5 && nooctnat()) { return; }
   if ($rank >= 5 && $w =~ /!.*?Octav/i && $winner =~ /Sancti/i && $hora =~ /Vespera/i && nooctnat()) { return; }
 
