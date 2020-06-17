@@ -1517,12 +1517,12 @@ sub commemoratio {
     $w = getrefs($w{'Commemoratio Sabbat'}, $lang, 2, $w{Rule});
   }
 
-  if ($version =~ /1955|1960|Monastic/i && $w =~ /!.*?(O[ckt]ta|Dominica)/i && nooctnat()) { return; }
-  if ($version =~ /(1955|1960)/ && $hora =~ /Vespera/i && $rank >= 5 && nooctnat()) { return; }
+  if ($version =~ /1955|1960|Newcal|Monastic/i && $w =~ /!.*?(O[ckt]ta|Dominica)/i && nooctnat()) { return; }
+  if ($version =~ /(1955|1960|Newcal)/ && $hora =~ /Vespera/i && $rank >= 5 && nooctnat()) { return; }
   if ($rank >= 5 && $w =~ /!.*?Octav/i && $winner =~ /Sancti/i && $hora =~ /Vespera/i && nooctnat()) { return; }
 
   if ( $w
-    && $version =~ /1955|1960/
+    && $version =~ /1955|1960|Newcal/
     && $w =~ /!.*?Vigil/i
     && $ite =~ /Sancti/i
     && $ite !~ /(08\-14|06\-23|06\-28|08\-09)/)
