@@ -28,7 +28,7 @@ De libro primo Regum
 [Lectio3]
 !1 Reg 18:14-17
 14 In ómnibus quoque viis suis David prudénter agébat, et Dóminus erat cum eo. 
-15 Vidit itaque Saul quod prudens esset nimis et cœpit cavére eum. 
+15 Vidit ítaque Saul quod prudens esset nimis et cœpit cavére eum. 
 16 Omnis autem Israël et Juda diligébat David; ipse enim ingrediebátur et egrediebátur ante eos. 
 17 Dixítque Saul ad David: Ecce fília mea major Merob, ipsam dabo tibi uxórem; tantúmmodo esto vir fortis et præliáre bella Dómini. Saul autem reputábat dicens: Non sit manus mea in eum, sed sit super eum manus Philisthinórum.
 
