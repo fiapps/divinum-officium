@@ -175,7 +175,7 @@
 11-13=11-13=All Saints of Benedictine order=2=
 11-14=11-14=All Souls of Benedictine orde=3=
 11-15=11-15=S. Albertus Magnus Ep Conf et Eccl Doctoris=3=
-11-17=11-16=S. Gertrudis Virginis=3=
+11-17=11-17=S. Gertrudis Virginis=3=
 11-18=11-18=In Dedicatione Basilicarum Ss. Apostolorum Petri et Pauli=3=
 11-21=11-21=In Presentatione of Beatae Mariae Virginis=3=
 11-22=11-22=S. Ceciliae Virginis et Martyrum=3=
@@ -186,7 +186,7 @@
 11-29=11-29=S. Saturnini Martyris=1=
 11-30=11-30=S. Andreae Apostoli=5=
 *December*
-12-02=12-04=S. Petri Chrysologi Episcopi Confessoris Ecclesiae Doctoris=3=S. Barbarae Virginis et Martyris=1=
+12-02=12-02=S. Petri Chrysologi Episcopi Confessoris Ecclesiae Doctoris=3=S. Barbarae Virginis et Martyris=1=
 12-03=12-03=S. Francisci Xaverii Confessoris=4=
 12-06=12-06=S. Nicolai Episcopi et Confessoris=3=
 12-07=12-07=S. Ambrosii Episcopi Confesoris et Ecclesiae Doctoris=3=
