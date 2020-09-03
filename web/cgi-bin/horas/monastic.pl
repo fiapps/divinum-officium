@@ -117,7 +117,7 @@ sub psalmi_matutinum_monastic {
 
   if ($rule =~ /(9|12) lectio/i && $rank > 4.9) {
     lectiones(1, $lang);
-  } elsif ($dayname[0] =~ /(Pasc[1-6]|Pent)/i && $month < 11 && $winner{Rank} !~ /vigil/i) {
+  } elsif ($dayname[0] =~ /(Pasc[1-6]|Pent)/i && $month < 11 && $winner{Rank} !~ /vigil|quattuor/i) {
     if ($winner =~ /Tempora/i
       || !(exists($winner{Lectio94}) || exists($winner{Lectio4})))
     {
@@ -294,6 +294,7 @@ sub absolutio_benedictio {
     : ($dayofweek == 3 || $dayofweek == 6) ? 3
     : 1;
   my @a = split("\n", $benedictio{"Nocturn $i"});
+  $a[5] = $a[4] if ($i == 3);
   push(@s, "Absolutio. $a[0]");
   push(@s, "\n");
   push(@s, "V. $a[1]");
