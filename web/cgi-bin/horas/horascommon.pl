@@ -726,7 +726,7 @@ sub getrank {
     if (transfered($tname)) {    #&& !$vflag)
       if ($hora !~ /Completorium/i) { $dayname[2] = "Transfer $trank[0]"; }
       $commemoratio = '';
-    } elsif ($version =~ /1960|Newcal/ && $winner{Rule} =~ /Festum Domini/i && $trank =~ /Dominica/i) {
+    } elsif ($version =~ /1960|Newcal|Monastic/i && $winner{Rule} =~ /Festum Domini/i && $trank =~ /Dominica/i) {
       $trank = '';
       @trank = undef;
 
@@ -1270,7 +1270,7 @@ sub precedence {
       $winner{'Ant 2'} = $winner{'Ant 23'};
       $winner2{'Ant 1'} = $winner2{'Ant 13'};
       $winner2{'Ant 2'} = $winner2{'Ant 23'};
-    } elsif ($version !~ /1960/ && $month == 9 && $day > 8 && $day < 15) {
+    } elsif ($version !~ /1960|Monastic/i && $month == 9 && $day > 8 && $day < 15) {
       my %s = %{setupstring($datafolder, $lang1, 'Sancti/09-08.txt')};
       my %s2 = %{setupstring($datafolder, $lang2, 'Sancti/09-08.txt')};
       my $key;
