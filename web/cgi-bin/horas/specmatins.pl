@@ -153,8 +153,12 @@ sub psalmi_matutinum {
   $comment = 1;
   my $prefix = translate('Antiphonae', $lang);
 
-  if ($version !~ /Trident/i && $dayofweek == 0 && $dayname[0] =~ /Adv/i) {
-    @psalmi = split("\n", $psalmi{'Adv 0 Ant Matutinum'});
+  if ($dayofweek == 0 && $dayname[0] =~ /Adv/i) {
+    if ($version =~ /Trident/i) {
+      @psalmi = split("\n", $psalmi{'Adv0'});
+    } else {
+      @psalmi = split("\n", $psalmi{'Adv 0 Ant Matutinum'});
+    }
     setbuild2("Antiphonas Psalmi Dominica special");
   }
 
@@ -368,7 +372,7 @@ sub psalmi_matutinum {
     (0, 1, 2);                   # otherwise, don't mess about.
   foreach my $i (@psalm_indices) { antetpsalm($psalmi[$i], $i); }
 
-  if ($version =~ /trident/i && $rule !~ /ex C10/i) {
+  if ($version =~ /trident/i) {
     if ($rule !~ /1 nocturn/i) {
       foreach $i (3, 4, 5) { antetpsalm($psalmi[$i], $i); }
     }
