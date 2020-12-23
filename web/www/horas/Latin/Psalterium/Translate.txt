@@ -65,7 +65,7 @@ Benedicámus Dómino, allelúja, allelúja
 Fidélium ánimæ
 
 [Oremus]
-Orémus
+Orémus.
 
 [Hymnus]
 Hymnus
@@ -139,3 +139,6 @@ Et cum frátribus nostris abséntibus. Amen.
 
 [Gloria tibi Domine]
 Glória tibi, Dómine.
+
+[#Commemoratio defunctorum]
+#Commemorátio defunctórum
