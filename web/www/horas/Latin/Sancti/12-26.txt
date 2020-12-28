@@ -56,7 +56,7 @@ R. Et intuebántur vultum ejus tamquam vultum Angeli stantis inter illos.
 
 [Lectio3]
 !Act. 7:55-59
-55 Cum autem esset plenus Spíritu Sancto, inténdens in cælum, vidit glóriam Dei, et Jesum stántem a dextris Dei. Et ait: Ecce video cælos apértos, et Fílium hóminis stántem a dextris Dei. 
+55 Cum autem esset plenus Spíritu Sancto, inténdens in cælum, vidit glóriam Dei, et Jesum stántem a dextris Dei. Et ait: Ecce vídeo cælos apértos, et Fílium hóminis stántem a dextris Dei. 
 56 Exclamántes autem voce magna, continuérunt aures suas, et ímpetum fecérunt unanímiter in eum. 
 57 Et eiciéntes eum extra civitátem lapidábant: et testes deposuérunt vestiménta sua secus pedes adolescéntis, qui vocabátur Saulus. 
 58 Et lapidábant Stéphanum, invocántem et dicéntem: Dómine Jesu, súscipe spíritum meum.
@@ -136,7 +136,7 @@ Lapidavérunt Stéphanum, * et ipse invocábat Dóminum, dicens: Ne státuas ill
 Lapides torréntis * illi dulces fuérunt: ipsum sequúntur omnes ánimæ justæ.
 Adhǽsit ánima mea * post te, quia caro mea lapidáta est pro te, Deus meus.
 Stéphanus vidit * cælos apértos, vidit, et introívit: beátus homo, cui cæli patébant.
-Ecce video * cælos apértos, et Jesum stántem a dextris virtútis Dei.
+Ecce vídeo * cælos apértos, et Jesum stántem a dextris virtútis Dei.
 
 [Capitulum Laudes]
 !Act. 6:8
@@ -187,7 +187,7 @@ Sepeliérunt Stéphanum * viri timoráti, et fecérunt planctum magnum super eum
 
 [Octava 2]
 !Commemoratio Octavæ S. Stephani
-Ant. Stéphanus autem * plenus gratia et fortitudine, faciebat signa magna in populo.
+Ant. Stéphanus autem plenus grátia et fortitúdine, faciébat signa magna in pópulo.
 _
 V. Sepeliérunt Stéphanum viri timoráti.
 R. Et fecérunt planctum magnum super eum.
@@ -198,10 +198,10 @@ $Qui tecum
 
 [Octava 3]
 !Commemoratio Octavæ S. Stephani
-Ant. Sepeliérunt Stéphanum * viri timoráti, et fecérunt planctum magnum super eum.
+Ant. Sepeliérunt Stéphanum viri timoráti, et fecérunt planctum magnum super eum.
 _
 V. Stéphanus vidit cælos apértos.
-R. Vidit, et introívit: beátus homo, cui cæli patebant.
+R. Vidit, et introívit: beátus homo, cui cæli patébant.
 _
 $Oremus
 v. Da nobis, quǽsumus, Dómine, imitári quod cólimus: ut discámus et inimícos dilígere; quia ejus natalícia celebrámus, qui novit étiam pro persecutóribus exoráre Dóminum nostrum Jesum Christum Fílium tuum:
