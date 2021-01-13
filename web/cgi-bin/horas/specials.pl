@@ -919,8 +919,10 @@ sub psalmi_major {
 
   if ($version =~ /monastic/i) {
     my $head = "Daym$dayofweek";
-    if ($winner =~ /Sancti/i && $rank >= 4 && $dayname[1] !~ /vigil/i) { $head = 'DaymF'; }
-    if ($hora =~ /Laudes/i && $dayname[0] =~ /Pasc/i && $head =~ /Daym0/i) { $head = 'DaymP'; }
+    if ($hora =~ /Laudes/i) {
+      if ($rule =~ /Psalmi Dominica/ || ($winner =~ /Sancti/i && $rank >= 4 && $dayname[1] !~ /vigil/i)) { $head = 'DaymF'; }
+      if ($dayname[0] =~ /Pasc/i && $head =~ /Daym0/i) { $head = 'DaymP'; }
+    }
     @psalmi = split("\n", $psalmi{"$head $hora"});
 
     if ($hora =~ /Laudes/i && $head =~ /Daym[1-6]/) {
@@ -1174,7 +1176,7 @@ sub oratio {
     || ($winner{Rank} =~ /Quattuor/i && $version !~ /1960|Monastic/i && $hora =~ /Vespera/i))
   {
     my $name = "$dayname[0]-0";
-    if ($name =~ /(Epi1|Nat)/i) { $name = 'Epi1-0a'; }
+    if ($name =~ /(Epi1|Nat)/i && $version ne 'Monastic') { $name = 'Epi1-0a'; }
     %w = %{setupstring($datafolder, $lang, "$temporaname/$name.txt")};
   }
 
