@@ -51,7 +51,7 @@ Et nostra tecum péctora in cælum trahe;
 Veláta dum merídiem cernat fides,
 Et solis instar sola regnet cáritas.
 _
-Sit Trinitáti sempitérna gloria,
+Sit Trinitáti sempitérna glória,
 Honor, potéstas atque jubilátio,
 In unitáte, quæ gubérnat ómnia,
 Per univérsa sæculórum sǽcula. 
@@ -198,9 +198,6 @@ Quod si rebus ipsis id ita fíeri vidére desideras, lege Actuum Apostolórum li
 
 [Versum 2]
 @:Versum 1
-
-[Ant 2]
-Vos qui secúti estis me, * sedébitis super sedes, judicántes duódecim tribus Israël, dicit Dóminus.
 
 [Oratio]
 Deus, qui multitúdinem géntium beáti Pauli Apóstoli prædicatióne docuísti: da~
