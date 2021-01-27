@@ -13,6 +13,9 @@ _
 [Versum 2]
 @Sancti/06-30:Versum 1
 
+[Ant 2]
+@Sancti/06-30
+
 [Responsory Tertia]
 @CommuneM/C1
 
@@ -29,6 +32,9 @@ _
 
 [Hymnus Vespera]
 @Sancti/06-30:HymnusM Matutinum
+
+[Ant Vespera 3]
+@Sancti/01-25::s/125/138/
 
 [Versum 3]
 @Sancti/06-30:Versum 1
