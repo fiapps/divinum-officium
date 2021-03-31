@@ -191,8 +191,8 @@ sub psalmi_matutinum_monastic {
     $firstline =~ s/\++/++/;
     push(@s, $firstline, shift @e, "R. " . translate("Gloria tibi Domine", $lang));
 
-    $e[0] =~ s/^(v. )?/v./;
     @e = grep { !/^!/ } @e;
+    $e[0] =~ s/^(v. )?/v./;
     for($i=0; $i<$#e-1; $i++) { $e[$i] =~ s/~$/~/ }
 
     push(@s, @e, "R. " . translate("Amen", $lang), "_", "\$Te decet");
@@ -368,7 +368,7 @@ sub brevis_monastic {
   }
   else {
     my %b = %{setupstring($datafolder, $lang, 'Psalterium/Matutinum Special.txt')};
-    $lectio  = $b{"MM LB$dayofweek"};
+    $lectio  = $b{"MM LB" . (($dayname[0] =~ /Pasc/) ? " Pasc" : $dayofweek)};
   }
   $lectio =~ s/&Gloria1?/&Gloria1/;
   push(@s, $lectio);
