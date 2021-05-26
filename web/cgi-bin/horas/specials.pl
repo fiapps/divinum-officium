@@ -153,7 +153,7 @@ sub specials {
 
       if ($hora =~ /Tertia/ && $dayname[0] =~ /Pasc7/) {
         my %h = %{setupstring($datafolder, $lang, 'Psalterium/Minor Special.txt')};
-        push(@s, $h{'Hymnus Pasc7 Tertia'});
+        push(@s, $h{"Hymnus". ($version =~ /1570|Monastic/ ? 'M' : '') ." Pasc7 Tertia"});
         $skipflag = 1;
       } else {
         if (!$dox) { next; }
@@ -231,16 +231,11 @@ sub specials {
 
     if ($item =~ /Capitulum/i && $hora =~ /Completorium/i) {
       $tind--;
-      if ($version =~ /Monastic/i) {
-        while ($t[$tind] !~ /^\s*V\./) { push(@s, $t[$tind++]); }
-      }
-      else {
-        while ($t[$tind] !~ /^\s*R\.br\./) { push(@s, $t[$tind++]); }
-      }
+      while ($tind < @t && $t[$tind] !~ /^\s*(?:V|R.br)\./) { push(@s, $t[$tind++]); }
       my @resp = ();
-      while ($t[$tind] !~ /^\s*\#/) { push(@resp, $t[$tind++]); }
+      while ($tind < @t && $t[$tind] !~ /^\s*\#/) { push(@resp, $t[$tind++]); }
       postprocess_short_resp(@resp, $lang);
-      push(@s, $_) for (@resp);
+      push(@s, @resp);
       next;
     }
 
