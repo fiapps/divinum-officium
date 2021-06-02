@@ -101,7 +101,7 @@ V. Benedicámus Patrem et Fílium cum Sancto Spíritu.
 R. Laudémus et superexaltémus eum in sǽcula.
 Te invocámus, * te laudámus, te adorámus, o beáta Trínitas.;;46
 Spes nostra, * salus nostra, honor noster, o beáta Trínitas.;;47
-Líbera, nos, * salva nos, vivífica nos, o beáta Trínitas.;;71
+Líbera nos, * salva nos, vivífica nos, o beáta Trínitas.;;71
 V. Benedíctus es, Dómine, in firmaménto cæli.
 R. Et laudábilis et gloriósus in sǽcula.
 Cáritas * Pater est, grátia Fílius, communicátio Spíritus Sanctus, o beáta Trínitas.;;95
@@ -237,20 +237,7 @@ Duo sunt ópera misericórdiæ, quæ nos líberant, quæ bréviter ipse Dóminus
 @:Capitulum Vespera
 
 [HymnusM Laudes]
-v. Tu Trínitatis Unitas,
-Orbem poténter quæ regis:
-Atténde laudum cántica,
-Quæ excubántes psállimus.
-_
-Ortus refúlget Lúcifer,
-Sparsámque lucem núntiat:
-Cadit calígo nóctium,
-Lux sancta nos illúminet.
-_
-Deo Patri sit glória,
-Ejusque soli Fílio,
-Cum Spíritu Paráclito,
-Et nunc et in perpétuum. Amen.
+@:Hymnus Laudes:s/laudis cánticum/laudum cántica/ s/Quod/Quæ/ s/Præítque solem núntius/Sparsámque lucem núntiat/ s/Cadunt ténebræ/Cadit calígo/ s/Nunc, et per omne sǽculum/Et nunc et in perpétuum/
 
 [Hymnus Laudes]
 v. Tu, Trinitátis Unitas,
