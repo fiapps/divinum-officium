@@ -96,21 +96,21 @@ $command = strictparam('command');
 if ($command =~ /(Ante|Matutinum|Laudes|Prima|Tertia|Sexta|Nona|Vespera|Completorium|Past)/i) { $command = "pray$1"; }
 
 if ($officium =~ /brevi/) {
-  $version = 'Divino Afflatu';
+  $version = 'Rubrics 1960';
   @versions = ($version);
 } else {
   $version = strictparam('version');
   @versions = (
-    'pre Trident Monastic',
-    'Trident 1570',
-    'Trident 1910',
+    'Monastic',
+    'Tridentine 1570',
+    'Tridentine 1910',
     'Divino Afflatu',
     'Reduced 1955',
     'Rubrics 1960',
     '1960 Newcalendar'
   );
 }
-if (!$version) { $version = ($version1) ? $version1 : 'Divino Afflatu'; }
+if (!$version) { $version = ($version1) ? $version1 : 'Rubrics 1960'; }
 setmdir($version);
 $testmode = strictparam('testmode');
 $kmonth = strictparam('kmonth');
@@ -248,20 +248,15 @@ PrintTag
 print << "PrintTag";
 </TABLE><BR>
 PrintTag
-@chv = splice(@chv, @chv);
-for ($i = 0; $i < @versions; $i++) { $chv[$i] = $version =~ /$versions[$i]/ ? 'SELECTED' : ''; }
-my $vsize = @versions;
-print "
-  <LABEL FOR=version CLASS=offscreen>Version</LABEL>
-  <SELECT ID=version NAME=version SIZE=$vsize onchange=\"document.forms[0].submit();\">\n
-";
-for ($i = 0; $i < @versions; $i++) { print "<OPTION $chv[$i] VALUE=\"$versions[$i]\">$versions[$i]\n"; }
-print "</SELECT>\n";
+print option_selector("Version", "document.forms[0].submit();", $version, @versions );
 if ($error) { print "<P ALIGN=CENTER><FONT COLOR=red>$error</FONT><\P>\n"; }
 if ($debug) { print "<P ALIGN=center><FONT COLOR=blue>$debug</FONT><\P>\n"; }
 print << "PrintTag";
 </FORM>
 </BODY></HTML>
+PrintTag
+print << "PrintTag";
+<P ALIGN=CENTER><A HREF="Ckalendar.pl">Compare Calendars</A>
 PrintTag
 
 #*** horasjs()
