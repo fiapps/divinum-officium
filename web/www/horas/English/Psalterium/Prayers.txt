@@ -40,11 +40,17 @@ R. And let my cry come unto thee.
 [Confiteor]
 v. I confess to almighty God, to blessed Mary ever Virgin, to blessed Michael the Archangel, to blessed John the Baptist, to the holy Apostles Peter and Paul, and to all the Saints, that I have sinned exceedingly in thought, word and deed: /:strikes his breast:/ through my fault, through my fault, through my most grievous fault. Therefore I beseech blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, and all the Saints, to pray for me to the Lord our God. 
 
+[ConfiteorOP]
+v.  I confess to almighty God, to blessed Mary ever Virgin, to blessed Dominic our father, to all the Saints and to you, brethren, that I have sinned exceedingly by thought, word, deed and omission, through my fault: I beseech you to pray for me.
+
 [ConfiteorM]
 @:Confiteor:s/Paul/Paul, our holy Father Benedict/g
 
 [Misereatur]
 v. May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life. Amen.
+
+[MisereaturOP]
+v. May almighty God have mercy upon you and forgive you all your sins: may he free you from all evil, strengthen and confirm you in every good work, and bring you to life everlasting.
 
 [Indulgentiam]
 v. May the almighty + and merciful Lord grant us pardon, absolution and remission of our sins. Amen.
@@ -79,6 +85,15 @@ R. Thanks be to God.
 [Fidelium animae]
 V. May the souls of the faithful, through the mercy of God, rest in peace.
 R. Amen.
+
+[FinalAntiphonOP]
+Light of the church, teacher of truth, rose of patience, ivory of chastity, you freely poured forth the waters of wisdow; preacher of grace, unite us with the blessed.
+V. Blessed Father, Dominic, pray for us.
+_
+R. That we may be made worth of the promises of Christ.
+Let us pray.
+_
+Grant, we beseech you, almighty God, that we who are weighed down by the burden of our sins, may be relieved through the patronage of the blessed Dominic, your confessor and our father. Through Christ our Lord. Amen.
 
 [Per Dominum]
 r. Through Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.
