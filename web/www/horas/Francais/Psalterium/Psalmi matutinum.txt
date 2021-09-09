@@ -343,7 +343,7 @@ R. Et il nous ressuscitera par sa puissance, alléluia.
 
 [Daya0]
 Servez le Seigneur dans la crainte et exultez devant lui avec tremblement.;;1 ;2;3;6
-Dieu est un juge équitable, fort et patient ; * est-ce qu'Il S'irrite tous les jours ?.;;7 ;8;9;10
+Dieu est un juge équitable, fort et patient ; * est-ce qu'Il s'irrite tous les jours ?.;;7 ;8;9;10
 Vous, Seigneur, * vous nous garderez et nous préserverez.;;11 ;12;13;14
 V. La nuit je me suis souvenu de Votre Nom, Seigneur.
 R. Et j'ai gardé Votre loi.
@@ -351,62 +351,62 @@ Vous n’avez pas besoin de mes biens, en vous j’ai espéré, gardez-moi, Seig
 Les paroles de vos lèvres m’ont aidé à marcher sans faiblir dans des voies rudes.;;16
 Je Vous aimerai, seigneur, Vous qui êtes ma force.;;17
 V. Car c'est Vous, Seigneur, qui allumez ma lampe.
-R. Deus meus illúmina ténebras meas.
-Non sunt loquélæ * neque sermónes quorum non audiántur voces eórum.;;18
-Exáudiat * te Dóminus in die tribulatiónis.;;19
-Dómine * in virtúte tua lætábitur rex.;;20
-V. Exaltáre Dómine in virtúte tua.
-R. Cantábimus et psallémus virtútes tuas.
+R. Ô mon Dieu, illuminez mes ténèbres.
+Ce n’est pas un langage, * ce ne sont pas des paroles dont la voix ne soit pas entendue.;;18
+Que le Seigneur * vous exauce au jour de l'affliction.;;19
+Seigneur, * dans votre force le roi se réjouira .;;20
+V. Levez-vous, Seigneur, dans votre puissance.
+R. Nous chanterons et nous célébrerons vos puissances.
 
 [Daya1]
-Dóminus defensor * vitæ meæ.;;26 ;27
-Adoráte * Dóminum in aula sancta ejus.;;28 ;29
-In tua justítia * líbera me, Dómine.;;30 ;31
-Rectos décet * collaudátio.;;32 ;33
-Expúgna * impugnántes me.;;34 ;35
-Revéla Dómino viam tuam.;;36 ;37
-V. Dómine in cælo misericórdia tua.
-R. Et véritas tua usque ad nubes.
+Le Seigneur est ma lumière * et mon salut.;;26 ;27
+Adorez * le Seigneur au milieu de son sanctuaire.;;28 ;29
+En votre justice * libérez moi, Seigneur.;;30 ;31
+La louange sied * aux hommes droits.;;32 ;33
+Combattez * ceux qui me combattent.;;34 ;35
+Découvre au Seigneur ta voie.;;36 ;37
+V. Seigneur, Votre miséricorde est dans le Ciel.
+R. Et Votre vérité s'élève jusqu'aux nues.
 
 [Daya2]
-Ut non delínquam * in lingua mea.;;38 ;39
-Sana * Dómine ánimam meam, qui peccávi tibi.;;40 ;41
-Eructávit * cor meum verbum bonum.;;43 ;44
-Adjútor * in tribulatiónibus.;;45 ;46
-Magnus Dóminus * et laudábilis nimis.;;47 ;48
-Deus deórum * Dóminus locútus est.;;49 ;51
-V. Ímmola Deo sacrifium laudis.
-R. Et redde altíssimo vota tua.
+pour ne point pécher * par ma langue.;;38 ;39
+guérissez mon âme, * car j'ai péché contre Vous.;;40 ;41
+De mon cœur * a jailli une excellent parole.;;43 ;44
+Notre secours * dans les tribulations.;;45 ;46
+Grand est le Seigneur * et digne d'une louange.;;47 ;48
+Le Dieu des dieux, * le Seigneur a parlé.;;49 ;51
+V. Immole à Dieu un sacrifice de louanges.
+R. Et rends tes vœux au Très-Haut.
 
 [Daya3]
-Avértit Dóminus * captivitátem plebis suæ.;;52 ;54
-Quóniam * in te confídit ánima mea.;;55 ;56
-Juste judicáte * fílii hóminum.;;57 ;58
-Da nobis * Dómine auxílium de tribulatióne.;;59 ;60
-Nonne Deo * subjécta erit ánima mea.;;61 ;63
-Benedícite * gentes Deum nóstrum.;;65 ;67
-V. Deus, vitam meam annuntiávi tibi.
-R. Posuísti lácrimas meas in conspéctu tuo.
+Le Seigneur évite * la captivité de son peuple.;;52 ;54
+Car mon âme a confiance en Vous.;;55 ;56
+Jugez avec justesse * vous, enfants des hommes .;;57 ;58
+Donnez-nous du secours * contre la tribulation.;;59 ;60
+Mon âme ne sera-t-elle pas soumise à Dieu ?;;61 ;63
+Nations, * bénissez notre Dieu.;;65 ;67
+V. O Dieu, Je Vous ai exposé toute ma vie.
+R. Vous avez mis mes larmes devant Vous.
 
 [Daya4]
-Dómine Deus, * in adjutórium meum inténde.;;68 ;69
-Esto mihi, * Dómine, in Deum protectórem.;;70 ;71
-Liberásti virgam * hereditátis tuæ.;;72 ;73
-Et invocábimus * nomen tuum, Dómine.;;74 ;75
-Tu es Deus * qui facis mirabília.;;76 ;77
-Propítius esto * peccátis meis, Dómine.;;78 ;79
-V. Gaudébunt lábia mea cum cantávero tibi.
-R. Et ánima mea, quam redemísti.
+Seigneur Dieu, * venez à mon aide .;;68 ;69
+Soyez pour moi, * Seigneur, un Dieu protecteur.;;70 ;71
+Vous avez livré la famille * de votre héritage.;;72 ;73
+Et nous invoquerons * Votre nom, Seigneur.;;74 ;75
+Vous êtes le Dieu * qui fiates des merveilles.;;76 ;77
+Soyez miséricordieux * envers mes péchés, Seigneur.;;78 ;79
+V. L'allégresse sera sur mes lèvres lorsque je Vous chanterai.
+R. Et dans mon âme, que Vous avez rachetée.
 
 [Daya5]
-Exsultáte Deo * adjutóri nostro;;80 ;81
-Tu solus * Altíssimus super omnem terram;;82 ;83
-Benedixísti * Dómine terram tuam;;84 ;85
-Fundaménta ejus * in móntibus sanctis;;86 ;87
-Benedíctus Dóminus * in ætérnum : fiat, fiat;;88 ;93
-Cantáte Dómino * et benedícite nóminis ejus;;95 ;96
-V. Intret orátio mea in conspéctu tuo, Dómine.
-R. Inclína aurem tuam ad precem meam.
+Tressaillez d'allégresse * en Dieu notre protecteur.;;80 ;81
+Vous seul * êtes le Très Haut sur toute la terre.;;82 ;83
+Vous avez béni, * Seigneur, Votre terre;;84 ;85
+Ses fondements sont sur les saintes montagnes.;;86 ;87
+Béni soit le Seigneur à jamais. * Ainsi soit-il, ainsi soit-il.;;88 ;93
+Chantez au Seigneur, * et bénissez Son Nom. ;;95 ;96
+V. Que ma prière pénètre jusqu'à Vous.
+R. prêtez l'oreille à ma supplication.
 
 [Daya6]
 Quia mirabília * fecit Dóminus;;97 ;98
