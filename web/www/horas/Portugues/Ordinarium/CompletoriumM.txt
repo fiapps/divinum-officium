@@ -11,11 +11,10 @@ $Tu autem
 
 V. O nosso auxílio está + no nome do Senhor,
 R. Que fez o céu e a terra.
-
+_
 !Segue-se um exame de consciência, ou um Pai nosso em silêncio.
 $Pater noster
-
-$Confiteor
+$ConfiteorM
 $Misereatur
 $Indulgentiam
 
@@ -25,7 +24,11 @@ $Deus in adjutorium
 &Gloria
 &Alleluia
 
-#Psalmi
+&psalm(4)
+
+&psalm(90)
+
+&psalm(133)
 
 #Hymn
 v. Antes do fim do dia,
@@ -50,26 +53,15 @@ e o teu nome tem sido invocado sobre nós;~
 Não nos desampares, Senhor, nosso Deus.  
 R. Demos graças a Deus.
 _
-R.br. Senhor, em vossas mãos, * Eu entrego o meu espírito.
-R. Senhor, em vossas mãos, * Eu entrego o meu espírito.
-V. Vós sois o Deus fiel, que salvastes vosso povo.
-R. Eu entrego o meu espírito.
-&Gloria1
-R. Senhor, em vossas mãos, * Eu entrego o meu espírito.
-_
 V. Conserva-nos, Senhor, como a pupila dos olhos. 
 R. À sombra das tuas asas protege-nos.
-
-#Canticum Nunc dimittis
-Ant. Salvai-nos, * Senhor, quando velamos, guardai-nos também quando dormimos! Nossa mente vigie com o Cristo, nosso corpo repouse em sua paz!
-(sed rubrica 1955) Ant. Protect us.
-&canticum(3)
-&Gloria
-Ant. Salvai-nos, * Senhor, quando velamos, guardai-nos também quando dormimos! Nossa mente vigie com o Cristo, nosso corpo repouse em sua paz!
+_
+v. Senhor tende piedade de nós, Cristo tende piedade de nós, Senhor tende piedade de nós.
+&pater_noster
 
 #Oratio
 &Dominus_vobiscum
-$Oremus	
+$Oremus
 v. Visita, Senhor, esta casa e afasta as ciladas do inimigo; habitem nela os teus anjos, que nos guardem em paz, e tua benção permaneça conosco para sempre.
 $Per Dominum
 
@@ -78,6 +70,6 @@ $Per Dominum
 &Benedicamus_Domino
 Benedictio. Abençoe e nos guarde o Senhor onipotente e misericordioso, + Pai, e Filho e Espírito Santo.
 R. Amém.
-
+_
 &antiphona_finalis
 &Divinum_auxilium

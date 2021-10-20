@@ -11,10 +11,7 @@ $Tu autem
 
 V. O nosso auxílio está + no nome do Senhor,
 R. Que fez o céu e a terra.
-
-!Segue-se um exame de consciência, ou um Pai nosso em silêncio.
 $Pater noster
-
 $Confiteor
 $Misereatur
 $Indulgentiam
@@ -61,14 +58,34 @@ V. Conserva-nos, Senhor, como a pupila dos olhos.
 R. À sombra das tuas asas protege-nos.
 
 #Canticum Nunc dimittis
-Ant. Salvai-nos, * Senhor, quando velamos, guardai-nos também quando dormimos! Nossa mente vigie com o Cristo, nosso corpo repouse em sua paz!
-(sed rubrica 1955) Ant. Protect us.
+Ant. Protect us
 &canticum(3)
 &Gloria
-Ant. Salvai-nos, * Senhor, quando velamos, guardai-nos também quando dormimos! Nossa mente vigie com o Cristo, nosso corpo repouse em sua paz!
+Ant. Protect us, * Lord, while we are awake and safeguard us while we sleep; that we may keep watch with Christ, and rest in peace.
+
+#Preces Dominicales
+v. Lord have mercy on us, Christ have mercy on us, Lord have mercy on us.
+&pater_noster
+$Credo
+V. Blessed are you, Lord, God of our fathers. 
+R. Worthy of praise, and glorious for ever.
+V. Let us bless the Father, the Son and the Holy Spirit.
+R. Let us praise and exalt him above all for ever.
+V. Blessed art thou in the firmament of heaven: 
+R. Worthy of praise, and glorious for ever.
+V. May the almighty and merciful God bless us and keep us.
+R. Amen.
+V. Vouchsafe, O Lord, 
+R. To keep us this night without sin.
+V. O Lord, have mercy upon us. 
+R. Have mercy upon us.
+V. O Lord, let thy mercy lighten upon us
+R. As our trust is in you.
+V. Lord, hear my prayer:
+R. And let my cry come unto thee. 
 
 #Oratio
-&Dominus_vobiscum
+&Dominus_vobiscum1
 $Oremus	
 v. Visita, Senhor, esta casa e afasta as ciladas do inimigo; habitem nela os teus anjos, que nos guardem em paz, e tua benção permaneça conosco para sempre.
 $Per Dominum
@@ -81,3 +98,6 @@ R. Amém.
 
 &antiphona_finalis
 &Divinum_auxilium
+$Pater noster
+$Ave Maria
+$Credo
