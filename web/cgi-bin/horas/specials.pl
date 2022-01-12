@@ -832,6 +832,7 @@ sub psalmi_minor {
     }
   }
 
+
   if ($w{Rule} =~ /Minores sine Antiphona/i) {
     $ant = '';
     setbuild2('Sine antiphonae');
@@ -1641,7 +1642,7 @@ sub getcommemoratio {
   }
   if (!$o) { return ''; }
   my $a = $w{"Ant $ind"};
-  if (!$a) { $i = 4 - $ind; $a = $w{"Ant $i"}; }
+  if (!$a || ($winner =~ /Epi1-0a/ && $hora =~ /vespera/i && $vespera == 3)) { $i = 4 - $ind; $a = $w{"Ant $i"}; }
   if (!$a) { $a = $c{"Ant $ind"}; }
   my $name = $w{Name};
   $a = replaceNdot($a, $lang, $name);
@@ -1666,8 +1667,12 @@ sub getcommemoratio {
   if (!$a) { return ''; }
   postprocess_ant($a, $lang);
   my $v = $w{"Versum $ind"};
+  if ($winner =~ /Epi1-0a/) { 
+    my %w = (columnsel($lang)) ? %winner : %winner2;
+    $v = ($vespera == 1 && $day == 10) ? $c{'Versum 2'} : $w{'Versum Commemoratio'}; }
   if (!$v) { $i = 4 - $ind; $v = $w{"Versum $i"}; }
   if (!$v) { $v = $c{"Versum $ind"}; }
+  if (!$v) { $i = 4 - $ind; $v = $c{"Versum $i"}; }
   if (!$v) { $v = getfrompsalterium('Versum', $ind, $lang); }
   if (!$v) { $v = 'versus missing'; }
   postprocess_vr($v, $lang);
@@ -1816,7 +1821,7 @@ sub tryoldhymn {
 sub getanthoras {
   my $lang = shift;
   my $tflag = ($version =~ /Trident|Monastic/i && $winner =~ /Sancti/i) ? 1 : 0;
-  $tflag = 0 if ($winner =~ /SanctiM.01-(?:(?:0[2-5789])|(?:1[12]))/);
+  $tflag = 0 if ($winner =~ /SanctiM.01-(?:(?:0[2-5789])|(?:1[012]))/);
 
   my $ant = '';
   if ($rule !~ /Antiphonas horas/i && $communerule !~ /Antiphonas horas/i && !$tflag) { return ''; }
