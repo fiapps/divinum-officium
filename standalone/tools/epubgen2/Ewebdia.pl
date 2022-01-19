@@ -27,7 +27,7 @@ sub htmlHead {
 
 
   print << "PrintTag";
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="la"><head> <script async defer data-domain="divinumofficium.com" src="https://stats.yanke.io/js/plausible.js"></script><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> <link href="s.css" rel="stylesheet" type="text/css"/><title>$title</title></head>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="la"><head> <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> <link href="s.css" rel="stylesheet" type="text/css"/><title>$title</title></head>
 PrintTag
 }
 
@@ -349,17 +349,19 @@ sub setfont {
 # This version uses Unicode entities instead of small GIFs.
 sub setcross
 {
-    my $line = shift;
-    my $csubst = '<span class="rd">+</span>'; #the unicode symbols do not display correctly on some eReaders, just use plain + instead
     # Cross type 3: Cross of Lorraine
-    #my $csubst = "<span style=\"color:red; font-family:'DejaVu Sans';\">&#x2628;</span>";
+    my $csubst = "<span style=\"color:red; font-family:'DejaVu Sans';\">&#x2628;</span>";
     $line =~ s/\+\+\+/$csubst/g;
     # Cross type 2: Greek Cross (Cross of Jerusalem)
-    #my $csubst = "<span style=\"color:red; font-family:'DejaVu Sans';\">&#x2720;</span>";
+    my $csubst = "<span style=\"color:red; font-family:'DejaVu Sans';\">&#x2720;</span>";
     $line =~ s/\+\+/$csubst/g;
     # cross type 1: Latin Cross
-    #my $csubst = "<span style=\"color:red; font-family:'DejaVu Sans';\">&#x271D;</span>";
+    my $csubst = "<span style=\"color:red; font-family:'DejaVu Sans';\">&#x271D;</span>";
     $line =~ s/ \+ / $csubst /g;
+
+    $line =~ s/>V\./>℣./g;
+    $line =~ s/>R\./>℟./g;
+
     return $line;
 }
 
