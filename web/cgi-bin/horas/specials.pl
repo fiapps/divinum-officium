@@ -786,7 +786,7 @@ sub psalmi_minor {
   if ($ant) { $ant = "Ant. $ant"; }
   my @ant = split('\*', $ant);
   postprocess_ant($ant, $lang);
-  $ant1 = ($version !~ /1960|monastic/i) ? $ant[0] : $ant;    #difference between 1955 and 1960
+  $ant1 = showFullAntiphon($version, $ant);
   setcomment($label, 'Source', $comment, $lang, $prefix);
   $psalms =~ s/\s//g;
   @psalm = split(',', $psalms);
@@ -966,10 +966,10 @@ sub psalmi_major {
   my $lim = 5;
   if ($version =~ /monastic/i && $hora =~ /Vespera/i && ($winner !~ /C(?:9|12)/) && ($commune !~ /C9/) && ($dayname[0] !~ /Quad6/ || $dayofweek < 4)) {
     $lim = 4;
-    if ($antiphones[4]) {
-      local($a1,$p1) = split(/;;/, $antiphones[3]);
-      local($a2,$p2) = split(/;;/, $antiphones[4]);
-      $antiphones[3] = "$a2;;$p1"
+		if ($antiphones[4]) {															# if 5 psalms and antiphones are given
+			local($a1,$p1) = split(/;;/, $antiphones[3]);	  # split no. 4
+			local($a2,$p2) = split(/;;/, $antiphones[4]);		# spilt no. 5
+			$antiphones[3] = "$a2;;$p1"											# and say antiphone 5 with psalm no. 4
     }
   }
 
@@ -1017,6 +1017,17 @@ sub psalmi_major {
     }
   }
   return;
+}
+
+#*** showFullAntiphon(string $version, @ant): string
+sub showFullAntiphon {
+  my ($version, $ant) = @_;
+
+  if ($version !~ /1960|monastic|Praedicatorum/i) {
+      return $ant[0];
+  } else {
+      return $ant;
+  }
 }
 
 #*** antetpsalm($line, $i, $last, $lang)
