@@ -133,6 +133,9 @@ sub specials {
         setbuild1($item, 'omit');
       } else {
         setbuild1($item, 'include');
+        if ($hora =~ /Laudes|Tertia|Sexta|Nona|Vespera/) {
+          push(@s, $prayers{$lang}{"Preces feriales $hora"});
+        }
       }
       next;
     }
@@ -2196,7 +2199,7 @@ sub getrefs {
       do_inclusion_substitutions($v, $substitutions);
       do_inclusion_substitutions($o, $substitutions);
       $a =~ s/\s*\*\s*/ /;
-      $w = $before . "_\nAnt. $a" . "_\n$v" . "_\n$o" . "_\n$after";
+      $w = $before . "\nAnt. $a\n" . "_\n$v" . "_\n$o" . "_\n$after";
       next;
     }
     my $a = $s{$item};
