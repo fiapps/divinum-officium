@@ -190,7 +190,7 @@ print bodybegin();
 if ($command =~ /setup(.*)/i) {
   $command = $1;
   print setuptable($command, "Divinum Officium setup");
-  $command = "change" . $command;
+  $command = "change" . $command . strictparam('pcommand');
 } else {
   my $dayheadline = setheadline();
   print headline( $dayheadline, $comment, $daycolor);
@@ -201,7 +201,9 @@ if ($command =~ /setup(.*)/i) {
   } elsif ($horas[0]) {
     foreach (@horas) {
       $hora = $_; # precedence use global $hora !
-      if (/vesper/i && ($horas[0] !~ /vesper/i)) {
+      if (/laudes/i && ($horas[0] !~ /laudes/i)) { 
+        precedence($date1); # prevent lost commemorations
+      } elsif (/vesper/i && ($horas[0] !~ /vesper/i)) {
         precedence($date1);
         my $vesperaheadline = setheadline();
         if ($dayheadline ne $vesperaheadline) { 
@@ -237,7 +239,6 @@ if ($command =~ /setup(.*)/i) {
   if ($building && $buildscript) { print buildscript($buildscript); }
 }
 
-$command =~ s/(pray|setup)//ig;
 print bodyend();
 
 sub prevnext {
