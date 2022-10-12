@@ -74,7 +74,7 @@ Réquiem
 Alleluja
 
 [Laus tibi]
-Lob sei dir, Herr
+Lob sei dir, Herr, König der ewigen Herrlichkeit.
 
 [Dominus vobiscum]
 Der Herr sei mit euch
@@ -200,5 +200,7 @@ Mt|Mk|Lk|Joh
 Marianische Schlussantiphon
 
 [Divinum auxilium]
-Die Hilfe Gottes + möge ständig bei uns bleiben.
-Amen.
+Die Hilfe Gottes
+
+[MLitany]
+O Herr, sei gnädig … Vater unser
