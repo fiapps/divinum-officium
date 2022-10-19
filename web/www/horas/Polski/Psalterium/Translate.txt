@@ -95,7 +95,7 @@ Chwała
 Wieczny odpoczynek
 
 [Alleluia]
-Alleluja
+Alleluja.
 
 [Laus tibi]
 Chwała Tobie Panie, Królu wiecznej chwały.
@@ -119,7 +119,7 @@ Niech się zmiłuje
 Przebaczenia
 
 [Domine labia]
-Panie oczyść wargi moje
+Panie oczyść
 
 [Deus in adjutorium]
 Boże, wejrzyj
@@ -149,7 +149,7 @@ Hymn
 Psalm
 
 [Oremus]
-Módlmy się
+Módlmy się.
 
 [Benedictio]
 Błogosławieństwo
@@ -182,7 +182,7 @@ Przenajświętsza
 Ciebie Boga
 
 [Deo gratias]
-Bogu dzięki
+R. Bogu dzięki.
 
 [Lectio]
 Lekcja
@@ -235,5 +235,5 @@ Chwała Tobie, Panie.
 [#Commemoratio defunctorum]
 #Wspomnienie zmarłych
 
-[MLitany2]
+[MLitany]
 Kyrie … Ojcze nasz
