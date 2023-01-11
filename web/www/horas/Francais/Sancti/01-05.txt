@@ -4,6 +4,9 @@ In Vigilia Epiphaniæ;;Semiduplex;;2;;ex Sancti/01-01
 [Rank1570]
 In Vigilia Epiphaniæ;;Semiduplex;;2;;ex Sancti/01-01
 
+[Rankreduced1955]
+In Vigilia Epiphaniæ;;Semiduplex;;2;;ex Sancti/01-01
+
 [Rank1960]
 Die Quinta Januarii;;Feria;;1.2;;vide Sancti/01-01
 
@@ -13,7 +16,7 @@ ex Sancti/01-01;
 Psalmi Dominica
 Omit preces
 Feria Te Deum
-CPapaM=Telésphorum;
+CPapaM=Telésphore;
 
 [Capitulum Vespera]
 @Tempora/Nat1-0:Capitulum Vespera
