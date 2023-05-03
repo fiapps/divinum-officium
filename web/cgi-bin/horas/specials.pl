@@ -6,6 +6,7 @@ use utf8;
 # Divine Office fills the chapters from ordinarium
 $a = 4;
 
+use DivinumOfficium::Directorium qw(dirge);
 #*** specials(\@s, $lang)
 # input the array of the script for hora, and the language
 # fills the content of the various chapters from the databases
@@ -501,15 +502,19 @@ sub specials {
       $skipflag = 1;
     }
 
-    # Set special conclusion when Office of the Dead follows.
-    if ($item =~ /Conclusio/i && $dirge && $commune !~ /C9/i && $votive !~ /C9/i) {
-      our %prayers;
 
-      if ($hora =~ /Vespera/i && $dirge == 1) {
+    # Set special conclusion when Office of the Dead follows.
+    if ($item =~ /Conclusio/i && $commune !~ /C9/i && $votive !~ /C9/i) {
+      our %prayers;
+      my $dirge = dirge($version, $hora, $day, $month, $year);
+
+      if (($dirge || ($winner{Rule} =~ /Vesperae Defunctorum/ && $vespera == 3)) 
+          && $hora =~ /Vespera/i) {
         push(@s, $prayers{$lang}->{DefunctV});
         setbuild1($item, 'Recite Vespera defunctorum');
         $skipflag = 1;
-      } elsif ($hora =~ /Laudes/i && $dirge == 2) {
+      } elsif (($dirge || $winner{Rule} =~ /Matutinum et Laudes Defunctorum/) 
+               && $hora =~ /Laudes/i) {
         push(@s, $prayers{$lang}->{DefunctM});
         setbuild1($item, 'Recite Officium defunctorum');
         $skipflag = 1;
@@ -1404,7 +1409,8 @@ sub setcc {
   }    #Simplex=80;
   if ($s{Rule} =~ /Comkey=([0-9]+)/i) { $key = $1; }                                    #oct day Epi Cor = 20, simpl=70
 
-  if ( $s{Rank} =~ /Octav.*?(Epiph|Corporis|Cordis|Ascension)/i
+  if ( $s{Rank} =~ /Octav.*?(Epiph|Corporis)/i
+    || ($s{Rank} =~ /Octav.*?(Cordis|Ascension)/i && $dayofweek) # not in sunday
     || $str =~ /!.*?Octav.*?(Epiph|Corporis|Cordis|Ascension)/i
     || ($str =~ /!.*?Octav.*?Concept/i && ($winner !~ /tempora/i
                                           # or St. Damasy on Sunday
