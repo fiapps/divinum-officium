@@ -117,7 +117,7 @@ if ($command =~ s/^pray//) {
   if (@horas > 1 && $votive ne 'C9') {
     $plures = join('', @horas);
   }
-  if ($horas[0] eq 'Omnia') { 
+  if ($horas[0] eq 'Omnes') { 
     @horas = gethoras($votive eq 'C9');
   }
 }
@@ -156,6 +156,7 @@ if ($officium eq 'Pofficium.pl') {
 }
 
 precedence($date1);    #fills our hashes et variables
+setsecondcol();
 our $psalmnum1 = 0;
 our $psalmnum2 = 0;
 
