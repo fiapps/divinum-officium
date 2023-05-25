@@ -188,9 +188,8 @@ if ($command =~ /kalendar/) {    # kalendar widget
 
 #*** print pages (setup, hora=pray, mainpage)
 #generate HTML
-$background = ($whitebground) ? "BGCOLOR=\"white\"" : "BACKGROUND=\"$htmlurl/horasbg.jpg\"";
-htmlHead("Divinum Officium " . ($hora || $command), 2);
-print bodybegin();
+$background = ($whitebground) ? ' class="contrastbg"' : '';
+htmlHead("Divinum Officium " . ($hora || $command), $officium ne 'Pofficium.pl' && 'startup()');
 
 if ($command =~ /setup(.*)/i) {
   $command = $1;
@@ -199,7 +198,7 @@ if ($command =~ /setup(.*)/i) {
 } else {
   my $dayheadline = daylineheader(setheadline(), $Ck ? '' : $comment, $daycolor);
   $dayheadline = daylineheader_c($dayheadline, $version1, $version2) if $Ck;
-  print headline($dayheadline, substr($officium, 0, 1));
+  print headline($dayheadline, substr($officium, 0, 1), $Ck ? "$version1 / $version2" : $version);
 
   if ($horas[0] eq 'Plures') {
     print setplures();
@@ -233,7 +232,7 @@ if ($command =~ /setup(.*)/i) {
   } else {
     print par_c(pmenu());
 
-    print "<TABLE ALIGN=CENTER BORDER=1>";
+    print '<TABLE ALIGN=CENTER BORDER=1 STYLE="color: black">';
     print selectable_p('versions', $version, $date1, $version, $lang2, $votive, $testmode);
     print selectable_p('languages', $lang2, $date1, $version, $lang2, $votive, $testmode, 'Language 2');
     print selectable_p('votives', $votive, $date1, $version, $lang2, $votive, $testmode);
