@@ -565,7 +565,7 @@ sub getrank {
       $commemoratio1 = ($trank[2] > 1) ? $tname : '';
       $commemoratio = $cname;
       $comrank = $crank[2];
-      $cvespera = 4 - $svesp;
+      $cvespera = $commemoratio1 ? $tvesp : 4 - $svesp;
       $marian_commem = ($crank[3] =~ /C1[0-9]/);
     } elsif ($crank[2] < 6) {
       $dayname[2] = '';
@@ -1235,7 +1235,7 @@ sub setheadline {
       $rankname = 'Simplex';
     } elsif ($version =~ /(1570|1910|Divino|1955)/ && $winner =~ /Quadp3-3/) {
       $rankname = 'Feria privilegiata';
-    } elsif ($version =~ /(1570|1910|Divino|1955)/ && $winner =~ /Pasc6-5/) {
+    } elsif ($version =~ /(1570|1910|Divino|1955)/ && ($winner =~ /Pasc6-5/ || $name =~ /die infra|infra Octavam/)) {
       $rankname = 'Semiduplex';
     } elsif ($version =~ /1960|Newcal|Monastic/i && $winner =~ /Pasc6-6/) {
       $rankname = 'I. classis';
