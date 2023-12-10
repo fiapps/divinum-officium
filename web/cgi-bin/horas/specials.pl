@@ -1319,6 +1319,16 @@ sub oratio {
 				$cc{$key} = $ic;
 				setbuild2("Commemorated: $key");
 			}
+					
+			if ($transfervigil) {
+				if (!(-e "$datafolder/$lang/$transfervigil")) { $transfervigil =~ s/v\.txt/\.txt/; }
+				$c = vigilia_commemoratio($transfervigil, $lang);
+				if ($c) {
+					$ccind++;
+					$key = $ccind + 8500; # 10000 - 1.5 * 1000
+					$cc{$key} = $c;
+				}
+			}
 		}
 
 		if($hora =~ /vespera/i) {
@@ -1400,8 +1410,10 @@ sub oratio {
 				my $key = 0;	# let's start with lowest rank
 				if (!(-e "$datafolder/$lang/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
 				$c = getcommemoratio($commemo, $cv, $lang);
+				my $c2 = ($cv == 2) ? vigilia_commemoratio($commemo, $lang) : '';
+				$c ||= $c2;
 				%c = %{officestring($lang, $commemo, 0)};
-				
+
 				if($c) {
 					
 					my @cr = split(";;", $c{Rank});
@@ -1606,7 +1618,7 @@ sub getcommemoratio {
   if (!$v) { $v = 'versus missing'; }
   postprocess_vr($v, $lang);
   our %prayers;
-  my $w = "!" . &translate("Commemoratio", $lang);
+	my $w = "!" . &translate("Commemoratio", $lang) . (($lang !~ /latin/i || $wday =~ /tempora/i) ? ':' : ''); # Adding : except for Latin Sancti which are in Genetiv
   $a =~ s/\s*\*\s*/ / unless ($version =~ /Monastic/i);
   $o =~ s/^(?:v. )?/v. /;
   $w .= " $rank[0]\nAnt. $a\n_\n$v\n_\n\$Oremus\n$o\n";
@@ -1623,7 +1635,10 @@ sub vigilia_commemoratio {
   if ($version =~ /1955|1960/) {
     my $dt = sprintf("%02i-%02i", $month, $day);
     if ($dt !~ /(08\-14|06\-23|06\-28|08\-09)/) { return ''; }
-  }
+	} elsif ($dayname[0] =~ /Adv|Quad[0-6]/i || ($dayname[0] =~ /Quadp3/i && $dayofweek >= 4)) {
+		return '';
+	}
+	
   if ($fname !~ /\.txt$/) { $fname .= '.txt'; }
   if ($fname !~ /(Tempora|Sancti)/i) { $fname = "Sancti/$fname"; }
   my %w = %{setupstring($lang, $fname)};
@@ -1634,7 +1649,7 @@ sub vigilia_commemoratio {
     $w = $w{'Oratio Vigilia'};
   }
   if (!$w) { return ''; }
-  my $c = "!Commemoratio Vigilia\n";
+  my $c = "!" . &translate('Commemoratio', $lang) . ": " . &translate("Vigilia", $lang) . "\n";
   if ($w =~ /(\!.*?\n)(.*)/s) { $c = $1; $w = $2; }
   my %p = %{setupstring($lang, 'Psalterium/Major Special.txt')};
   my $a = $p{"Day$dayofweek Ant 2"};
