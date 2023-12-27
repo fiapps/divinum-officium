@@ -914,14 +914,18 @@ sub psalmi_major {
   my @antiphones;
   if (($hora =~ /Laudes/ || ($hora =~ /Vespera/ && $version =~ /Monastic/)) && $month == 12 && $day > 16 && $day < 24 && $dayofweek > 0) {
     my @p1 = split("\n", $psalmi{"Day$dayofweek Laudes3"});
-    if ($dayofweek == 6 && $version =~ /trident/i) { # take ants from feria occuring Dec 21st
-      my $expectetur = $p1[3]; # save Expectetur
-      @p1 = split("\n", $psalmi{"Day" . get_stThomas_feria($year) . " Laudes3"});
-      if ($day == 23) { # use Sundays ants
-        my %w = %{setupstring($lang, subdirname('Tempora', $version) . "Adv4-0.txt")};
-        @p1 = split("\n", $w{"Ant Laudes"});
+    if ($dayofweek == 6) {
+      if ($version =~ /trident/i) { # take ants from feria occuring Dec 21st
+        my $expectetur = $p1[3]; # save Expectetur
+        @p1 = split("\n", $psalmi{"Day" . get_stThomas_feria($year) . " Laudes3"});
+        if ($day == 23) { # use Sundays ants
+          my %w = %{setupstring($lang, subdirname('Tempora', $version) . "Adv4-0.txt")};
+          @p1 = split("\n", $w{"Ant Laudes"});
+        }
+        $p1[3] = $expectetur;
+      } elsif ($version =~ /monastic/i) {
+        ($p1[2],$p1[3]) = ($p1[3], ''); # both Canticle parts under Expectetur
       }
-      $p1[3] = $expectetur;
     }
     for (my $i = 0; $i < @p1; $i++) {
       my @p2 = split(';;', $psalmi[$i]);
@@ -1134,8 +1138,8 @@ sub oratio {
   }
 
   if ( ($rule =~ /Oratio Dominica/i && (!exists($w{Oratio}) || $hora =~ /Vespera/i))
-    || ($winner{Rank} =~ /Quattuor/i && $version !~ /196/ && $hora =~ /Vespera/i))
-  {
+    || ($winner{Rank} =~ /Quattuor/i && $dayname[0] !~ /Pasc7/i && $version !~ /196/ && $hora =~ /Vespera/i))
+	{
     my $name = "$dayname[0]-0";
     if ($name =~ /(Epi1|Nat)/i && $version !~ /monastic/i) { $name = 'Epi1-0a'; }
     %w = %{setupstring($lang, subdirname('Tempora', $version) . "$name.txt")};
