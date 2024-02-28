@@ -852,7 +852,7 @@ sub concurrence {
 		}
 		@commemoentries = @comentries;
 	} else { # We have 1st Vespers
-		my $ranklimit = ($rank >= 6 && $wrank[0] !~ /Dominica|feria|in.*octava/i) ? 4.2 : ($rank >= 5 && $wrank[0] !~ /Dominica|feria|in.*octava/i) ? 2.99 : 2;
+		my $ranklimit = ($rank >= 6 && $cwrank[0] !~ /Dominica|feria|in.*octava/i) ? 4.2 : ($rank >= 5 && $cwrank[0] !~ /Dominica|feria|in.*octava/i) ? 2.99 : 2;
 		# in Concurrence (i.e. today): Duplex I. cl excludes below Duplex II. cl., Duplex II. cl exludes below Duplex; Simplex have no 2nd Vespers
 		my @comentries = ();
 		my %cstr = ();
@@ -869,7 +869,7 @@ sub concurrence {
 		@commemoentries = @comentries;
 		
 		# In Occurencce (i.e. tomorrow):
-		$ranklimit =  ($wrank[0] =~ /Dominica|feria|in.*octava/i) ? 1.1 : ($rank >= 6 && $version !~ /trident/i) ? 4.2 : $rank >= 5 ? 2.2 : 1.1;
+		$ranklimit =  ($cwrank[0] =~ /Dominica|feria|in.*octava/i) ? 1.1 : ($rank >= 6 && $version !~ /trident/i) ? 4.2 : ($rank >= 5) ? 2.2 : 1.1;
 		@comentries = ();
 		foreach $commemo (@ccommemoentries) {
 			if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
@@ -1022,19 +1022,6 @@ sub precedence {
 	if (!$date1) { ($month, $day, $year) = split('-', gettoday()); }
 	
 	@dayname = (getweek($day, $month, $year, 0, $missa), '', '');
-	
-	my $vtv;
-	
-	if (!$missa) {
-		$vtv =
-		($votive =~ /(Dedication|C8)/i) ? 'C8'
-		: ($votive =~ /(Defunctorum|C9)/i) ? 'C9'
-		: ($votive =~ /(Parvum|C12)/i) ? 'C12'
-		: '';
-		if ($vtv !~ /(C8|C9|C12)/) { $votive = ''; }
-	} else {
-		$vtv = $votive unless ($votive eq 'Hodie');
-	}
 	
 	$C10 = 'C10';
 	if ($missa) {
@@ -1208,6 +1195,8 @@ sub precedence {
 		}
 	}
 	
+	my $vtv = $votive =~ /^C1?\da?/ ? $votive : '';
+
 	if ($vtv && !$missa) {
 		if ($vtv =~ /C12/i) {
 			if ( ($month == 12 && ($day == 24 && $hora =~ /Vespera|Completorium/ || ($day > 24)))
