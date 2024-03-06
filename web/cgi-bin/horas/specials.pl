@@ -1083,7 +1083,6 @@ sub antetpsalm {
   my @p = split(';', $line[1]);
 
   for (my $i = 0; $i < @p; $i++) {
-    if ($expand =~ /(psalms|all)/i && $i > 0) { push(@s, "\_"); }
     $p = $p[$i];
     $p =~ s/[\(\-]/\,/g;
     $p =~ s/\)//;
@@ -1708,7 +1707,7 @@ sub getproprium {
 
   if (!$w && $communetype && ($communetype =~ /ex/i || $flag)) {
     my %com = (columnsel($lang)) ? %commune : %commune2;
-
+	
     if (exists($com{$name})) {
       $w = tryoldhymn(\%com, $name);
       $c = 4;
@@ -1930,7 +1929,7 @@ sub getfromcommune {
   if (!$c) { return; }
 
   if ($c =~ /^C/) {
-    $c = "Commune/$c";
+    $c = subdirname('Commune', $version) . "$c";
     my $fname = "$datafolder/$lang1/$c" . "p.txt";
     if ($dayname[0] =~ /Pasc/i && (-e $fname)) { $c .= 'p'; }
   }
