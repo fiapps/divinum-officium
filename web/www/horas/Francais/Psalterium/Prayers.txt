@@ -60,7 +60,7 @@ V. Seigneur, * donnez-leur le repos éternel,
 R. Et faites luire pour eux * la lumière sans déclin.
 
 [Alleluia]
-v. Alleluia.
+v. Alléluia.
 v. Louange à Vous Seigneur, Roi d'éternelle gloire.
 
 [Dominus]
@@ -80,6 +80,9 @@ C'est pourquoi je supplie la bienheureuse Marie toujours Vierge,
 Saint Michel Archange, Saint Jean-Baptiste,
 les saints Apôtres Pierre et Paul, tous les Saints,
 de prier pour moi le Seigneur notre Dieu.
+
+[ConfiteorM]
+@:Confiteor:s/Paul/Paul, à notre bienheureux père Saint Benoit/g
 
 [Misereatur]
 v. Que le Dieu tout-puissant ait pitié de vous, et que, après vous avoir pardonné vos péchés, il vous conduise à la vie éternelle. Ainsi soit-il.
