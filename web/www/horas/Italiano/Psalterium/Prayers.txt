@@ -13,14 +13,59 @@ v. Ave, o Maria, piena di grazia, il Signore è con te. Tu sei benedetta tra le 
 v. Io Credo in Dio, Padre onnipotente, creatore del cielo e della terra; e in Gesù Cristo, suo unico Figlio, nostro Signore, il quale fu concepito di Spirito Santo, nacque da Maria Vergine, patì sotto Ponzio Pilato, fu crocifisso, morì e fu sepolto; discese agli inferi; il terzo giorno risuscitò da morte; salì al cielo, siede alla destra di Dio Padre onnipotente; di là verrà a giudicare i vivi e i morti. Credo nello Spirito Santo, la santa Chiesa cattolica, la comunione dei santi, la remissione dei peccati, la risurrezione della carne, la vita eterna. Amen.
 
 [Pater secreto]
-!Si dice il «Padre nostro» sottovoce fino a «E non ci indurre in tentazione».
+/:Si dice il «Padre nostro» sottovoce fino a «E non ci indurre in tentazione».:/
 &pater_noster
+
+[Pater totum secreto]
+/:Si dice il «Padre nostro» sottovoce.:/
+$Pater noster
 
 [Credo secreto]
 !Si dice il «Credo» sottovoce fino a «E non La risurrezione della carne».
 v. Io Credo in Dio, Padre onnipotente, creatore del cielo e della terra; e in Gesù Cristo, suo unico Figlio, nostro Signore, il quale fu concepito di Spirito Santo, nacque da Maria Vergine, patì sotto Ponzio Pilato, fu crocifisso, morì e fu sepolto; discese agli inferi; il terzo giorno risuscitò da morte; salì al cielo, siede alla destra di Dio Padre onnipotente; di là verrà a giudicare i vivi e i morti. Credo nello Spirito Santo, la santa Chiesa cattolica, la comunione dei santi, la remissione dei peccati.
 V. La risurrezione della carne.
 R. La vita eterna. Amen.
+
+[Pater post]
+/:Dopodiché si dice silenziosamente solo «Padre nostro», a meno che non segua immediatamente un'altra Ora.:/
+@:Pater noster
+
+[Pater post V]
+/:E se così l'Ufficio è finito, si dice sottovoce solo «Padre nostro».:/
+@:Pater noster
+
+[Secreto]
+/:in silenzio:/
+
+[Secreto L]
+/:Se Mattutino e Lodi sono separati, allora si dice in silenzio::/
+(sed rubrica monastica)
+/:Nelle feste del Simplesso e nei giorni feriali, e se il Mattutino è separato dalle Lodi, si comincia in silenzio::/
+
+[Clara voce]
+/:Poi, con voce udibile, si dice il Versetto::/
+
+[Secus absolute]
+/:Altrimenti l'ora viene avviata direttamente come segue::/
+(sed rubrica ^Trident)
+/:Dopo l'inno:/ Te Deum laudamus /:oppure recitato l'ultimo responsorio, l'ora inizia direttamente così::/
+
+[Rubrica Matutinum]
+!Si salta il resto, a meno che si preghino le %Lodi% separatamente.
+(sed rubrica tridentina)
+!Dopo aver recitato l'inno Te Deum laudamus o il nono o il terzo responsorio, si comincia direttamente con le %Lodi%, ad eccezione della notte di Natale: in questa si prega l'Oratio e poi si celebra la messa di Natale celebrato come indicato nel luogo opportuno.
+
+[Rubrica Matutinum] (rubrica monastica)
+!Si salta il resto, a meno che si preghino le %Lodi% separatamente.
+(sed rubrica tridentina aut rubrica divino)
+!Si salta il resto negli Uffici di 12 lezioni, a meno che si preghino le %Lodi% separatamente. Nelle feste del Simplesso e nei giorni feriali (sia con tre che con una lettura) si prega sempre quanto segue.
+
+[Pater Ave Credo C]
+/: Successivamente si dice in silenzio:/
+@:Pater noster
+@:Ave Maria
+@:Credo
+/:Se subito dopo Compieta si dice il Mattutino, allora:/ Padre Nostro, Ave Maria /:e:/ Credo, /:si dicono due volte, una volta ciascuno per la fine dell'Ufficio del giorno precedente e per l'inizio dell'Ufficio di il prossimo.:/
 
 [Adjutorium nostrum]
 V. Il nostro aiuto + è nel nome del Signore.
@@ -199,11 +244,6 @@ v. A Te si deve la lode, + a Te l'inno, a Te la gloria o Dio Padre e Figlio, ins
 
 [Kyrie]
 v. Signore, pietà. Cristo, pietà. Signore, pietà.
-
-[MLitany2]
-$Kyrie
-/:Si dice il «Padre nostro» sottovoce fino a «E non ci indurre in tentazione:».:/
-&pater_noster
 
 [Divinum auxilium]
 Il divin aiuto + sia sempre con noi.

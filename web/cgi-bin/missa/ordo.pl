@@ -21,6 +21,7 @@ sub ordo {
   my (@script1, @script2);
   @script1 = getordinarium($lang1, $command);
   @script1 = specials(\@script1, $lang1);
+
   if (!$only) {
     $column = 2;
     if ($Ck) { $version = $version2; precedence(); }
@@ -38,10 +39,13 @@ sub ordo {
 
   if ($rule =~ /prelude/i) {
     my $str = $winner{Prelude};
+
     # $str = norubr1($str);
     unshift(@script1, split('_', $str), '');
+
     if (!$only) {
       $str = $winner2{Prelude};
+
       # $str = norubr1($str);
       unshift(@script2, split('_', $str), '');
     }
@@ -49,10 +53,13 @@ sub ordo {
 
   if ($rule =~ /Post Missam/i) {
     my $str = $winner{'Post Missam'};
+
     # $str = norubr1($str);
     push(@script1, split('_', $str));
+
     if (!$only) {
       $str = $winner2{'Post Missam'};
+
       # $str = norubr1($str);
       push(@script2, split('_', $str));
     }
@@ -113,7 +120,7 @@ sub resolve_refs {
 
     #red prefix
     if ($line =~ /^\s*(R\.|V\.|S\.|P\.|M\.|A\.|O\.|C\.|D\.|Benedictio\.* |Absolutio\.* |Ant\. |Ps\. )(.*)/s) {
-      my $h = $1;
+      my $h = setvrbar($1);
       my $l = $2;
 
       if ($h =~ /(Benedictio|Absolutio)/) {
