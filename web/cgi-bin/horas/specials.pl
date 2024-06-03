@@ -209,37 +209,43 @@ sub specials {
     if ($item =~ /Capitulum/i && $hora =~ /^(?:Tertia|Sexta|Nona|Completorium)$/i) {
       my %capit = %{setupstring($lang, 'Psalterium/Minor Special.txt')};
       my $name = minor_getname();
-      $name .= 'M' if ($version =~ /monastic/i);
       $name = 'Completorium' if $hora eq 'Completorium';
-      my $capit = $capit{$name};
+      $name .= 'M' if ($version =~ /monastic/i);
+      my $capit = $capit{$name} =~ s/\s*$//r;
       my $resp = '';
 
-      if ($version !~ /^Monastic/ && ($resp = $capit{"Responsory $name"})) {
-        $capit =~ s/\s*$/ "\n_\n" . $resp /e;
+      if ($resp = $capit{"Responsory $name"}) {
+        $resp =~ s/\s*$//;
+        $capit =~ s/\s*$/\n_\n$resp/;
       }
-      my @capit = split("\n", $capit);
 
-      if ($name eq "Completorium" && $version !~ /^Ordo Praedicatorum/) {
-        push(@capit, '_', split("\n", $capit{'Versum 4'}));
+      if ($name =~ /Completorium/ && $version !~ /^Ordo Praedicatorum/) {
+        $capit .= "\n_\n$capit{'Versum 4'}";
       } else {
         $comment = ($name =~ /(Dominica|Feria)/i) ? 5 : 1;
         setbuild('Psalterium/Minor Special', $name, 'Capitulum ord');
 
-        #look for special from prorium the tempore of sancti
-        my ($w, $c) = getproprium("Capitulum $hora", $lang, $seasonalflag, 1);
+        #look for special from prorium the tempore or sancti
+        # use Laudes for Tertia apart C12
+        my $key = "Capitulum $hora";
+        $key =~ s/Tertia/Laudes/ if ($hora eq 'Tertia' && $votive !~ /C12/);
+        my ($w, $c) = getproprium($key, $lang, $seasonalflag, 1);
 
-        if ($w !~ /\_\nR\.br/i) {
-          ($wr, $cr) = getproprium("Responsory $hora", $lang, $seasonalflag, 1);
-          $w =~ s/\s*$//;
-          if ($wr) { $w .= "\n_\n$wr"; }
+        if ($w && $w !~ /\_\nR\.br/i) {    # add responsory if missing
+          $name = "Responsory $hora";
+          $name .= 'M' if ($version =~ /monastic/i);
+          ($wr, $cr) = getproprium($name, $lang, $seasonalflag, 1);
+          $resp = $wr || $resp;
+          $w =~ s/\s*$/\n_\n$resp/;
         }
 
-        if ($w && $w !~ /\_\nR\.br/i && !($version =~ /monastic/i && $w =~ /\_\nV\. /)) {
-          $w =~ s/\s*//;
-          $w .= "\n_\n$resp";
+        if ($w) {
+          $capit = $w;
+          $comment = $c;
         }
-        if ($w) { @capit = split("\n", $w); $comment = $c; }
       }
+
+      my @capit = split("\n", $capit);
       postprocess_short_resp(@capit, $lang);
 
       if ($hora eq 'Completorium') {
@@ -251,36 +257,53 @@ sub specials {
       next;
     }
 
-    if ($item =~ /Capitulum/i && $hora =~ /(Laudes|Vespera)/i) {
-      my $capit = '';
-      my $c = 0;
+    if ($item =~ /Capitulum/i && $hora =~ /^(?:Laudes|Vespera)/) {
+      my $name = "Capitulum Laudes";    # same for Vespera
+                                        # special case only 1 time
+      $name = 'Capitulum Vespera 1' if $winner =~ /12-25/ && $vespera == 1;
 
       setbuild('Psalterium/Major Special', $name, 'Capitulum ord');
 
-      if (
-           $hora =~ /Vespera/i
-        && $vespera == 3
-        && (exists($winner{'Capitulum Vespera 3'})
-          || !exists($winner{'Capitulum Vespera'}))
-      ) {
-        ($capit, $c) = getproprium("Capitulum Vespera 3", $lang, $seasonalflag, 1);
-      }
-      if (!$capit) { ($capit, $c) = getproprium("Capitulum $hora", $lang, $seasonalflag, 1); }
-      if (!$capit && !$seasonflag) { ($capit, $c) = getproprium("Capitulum $hora", $lang, 1, 1); }
+      my ($capit, $c) = getproprium($name, $lang, $seasonalflag, 1);
+      if (!$capit && !$seasonflag) { ($capit, $c) = getproprium($name, $lang, 1, 1); }
 
       if (!$capit) {
         my %capit = %{setupstring($lang, 'Psalterium/Major Special.txt')};
-        my $name = major_getname(1);
+        $name = major_getname(1);
         $capit = $capit{$name};
       }
 
-      if ($version =~ /monastic/i) {
+      if ($version =~ /^Monastic/) {
         (@capit) = split(/\n/, $capit);
         postprocess_short_resp(@capit, $lang);
         $capit = join("\n", @capit);
       }
+
       setcomment($label, 'Source', $c, $lang);
       push(@s, $capit);
+    }
+
+    if ($version =~ /^Monastic/i && $item =~ /Responsor/i && $hora =~ /^(?:Laudes|Vespera)/i) {
+      my $key = "Responsory $hora";
+
+      # special case only 4 times
+      $key .= ' 1' if ($winner =~ /(?:12-25|Quadp[123]-0)/ && $vespera == 1);
+
+      my ($resp, $c) = getproprium($key, $lang, $seasonalflag, 1);
+
+      if (!$resp) {    # take defaults from Roman minor hours
+        $key =~ s/Vespera/Sexta/;
+        $key =~ s/Laudes/Tertia/;
+        ($resp, $c) = getproprium($key, $lang, $seasonalflag, 1);
+      }
+
+      $resp =~ s/\n?_.*//s;
+
+      if ($resp) {
+        my @resp = split("\n", $resp);
+        postprocess_short_resp(@resp, $lang);
+        push(@s, '_', @resp);
+      }
     }
 
     if ($item =~ /Lectio brevis/i && $hora =~ /prima/i) {
@@ -922,26 +945,32 @@ sub psalmi_major {
 
   my @antiphones;
 
-  if ( ($hora =~ /Laudes/ || ($hora =~ /Vespera/ && $version =~ /Monastic/))
+  if ( ($hora =~ /Laudes/ || ($hora =~ /Vespera/ && $version =~ /1963/))
     && $month == 12
     && $day > 16
     && $day < 24
     && $dayofweek > 0)
   {
+    # TODO: is this really the case in Monastic 1963 Vespers throughout the week?
     my @p1 = split("\n", $psalmi{"Day$dayofweek Laudes3"});
 
-    if ($dayofweek == 6) {
-      if ($version =~ /trident/i) {    # take ants from feria occuring Dec 21st
-        my $expectetur = $p1[3];       # save Expectetur
+    if ($dayofweek == 6 && $version =~ /trident|monastic/i) {
+      my $expectetur = $p1[3];    # save Expectetur
+
+      if ($version =~ /trident|monastic.*divino/i) {    # take ants from feria occuring Dec 21st
         @p1 = split("\n", $psalmi{"Day" . get_stThomas_feria($year) . " Laudes3"});
 
-        if ($day == 23) {              # use Sundays ants
+        if ($day == 23 && $version !~ /divino/i) {      # use Sundays ants
           my %w = %{setupstring($lang, subdirname('Tempora', $version) . "Adv4-0.txt")};
           @p1 = split("\n", $w{"Ant Laudes"});
         }
+      }
+
+      if ($version =~ /monastic/i) {
+        $p1[2] = $expectetur;
+        $p1[3] = '';
+      } else {
         $p1[3] = $expectetur;
-      } elsif ($version =~ /monastic/i) {
-        ($p1[2], $p1[3]) = ($p1[3], '');    # both Canticle parts under Expectetur
       }
     }
 
@@ -949,7 +978,7 @@ sub psalmi_major {
       my @p2 = split(';;', $psalmi[$i]);
       $antiphones[$i] = "$p1[$i];;$p2[1]";
     }
-    setbuild2("Special laudes antiphonas for week before vigil of Christmas");
+    setbuild2("Special Laudes antiphonas for week before vigil of Christmas");
   }
 
   #look for de tempore or Sancti
@@ -1375,6 +1404,7 @@ sub oratio {
           $ccind++;
           $key = $ccind + 8500;    # 10000 - 1.5 * 1000
           $cc{$key} = $c;
+          setbuild2("Commemorated Vigil: $key");
         }
       }
     }
@@ -1906,7 +1936,7 @@ sub hymnusmajor {
 sub getanthoras {
   my $lang = shift;
   my $tflag = ($version =~ /Trident|Monastic/i && $winner =~ /Sancti/i) ? 1 : 0;
-  $tflag = 0 if ($winner =~ /SanctiM.01-(?:(?:0[2-5789])|(?:1[012]))/);
+  $tflag = 0 if ($version =~ /1963/ && $winner =~ /SanctiM.01-(?:(?:0[2-5789])|(?:1[012]))/);
 
   my $ant = '';
   if ($rule !~ /Antiphonas horas/i && $communerule !~ /Antiphonas horas/i && !$tflag) { return ''; }
@@ -2106,8 +2136,8 @@ sub doxology {
       && $commemoratio{Rule} =~ /Doxology=([a-z]+)/i)
     {
       $dname = $1;
-    } elsif (($month == 8 && $day > 15 && $day < 23 && $version !~ /Monastic/i)
-      || ($version != /1570/ && $month == 12 && $day > 8 && $day < 16 && $dayofweek > 0))
+    } elsif (($month == 8 && $day > 15 && $day < 23 && $version !~ /1955|1963/i)
+      || ($version !~ /1570|1617/ && $month == 12 && $day > 8 && $day < 16 && $dayofweek > 0))
     {
       $dname = 'Nat';
     } else {
