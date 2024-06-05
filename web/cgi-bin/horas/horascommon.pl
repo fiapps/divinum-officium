@@ -1476,9 +1476,7 @@ sub precedence {
     }
   }
 
-  my $vtv = $votive =~ /^C1?\da?/ ? $votive : '';
-
-  if ($vtv && !$missa) {
+  if (my $vtv = $votive ne 'Hodie' ? $votive : '') {
     if ($vtv =~ /C12/i) {
       if ( ($month == 12 && ($day == 24 && $hora =~ /Vespera|Completorium/ || ($day > 24)))
         || $month == 1
@@ -1509,24 +1507,6 @@ sub precedence {
       $commune = subdirname('Commune', $version) . "C11.txt";
       $communetype = 'ex';
       %commune = %{setupstring($lang1, $commune)};
-    }
-    $dayname[1] = $winner{Name};
-    $dayname[2] = '';
-  }
-
-  if ($vtv && $missa) {
-    $winner = "Votive/$vtv.txt";
-    $commemoratio = $commemoratio1 = $scriptura = $commune = '';
-    %winner = %{setupstring($lang1, $winner)};
-    %commemoratio = %scriptura = %commune = {};
-    $rule = $winner{Rule};
-
-    if ($vtv =~ /Maria/i) {
-      $commune = "Commune/C11.txt";
-      $communetype = 'ex';
-      %commune = %{setupstring($lang1, $commune)};
-
-      # %commune2 = updaterank(setupstring($lang2, $commune));
     }
     $dayname[1] = $winner{Name};
     $dayname[2] = '';
@@ -2135,8 +2115,8 @@ sub expand {
   if ($sigil eq '&') {
 
     # Make popup link if we shouldn't expand.
-    if ($expand =~ /nothing/i
-      || ($expand !~ /all/i && ($line =~ /^(?:[A-Z]|pater_noster)/)))
+    if ($expand =~ /none/i
+      || ($expand !~ /all|skeleton/i && ($line =~ /^(?:[A-Z]|pater_noster)/)))
     {
       return setlink($sigil . $line, 0, $lang);
     }
@@ -2154,12 +2134,12 @@ sub expand {
     return dispatch_script_function($function_name, @args);
   } else    # Sigil is $, so simply look up the prayer.
   {
-    if ($expand =~ /all/i) {
+    if ($expand =~ /all|skeleton/i) {
 
       #actual expansion for $ references
       return prayer($line, $lang);
     } else {
-      return setlink($sigil . $line, 0, $lang);
+      return (length prayer($line, $lang) > 1) ? setlink($sigil . $line, 0, $lang) : '';
     }
   }
 }

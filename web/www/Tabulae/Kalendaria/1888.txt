@@ -58,10 +58,8 @@
 03-17=03-17=S. Patritii Episcopi et Conf=3=
 03-18=03-18=S. Cyrilli Episc Hierosolymitani Eccl Doct=3=
 03-19=03-19=S. Joseph sponsi BMV confessoris=6=
-03-21=03-21=S. Benedicti Abbatis=4=
-03-25=03-25=In Annuntiatione Beate Mariæ Virginis=6=
-03-27=03-27=S. Joannis Damascene Confessor=3=
-03-28=03-28=S. Joannis Capistrano Confessor=2=
+03-20=03-21=S. Benedicti Abbatis=4=
+03-25=03-25=In Annuntiatione Beate Mariæ Virginis=5=
 *April*
 04-02=04-02=S. Francisci de Paula Confessoris=3=
 04-04=04-04=S. Isidori Episc Confessoris et Ecclesiae Doctoris=3=
@@ -99,9 +97,8 @@
 05-20=05-20=S. Bernardini Senensis Confessoris=2=
 05-25=05-25t=S. Gregory VII Papae Confessoris=3=S. Urbani I Pp et Martyris=1=
 05-26=05-26=S. Philippi Neri Confessoris=3=
-05-27=05-27~05-29o=S. Bedæ Venerabilis Confessoris et Ecclesiæ Doctoris=3=S. Joanne Papa et Mart=1=
+05-27=05-29~05-29o=S. Mariae Magdalenae de Pazzis=2=S. Joanne Papa et Mart=1=
 05-28=05-28=S. Augustini Episcopi Confessoris=3=
-05-29=05-29=S. Mariae Magdalenae de Pazzis=2
 05-30=05-30=S. Felicis Papae et Martyris=1=
 05-31=06-01~05-31o=S. Angelae Mericiae Virginis=3=S. Petronillae=1=
 *June*
@@ -113,7 +110,7 @@
 06-10=06-10=S. Margaritae Reginae viduae=2=
 06-11=06-11=S. Barnabae Apostoli=4=
 06-12=06-12=S. Joannis a S Facundo Confessoris=3=SS Martyrum =1=
-06-13=06-13=S. Antonii de Padua Confessoris=3=
+06-13=06-13t=S. Antonii de Padua Confessoris=3=
 06-14=06-14=S. Basilii Magni Confessoris et Ecclesiae Doctoris=3=
 06-15=06-15=Ss. Viti, Modesti atque Crescentiae Martyrum=1=
 06-18=06-18t=SS Marci et Marcellini Martyrum=1=
@@ -134,9 +131,8 @@
 07-02=07-02~07-02cc=In Visitatione B Mariae Virginis=5=Ss. Martyrum=1=
 07-03=07-03t=Quinta die infra Octavam Ss. Petri et Pauli=2=
 07-04=07-04=Sexta die infra Octavam Ss. Petri et Pauli=2=
-07-05=07-05=S. Antonii Mariae Zacharia Confessor=3=
+07-05=07-07=Ss. Cyrilli et Methodii Pont et Conf=3=
 07-06=07-06=In Octava Ss. Petri et Pauli=3=
-07-07==07-07=Ss. Cyrilli et Methodii Pont et Conf=3=
 07-08=07-08t=S. Elisabeth Reg Portugaliae Viduae=2=
 07-10=07-10=Ss. Septem Fratrum Martyrum, ac Rufinae et Secundae Virgini et Martyri=2=
 07-11=07-11=S. Pii I Papae et Martyris=1=
@@ -271,7 +267,7 @@
 11-30=11-30=S. Andrae Apostoli=5=
 *December*
 12-02=12-02=S. Bibianae Virginis et Martyris=2=
-12-03=12-03=S. Francisci Xaverii Confessoris=4=
+12-03=12-03=S. Francisci Xaverii Confessoris=3=
 12-04=12-04~12-04o=S. Petri Chrysologi Episcopi Confessoris Ecclesiae Doctoris=3=S. Barbarae Virginis et Martyris=1=
 12-05=12-05=S. Sabbae abbatis=1=
 12-06=12-06=S. Nicolai Episcopi et confessoris=3=

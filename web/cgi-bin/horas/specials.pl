@@ -33,6 +33,7 @@ sub specials {
   @s = ();
   $skipflag = 0;
   $tind = 0;
+  my $precdomfer = ($hora =~ /prima/i) ? 1 : 0;
 
   while ($tind < @t) {
     $item = $t[$tind];
@@ -131,10 +132,28 @@ sub specials {
       setbuild1($item, $skipflag ? 'omit' : 'include');
       next if $skipflag;
 
-      if ($hora =~ /Laudes|Tertia|Sexta|Nona|Vespera/) {
-        push(@s, prayer("Preces feriales $hora", $lang));
+      if ($hora =~ /Tertia|Sexta|Nona/) {
+        my %brevis = %{setupstring($lang, 'Psalterium/Minor Special.txt')};
+        my @prec = split("\n", $brevis{"Preces Feriales"});
+        push(@s, @prec);
+      } elsif ($hora =~ /Laudes|Vespera/) {
+        my %brevis = %{setupstring($lang, 'Psalterium/Major Special.txt')};
+        my @prec = split("\n", $brevis{"Preces feriales $hora"});
+        foreach my $line (@prec) { $line =~ s/^\s*$/\_/; }
+        push(@s, @prec);
       } elsif ($hora eq 'Completorium') {
-        push(@s, prayer("Preces Dominicales", $lang));
+        my %brevis = %{setupstring($lang, 'Psalterium/Minor Special.txt')};
+        my @prec = split("\n", $brevis{"Preces Dominicales"});
+        push(@s, @prec);
+      } elsif ($item =~ /Dominicales/i) {
+        my %brevis = %{setupstring($lang, 'Psalterium/Prima Special.txt')};
+        my @prec = split("\n", $brevis{"Preces Dominicales Prima $precdomfer"});
+        push(@s, @prec);
+        $precdomfer++;
+      } else {
+        my %brevis = %{setupstring($lang, 'Psalterium/Prima Special.txt')};
+        my @prec = split("\n", $brevis{"Preces feriales Prima"});
+        push(@s, @prec);
       }
       next;
     }
@@ -182,19 +201,22 @@ sub specials {
       }
       setcomment($label, 'Source', $comment, $lang);
       push(@s, @capit);
-      my $primaresponsory = ($version !~ /monastic/i) ? get_prima_responsory($lang) : '';
-      my %wpr = (columnsel($lang)) ? %winner : %winner2;
-      if (exists($wpr{'Versum Prima'}) && ($version !~ /monastic/i)) { $primaresponsory = $wpr{'Versum Prima'}; }
-      push(@s, $t[$tind++]);
+      push(@s, prayer("Deo gratias", $lang));
+      push(@s, "_");
+
       my @resp = ();
 
-      while ($t[$tind] !~ /^\s*\#/) {
-        if (($t[$tind] =~ /^\s*V\. /) && $primaresponsory) {
-          $t[$tind] = "V. $primaresponsory";
-          $primaresponsory = '';
-        }
-        push(@resp, $t[$tind++]);
+      if ($item =~ /Responsorium/i) {
+        @resp = split("\n", $brevis{'Responsory'});
+        my $primaresponsory = get_prima_responsory($lang);
+        my %wpr = (columnsel($lang)) ? %winner : %winner2;
+        if (exists($wpr{'Versum Prima'})) { $primaresponsory = $wpr{'Versum Prima'}; }
+        if ($primaresponsory) { $resp[2] = "V. $primaresponsory"; }
+        push(@resp, "_");
       }
+      my @versum = split("\n", $brevis{'Versum'});
+      push(@resp, @versum);
+
       postprocess_short_resp(@resp, $lang);
       push(@s, $_) for (@resp);
       next;
@@ -479,6 +501,11 @@ sub specials {
       setcomment($label, 'Suffragium', $comment, $lang);
       setbuild1("Suffragium$comment", 'included');
       push(@s, split("\n", $suffr));
+      next;
+    }
+
+    if ($item =~ /Martyrologium/i) {
+      setcomment($label, 'Martyrologium', 0, $lang);
       next;
     }
 
