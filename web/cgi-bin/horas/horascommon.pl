@@ -1694,6 +1694,8 @@ sub setheadline {
 
       if ($latname =~ /Vigilia Epi/i) {
         $rankname = ($version =~ /trident/i) ? 'Semiduplex' : 'Semiduplex Vigilia II. classis';
+      } elsif ($latname =~ /^In Vigilia/i && $rank <= 2.5) {
+        $rankname = 'Simplex';
       }
 
       if ($latname =~ /Sanctæ Fami/i && $version !~ /196/) {
@@ -1760,7 +1762,7 @@ sub setheadline {
       if ($version !~ /196/) {
         $rankname =
             ($rank < 2) ? 'Ferial'
-          : ($rank < 3) ? 'Feria major'
+          : ($rank < 3) ? ($version =~ /monastic.*divino/i ? 'Feria privilegiata III. ordinis' : 'Feria major')
           : ($rank < 5) ? 'Feria privilegiata II. ordinis'
           : 'Feria privilegiata';
       } else {
