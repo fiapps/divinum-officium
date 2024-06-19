@@ -293,9 +293,15 @@ sub occurrence {
         )                                          # on Duplex II. cl nothing of common octaves
         || (
           $version =~ /19(?:55|6)/i
-          && ( ($srank =~ /vigil/i && $sday !~ /(06\-23|06\-28|08\-09|08\-14|12\-24)/)
-            || ($srank =~ /(infra octavam|in octava)/i && nooctnat()))
-        )                                          # TODO: to be made obsolte s.a.
+          && (
+            (
+              $srank =~ /vigil/i
+              && ($sday !~ /(06\-23|06\-28|08\-09|08\-14|12\-24)/
+                || ($dayofweek == 0 && $month < 12))    # #3873: ensure no Vigil on Sunday except Nativity
+            )
+            || ($srank =~ /(infra octavam|in octava)/i && nooctnat())
+          )
+        )
         || ( $version =~ /1960/
           && $dayofweek == 0
           && (($trank[2] >= 6 && $srank[2] < 6) || ($trank[2] >= 5 && $srank[2] < 5)))
@@ -906,8 +912,8 @@ sub concurrence {
     } elsif (
       $rank < 2    # no 2nd Vespers of a Simplex
       || ( $version =~ /196/
-        && $cwinner{Rank} =~ /Dominica/i
-        && $rank < 5)    # on any Sunday, nothing of a preceding III. cl feast
+        && ($cwrank[0] =~ /Dominica/i || ($cwinner{Rule} =~ /Festum Domini/i && $dayofweek == 6))
+        && $rank < 5)    # on any Sunday or 1st Vespers of a Feast of the Lord , nothing of a preceding III. cl feast
       || ( $crank >= 6
         && !($rank == 2.1 || $rank == 2.99 || $rank == 3.9 || $rank >= 4.2)
         && $cwrank[0] !~ /Dominica|feria|in.*octava/i

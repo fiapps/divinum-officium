@@ -6,16 +6,6 @@ Gloria
 Credo
 Prefatio=Maria=Festivitate
 
-[Introitus]
-!  
-v. Hail, holy Mother, who in childbirth brought forth the King Who rules heaven~
-and earth world without end. Alleluia, alleluia
-!Ps 44:2
-My heart overflows with a goodly theme; as I sing my ode to the King.
-&Gloria
-v. Hail, holy Mother, who in childbirth brought forth the King Who rules heaven~
-and earth world without end.
-
 [Oratio]
 Grant us, Your servants, O Lord God, we beseech You, to enjoy lasting health of~
 mind and body; and by the intercession of glorious and blessed Mary, ever Virgin,~
@@ -37,18 +27,8 @@ man, shut Himself in your womb. Alleluia, alleluia.
 V. After childbirth you still remained an inviolate virgin: O Mother of God,~
 intercede for us. Alleluia.
 
-[Evangelium]
-Continuation ++ of the Holy Gospel according to Luke
-!Luke 11:27-28
-At that time, as Jesus was speaking to the multitudes, a certain woman from the~
-crowd lifted up her voice and said to Him, Blessed is the womb that bore You,~
-and the breasts that nursed You. But He said, Rather, blessed are they who hear~
-the word of God and keep it.
-
 [Offertorium]
-!Luke 1:28, 42
-Hail, Mary, full of grace, the Lord is with you; blessed are you among women and~
-blessed is the fruit of your womb. Alleluia.
+@Commune/C11
 
 [Secreta]
 Through Your mercy, O Lord, and by the intercession of blessed Mary, ever Virgin,~

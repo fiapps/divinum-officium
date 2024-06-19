@@ -10,16 +10,6 @@ Prefatio=Maria=Feast;
 # V Mass of the B. V. M. – Salve, Sancta Parens
 ! From Trinity Sunday until Advent
 
-[Introitus]
-!  
-v. Hail, holy Mother, who in childbirth brought forth the King Who rules heaven~
-and earth world without end.
-!Ps 44:2
-My heart overflows with a goodly theme; as I sing my ode to the King.
-&Gloria
-v. Hail, holy Mother, who in childbirth brought forth the King Who rules heaven~
-and earth world without end.
-
 [Oratio]
 Grant us, Your servants, O Lord God, we beseech You, to enjoy lasting health of~
 mind and body; and by the intercession of glorious and blessed Mary, ever Virgin,~
@@ -39,14 +29,6 @@ V. O Virgin, Mother of God, He Whom the whole world does not contain, becoming~
 man, shut Himself in your womb. Alleluia, alleluia.
 V. After childbirth you remained a pure virgin, O Mother of God, intercede for~
 us. Alleluia.
-
-[Evangelium]
-Continuation + of the Holy Gospel according to Luke
-!Luke 11:27-28
-At that time, as Jesus was speaking to the multitudes, a certain woman from the~
-crowd lifted up her voice and said to Him, Blessed is the womb that bore You,~
-and the breasts that nursed You. But He said, Rather, blessed are they who hear~
-the word of God and keep it.
 
 [Offertorium]
 !Lk 1:28; 1:42
