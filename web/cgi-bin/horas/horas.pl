@@ -335,7 +335,8 @@ sub antiphona_finalis : ScriptFunc {
   } else {
     $name = 'Postpentecost';
   }
-  my $t = %{setupstring($lang, "Psalterium/Mariaant.txt")}{$name};
+  my %ant = %{setupstring($lang, "Psalterium/Mariaant.txt")};
+  my $t = $ant{$name};
   $t = '#' . translate($name eq 'Ant Finalis OP' ? 'Antiphonae finalis' : 'Antiphona finalis BMV', $lang) . "\n$t";
   return ($t);
 }
@@ -1037,6 +1038,10 @@ sub gregor {
     'January', 'February', 'March', 'April', 'May', 'June',
     'July', 'August', 'September', 'October', 'November', 'December',
   );
+  my @months_it = (
+    'Gennaio', 'Febbraio', 'Marzo', 'Aprile', 'Maggio', 'Giugno',
+    'Luglio', 'Agosto', 'Settembre', 'Ottobre', 'Novembre', 'Dicembre',
+  );
   $day = $leapday || $day;    # recover English date in Leap Years
   my $sfx1 =
       ($day > 3 && $day < 21) ? 'th'
@@ -1058,6 +1063,8 @@ sub gregor {
     return ("Roku Pańskiego $year");
   } elsif ($lang =~ /Francais/i) {
     return ("L'année du Seigneur $year, le $gday$sfx2 jour de la Lune");
+  } elsif ($lang =~ /Italiano/i) {
+    return ("Anno del Signore $year, $day $months_it[$month - 1], Luna $gday");
   } else {
     return ("$months[$month - 1] $day$sfx1 $year, the $gday$sfx2 day of the Moon,", $months[$month - 1]);
   }
@@ -1074,6 +1081,10 @@ sub luna {
   my @months = (
     'January', 'February', 'March', 'April', 'May', 'June',
     'July', 'August', 'September', 'October', 'November', 'December',
+  );
+  my @months_it = (
+    'Gennaio', 'Febbraio', 'Marzo', 'Aprile', 'Maggio', 'Giugno',
+    'Luglio', 'Agosto', 'Settembre', 'Ottobre', 'Novembre', 'Dicembre',
   );
   my @ordinals = (
     'prima', 'secúnda', 'tértia', 'quarta',
@@ -1096,6 +1107,8 @@ sub luna {
 
   if ($lang =~ /Latin/i) {
     return ("Luna $ordinals[$dist-1]. Anno $year\n", ' ');
+  } elsif ($lang =~ /Italiano/i) {
+    return ("$day $months_it[$month - 1] $year, Luna $gday");
   } else {
     return ("$months[$month - 1] $day$sfx1 $year. The $dist$sfx2 day of the Moon.", $months[$month - 1]);
   }
