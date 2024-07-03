@@ -9,7 +9,7 @@ Suffr=Spiritu;Ecclesiae,Papa;;
 Prefatio=Maria=veneratione;
 
 [Graduale]
-Allelúja, allelúja
+Allelúja, allelúja.
 !Num 17:8
 v. Virga Jesse flóruit: Virgo Deum et hóminem génuit: pacem Deus réddidit, in se~
 reconcílians ima summis. Allelúja.
@@ -25,6 +25,5 @@ stantem, quem diligébat, dicit Matri suæ: Múlier, ecce fílius tuus. Deinde d
 discípulo: Ecce Mater tua. Et ex illa hora accépit eam discípulus in sua.
 
 [Offertorium]
-!  
 Beáta es, Virgo María, quæ ómnium portásti Creatórem: genuísti qui te fecit, et~
-in ætérnum pérmanes Virgo, allelúja.
+in ætérnum pérmanes Virgo.

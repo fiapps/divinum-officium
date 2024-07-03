@@ -893,14 +893,15 @@ sub concurrence {
     }
 
     if (
-      ($rank >= (($version =~ /19(?:55|6)/) ? 6 : 7) && $crank < 6)    # e.g. 05-26-2022
+      (    $rank >= (($version =~ /19(?:55|6)/ && $dayofweek < 6) ? 6 : 7)
+        && $crank < 6)    # On Saturday, 1st Vespers gets commemorated in Festis I. cl. github #3907
       || ( $version =~ /196/
         && ($cwinner{Rank} =~ /Dominica/i && $dayname[0] !~ /Nat1/i && $crank <= 5)
         && ($rank >= 5 && $winner{Rule} =~ /Festum Domini/i)
-      )    #on a II. cl Sunday nothing at 1st Vespers in concurrence with a Feast of the Lord
+      )                   #on a II. cl Sunday nothing at 1st Vespers in concurrence with a Feast of the Lord
       || ($rank >= ($version =~ /trident/i ? 6 : 5) && $winner !~ /feria|in.*octava/i && $crank < 2.1)
       )
-    {      # on Duplex I. cl / II. cl no commemoration of following Simplex and Common Octaves
+    {                     # on Duplex I. cl / II. cl no commemoration of following Simplex and Common Octaves
       $dayname[2] .= "<br>Vespera de præcedenti; nihil de sequenti";
       $cwinner = '';
       %cwinner = ();
@@ -969,7 +970,8 @@ sub concurrence {
       $cvespera = 1;
       $commemoratio = $cwinner;
       $dayname[2] = "Commemoratio: $cwrank[0]";
-      $dayname[2] .= "<br>Vespera de præcedenti; commemoratio de sequenti Dominica";
+      $dayname[2] .= "<br>Vespera de præcedenti; commemoratio de sequenti";
+      $dayname[2] .= " Dominica" if $cwinner{Rank} =~ /Dominica/i;
     } elsif ($flcrank == $flrank) {    # "flattend ranks" are equal => a capitulo
       $commemoratio = $winner;
       %commune =
@@ -1424,7 +1426,11 @@ sub precedence {
   #	}
 
   # only short readings in monastic summer
-  $scriptura = '' if ($version =~ /monastic/i && $scriptura =~ /(?:Pasc|Pent)/ && $month < 11);
+  $scriptura = ''
+    if ( $version =~ /monastic/i
+      && $scriptura =~ /(?:Pasc|Pent)/
+      && $month < 11
+      && $dayname[1] !~ /Vigilia/);
 
   if ($scriptura) {
     %scriptura = %{officestring($lang1, $scriptura)};
@@ -2131,15 +2137,12 @@ sub expand {
   our ($expand, $missa);
   local $expand = $missa ? 'all' : $expand;
 
-  #returns the link or text for & references
-  if ($sigil eq '&') {
-
-    # Make popup link if we shouldn't expand.
-    if ($expand =~ /none/i
-      || ($expand !~ /all|skeleton/i && ($line =~ /^(?:[A-Z]|pater_noster)/)))
-    {
-      return setlink($sigil . $line, 0, $lang);
-    }
+  # Make popup link if we shouldn't expand.
+  if ($expand =~ /none/i
+    || ($expand !~ /all|skeleton/i && ($line =~ /^(?:[A-Z]|pater_noster)/)))
+  {
+    setlink($sigil . $line, 0, $lang);
+  } elsif ($sigil eq '&') {
 
     # Actual expansion for & references.
     # Get function name and any parameters.
@@ -2151,16 +2154,10 @@ sub expand {
       $antline =~ s/^\s*Ant\. //i;
       push @args, $antline;
     }
-    return dispatch_script_function($function_name, @args);
+    dispatch_script_function($function_name, @args);
   } else    # Sigil is $, so simply look up the prayer.
   {
-    if ($expand =~ /all|skeleton/i) {
-
-      #actual expansion for $ references
-      return prayer($line, $lang);
-    } else {
-      return (length prayer($line, $lang) > 1) ? setlink($sigil . $line, 0, $lang) : '';
-    }
+    prayer($line, $lang);
   }
 }
 1;
