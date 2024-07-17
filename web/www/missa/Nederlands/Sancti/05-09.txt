@@ -7,11 +7,16 @@ Gloria
 CredoDA
 
 [Name]
-Gregóri
+Gregrius
 
 [Oratio]
-God, Gij hebt uw volk de heilige Gregorius als bedienaar van het eeuwig heil geschonken. Wij vragen U, laat ons in de hemel tot voorspreker hebben, die wij op aarde als leraar van het leven hadden.
-$Per Dominum.
+@Commune/C4a:Oratio:s/N\./Gregorius/
 
 [Lectio]
 @Commune/C4a:Lectio1
+
+[Secreta]
+@Commune/C4a:Secreta:s/N\./Gregorius/
+
+[Postcommunio]
+@Commune/C4a:Postcommunio:s/N\./Gregorius/
