@@ -18,7 +18,7 @@ Gelukkig de man, die de Heer vreest en zich in zijn geboden ten zeerste verheugt
 v. Mild deelt hij uit, geeft aan de armen. Zijn gerechtigheid duurt eeuwig voort. In luister verheft zich zijn hoorn. 
 
 [Oratio]
-Neig uw oor naar ons smeken, o Heer, en bewijs ons genadig, op voorspraak van uw heilige martelaar Laurentius, van wiens feest wij de Vigilie vieren, uw eeuwige barmhartigheid.
+Neig uw oor naar ons smeken, o Heer, en bewijs ons genadig, op voorspraak van uw heilige martelaar Laurentius, van wiens feest wij de vigilie vieren, uw eeuwige barmhartigheid.
 $Per Dominum
 
 [Lectio]
@@ -41,8 +41,7 @@ Aanvaard genadig, Heer, de offers, die wij U opdragen en bevrijd ons op voorspra
 $Per Dominum
 
 [Communio]
-!Matt 16:24
-Als iemand mijn volgeling wil zijn, moet hij zich zelf verloochenen, zijn kruis opnemen en Mij volgen.
+@Commune/C2
 
 [Postcommunio]
 Wij vragen U, Heer, onze God, doe ons, die nu in de tijd dankbaar de gedachtenis vieren van uw heilige martelaar Laurentius, in de eeuwigheid blij zijn aanblik genieten.
@@ -58,5 +57,4 @@ $Per Dominum
 
 [Commemoratio Postcommunio]
 !Pro S. Romano Martyre
-Wij vragen U, almachtige God, dat wij, die het hemelse voedsel ontvangen hebben, door tussenkomst van uw heilige martelaar Romanus, daardoor voor alle onheil bewaard mogen blijven.
-$Per Dominum
+@Commune/C5b:Postcommunio:s/N\./Romanus/

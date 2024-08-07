@@ -24,12 +24,7 @@ $Per eundem
 @Commune/C7a
 
 [Graduale]
-!Ps 44:8
-Dilexísti justítiam, et odísti iniquitátem. 
-V. Proptérea unxit te Deus, Deus tuus, óleo lætítiæ. 
-Allelúja, allelúja.
-!Ps 44:3
-Diffúsa est grátia in lábiis tuis: proptérea benedíxit te Deus in ætérnum. Allelúja.
+@Sancti/07-22
 
 [Evangelium]
 @Commune/C6a
@@ -42,8 +37,7 @@ Sacrifíciis præséntibus, quǽsumus, Dómine, placatus inténde: ut per interc
 $Per eundem
 
 [Communio]
-!Ps 44:3
-Diffúsa est grátia in lábiis tuis: proptérea benedíxit te Deus in ætérnum, et in sǽculum sǽculi.
+@Commune/C6a:Offertorium
 
 [Postcommunio]
 Cœléstibus sacraméntis vegetáti, quǽsumus, Dómine, Deus noster: ut, intercessióne beátæ Annæ, quam Genetrícis Fílii tui matrem esse voluísti, ad ætérnam salútem perveníre mereámur.

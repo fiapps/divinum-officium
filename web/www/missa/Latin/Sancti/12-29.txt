@@ -17,7 +17,6 @@ Credo
 Prefatio=Nat
 
 [Introitus]
-!  
 v. Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre beáti Thomæ~
 Mártyris: de cujus passióne gaudent Angeli et colláudant Fílium Dei.
 !Ps 32:1.
@@ -39,7 +38,7 @@ Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet.
 $Per eundem
 
 [Lectio]
-@Sancti/11-14
+@Sancti/04-23pl
 
 [Graduale]
 !Eccli 44:16
