@@ -341,14 +341,8 @@ sub specials {
       next;
     }
 
-    if ($item =~ /(benedictus|magnificat)/i) {
-      $comment = ($winner =~ /sancti/i) ? 3 : 2;
-      setcomment($label, 'Source', $comment, $lang, translate('Antiphona', $lang));
-      next;
-    }
-
-    if ($item =~ /Nunc Dimittis/i) {
-      Nunc_dimittis($lang);
+    if ($item =~ /Canticum/i) {
+      canticum($item, $lang);
       next;
     }
 
@@ -1701,20 +1695,13 @@ sub get_prima_responsory {
 # removes second part of antifones for non 1960 versions
 # returns arrat of the string
 sub loadspecial {
-  my $str = shift;
-  my @s = split("\n", $str);
+  local ($_) = shift;
 
   # Un-double the antiphons, except in 1960
   unless ($version =~ /196/) {
-    my $i;
-    my $ant = 0;
-
-    for ($i = 0; $i < @s; $i++) {
-      if (($ant & 1) == 0 && $s[$i] =~ /^(Ant\..*?)\*/) { $s[$i] = $1; }
-      if ($s[$i] =~ /^Ant\./) { $ant++; }
-    }
+    s/^Ant\. .*?\K \* .*?$//ms;
   }
-  return @s;
+  split "\n";
 }
 
 #*** delconclusio($ostr)
