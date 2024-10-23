@@ -160,8 +160,11 @@ sub get_tempus_id {
       : 'Nativitatis'
     : /^Epi/ ? ($month == 1 && $day <= 13)
       ? 'Epiphaniæ'
+      : ($month == 1 || $day == 1 || ($day == 2 && !$vesp_or_comp)) ? 'post Epiphaniam post partum'
       : 'post Epiphaniam'
-    : /^Quadp(\d)/ && ($1 < 3 || $dayofweek < 3) ? 'Septuagesimæ'
+    : /^Quadp(\d)/ && ($1 < 3 || $dayofweek < 3) ? ($month == 1 || $day == 1 || ($day == 2 && !$vesp_or_comp))
+      ? 'Septuagesimæ post partum'
+      : 'Septuagesimæ'
     : /^Quad(\d)/ && $1 < 5 ? 'Quadragesimæ'
     : /^Quad/ ? 'Passionis'
     : /^Pasc0/ ? 'Octava Paschæ'
@@ -186,13 +189,18 @@ sub get_tempus_id {
 
 # Returns the name of the day for use as a subject in conditionals.
 sub get_dayname_for_condition {
-  our ($day, $month, $day_of_week, $winner, $version);
+  our ($day, $month, $year, $winner, $version);
   our $hora;
   my $vesp_or_comp = ($hora =~ /Vespera/i) || ($hora =~ /Completorium/i);
   return 'Epiphaniæ' if ($month == 1 && ($day == 6 || ($day == 5 && $vesp_or_comp)));
   return 'in Cœna Domini' if $winner =~ /Quad6-4/;
   return 'in Parasceve' if $winner =~ /Quad6-5/;
   return 'Sabbato Sancto' if $winner =~ /Quad6-6/;
+  return 'Omnium Defunctorum'
+    if (
+      $month == 11
+      && ($day == 2 || ($day == 3 && $dayofweek == 1) || ($day == 1 && day_of_week(11, 1, $year) != 6 && $vesp_or_comp))
+    );
   return '';
 }
 
