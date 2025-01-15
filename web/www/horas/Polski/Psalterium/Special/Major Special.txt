@@ -790,7 +790,7 @@ R. Aby cię strzegli na wszystkich drogach twoich.
 v. Włóżmy drewno w chleb jego a wygładźmy go z ziemie żywiących, i imienia jego więcej niech nie wspomnią.
 $Deo gratias
 
-[Responsory Quad5 Laudes]
+[Responsory Quad5 Laudes_]
 R.br. Wyrwij od miecza, * Boże, duszę moję.
 R. Wyrwij od miecza, * Boże, duszę moję.
 V. A z ręki psiéj jedynaczkę moję.
@@ -850,7 +850,7 @@ R. I od powstawających przeciwko mnie wybaw mię.
 v. Ale ty, Panie zastępów, który sądzisz sprawiedliwie, a nerek i serca doznawasz, niech ujrzę pomstę twoję nad nimi; bom tobie objawił sprawę moję, Panie, Boże mój.
 $Deo gratias
 
-[Responsory Quad5 Vespera]
+[Responsory Quad5 Vespera_]
 R.br. Z paszczęki lwiéj * wybaw mię Panie.
 R. Z paszczęki lwiéj * wybaw mię Panie.
 V. A od rogów jednorożcowych uniżenie moje.
@@ -1037,19 +1037,9 @@ $Oremus
 v. Boże, któryś chciał, aby Syn Twój poniósł za nas Mękę Krzyżową i wyzwolił nas przez to od mocy nieprzyjaciół, dozwól nam, sługom Twoim, osiągnąć łaskę zmartwychwstania.
 $Per eumdem
 
-[Suffragium BMV]
+[Suffragium BMV Ant]
 !Do Najświętszej Marji
 Ant. Święta Marjo, wspomóż nieszczęśliwych, wesprzyj bojaźliwych, pociesz zasmuconych, módl się za lud, wstawiaj się za klerem, przyczyń się za niewiastami Bogu poświęconemi: niechaj doznają Twego wsparcia wszyscy, którzy obchodzą święte wspomnienie Twoje.
-_
-(deinde dicuntur semper)
-V. Módl się za nami święta Boża Rodzicielko.
-R. Abyśmy się stali godnymi obietnic Chrystusowych
-_
-$Oremus
-v. Dozwól, prosimy Cię, Panie Boże, aby słudzy Twoi cieszyli się ciągiem zdrowiem duszy i ciała, a za przyczyną chwalebnej i błogosławionej Marji, zawsze Dziewicy, uwolnieni od smutków doczesnych, doszli do radości wiekuistych.
-(sed tempore post partum loco horum versuum dicuntur)
-@Psalterium/Mariaant:Nativiti:s/.*V\./V\./s
-
 
 [Suffragium DeJosephV]
 !Do świętego Józefa

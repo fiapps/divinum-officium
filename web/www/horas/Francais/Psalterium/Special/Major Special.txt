@@ -783,7 +783,7 @@ R. De te garder dans toutes tes voies.
 v. Mettons du bois dans son pain, exterminons-le de la terre des vivants, et qu'on ne se souvienne plus de son nom.
 $Deo gratias
 
-[Responsory Quad5 Laudes]
+[Responsory Quad5 Laudes_]
 R.br. Arrachez au glaive, Ô Dieu, mon âme.
 R. Arrachez au glaive, Ô Dieu, mon âme.
 V. Et ma vie de l'atteinte du Chien.
@@ -843,7 +843,7 @@ R. Et sauvez-moi de ceux qui se lèvent contre moi.
 v. Mais Vous, Seigneur des armées, qui jugez justement, et qui sondez les reins et les cœurs, faites-moi voir Votre vengeance sur eux ; car je Vous ai confié ma cause.
 $Deo gratias
 
-[Responsory Quad5 Vespera]
+[Responsory Quad5 Vespera_]
 R.br. De la gueule du lion * Délivrez-moi, Seigneur.
 R. De la gueule du lion * Délivrez-moi, Seigneur.
 V. Et des cornes du buffle, délivrez ma faiblesse.
@@ -1030,19 +1030,9 @@ $Oremus
 v. Ô Dieu, qui avez voulu que Votre Fils subisse, pour nous, le tourment de la Croix afin de nous soustraire au pouvoir de l'ennemi : accordez à Vos serviteurs que nous sommes, d'obtenir la grâce de la resurrection.
 $Per eumdem
 
-[Suffragium BMV]
+[Suffragium BMV Ant]
 !Commémoraison de la Sainte Vierge
 Ant. Sainte Marie, secourez les malheureux, venez en aide aux faibles, consolez les affligés, priez pour tout le peuple, intervenez en faveur du clergé, intercédez pour les femmes consacrées par vœu : qu’ils éprouvent tous votre assistance, ceux qui célèbrent votre sainte fête.
-_
-(deinde dicuntur semper)
-V. Priez pour nous, sainte Mère de Dieu.
-R. Afin que nous devenions dignes des promesse de Jésus-Christ.
-_
-$Oremus
-v. Nous Vous supplions, ô Seigneur Dieu, d'accorder à nous, Vos serviteurs, la grâce de jouir de la santé de l'âme et du corps ; et, par la glorieuse intercession de la Bienheureuse Marie toujours Vierge, d'être délivrés des tritesses du temps présent et de goûter les joies éternelles.
-(sed tempore post partum loco horum versuum dicuntur)
-@Psalterium/Mariaant:Nativiti:s/.*V\./V\./s
-
 
 [Suffragium DeJosephV]
 !Commémoraison de Saint Joseph
