@@ -93,7 +93,7 @@ sub specials {
     ) {
       $skipflag = 1;
 
-      if ($item =~ /incipit/i && $version !~ /Cist|1955|196/) {
+      if ($item =~ /incipit/i && $version !~ /Cist|1955|196/i) {
         $comment = 2;
         setbuild1($ite, 'limit');
       } else {
@@ -102,7 +102,11 @@ sub specials {
       }
       setcomment($label, 'Preces', $comment, $lang) if ($rule !~ /Omit.*? $ite mute/i);
 
-      if ($item =~ /incipit/i && $version !~ /Cist|1955|196/ && $winner !~ /C12/) {
+      if ( $item =~ /incipit/i
+        && $version !~ /1955|196/
+        && $winner !~ /C12/
+        && !($version =~ /cist/i && $winner =~ /C9/))
+      {
         if ($hora eq 'Laudes') {
           push(@s, '/:' . translate('Si Laudes', $lang) . ':/');
         } else {
@@ -696,7 +700,10 @@ sub checksuffragium {
     || $version =~ /cist/i && $commune =~ /C1a?$/i
 
     # Altovadensis: max 3. collects
-    || $version =~ /altovadensis/i && $collectcount > 2;
+    || $version =~ /altovadensis/i && $collectcount > 2
+
+    # Altovadensis: limit at xij. Lect. et M.
+    || $version =~ /altovadensis/i && $rank > 2.5;
 
   if ($commemoratio && $seasonalflag) {
     my @r = split(';;', $commemoratio{Rank});

@@ -40,12 +40,14 @@ OPTIONS:
    -m          Generate Mass propers in addition to office texts.
 
    -r RUBRICS  The rubrics to use. Defaults to 1960.
-               Supported values are: 1570, 1910, DA, 1955, 1960, Newcal, Dominican
+               Supported values are: 1570 1888 1906 DA 1955 1960 Newcal 1617 1930 1963 1951 Altovado Dominican
 
    -c FILENAME The cover image to use without path. It must be a file in the data
                directory. Defaults to "cover.jpg".
 
    -o PATH     The output directory. Defaults to "output".
+
+   -l LANG     The language for right side if required
 
    -f          If specified, use "fancy" characters: [℟ ℣ +︎ ✠ ✙︎]
 
@@ -73,14 +75,14 @@ OPTIONAL_KINDLEGEN_PATH=/usr/local/bin/kindlegen #full path to kindlegen executa
 
 #constants
 #supported rubrics as in Eofficium.pl
-ALL_RUBRICS_CODES=(1570 1910 DA 1955 1960 Newcal Dominican)
-ALL_RUBRICS=("Tridentine - 1570" "Tridentine - 1910" "Divino Afflatu - 1954" "Reduced - 1955" "Rubrics 1960 - 1960" "Rubrics 1960 - 2020 USA" "Ordo Praedicatorum - 1962")
-ALL_RUBRICS_NAME=("_1570" "_1910" "_DA" "_1955" "" "NC" "OP")
+ALL_RUBRICS_CODES=(1570 1888 1906 DA 1955 1960 Newcal 1617 1930 1963 1951 Altovado Dominican)
+ALL_RUBRICS=("Tridentine - 1570" "Tridentine - 1888" "Tridentine - 1906" "Divino Afflatu - 1954" "Reduced - 1955" "Rubrics 1960 - 1960" "Rubrics 1960 - 2020 USA" "Monastic - 1617" "Monastic - 1930" "Monastic - 1963" "Ordo Cisterciensis - 1951" "Ordo Cisterciensis - Abbatia B.M.V. de Altovado" "Ordo Praedicatorum - 1962")
+ALL_RUBRICS_NAME=(_1570 _1888 _1906 _DA _1955 "" _NC _M1617 _M1930 Monastic _Cist _Altovado _OP)
 
 YEAR_RE='^[0-9]+$'
 
 #parse parameters
-while getopts "hy:t:pvmr:c:o:f" OPTION
+while getopts "hy:t:pvmr:c:o:l:f" OPTION
 do
      case $OPTION in
          h)
@@ -135,7 +137,7 @@ do
              BLANG=$OPTARG
              #TODO: validate the value
              ;;
-		 f)
+		     f)
              NOFANCYCHARS=0
              ;;
          ?)
@@ -239,7 +241,7 @@ foreachHourInDay() {
 }
 
 foreachDayInMonth() {
-	DAYN=$(cal $MONTH $YEAR|egrep -v [a-z]|wc -w)
+	DAYN=$(cal $MONTH $YEAR|grep -E -v [a-z]|wc -w)
 	for DAY in $(seq -w $DAYN); do
 		formatFilename
 		$1
@@ -251,7 +253,7 @@ foreachDayInYear() {
 	for MONTH in $(seq -w 12); do
 		MONTH_NUM_INDEX=1+$MONTH_NUM_INDEX
 
-		DAYN=$(cal $MONTH $YEAR|egrep -v [a-z]|wc -w)
+		DAYN=$(cal $MONTH $YEAR|grep -E -v [a-z]|wc -w)
 		for DAY in $(seq -w $DAYN); do
 				formatFilename
 				$1
@@ -264,7 +266,7 @@ foreachHourInYear() {
 	for MONTH in $(seq -w 12); do
 		MONTH_NUM_INDEX=1+$MONTH_NUM_INDEX
 
-		DAYN=$(cal $MONTH $YEAR|egrep -v [a-z]|wc -w)
+		DAYN=$(cal $MONTH $YEAR|grep -E -v [a-z]|wc -w)
 		for DAY in $(seq -w $DAYN); do
 			for H in $(seq 0 $HORA_INDEX_LAST); do
 				formatFilename
@@ -290,7 +292,7 @@ foreachHourInRange() {
 		MONTH_NUM_INDEX=-1 #note we cannot count using MONTH, because it is zero padded (and bash consides it an octal literal)
 		for MONTH in $(seq -w 12); do
 			MONTH_NUM_INDEX=1+$MONTH_NUM_INDEX
-			DAYN=$(cal $MONTH $YEAR|egrep -v [a-z]|wc -w)
+			DAYN=$(cal $MONTH $YEAR|grep -E -v [a-z]|wc -w)
 			for DAY in $(seq -w $DAYN); do
 				for H in $(seq 0 $HORA_INDEX_LAST); do
 					formatFilename

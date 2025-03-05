@@ -10,3 +10,9 @@ OPapaM=Hygínum;
 
 [Oratio] (rubrica tridentina)
 @Commune/C2::s/N\./Hygíni/
+
+[Ant 1] (rubrica cisterciensis)
+@Commune/C2
+
+[Ant 2] (rubrica cisterciensis)
+@Commune/C2

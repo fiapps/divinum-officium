@@ -942,8 +942,11 @@ sub concurrence {
     my $flcrank =
       $version =~ /cist/i && $cwinner{Rank} =~ /Dominica/i
       ? 2
-      : $version =~ /trident/i
-      ? ($crank < 2.91 ? 2 : ($cwinner{Rank} =~ /Dominica/i ? 2.99 : ($crank < 4.9 && $crank != 4) ? 3 : $crank))
+      : $version =~ /trident/i ? (
+        $crank < 2.91
+        ? ($crank > 2 ? 2 : $crank)
+        : ($cwinner{Rank} =~ /Dominica/i ? 2.99 : ($crank < 4.9 && $crank != 4) ? 3 : $crank)
+      )
       : ($version =~ /divino/i && $cwinner{Rank} =~ /Dominica/i) ? 4.9
       : $crank;
 
@@ -993,7 +996,10 @@ sub concurrence {
         && $cwrank[0] !~ /Dominica|feria|in.*octava/i)
 
       # on Christmas Eve and New Year's Eve, nothing of a preceding Sunday
-      || ($cwinner =~ /12-25|01-01/)
+      || ($cwinner =~ /12-25|01-01/ && $version !~ /cist/i)
+
+      # Cist: we need Comm. of S. Silvester on 31-12
+      || ($cwinner =~ /12-25/ && $version =~ /cist/i)
 
       # in 1st Vespers of Duplex II. cl. also commemoration of any Duplex
       || ( $crank >= 5
@@ -1763,7 +1769,7 @@ sub rankname {
         $rankname =~ s/Semiduplex //;
       }
     }
-  } elsif ($commune =~ /C10/) {    # Can;t use winner due 9/13/2025 DA
+  } elsif ($commune =~ /C10/) {    # Can't use winner due 9/13/2025 DA
     $rankname = $ranktable[1];     # Simplex - BMV Sabbato
   } elsif ($version =~ /196/ && $winner =~ /Pasc[07]-[1-6]/) {
     $rankname = "$t{'Dies Octavæ'} I. $t{classis}";    # Paschal & Pentecost Octave post 1960
