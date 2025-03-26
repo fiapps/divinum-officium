@@ -1,8 +1,9 @@
-[Rank]
-sv. Františka Saleského, Biskupa, Vyznavače, a Učitele Církve;;Duplex;;3;;vide C4a
+[Officium]
+sv. Františka Saleského, Biskupa, Vyznavače, a Učitele Církve
 
 [Name]
-Františku
+František
+Ant=Františku
 
 [Oratio]
 Bože, jenž jsi pro spásu duší chtěl, aby se svatý František, tvůj Vyznavač a Biskup, stal všem vším, uděl milostivě, abychom, prodchnuti sladkostí tvé lásky, jeho vedoucím napomínáním a přímluvnými zásluhami dosáhli radostí věčných.

@@ -66,10 +66,14 @@ sub oratio {
   } else {
     $w = $w{Oratio};
   }
-  if ($hora eq 'Matutinum' && exists($winner{'Oratio Matutinum'})) { $w = $w{'Oratio Matutinum'}; }
-  if (!$w) { $w = $w{"Oratio $ind"}; }    # if none yet, look for Oratio of Vespers or Lauds according to ind
 
-  if (!$w) {                              # if none yet, look in commune.
+  if ($hora eq 'Matutinum' && exists($winner{'Oratio Matutinum'})) {
+    $w = $w{'Oratio Matutinum'};
+  } elsif (!$w || exists($winner{"Oratio $ind"})) {
+    $w = $w{"Oratio $ind"};
+  }    # if none yet, look for Oratio of Vespers or Lauds according to ind
+
+  if (!$w) {    # if none yet, look in commune.
     my %c = columnsel($lang) ? %commune : %commune2;
     my $i = $ind;
     $w = $c{"Oratio $i"};
@@ -79,11 +83,11 @@ sub oratio {
   if ($hora ne 'Matutinum') { setbuild($winner, "Oratio $ind", 'Oratio ord'); }
   my $i = $ind;
 
-  if (!$w) {                              # if none yet:
-    if ($i == 2) {                        # if Laudes, try 2nd Vespers
+  if (!$w) {    # if none yet:
+    if ($i == 2) {    # if Laudes, try 2nd Vespers
       $i = 3;
       $w = $w{"Oratio $i"};
-    } else {                              # if Vespers, try Laudes
+    } else {          # if Vespers, try Laudes
       $w = $w{'Oratio 2'};
     }
     if (!$w) { $i = 4 - $i; $w = $w{"Oratio $i"}; }    # or, try other Vesper
@@ -592,7 +596,7 @@ sub getcommemoratio {
   if ($rank[3] =~ /(ex|vide)\s+(.*)\s*$/i) {
     my $file = $2;
     if ($w{Rule} =~ /Comex=(.*?);/i && $rank < 5) { $file = $1; }
-    if ($file =~ /^C[1-3]a?$/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
+    if ($file =~ /^C[1-3](?![v\d])/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
     $file = "$file.txt";
     if ($file =~ /^C/) { $file = subdirname('Commune', $version) . "$file"; }
     %c = %{setupstring($lang, $file)};
@@ -601,7 +605,7 @@ sub getcommemoratio {
 
       # allow daisy-chained Commune references to the second-level
       $file = $2;
-      if ($file =~ /^C[1-3]a?$/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
+      if ($file =~ /^C[1-3](?![v\d])/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
       $file = "$file.txt";
       if ($file =~ /^C/) { $file = subdirname('Commune', $version) . "$file"; }
       my %c2 = %{setupstring($lang, $file)};
@@ -616,9 +620,10 @@ sub getcommemoratio {
   } else {
     %c = {};
   }
+
   if (!$rank) { $rank[0] = $w{Officium}; }    #commemoratio from commune
   my $o = $w{Oratio};
-  if ($o =~ /N\./) { $o = replaceNdot($o, $lang); }
+  if ($o =~ /N\./ && $w{Name}) { $o = replaceNdot($o, $lang, $w{Name}); }
 
   if (!$o && $w{Rule} =~ /Oratio Dominica/i) {
     $wday =~ s/\-[0-9]/-0/;
@@ -718,7 +723,7 @@ sub vigilia_commemoratio {
     $w = $w{Oratio};
 
     if (!$w && $w{Rank} =~ /(?:ex|vide) C1v/) {
-      my %com = columnsel($lang) ? %commune : %commune2;
+      my %com = %{setupstring($lang, subdirname('Commune', $version) . "C1v.txt")};
       $w = $com{Oratio};
       $w = replaceNdot($w, $lang, $w{Name});
     }
