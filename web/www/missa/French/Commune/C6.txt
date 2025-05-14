@@ -1,5 +1,5 @@
-[Officium]
-Commune Virgine et martyre=Loquebar
+[Name]
+Commun d'une Vierge Martyre=Loquebar
 
 [Rule]
 Gloria
@@ -16,7 +16,7 @@ V. Je parlerai de vos prescriptions devant les rois, et je n'aurai point honte ;
 $Per Dominum
 
 [Lectio]
-Lecture du livre de l’Ecclésiastique.
+Lecture du livre de la Sagesse.
 !Eccli 51:1-8; 51:12
 Je veux vous célébrer, Seigneur Roi, je veux vous louer, Dieu Sauveur. Je célèbre votre nom, car vous avez été pour moi un soutien, un secours. Vous avez sauvé mon corps de la perdition, des pièges de la langue perfide, des lèvres qui pratiquent le mensonge, et en face de mes adversaires vous vous êtes fait mon défenseur. Dans l'immensité de vos miséricordes, vous m'avez délivrée de ceux qui grinçaient des dents, prêts à me dévorer, des mains de ceux qui en voulaient à ma vie, de l'assaut des tribulations dont j'étais assiégée. Vous m'avez délivrée de la violence des flammes qui m'environnaient, et au milieu du feu je n'ai point ressenti de brûlure ; vous m'avez tirée de l'abîme profond du séjour des morts, de la langue impure et des paroles mensongères, de la calomnie d'une langue injuste auprès du roi. Mon âme louera le Seigneur jusqu'à la mort, parce que vous sauvez du péril ceux qui mettent en vous leur espoir, et vous les délivrez des mains des nations, ô Seigneur notre Dieu.
 
@@ -26,14 +26,6 @@ Vous avez aimé la justice et haï l'iniquité.
 V. C'est pourquoi Dieu, votre Dieu, vous a donné l'onction de joie. Alléluia, alléluia.
 V. Ps 48:15; 48:16
 Elle est conduite au Roi, suivie du cortège des vierges ses compagnes ; on les conduit dans la joie. Alléluia.
-
-[GradualeP]
-Alléluja, alléluja
-!Ps 44:15; 44:16
-Elle est conduite au Roi, suivie du cortège des vierges ses compagnes ; on les conduit dans la joie.
-Allelúja.
-!Ps 44:5
-Dans votre grâce, dans votre beauté, allez, soyez heureuse et régnez. Alléluia.
 
 [Tractus]
 !Ps 44:8.
@@ -45,10 +37,18 @@ Venez, épouse du Christ, recevez la couronne que le Seigneur vous a préparé �
 Vous avez aimé la justice et haï l'iniquité, c'est pourquoi Dieu, votre Dieu, vous a donné l'onction d'allégresse.
 V. Dans votre grâce, dans votre beauté, allez, soyez heureuse et régnez.
 
+[GradualeP]
+Alléluja, alléluja
+!Ps 44:15; 44:16
+Elle est conduite au Roi, suivie du cortège des vierges ses compagnes ; on les conduit dans la joie.
+Allelúja.
+!Ps 44:5
+Dans votre grâce, dans votre beauté, allez, soyez heureuse et régnez. Alléluia.
+
 [Evangelium]
-Sequéntia ++ sancti Evangélii secúndum Matthǽum.
+Suite du ++ saint Evangile selon Matthieu.
 !Matt 25:1-13
-En ce temps-là, Jésus dit à ses disciples cette parabole : « Il en sera du Royaume des cieux comme de dix vierges qui prirent leurs lampes et sortirent à la rencontre de l'époux et de l'épouse. Cinq d'entre elles étaient étourdies et cinq étaient sages. Les étourdies, en prenant leurs lampes, n'avaient pas pris d'huile avec elles, mais les sages avaient, avec leurs lampes, pris de l'huile dans des vases. L'époux tardant à venir, elles s'assoupirent toutes et s'endormirent. Au milieu de la nuit, un cri retentit : « Voici l'époux qui vient ! Sortez à sa rencontre !» Alors toutes ces vierges s'éveillèrent et apprêtèrent leurs lampes. Les étourdies dirent aux sages : « Donnez-nous de votre huile, car nos lampes s'éteignent.» Les sages leur répondirent : « Jamais il n'y en aurait assez pour nous et pour vous ; allez plutôt chez les marchands et achetez-vous-en.» Pendant qu'elles allaient en acheter, l'époux arriva ; celles qui étaient prêtes entrèrent avec lui dans la salle des noces, et on ferma la porte. Finalement arrivent aussi les autres vierges, qui disent : « Seigneur, Seigneur, ouvrez-nous !» Mais il répondit : « En vérité, je vous le dis : je ne vous connais pas.» Veillez donc, car vous ne savez ni le jour ni l'heure. »
+En ce temps-là, Jésus dit à ses disciples cette parabole : « Il en sera du Royaume des cieux comme de dix vierges qui prirent leurs lampes et sortirent à la rencontre de l'époux et de l'épouse. Cinq d'entre elles étaient étourdies et cinq étaient sages. Les étourdies, en prenant leurs lampes, n'avaient pas pris d'huile avec elles, mais les sages avaient, avec leurs lampes, pris de l'huile dans des vases. L'époux tardant à venir, elles s'assoupirent toutes et s'endormirent. Au milieu de la nuit, un cri retentit : "Voici l'époux qui vient ! Sortez à sa rencontre !" Alors toutes ces vierges s'éveillèrent et apprêtèrent leurs lampes. Les étourdies dirent aux sages : "Donnez-nous de votre huile, car nos lampes s'éteignent." Les sages leur répondirent : "Jamais il n'y en aurait assez pour nous et pour vous ; allez plutôt chez les marchands et achetez-vous-en." Pendant qu'elles allaient en acheter, l'époux arriva ; celles qui étaient prêtes entrèrent avec lui dans la salle des noces, et on ferma la porte. Finalement arrivent aussi les autres vierges, qui disent : "Seigneur, Seigneur, ouvrez-nous !" Mais il répondit : "En vérité, je vous le dis : je ne vous connais pas." Veillez donc, car vous ne savez ni le jour ni l'heure. »
 
 [Offertorium]
 !Ps 44:15; 44:16
