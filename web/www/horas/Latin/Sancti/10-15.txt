@@ -1,11 +1,17 @@
+[Officium]
+S. Teresiæ Virginis
+
 [Rank]
-S. Teresiæ Virginis;;Duplex;;3;;vide C6b
+;;Duplex;;3;;vide C6a
 (sed rubrica cisterciensis)
-S. Teresiæ, Virginis;;Simplex;;1.2;;vide C6b
+;;Simplex;;1.2;;vide C6b
 
 [Rule]
-vide C6b;
+vide C6a;
 9 lectiones
+
+[Name]
+Terésiæ
 
 [Hymnus Vespera] (nisi rubrica cisterciensis)
 v. Regis supérni núntia,

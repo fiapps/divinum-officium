@@ -1,7 +1,10 @@
+[Officium]
+S. Elisabeth Viduæ
+
 [Rank]
-S. Elisabeth Viduæ;;Duplex;;3;;vide C7a
+;;Duplex;;3;;vide C7a
 (sed rubrica cisterciensis)
-S. Elisabeth, Viduæ;;Commemoratio;;1;;vide C7a
+;;Commemoratio;;1;;vide C7a
 
 [Rule]
 vide C7a;

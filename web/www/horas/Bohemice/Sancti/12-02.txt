@@ -1,5 +1,10 @@
-[Rank]
+[Officium]
 sv. Bibiany, Panny a Mučednice
+
+[Name]
+Bibiáně
+Secreta=Bibiány
+Postcommunio=Bibiány
 
 [Oratio]
 Bože, dárce všeho dobrého, jenž jsi ve své služebnici Bibianě palmu mučednictví spojil s panenským květem; naše mysli na její přímluvu k sobě v lásce připoj, abychom po odstranění nebezpečí dosáhli věčných odměn.
