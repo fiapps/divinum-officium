@@ -10,10 +10,11 @@ Salve Sancta Parens (a Trinitate usque ad Adventum)
 [Rule]
 vide C10
 Special Benedictio
-Special Lectio 3
+(nisi rubrica cisterciensis) Special Lectio 3
 Doxology=Nat
 Antiphonas horas
 (rubrica tridentina nisi rubrica cisterciensis) Psalmi Dominica
+(rubrica cisterciensis) 3 lectiones
 Gloria
 Suffr=Spiritu;Ecclesiæ,Papa;;
 Prefatio=Maria=veneratione;

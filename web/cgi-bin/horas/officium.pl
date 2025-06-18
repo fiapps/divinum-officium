@@ -33,7 +33,6 @@ $error = '';
 $debug = '';
 
 our $Ck = 0;
-our $notes = 0;
 our $missa = 0;
 our $officium = substr($0, rindex($0, '/') + 1);
 our $Ck = substr($officium, 0, 1) eq 'C';
@@ -166,12 +165,7 @@ if ($Ck) {
 $setupsave = savesetup(1);
 $setupsave =~ s/\r*\n*//g;
 
-#prepare testmode
-our $testmode = strictparam('testmode');
-if (!$testmode) { $testmode = strictparam('testmode1'); }
-if ($testmode !~ /(Season|Saint|Common)/i) { $testmode = 'regular'; }
 our $expandnum = strictparam('expandnum');
-$notes = strictparam('notes');
 
 $only = !$Ck && ($lang1 eq $lang2);
 
@@ -257,7 +251,7 @@ if ($command =~ /setup(.*)/i) {
     }
   }
 
-  print par_c('<I>' . horas_menu($completed, $date1, $version, $lang2, $votive, $testmode) . '</I>');
+  print par_c('<I>' . horas_menu($completed, $date1, $version, $lang2, $votive) . '</I>');
 
   if ($officium ne 'Pofficium.pl') {
     $votive ||= 'Hodie';
@@ -267,9 +261,9 @@ if ($command =~ /setup(.*)/i) {
     print par_c(pmenu());
 
     print "<TABLE ALIGN='CENTER' BORDER='1' $background>";
-    print selectable_p('versions', $version, $date1, $version, $lang2, $votive, $testmode);
-    print selectable_p('languages', $lang2, $date1, $version, $lang2, $votive, $testmode, 'Language 2');
-    print selectable_p('votives', $votive, $date1, $version, $lang2, $votive, $testmode);
+    print selectable_p('versions', $version, $date1, $version, $lang2, $votive);
+    print selectable_p('languages', $lang2, $date1, $version, $lang2, $votive, 'Language 2');
+    print selectable_p('votives', $votive, $date1, $version, $lang2, $votive);
     print "</TABLE>\n";
   }
 
