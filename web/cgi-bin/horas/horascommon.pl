@@ -350,7 +350,7 @@ sub occurrence {
   if (
     $version =~ /Trid/i
     && (($trank[2] < 5.1 && $trank[2] > 4.2 && $trank[0] =~ /Dominica/i && $version !~ /altovadensis/i)
-      || $trank[0] =~ /infra octavam Corp/i)
+      || ($trank[0] =~ /infra octavam Corp/i && $version !~ /Cist/i))
   ) {
 
     # before Divino: Dominica minor and infra 8vam CC is outranked by any Duplex
@@ -522,7 +522,6 @@ sub occurrence {
         && ( $saint{Rank} !~ /\;\;ex /
           || ($version =~ /trident/i && $saint{Rank} !~ /\;\;(vide|ex) /i)
           || $saint{Rule} =~ /Lectio1 temp/i)
-        && ($version !~ /monastic/i || $tname !~ /(?:Pasc|Pent)/ || $month > 10)
       ) {
         my $ittable = initiarule($month, $day, $year);
 
@@ -536,6 +535,8 @@ sub occurrence {
           $tsrank = $tscrip{Rank} || $tscrip{Scriptura};
           $tsrank =~ s/\s*;;.*|\s*$//s;
           $officename[2] = "Tempora: $trank[0] (Scriptura ut in: $tsrank)";
+        } elsif ($version !~ /monastic/i || $tname !~ /(?:Pasc|Pent)/ || $month > 10) {
+          $officename[2] = "Tempora: $trank[0]";
         } else {
           $officename[2] = "Scriptura: $trank[0]";
         }
@@ -691,7 +692,7 @@ sub occurrence {
       if ($s{Rank} =~ /Vigil/i && exists($s{"Commemoratio 2"})) { $commemorated = $sname; }
     }
 
-    if (!$officename[2]) {
+    if (!($officename[2] || $missa)) {
 
       my $ittable = initiarule($month, $day, $year);
 
