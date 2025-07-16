@@ -893,7 +893,10 @@ sub lectio : ScriptFunc {
     %w = (columnsel($lang)) ? %winner : %winner2;
     my $L9winnerflag = 0;
 
-    if (($w{Rank} =~ /Simplex/i || ($version =~ /1955/ && $rank == 1.5)) && exists($w{'Lectio94'})) {
+    if ( ($w{Rank} =~ /Simplex/i || ($version =~ /1955/ && $rank == 1.5))
+      && exists($w{'Lectio94'})
+      && $version !~ /Cist/i)
+    {
       setbuild2("Last lectio Commemoratio ex Legenda historica (#94)");
       $w = $w{'Lectio94'};
       $L9winnerflag = 1;
@@ -1052,8 +1055,7 @@ sub lectio : ScriptFunc {
   unless ($rule =~ /Limit.*?Benedictio/i || exists($winner{'In Finem Lectio'})) {
 
     #add Tu autem before responsory
-    my $tuautem = $expand =~ /all/ ? prayer('Tu autem', $lang) : '$Tu autem';
-    $w .= "\n$tuautem\n";
+    $w =~ s/~?\s*$/\n\$Tu autem/;
   }
 
   # add responsory
