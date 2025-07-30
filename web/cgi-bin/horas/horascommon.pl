@@ -269,7 +269,7 @@ sub occurrence {
       if (
         ($trank[2] >= (($version =~ /19(?:55|6)/i) ? 6 : 7) && $srank[2] < 6)
         || (
-          $trank !~ /Dominica(?!.*Trinitatis)|Feria|Sabbato/i && (
+          $trank !~ /Dominica(?!.*Trinitatis)|Feria|Sabbato|In Octava/i && (
             ($trank[2] >= 6 && $srank[2] < 2.1)    # on Duplex I. cl nothing of Simplex and common octaves
             || ($trank[2] >= 5 && $srank[2] == 2 && $srank[2] =~ /infra octavam/i)
           )
@@ -522,7 +522,7 @@ sub occurrence {
       my %scrip = %{officestring('Latin', $tname)};
 
       if (
-          !exists($saint{"Lectio1"})
+           !(exists($saint{"Lectio1"}) && ($saint{Rule} !~ /Lectio1 Quad/i || $dayname[0] =~ /Quad(\d|p3\-[3456])/i))
         && exists($scrip{Lectio1})
         && $scrip{Lectio1} !~ /evangelii/i
         && ( $saint{Rank} !~ /\;\;ex /

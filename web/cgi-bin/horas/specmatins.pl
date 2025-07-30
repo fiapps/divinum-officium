@@ -598,6 +598,13 @@ sub lectio : ScriptFunc {
   }
   my %w = (columnsel($lang)) ? %winner : %winner2;
 
+  # Save the Nocturn of the Lectio requested:
+  my $nocturn = int(($num - 1) / ($rule =~ /12 lectiones/i ? 4 : 3)) + 1;
+
+  #prepares for case of homily instead of scripture
+  my $homilyflag = (exists($commemoratio{Lectio1})
+      && $commemoratio{Lectio1} =~ /\!(Matt|Mark|Marc|Luke|Luc|Joannes|John)\s+[0-9]+\:[0-9]+\-[0-9]+/i) ? 1 : 0;
+
   if ( $num < 4
     && $version =~ /trident|monastic.*divino/i
     && $winner{Rank} =~ /Dominica/i
@@ -608,10 +615,9 @@ sub lectio : ScriptFunc {
     $w{"Lectio$num"} = $w{"Lectio$inum"};
     $w{"Lectio$num"} .= $w{"Lectio12"} if $inum == 11;
     setbuild2("Lectiones I Nocturno de Homilia Dominicæ anticipiata") if $num == 1;
+    $homilyflag = 7;
+    $nocturn = 0;
   }
-
-  # Save the Nocturn of the Lectio requested:
-  my $nocturn = int(($num - 1) / ($rule =~ /12 lectiones/i ? 4 : 3)) + 1;
 
   #Lectio1 OctNat/TempNat: special rule for Dec 29 through Jan 05
   if ($nocturn == 1 && $rule =~ /Lectio1 (Oct|Temp)Nat/i) {
@@ -728,10 +734,6 @@ sub lectio : ScriptFunc {
     setbuild2("Lectio$num ex $n[0]");
   }
 
-  #prepares for case of homily instead of scripture
-  my $homilyflag = (exists($commemoratio{Lectio1})
-      && $commemoratio{Lectio1} =~ /\!(Matt|Mark|Marc|Luke|Luc|Joannes|John)\s+[0-9]+\:[0-9]+\-[0-9]+/i) ? 1 : 0;
-
   if ($homilyflag && $commemoratio{Rank} =~ /vigilia/i) {
     $homilyflag = 9;
   }
@@ -798,6 +800,10 @@ sub lectio : ScriptFunc {
     && ($version !~ /trident/i || $rank < 5)
   ) {                                                   # but not in Tridentinum Duplex II. vel I. classis
     %w = (columnsel($lang)) ? %scriptura : %scriptura2;
+
+    my $infile = initiarule($month, $day, $year);
+    if ($infile && $winner !~ /C12/) { %w = resolveitable(\%w, $infile, $lang); }
+
     $w = $w{"Lectio$num"};
 
     if ($version =~ /monastic/i && $rule =~ /12 lectiones/i && ($version !~ /1963/ || $rule =~ /Lectio1 tempora/i)) {
