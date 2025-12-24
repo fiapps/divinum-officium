@@ -102,7 +102,7 @@ sub psalmi_minor {
     }
 
     if (
-      $version =~ /19(?:55|60)/
+      $version =~ /19(?:55|60|62)/
       && (
            $rule =~ /horas1960 feria/i
         || ($winner =~ /Sancti/i && $rank < 5)
@@ -410,7 +410,7 @@ sub psalmi_major {
 
       if ($version =~ /Monastic/) {
         $antiphones[2] = $expectetur;
-        $antiphones[3] = '';
+        $antiphones[3] = $lang =~ /gabc/ ? ';;;;4-alt-Astar' : '';
       } else {
         $antiphones[3] = $expectetur;
       }

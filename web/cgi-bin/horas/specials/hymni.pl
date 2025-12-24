@@ -44,16 +44,16 @@ sub gethymn {
     $hymn = $h{$name};
   }
 
-  if ($version !~ /1960/ && $hymn =~ /\*/) {    # doxology needed
+  if ($version !~ /196[02]/ && $hymn =~ /\*/) {    # doxology needed
     my ($dox, $dname) = doxology($lang);
     if ($dname) { $hymn =~ s/\*.*/$dox/s }
     $section .= " {Doxology: $dname}"
       if ($dname && $section && ($dayname[0] !~ /Pasc7/ || ($hora ne 'Tertia' && $hora ne 'Vespera')));
   }
 
-  $hymn =~ s/^(?:v\.\s*)?(\p{Lu})/v. $1/;       # add initial
-  $hymn =~ s/\*\s*//g;                          # remove star
-  $hymn =~ s/_\n(?!!)/_\nr. /g;                 # start stropha with red letter
+  $hymn =~ s/^(?:v\.\s*)?(\p{Lu})/v. $1/;          # add initial
+  $hymn =~ s/\*\s*//g;                             # remove star
+  $hymn =~ s/_\n(?!!)/_\nr. /g;                    # start stropha with red letter
 
   # GABC: Versicula are given in Roman Tonus cum Neuma, i.e., g_'/hvGF'E!fgf.
   # For Ant. Monastic changed to Tonus communis, i.e., g_0h/GF'E!fgf.
@@ -134,7 +134,7 @@ sub doxology {
     {
       $dname = $1;
     } elsif (($month == 8 && $day > 15 && $day < 23 && $version !~ /1955|1963/i)
-      || ($version !~ /1570|1617|altovadensis/i && $month == 12 && $day > 8 && $day < 16 && $dayofweek > 0))
+      || ($version !~ /1570|1617|1963|altovadensis/i && $month == 12 && $day > 8 && $day < 16 && $dayofweek > 0))
     {
       $dname = 'Nat';
     } else {
