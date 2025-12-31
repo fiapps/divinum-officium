@@ -29,7 +29,8 @@ $Qui tecum
 [Commemoratio] (rubrica cisterciensis)
 !Commemoratio omnium SS. Martyrum
 @CommuneCist/C3:Oratio proper
-v. Deus, qui nos annua ómnium sanctórum Mártyrum tuórum commemoratióne lætíficas: § concéde propítius; * ut, quorum gaudémus méritis, § accendámur examplis.
+$Oremus
+v. Deus, qui nos annua ómnium sanctórum Mártyrum tuórum commemoratióne lætíficas: § concéde propítius; * ut, quorum gaudémus méritis, § accendámur exémplis.
 $Per Dominum
 
 [Octava 1]
@@ -231,11 +232,16 @@ R. Vidit, et introívit: beátus homo, cui cæli patébant.
 [Versum 3] (rubrica cisterciensis)
 @CommuneCist/C2
 
-[Ant 3]
+[Ant 3_]
 Sepeliérunt Stéphanum * viri timoráti, et fecérunt planctum magnum super eum.
 
-[Ant 3] (rubrica cisterciensis)
+[Ant 3C]
 Intuens in cœlum * beátus Stéphanus vidit glóriam Dei, et ait: Ecce vídeo cœlos apértos, et Fílium hóminis stantem a dextris Dei.
+
+[Ant 3]
+@:Ant 3_
+(sed rubrica cisterciensis)
+@:Ant 3C
 
 [Commemoratio 3] (rubrica cisterciensis)
 @:Commemoratio
@@ -256,7 +262,7 @@ $Qui tecum
 Ant. Stéphanus vidit * cœlos apértos, vidit, et introívit: beátus homo, cui cœli patébant.
 _
 @CommuneCist/C2:Versum 2
-(sed die Nat28)
+(sed die Nat28 aut die Nat29)
 @Commune/C2:Versum 1
 _
 $Oremus

@@ -1,15 +1,15 @@
 [Rank]
-S. Nominis Beatae Mariae Virginis;;Duplex majus;;4;;ex C11
+Szűz Mária szentséges Neve;;Duplex majus;;4;;ex C11
 
 [Rank] (rubrica 196)
-S. Nominis Beatae Mariae Virginis;;Duplex;;3;;vide C11
+Szűz Mária szentséges Neve;;Duplex;;3;;vide C11
 
 [Rank] (rubrica innovata)
-S. Nominis Beatae Mariae Virginis;;Duplex optional;;2;;vide C11
+Szűz Mária szentséges Neve;;Duplex optional;;2;;vide C11
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luke 1:26-38
+!Lk 1:26-38
 Abban az időben az Isten elküldte Gábor angyalt Galilea Názáret nevű városába egy szűzhöz, aki egy Dávid házából való férfinak, Józsefnek volt a jegyese, és Máriának hívták. És így tovább.
 _
 Homily by St Peter Chrysologus, Archbishop (of Ravenna.)

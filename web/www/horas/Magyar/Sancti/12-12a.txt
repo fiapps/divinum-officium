@@ -1,9 +1,9 @@
 [Rank]
-De V die Infra Octavam Immaculatae Concept. Beatae Mariae Virgini;;Semiduplex;;2.5;;vide Sancti/12-08
+Szeplőtelen Fogantatás nyolcadának ötödik napja;;Semiduplex;;2.5;;vide Sancti/12-08
 
 [Lectio7]
 Lectio sancti Evangelii secundum Lucam.
-!Luke 1:26-28
+!Lk 1:26-28
 Azon időben mondá Jézus tanítványainak: A hatodik hónapban az Isten elküldte Gábor angyalt Galilea Názáret nevű városába egy szűzhöz, aki egy Dávid házából való férfinak, Józsefnek volt a jegyese, és Máriának hívták. És így tovább.
 _
 Homily by St Tarasius, Patriarch (of Constantinople.)

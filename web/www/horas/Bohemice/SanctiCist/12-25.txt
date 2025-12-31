@@ -36,6 +36,12 @@ R. A přebývalo mezi námi.
 [Lectio3]
 @Sancti/12-25:Lectio2:s/1-/4-/ s/-8/-7/ s/1 .*4 /4 /s s/Ano, trávou.*//s
 
+[Responsory1]
+R. Dnes se nám Král nebes ráčil naroditi z Panny, aby ztraceného člověka povolal zpět do nebeské říše; Raduje se vojsko Andělů;
+* Neboť lidskému rodu zjevil věčnou spásu.
+V. Sláva na výsostech Bohu, a na zemi pokoj lidem dobré vůle. 
+R. Neboť lidskému rodu otevřel věčnou spásu.
+
 [Responsory3]
 @SanctiM/12-25:Responsory4:1-2
 V. Jednorozeného Syna Božího, jejž Otec poslal na svět, v lůně počala blažená Panna;
@@ -101,9 +107,10 @@ Homilie svatého Augustina Biskupa.
 Aby sis nemyslel nic špatného, jak jsi zvyklý, když slýcháš lidská slova, slyš, co by sis měl v této otázce myslet. Bůh byl Slovo. Nyní přijde třeba nějaký nevěřící Arián a bude říkal, že Slovo Boží bylo stvořené. Jak se může stát, že Slovo Boží je stvořené, když Bůh skrze Slovo stvořil vše? Pokud i Slovo samotného Boha je stvořené, jakým jiným slovem bylo stvořeno? Pokud řekneš, že to bylo slovo tohoto Slova, skrze něž bylo stvořeno, já říkám, že on je jediný Syn Boží. Pokud však řekneš, že to nebylo slovo Slova, musíš uznat, že to Slovo, skrze něž všechno je stvořeno, samo není stvořené. Nemohl totiž sám od sebe vzniknout ten, skrze něhož všechno je stvořeno. Věř tedy Evangelistovi. 
 
 [Responsory9]
-@Sancti/01-01:Responsory1:1-2
+R. Hle, Beránek Boží, který snímá hříchy světa; hle, o něm jsem vám řekl:
+* Ten, který přišel po mě, byl učiněn přede mnou; a já nejsem hoden rozvázat řemínky jeho opánků.
 V. Toto je svědectví, které vydal Jan, když říkal:
-@Sancti/01-01:Responsory1:4
+Ten, který přišel po mě, byl učiněn přede mnou; a já nejsem hoden rozvázat řemínky jeho opánků.
 
 [Responsory10]
 R. Požehnaný, jenž přichází ve jménu Páně.
@@ -124,3 +131,10 @@ V. Na počátaku bylo Slovo, a to Slovo bylo u Boha, a Bůh byl to Slovo.
 R. Plného milosti a pravdy.
 &Gloria
 R. Plného milosti a pravdy.
+
+[Ant Vespera 3]
+Na počátku * a před věky Bůh byl Slovo: právě on se nám narodil jako Spasitel světa.;;109
+Panna Slovo počala, * Pannou zůstala, jako Pana porodila Krále všech králů.;;110
+Blažené lůno, * které tě nosilo, Kriste, a blažené prsy, které tě kojily, Hospodina, a Spasitele světa, alleluja.;;111
+Zazářil nám den * nového vykoupení, napravení pradávné viny, <i>den</i> věčného štěstí.;;131
+
