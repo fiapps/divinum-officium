@@ -19,6 +19,11 @@ Beátus vir, * qui suffert tentatiónem: quia cum probátus fúerit, accípiet c
 
 [Invit]
 Regem sempitérnum veníte adorémus: * Qui Mártyrem suum coronávit N..
+(sed die 3 lectionum)
+@Commune/C2
+
+[Invit 3L]
+@Commune/C2:Invit
 
 [Ant Matutinum]
 Beátus vir, * qui in lege Dómini meditátur, volúntas ejus pérmanet die ac nocte; et ómnia quæcúmque fáciet, semper prosperabúntur.;;1
@@ -102,6 +107,10 @@ R. Modo coronátus est, quia fidéliter vixit in mandátis Dómini.
 
 [Responsory12]
 @CommuneM/C2:Responsory11
+
+[Lectio1S]
+@Commune/C3:Lectio1:1
+@Commune/C3:Lectio3:s/ergo //
 
 [MM Capitulum]
 @Commune/C2:Capitulum Sexta

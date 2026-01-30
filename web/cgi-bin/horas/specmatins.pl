@@ -32,6 +32,12 @@ sub invitatorium {
     $name = 'Trid';
   }
 
+  # Commune Unius Martyris in CIST. rite has different [Invit]
+  # for 3 lect. and 12 lect. feasts
+  if ($version =~ /Cist/i && $commune{'Invit 3L'} && !$winner{Invit} && $winner{Rule} =~ /3 lect/i) {
+    $name = '3L';
+  }
+
   if ($name) {
     $name = "Invit $name";
     $comment = 1;
@@ -57,8 +63,14 @@ sub invitatorium {
     $ant =~ s/(\S+), (\S+)\./$1, $2, * $1/;
   } else {
 
-    #look for special from proprium the tempore or sancti
-    ($w, $c) = getproprium("Invit", $lang, 1);
+    #look for special from commune for 3-Lesson feasts
+    if ($name =~ /Invit 3L/i) {
+      ($w, $c) = getproprium("Invit 3L", $lang, 1);
+    } else {
+
+      #look for special from proprium the tempore or sancti
+      ($w, $c) = getproprium("Invit", $lang, 1);
+    }
     if ($w) { $ant = chompd($w); $comment = $c; }
     setcomment($label, 'Source', $comment, $lang, translate('Antiphona', $lang));
   }
@@ -108,9 +120,14 @@ sub invitatorium {
     {
       # old Invitatorium4
       s/^(v\.|\{\([cf][1-4]b?\))\s*.* \+ (.)/\1 \u\2/m;
+    } elsif ($rule =~ /Invit5/i) {
+
+      # Invitatorium5 for Cist. Pre-Lent,
+      # removing the [Invit] verse
+      s/^(v\.|\{\([cf][1-4]b?\))\s*.* \= (.)/\1 \u\2/m;
     }
 
-    s{[+*^] }{}g;    # clean division marks
+    s{[+*^=] }{}g;    # clean division marks
 
     s/\$ant2/$ant2/eg;
     s/\$ant/$ant/eg;
@@ -176,7 +193,11 @@ sub nocturn {
   my ($num, $lang, $psalmi, @select) = @_;
   our ($version);
 
-  push(@s, '!' . translate('Nocturn', $lang) . ' ' . ('I' x $num) . '.');
+  if ($num) {
+    push(@s, '!' . translate('Nocturn', $lang) . ' ' . ('I' x $num));
+  } else {
+    push(@s, '!' . translate('Ad Nocturnum', $lang));
+  }
 
   my @psalmi_n = map { $psalmi->[$select[$_]] } 0 .. @select - 3;
   my $duplexf = $version =~ /196/ || ($duplex > 2 && $rule !~ /Matins simplex/ && $winner !~ /C12/);
@@ -412,7 +433,7 @@ sub psalmi_matutinum {
 
   push(@psalm_indices, split("\n", $vers));
 
-  nocturn(1, $lang, \@psalmi, @psalm_indices);
+  nocturn(0, $lang, \@psalmi, @psalm_indices);
   lectiones(0, $lang);
   return;
 }
@@ -504,6 +525,12 @@ sub get_absolutio_et_benedictiones {
     my %mariae = %{setupstring($lang, subdirname('Commune', $version) . "$1.txt")};
     @ben = split("\n", $mariae{Benedictio});
     setbuild2('Special benedictio');
+
+    ## Cistercian Votive offices
+  } elsif ($winner =~ /00-V[BE]/) {
+    my %w = (columnsel($lang)) ? %winner : %winner2;
+    @ben = split("\n", $w{Benedictio});
+    setbuild2('Special benedictio: Cistercian Votive Offices');
 
     ## 3 lectiones
   } else {
