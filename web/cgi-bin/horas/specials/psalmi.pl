@@ -301,7 +301,7 @@ sub psalmi_minor {
     && $dayofweek == 0
     && ( $dayname[0] =~ /(Adv|Pent01)/i
       || checksuffragium()
-      || ($dayname[0] =~ /Adv|Epi[2-6]|Quad|Pasc[1-6]|Pent/i && $version =~ /cist/i))
+      || ($dayname[0] =~ /Adv|Epi[2-6]|Quad|Pasc[1-5]|Pent/i && $version =~ /cist/i))
     && ($winner =~ /Tempora/i || $version !~ /cist/i)
   ) {
     push(@psalm, 234);
@@ -471,7 +471,7 @@ sub psalmi_major {
   if (
     (
          $rule =~ /Psalmi Dominica/i
-      || ($version =~ /cist/i && $rank >= 2.2)
+      || ($version =~ /cist/i && $winner =~ /Sancti/i && $rank >= 2.2)
       || ($commune{Rule} && $commune{Rule} =~ /Psalmi Dominica/i)
     )
     && ($antiphones[0] !~ /\;\;\s*[0-9]+/)

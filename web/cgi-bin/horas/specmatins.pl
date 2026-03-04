@@ -98,7 +98,7 @@ sub invitatorium {
   if (my @a = do_read($fname)) {
     $_ = join("\n", @a);
 
-    if ($rule =~ /Invit2/i || !$dayofweek && $version =~ /praedicatorum/i) {
+    if ($rule =~ /Invit2/i || !$dayofweek && $version =~ /praedicatorum/i && $rule !~ /Invit5/) {
 
       # old Invitatorium2 = Quadp[123]-0
       # and pradicatorum at Sundays
@@ -1441,8 +1441,10 @@ sub responsory_gloria {
       } elsif (alleluia_required($dayname[0], $votive) && $version =~ /cist/i) {
         my $all = prayer('Alleluia Duplex', $lang);
         $w =~ s/† //g;
+
         # only in second...
         $w =~ s/(\*.*), allel[uú][ij]a(?:, allel[uú][ij]a)/$1/g;
+
         # and fourth line, every Alleluia. needs to be removed
         $w =~ s/(V\..*\nR\..*). allel[uú][ij]a(?:, allel[uú][ij]a)/$1/mg;
         $w =~ s/^(R\..*)\n(\* .*)\n(V\..*)\n(R\..*)$/$1\n$2 \* $all\n$3\n$4\n\&Gloria1\nR. $all/m;
@@ -1455,7 +1457,7 @@ sub responsory_gloria {
       # non-Cistercian final Responsory from extra T.P.
     } elsif (alleluia_required($dayname[0], $votive)
       && $version =~ /cist/i
-      && $w !~ /R\. Allel[uú][ij]a, allel[uú][ij]a/)
+      && $w !~ /R\. Allel[uú][ij]a(?:, allel[uú][ij]a)?/)
     {
       my $all = prayer("Alleluia Duplex", $lang);
       $w =~ s/. \(?allel[uú][ij]a(?:, allel[uú][ij]a)?\.?\)?/./ig;
