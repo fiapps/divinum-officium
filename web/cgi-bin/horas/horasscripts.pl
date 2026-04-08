@@ -298,7 +298,7 @@ sub handleverses {
       } elsif ($_[3] =~ /8c/) {
 
         # 8c:   jr h j 'k jr j.
-        s/(<i>.*?<\/i>[\,\.\:\;]?)\(i\)(.*?)\(h([.\s]*?)gr\)(.*?)\(g\.\)/$1(h)$2(k$3jr)$4(j.)/;
+        s/(<i>.*?<\/i>[\,\.\:\;]?)\(i\)(.*?)\(h(.*?)gr\)(.*?)\(g\.\)/$1(h)$2(k$3jr)$4(j.)/;
       } else {
 
         # 8G*:  jr i j 'h gr gh..     (Ant. Monast.: '8a')
@@ -368,7 +368,7 @@ sub handleverses {
         s/\(i\.\)/(ih..)/ if $_[3] =~ /a$/;
       } else {
 
-        my $fin = $_[3] =~ /a/ ? 'gh..' : 'g.';
+        my $fin = $_[3] =~ /g/ ? 'g.' : 'gh..';
         s/(.*)\(j(.*?)jr\)(.*?)\(i\.\)/$1(h$2gr)$3($fin)/;
 
         if ($_[3] =~ /antiquo/) {
