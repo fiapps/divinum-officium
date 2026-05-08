@@ -107,6 +107,7 @@ sub geteaster {
 # returns true if year is leap
 sub leapyear {
   my $year = shift;
+  return 0 unless $year;
   !(($year % 4) or !($year % 100) and ($year % 400));
 }
 
@@ -115,6 +116,7 @@ sub leapyear {
 sub day_of_week {
   my ($day, $month, $year) = @_;
 
+  return undef unless $day && $month && $year > 0;
   ($year * 365 + int(($year - 1) / 4) - int(($year - 1) / 100) + int(($year - 1) / 400) - 1 + date_to_ydays(@_)) % 7;
 }
 
@@ -358,5 +360,4 @@ sub date_to_days {
   if ($ret < -141427) { error("Date before the Gregorian Calendar!"); }
   return $ret;
 }
-
 1;
