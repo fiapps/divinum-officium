@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 use utf8;
+use DivinumOfficium::Lexicon qw(apply_interlinear);
 
 # Name : Laszlo Kiss
 # Date : 01-11-04
@@ -33,6 +34,11 @@ PrintTag
 
   my $is_mobile = ($officium eq 'Pofficium.pl');
   my $viewport_tag = $is_mobile ? '  <META NAME="viewport" CONTENT="width=device-width, initial-scale=0.75">' : '';
+  my $gf = our $glossfont;
+  my $gloss_color = ($gf =~ /(\#[0-9a-fA-F]+)\s*$/ || $gf =~ /([a-zA-Z]+)\s*$/) ? $1 : '';
+  $gloss_color = '' if $gloss_color eq 'italic' || $gloss_color eq 'bold';
+  my $gloss_weight = ($gf =~ /\bbold\b/) ? 'bold' : 'normal';
+  my $gloss_style = ($gf =~ /\bitalic\b/) ? 'italic' : 'normal';
 
   print <<"PrintTag";
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
@@ -76,6 +82,12 @@ $viewport_tag
     }
     .contrastbg { background: white; }
     .nigra { color: black; }
+    .lw .gloss { display: none; }
+    body.interlinear-hint .lw { cursor: pointer; }
+    body.interlinear-hint .lw.revealed .gloss { display: inline; font-size: 0.85em;${\($gloss_color ? " color: $gloss_color;" : '')} font-weight: $gloss_weight; font-style: $gloss_style; }
+    body.interlinear-all .lw .gloss { display: inline; font-size: 0.85em;${\($gloss_color ? " color: $gloss_color;" : '')} font-weight: $gloss_weight; font-style: $gloss_style; }
+    body.interlinear-all .lw.learned .gloss { display: none; }
+    body.interlinear-all .lw { cursor: pointer; }
 
 PrintTag
 
@@ -123,12 +135,14 @@ PrintTag
 PrintTag
   }
 
+  my $mode = (our $interlinear) // 'disabled';
+  my $interlinear_class = ($mode eq 'hint' || $mode eq 'all') ? qq( class="interlinear-$mode") : '';
   print <<"PrintTag";
   </STYLE>
   <TITLE>$title</TITLE>
 $horasjs
 </HEAD>
-<BODY $onload onresize="layoutChant()">
+<BODY$interlinear_class $onload onresize="layoutChant()">
 <FORM ACTION="$officium" METHOD="post" TARGET="_self">
 PrintTag
 }
@@ -383,6 +397,7 @@ sub getcookies {
       # $error = "Cookie $cname mismatch $name need $check has $param<br/>== $sti[-1]";
       return 0;
     }
+    pop @sti;    # remove check string so it never maps to a param slot
     setsetup($name, @sti);
     return 1;
   }
@@ -690,6 +705,14 @@ sub setcell {
       push(@ctext2, $text);
     }
     return if $missa || $singleCell;
+  }
+
+  if ( (our $interlinear)
+    && (our $interlinear) ne 'disabled'
+    && $lang =~ /Latin/i
+    && $lang !~ /gabc/i)
+  {
+    $text = apply_interlinear($text);
   }
 
   # Actually Print cell and close it

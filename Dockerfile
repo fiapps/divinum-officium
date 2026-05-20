@@ -12,7 +12,7 @@ RUN echo "{" > /build/buildinfo && \
     echo "}" >> /build/buildinfo
 
 # --- STAGE 2: Final Container ---
-FROM public.ecr.aws/docker/library/perl:5.40-slim AS final
+FROM perl:5.40-slim AS final
 LABEL maintainer="Thomas Randall <thomas.james.randall@gmail.com>"
 
 # 1. System dependencies
@@ -59,9 +59,13 @@ WORKDIR /var/www
 
 # 4. Copy code and set permissions
 COPY web /var/www/web
+COPY lexicon-tools /var/www/lexicon-tools
 COPY app.psgi /var/www/app.psgi
+
 COPY warm-ordo-cache.sh /usr/local/bin/warm-ordo-cache.sh
 COPY --from=gitinfo /build/buildinfo /var/www/web/buildinfo
+
+RUN perl /var/www/lexicon-tools/build_lexicon_storable.pl
 
 RUN find /var/www/web -type d -exec chmod 755 {} + && \
     find /var/www/web -type f -exec chmod 644 {} + && \
@@ -94,4 +98,4 @@ ENTRYPOINT ["/usr/local/bin/dumb-init", "--"]
 CMD ["/bin/bash", "-c", \
     "cron && \
      (sleep 15 && BASE_URL=http://localhost:8080 /usr/local/bin/warm-ordo-cache.sh >> /var/log/ordo-cache-warm.log 2>&1) & \
-     starman --port 8080 --host 0.0.0.0 --workers 10 --preload-app --user www-data --group www-data /var/www/app.psgi"]
+     starman --port 8080 --host 0.0.0.0 --workers 20 --preload-app --user www-data --group www-data /var/www/app.psgi"]

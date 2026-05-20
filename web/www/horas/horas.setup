@@ -20,10 +20,12 @@ $noinnumbers='1';;
 $noflexa='1';;
 $langfb='English';;
 $testmode='Proper';;
-$singleCell='1';
+$singleCell='1';;
+$interlinear='disabled';;
+$glossfont=''
 
 [parameterscheck]
-bbtbbbtcccccnnbbbbbttb
+bbtbbbtcccccnnbbbbbttbot
 
 [general]
 $expand='tota';;

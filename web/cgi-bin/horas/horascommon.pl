@@ -249,7 +249,7 @@ sub occurrence {
       }
 
       # If a Sanctoral feast has been side as per the temporal cycle, e.g. Spineæ Coronæ DNJC
-      if (%tempTransfer && $tempTransfer !~ /Tempora/) {
+      if ($tempTransfer && $tempTransfer !~ /Tempora/) {
         $tempTransfer = subdirname('Sancti', $version) . "$tempTransfer";
 
         if (checklatinfile(\$tempTransfer)) {
@@ -1750,8 +1750,8 @@ sub precedence {
     } else {
 
       # Redirections for Paschaltide and Votive offices
-      $vtv .= 'p' if ($dayname[0] =~ /Pasc/ && $vtv =~ /C[1-3]/);    # Enable Commune T.P.
-      $vtv =~ s/^V/Votiva\/V/;                                       # Re-direct to subdirectory for Votive offices
+      $vtv .= 'p' if ($dayname[0] =~ /Pasc/ && $vtv =~ /C[1-3](?!\d)/);   # Enable Commune T.P.
+      $vtv =~ s/^V/Votiva\/V/;                                            # Re-direct to subdirectory for Votive offices
 
       if ($commemoratio =~ /Tempora/) {
 
