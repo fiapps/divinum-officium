@@ -348,7 +348,7 @@ sub occurrence {
         || (
           $trank !~ /Dominica(?!.*Trinitatis)|Feria|Sabbato|In Octava/i && (
             ($trank[2] >= 6 && $srank[2] < 2.1)    # on Duplex I. cl nothing of Simplex and common octaves
-            || ($trank[2] >= 5 && $srank[2] == 2 && $srank[2] =~ /infra octavam/i)
+            || ($trank[2] >= 5 && $srank[2] == 2 && $srank[2] =~ /infra octavam|post Octavam Asc|Vigilia Pent/i)
           )
         )                                          # on Duplex II. cl nothing of common octaves
         || (
@@ -533,24 +533,32 @@ sub occurrence {
       $commemoratio = "$transferedC.txt";
       my %tc = %{setupstring('Latin', "$transferedC.txt")};
       my @cr = split(";;", $tc{Rank});
-      $comrank = $cr[2];
-      $cvespera = $svesp;
-      $officename[2] = "Commemoratio: $cr[0]";
 
-      if ($version =~ /196/i) {
-        $officename[2] =~ s/:/ ad Laudes tantum:/ if $cr[2] < 6;
-      } elsif ($version !~ /trident/i && $srank[2] >= 6) {
-        $officename[2] =~ s/:/ ad Laudes tantum:/ if $cr[2] < 4.2 && $cr[2] != 2.1 && $srank[0] !~ /infra octavam/i;
-      } elsif ($srank[2] >= 6 && $srank[0] !~ /in.*octava/i && $cr[2] < 3.1 && $cr[2] != 2.999) {
+      # Pre-1960: Simplex have no 2nd Vespers
+      unless ($version !~ /196/ && $svesp == 3 && $cr[2] < 2) {
+        $comrank = $cr[2];
+        $cvespera = $svesp;
+        $officename[2] = "Commemoratio: $cr[0]";
 
-        # for Tridentine:  either Transfer or no Commemoration in Duplex I. cl. (of Sanctoral) unless dies 8va
-        $commemoratio = '';
-        $comrank = 0;
-        @commemoentries = ();
-        $officename[2] = '';
-      } else {
-        $officename[2] =~ s/:/ ad Laudes \& Matutinum:/
-          if $srank[2] >= 5 && $cr[2] < 2 && $srank[0] !~ /infra octavam/i;
+        if ($version =~ /196/i) {
+          $officename[2] =~ s/:/ ad Laudes tantum:/ if $cr[2] < 6;
+        } elsif ($version !~ /trident/i && $srank[2] >= 6) {
+          $officename[2] =~ s/:/ ad Laudes tantum:/
+            if $cr[2] < 4.2 && $cr[2] != 2.1 && $srank[0] !~ /infra octavam|post Octavam Asc|Vigilia Pent/i;
+        } elsif ($srank[2] >= 6
+          && $srank[0] !~ /in.*octava|post Octavam Asc|Vigilia Pent/i
+          && $cr[2] < 3.1
+          && $cr[2] != 2.999)
+        {
+
+          # for Tridentine:  either Transfer or no Commemoration in Duplex I. cl. (of Sanctoral) unless dies 8va
+          $commemoratio = '';
+          $comrank = 0;
+          @commemoentries = ();
+          $officename[2] = '';
+        } elsif ($srank[2] >= 5 && $cr[2] < 2 && $srank[0] !~ /infra octavam|post Octavam Asc|Vigilia Pent/i) {
+          $officename[2] =~ s/:/ ad Laudes \& Matutinum:/;
+        }
       }
     } elsif ($transfered) {    #&& !$vflag)
       if ($hora !~ /Vespera|Completorium/i) {
@@ -713,7 +721,8 @@ sub occurrence {
         $officename[2] =~ s/:/ ad Laudes tantum:/
           if $srank[2] < 4.2
           && $srank[2] != 2.1
-          && $trank[0] !~ /infra octavam|cinerum|majoris hebd|in Octava|Albis|Quattuor Temporum Pentecostes/i
+          && $trank[0] !~
+          /infra octavam|Vigilia Pent|cinerum|majoris hebd|in Octava|Albis|Quattuor Temporum Pentecostes/i
           && $tname !~ /Adv|Quad/i;
       } elsif ($laudesonly) {
         $officename[2] =~ s/:/ $laudesonly:/;
@@ -721,7 +730,7 @@ sub occurrence {
         $officename[2] =~ s/:/ ad Laudes \& Matutinum:/
           if $trank[2] >= 5
           && $srank[2] < 2
-          && $trank[0] !~ /infra octavam|cinerum|majoris hebd|in Octava|Albis/i
+          && $trank[0] !~ /infra octavam|Vigilia Pent|cinerum|majoris hebd|in Octava|Albis/i
           && $tname !~ /Adv|Quad/i;
       }
 
@@ -745,12 +754,12 @@ sub occurrence {
           $officename[2] =~ s/:/ $laudesonly:/ if ($trank[2] >= 5 && $cr[2] < 2) || ($climit1960 == 2);
         } elsif ($version !~ /trident/i && $trank[2] >= 6) {
           $officename[2] =~ s/:/ ad Laudes tantum:/
-            if $cr[2] < 4.2 && $cr[2] != 2.1 && $trank[0] !~ /infra octavam|cinerum|majoris hebd/i;
+            if $cr[2] < 4.2 && $cr[2] != 2.1 && $trank[0] !~ /infra octavam|Vigilia Pent|cinerum|majoris hebd/i;
         } elsif ($laudesonly) {
           $officename[2] =~ s/:/ $laudesonly:/;
         } else {
           $officename[2] =~ s/:/ ad Laudes \& Matutinum:/
-            if $trank[2] >= 5 && $cr[2] < 2 && $trank[0] !~ /infra octavam|cinerum|majoris hebd/i;
+            if $trank[2] >= 5 && $cr[2] < 2 && $trank[0] !~ /infra octavam|Vigilia Pent|cinerum|majoris hebd/i;
         }
       } else {
         $commemoratio = '';
@@ -890,7 +899,7 @@ sub concurrence {
     $cwrank[2] = $crank = $version =~ /altovadensis/i ? 3.9 : $version =~ /trident/i ? 2.9 : 4.9;
   }
 
-  if ( $cwrank[0] =~ /in.*octava/i
+  if ( $cwrank[0] =~ /in.*octava|Vigilia Pent/i
     && ($wrank[0] =~ /Dominica/i || ($winner =~ /Sancti/ && $wrank !~ /in.*octava/i))
     && $version =~ /divino/i)
   {
@@ -957,10 +966,10 @@ sub concurrence {
       && $cwinner{Rank} !~ /in Vigilia Epi|in octava|infra octavam|Dominica|C10/i)
 
     # before DA infra octavam always gets commemorated as at 2nd Vespers; after DA also when the office is of the octave
-    || ( $cwinner{Rank} =~ /infra octavam/i
+    || ( $cwinner{Rank} =~ /infra octavam|Vigilia Pent/i
       && $cwinner{Rank} !~ /Dominica/i
       && ($version =~ /trident/i || $sanctoraloffice == $csanctoraloffice)
-      && $winner{Rank} =~ /infra octavam|Quat.*Pent|Dominica (Resurrectionis|Pentecostes)/i)
+      && $winner{Rank} =~ /infra octavam|post Octavam Asc|Quat.*Pent|Dominica (Resurrectionis|Pentecostes)/i)
 
     # infra 8vam Pasch & Pent
     || ($weekname =~ /Pasc[07]/i && $cwinner{Rank} !~ /Dominica/i)
@@ -1016,7 +1025,7 @@ sub concurrence {
       @ccommemoentries = ();
     } else {
       $vespera = 3;
-      $dayname[2] = '' unless $dayname[2] =~ /Dominica|Advent|Quadr|Pass/i;
+      $dayname[2] = '' unless $dayname[2] =~ /Dominica|Advent|Quadr|Pass|Asc/i;
 
       if ($sanctoraloffice) {
         $dayname[2] .= "<br/>Vespera de Officio occurente" unless $version =~ /1955|196/;
@@ -1284,7 +1293,9 @@ sub concurrence {
       $cvespera = 1;
       $dayname[2] .= "<br/>Vespera de præcedenti; commemoratio de sequenti";
 
-      if ($cwinner{Rank} =~ /infra octavam/i || $ccommemoentries[0] =~ /infra octavam/i) {
+      if ( $cwinner{Rank} =~ /infra octavam|post Octavam Asc|Vigilia Pent/i
+        || $ccommemoentries[0] =~ /infra octavam|post Octavam Asc|Vigilia Pent/i)
+      {
         my @comentries = ();
         my %cstr = ();
 
@@ -1292,7 +1303,9 @@ sub concurrence {
           if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
           %cstr = %{officestring('Latin', $commemo, 0)};
 
-          unless (!%cstr || ($cstr{Rank} =~ /infra octavam/i && $cstr{Rank} !~ /Dominica/i)) {
+          unless (!%cstr
+            || ($cstr{Rank} =~ /infra octavam|post Octavam Asc|Vigilia Pent/i && $cstr{Rank} !~ /Dominica/i))
+          {
             push(@comentries, $commemo);
           }
         }
@@ -1321,9 +1334,11 @@ sub concurrence {
       if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
       %cstr = %{officestring('Latin', $commemo, 1)};
 
-      if (($commemo =~ /tempora/i || $cstr{Rank} =~ /infra octavam/i) && $cstr{Rank} !~ /Dominica/i) {
-        next;
-      }    # no superseded Tempora or day within octave can have 1st vespers unless a Sunday
+      if (($commemo =~ /tempora/i || $cstr{Rank} =~ /infra octavam|post Octavam Asc|Vigilia Pent/i)
+        && $cstr{Rank} !~ /Dominica/i)
+      {
+        next;    # no superseded Tempora or day within octave can have 1st vespers unless a Sunday
+      }
 
       if (%cstr) {
         my @cr = split(";;", $cstr{Rank});
@@ -1377,9 +1392,15 @@ sub concurrence {
     @comentries = ();
 
     foreach $commemo (@commemoentries) {
-      if ($commemo =~ /tempora/i && $trank[2] != 1.15 && ($trank[2] < 2 || $trank[0] =~ /Rogatio|Quattuor.*Sept/i)) {
-        next;
-      }    # Feria minor and Vigils have no Vespers if superseded
+      if (
+           $commemo =~ /tempora/i
+        && $trank[2] != 1.15
+        && ( $trank[2] < 2
+          || $trank[0] =~ /Rogatio|Quattuor.*Sept/i
+          || ($trank[0] =~ /infra Octavam (.*)/i && $ctrank[0] =~ /in Octava (.*)/i && $1 eq $2))
+      ) {
+        next;    # Feria minor and Vigils and dies infra 8vam preceding Die in 8va have no Vespers if superseded
+      }
       if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
       %cstr = %{officestring('Latin', $commemo, 0)};
 
@@ -1388,7 +1409,7 @@ sub concurrence {
 
         unless (($cr[2] < $ranklimit && !($cr[2] == 1.15 || $cr[2] == 2.1 || $cr[2] == 2.99 || $cr[2] == 3.9))
           || $cstr{Rule} =~ /No secunda vespera/i
-          || $cr[0] =~ /De VII di/i)
+          || $cr[0] =~ /De VII di|Die VII infra/i)
         {
           push(@comentries, $commemo);
         }    # sort out (Semi-)duplex and infra 8vam communis except for Feria major / Dominica major
