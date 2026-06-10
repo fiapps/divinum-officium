@@ -215,6 +215,7 @@ sub occurrence {
         }
       }
     }
+
     $sfile = shift @commemoentries;    # get the filename for the Sanctoral office from the Kalendarium
 
     if ($permTransfer && $permTransfer =~ /Sancti/ && !transfered($permTransfer, $year, $version, $dioecesis)) {
@@ -246,6 +247,22 @@ sub occurrence {
         %saint = ();
         $srank = '';
         @srank = ();
+      }
+
+      # Remove Octaves during Quadragesima
+      if ($srank[0] =~ /in.*octava/i && $tname =~ /Quad\d|Quadp3\-[3-6]/) {
+        $sfile = shift @commemoentries;
+
+        if (checklatinfile(\$sfile)) {
+          $sname = "$sfile.txt";
+          %saint = %{setupstring('Latin', $sname)};
+          $srank = $saint{Rank};
+          @srank = split(";;", $srank);
+        } else {
+          $srank = '';
+          %saint = {};
+          @srank = ();
+        }
       }
 
       # If a Sanctoral feast has been side as per the temporal cycle, e.g. Spineæ Coronæ DNJC
@@ -400,7 +417,6 @@ sub occurrence {
       $sname = '';
       @srank = ();
     }
-
   }
 
   # In Festo Sanctae Mariae Sabbato according to the rubrics.
@@ -899,14 +915,7 @@ sub concurrence {
     $cwrank[2] = $crank = $version =~ /altovadensis/i ? 3.9 : $version =~ /trident/i ? 2.9 : 4.9;
   }
 
-  if ( $cwrank[0] =~ /in.*octava|Vigilia Pent/i
-    && ($wrank[0] =~ /Dominica/i || ($winner =~ /Sancti/ && $wrank !~ /in.*octava/i))
-    && $version =~ /divino/i)
-  {
-
-    # Commemoration of resumed Octave on Sunday from 1st Vespers (Divino only)
-    $octvespera = 1;
-  } elsif ($cwrank[0] =~ /Dominica/i && $trank[0] =~ /in.*octava/i
+  if ($cwrank[0] =~ /Dominica/i && $trank[0] =~ /in.*octava/i
     || ($cwrank[0] =~ /infra.*octav/i && $version =~ /Trident/))
   {
 
@@ -915,6 +924,13 @@ sub concurrence {
 
     # On Saturday in Cist. rite, it's always from 1st Vespers
     $octvespera = 1 if $version =~ /cist/i && $dayofweek == 6;
+  } elsif ($cwrank[0] =~ /in.*octava|Vigilia Pent/i
+    && ($wrank[0] =~ /Dominica/i || ($winner =~ /Sancti/ && $wrank !~ /in.*octava/i))
+    && $version =~ /divino/i)
+  {
+
+    # Commemoration of resumed Octave on Sunday from 1st Vespers (Divino only)
+    $octvespera = 1;
   }
 
   if ($ctrank[0] =~ /(?<!De )Dominica|Trinitatis/i
@@ -1043,7 +1059,7 @@ sub concurrence {
       $cvespera = 0;
       @ccommemoentries = ();
     }
-  } elsif (!$sanctoraloffice && !$csanctoraloffice) {
+  } elsif (!$sanctoraloffice && !$csanctoraloffice && $cwinner !~ /C10/) {
 
     # two "concurrent" Tempora
     if ($crank >= $rank || $tempora{Rule} =~ /No secunda vespera/i) {
