@@ -1620,7 +1620,7 @@ sub precedence {
     : '';
 
   ### Get the relevant Office and Commemorations
-  if ($hora =~ /vespera|completorium/i && $votive !~ /C12/i) {
+  if ($hora =~ /vespera|completorium/i) {
     concurrence($day, $month, $year, $version, $dioecesis);
   } else {
     occurrence($day, $month, $year, $version, $dioecesis, 0);
@@ -1784,8 +1784,8 @@ sub precedence {
           $vtv = 'C12Q';
         }
       }
-      $commemoratio = $commemoratio1 = $cwinner = $scriptura = $commune = '';
-      %commemoratio = %commemoratio1 = %cwinner = %scriptura = %commune = {};
+      $commemoratio = $commemoratio1 = $cwinner = $scriptura;
+      %commemoratio = %commemoratio1 = %cwinner = %scriptura;
       @commemoentries = @ccommemoentries = ();
     } else {
 
@@ -1810,6 +1810,7 @@ sub precedence {
     $winner = subdirname('Commune', $version) . "$vtv.txt";
     %winner = %{setupstring($lang1, $winner)};
     $rule = $winner{Rule};
+    $rule =~ s/no Te Deum/Feria Te Deum/ if $commune =~ /C11/;
 
     if ($winner{Rank}) {
       my @vrank = split(';;', $winner{Rank});
@@ -1823,12 +1824,21 @@ sub precedence {
       %commune = %{setupstring($lang1, $commune)};
     } else {
 
-      if ($version =~ /^Trident|^Divino/i && $vtv !~ /Votiva/) {
+      if ($vtv !~ /Votiva|C10/ && $rank < 3) {
 
-        # Make Votive Matutinum fully Sanctoral (Duplex, 3 Nocturns) irrespective of rank of the day
-        $rule .= "\n9 lectiones";
-        $rank = 4.91;
-        $duplex = 3;
+        if ($version =~ /Trident|Divino/i) {
+
+          # Make Votive Matutinum fully Sanctoral (Duplex majus, 3 Nocturns) irrespective of rank of the day
+          $rule .= "\n" . $version =~ /Monastic/i ? '12' : '9' . ' lectiones';
+          $rank = 4.91;
+          $duplex = 3;
+        } elsif ($version =~ /196/) {
+
+          # Make Votive behave like I. classis such that we still provide access to the full Commune
+          $rank = 6;
+          $duplex = 3;
+          $rule .= "\n" . $version =~ /Monastic/i ? '12' : '9' . ' lectiones';
+        }
       }
 
       # Self-referencing of Commune to safeguard "getproprium" function
