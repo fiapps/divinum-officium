@@ -1,9 +1,8 @@
 [Officium]
-De missa chrismatis
+Messe chrismale
 
 [Rule]
 Gloria
-Credo
 Prefatio=Chrismatis
 celebranda aut de missa chrismatis aut missa in coena Domini
 prelude

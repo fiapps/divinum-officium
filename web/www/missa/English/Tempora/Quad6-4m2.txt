@@ -1,9 +1,8 @@
 [Officium]
-Feria Quinta in Cœna Domini
+Holy Thursday of the Lord’s Supper
 
 [Rule]
 Gloria
-Credo
 Prefatio=Quad5
 Communicantes
 Post Missam

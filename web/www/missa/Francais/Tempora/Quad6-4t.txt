@@ -1,9 +1,8 @@
 [Officium]
-Feria Quinta in Cœna Domini
+Jeudi saint de la Cène du Seigneur
 
 [Rule]
 Gloria
-Credo
 Prefatio=Crucis
 Communicantes
 Post Missam
